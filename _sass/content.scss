@@ -7,9 +7,11 @@
   }
 }
 
+figcaption {
+  font-family: $aside-font-family;
+}
+
 .character-portrait {
   text-align: center;
-  font-size: $small-font-size;
   margin-bottom: 16px;
-  font-family: $header-font-family;
 }
