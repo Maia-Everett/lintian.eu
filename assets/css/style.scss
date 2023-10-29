@@ -63,10 +63,24 @@ body {
   margin-bottom: 10px;
 }
 
-.feed-subscribe .svg-icon {
-  color: $link-base-color;
+.feed-subscribe svg {
+  width: 24px;
+  position: relative;
+  top: 4px;
+  margin-right: 4px;
+  fill: $link-base-color;
 }
 
-.feed-subscribe:hover .svg-icon {
-  color: $link-hover-color;
+.feed-subscribe:hover svg {
+  fill: $link-hover-color;
+}
+
+.copyright {
+  color: darken($text-color, 25%);
+  font-size: $small-font-size;
+}
+
+.copyright a:link, .copyright a:visited {
+  color: $text-color;
+  font-size: $small-font-size;
 }
