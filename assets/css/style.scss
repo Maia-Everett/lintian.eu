@@ -1,3 +1,59 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Base theme customization
+
+$base-font-family: Alegreya, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$header-font-family: Alegreya SC, $base-font-family;
+$base-font-size: 18px;
+$content-width: 900px;
+$on-laptop: 900px;
+
+// Dark mode colors
+
+$dm-brand-color: #8ac1eb;
+$dm-background-color: #1f242A;
+$dm-text-color: #bcc8d3;
+
+// Base theme
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
+
+
+// Custom CSS
+
+body {
+  word-spacing: 0.5px;
+}
+
+.page-content {
+  padding-top: 50px;
+}
+
+.site-title {
+  font-family: Alegreya SC;
+  letter-spacing: 0;
+}
+
+.site-header {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.site-header + .page-content {
+  margin-top: 61px;
+}
+
+.post-title {
+  font-family: Alegreya SC;
+}
+
+.post-title, .post-content h1 {
+//  color: #74c0fc;
+  letter-spacing: 0;
+}

@@ -34,7 +34,7 @@ layout: base
   <nav class="post-categories">
     Posted in:
     {% for category in page.categories %}
-    <a href="{{ site.url }}/path-to-category-index/{{ category | slugify }}/index.html">{{ category }}</a>
+    <a href="{{ site.url }}/category/{{ category | slugify }}/">{{ category }}</a>
     {% endfor %}
   </nav>
   {%- endif -%}
