@@ -1,0 +1,15 @@
+
+@media (min-width: 800px) {
+  .character-portrait {
+    float: right;
+    width: 300px;
+    margin-left: 16px;
+  }
+}
+
+.character-portrait {
+  text-align: center;
+  font-size: $small-font-size;
+  margin-bottom: 16px;
+  font-family: $header-font-family;
+}

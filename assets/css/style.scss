@@ -9,6 +9,7 @@ $header-font-family: Alegreya SC, $base-font-family;
 $base-font-size: 18px;
 $content-width: 900px;
 $on-laptop: 900px;
+$on-medium: 800px;
 
 // Dark mode colors
 
@@ -84,3 +85,5 @@ body {
   color: $text-color;
   font-size: $small-font-size;
 }
+
+@import "content";
