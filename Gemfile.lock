@@ -43,10 +43,6 @@ GEM
     jekyll-category-pages (1.1.2)
       jekyll (~> 4.0)
       jekyll-paginate (~> 1.1, >= 1.0.0)
-    jekyll-favicon (1.1.0)
-      jekyll (>= 3.0, < 5.0)
-      mini_magick (~> 4.11)
-      rexml (~> 3.2, >= 3.2.5)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
@@ -54,6 +50,8 @@ GEM
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -65,7 +63,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_magick (4.12.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.1)
@@ -91,9 +88,9 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.2)
   jekyll-category-pages
-  jekyll-favicon (~> 1.1.0)
   jekyll-feed (~> 0.12)
   jekyll-paginate
+  jekyll-sitemap
   minima!
   tzinfo (>= 1, < 3)
   tzinfo-data
