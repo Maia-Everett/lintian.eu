@@ -41,7 +41,8 @@ body {
 .site-header {
   position: fixed;
   top: 0;
-  width: 100%
+  width: 100%;
+  background-color: $background-color;
 }
 
 /* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
@@ -56,4 +57,16 @@ body {
 .post-title, .post-content h1 {
 //  color: #74c0fc;
   letter-spacing: 0;
+}
+
+.feed-subscribe {
+  margin-bottom: 10px;
+}
+
+.feed-subscribe .svg-icon {
+  color: $link-base-color;
+}
+
+.feed-subscribe:hover .svg-icon {
+  color: $link-hover-color;
 }
