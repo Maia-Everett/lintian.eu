@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: base
 title: Lintian
 permalink: /lintian/
 ---
+
+<aside class="character-portrait">
+<img src="/assets/portraits/lintian.jpg" /><span>Lintian by <a href="https://twitter.com/eepoxdraws">Acrona (Eepox)</a></span></aside>
+<h1 class="post-title">{{ page.title | escape }}</h1>
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
