@@ -6,7 +6,9 @@ permalink: /vielle/
 
 <figure class="character-portrait">
 <img src="/assets/portraits/vielle.jpg" /><figcaption>Vielle by <a href="https://twitter.com/eepoxdraws">Acrona (Eepox)</a></figcaption></figure>
+<header class="post-header">
 <h1 class="post-title">{{ page.title | escape }}</h1>
+</header>
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

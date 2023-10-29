@@ -31,12 +31,16 @@ body {
   word-spacing: 0.5px;
 }
 
+.site-header, .site-footer {
+  font-family: $aside-font-family;
+}
+
 .page-content {
   padding-top: 50px;
 }
 
 .site-title {
-  font-family: Alegreya SC;
+  font-family: $header-font-family;
   letter-spacing: 0;
 }
 
