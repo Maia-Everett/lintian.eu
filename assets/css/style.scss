@@ -56,8 +56,8 @@ body {
   margin-top: 61px;
 }
 
-.post-title {
-  font-family: Alegreya SC;
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
 }
 
 .post-title, .post-content h1 {
