@@ -46,7 +46,7 @@ plugins:
   - jekyll-sitemap
 
 show_excerpts: true
-permalink: /:year/:month/:day/:title:/
+permalink: /:year/:month/:day/:title/
 
 feed:
   categories:

@@ -35,6 +35,7 @@ layout: base
     Posted in:
     {% for category in page.categories %}
     <a href="{{ site.url }}/category/{{ category | slugify }}/">{{ category }}</a>
+    {%- if forloop.last == false %}, {% endif -%}
     {% endfor %}
   </nav>
   {%- endif -%}
