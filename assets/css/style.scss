@@ -69,6 +69,10 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
+.post-content .post-header h1 {
+  margin-top: 0; // fix post header offset on bare pages
+}
+
 .feed-subscribe {
   margin-bottom: 10px;
 }
