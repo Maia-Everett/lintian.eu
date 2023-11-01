@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page-bare
 title: Vielle
 description: Lominsan Elezen adventurer and reporter
 permalink: /vielle/

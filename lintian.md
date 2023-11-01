@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page-bare
 title: Lintian
 description: Night elf historian, linguist, explorer, and mage apprentice
 permalink: /lintian/

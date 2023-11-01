@@ -31,6 +31,10 @@ body {
   word-spacing: 0.5px;
 }
 
+acronym, abbr {
+  cursor: pointer;
+}
+
 .site-header, .site-footer {
   font-family: $aside-font-family;
 }
