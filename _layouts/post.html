@@ -30,15 +30,16 @@ layout: base
     {{ content }}
   </div>
 
-  {%- if page.categories -%}
-  <nav class="post-categories">
-    Posted in:
-    {% for category in page.categories %}
-    <a href="{{ site.url }}/category/{{ category | slugify }}/">{{ category }}</a>
-    {%- if forloop.last == false %}, {% endif -%}
-    {% endfor %}
+  <nav class="post-footer">
+    <div class="post-categories">
+      Posted in:
+      {% for category in page.categories %}
+      <a href="{{ site.url }}/category/{{ category | slugify }}/">{{ category }}</a>
+      {%- if forloop.last == false %}, {% endif -%}
+      {% endfor %}
+    </div>
+    <a class="post-permalink" href="{{ page.url }}">Permalink</a>
   </nav>
-  {%- endif -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

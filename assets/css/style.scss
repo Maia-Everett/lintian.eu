@@ -73,11 +73,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0; // fix post header offset on bare pages
 }
 
-.post-categories {
+.post-footer {
   border-top: 1px solid $border-color-01;
   padding-top: 8px;
-  text-align: right;
   font-family: $aside-font-family;
+  display: flex;
+  justify-content: space-between;
 }
 
 .feed-subscribe {
