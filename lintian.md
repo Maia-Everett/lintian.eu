@@ -52,6 +52,8 @@ At about the same time, however, she visited Dalaran and met Archmage <a href="h
 
 She returned to adventuring five years later, with the discovery of the Dragon Isles, joining ancient kaldorei chronomancer <a href="https://www.argentarchives.org/node/229149">Acheleus Moonblaze</a> and his [Agency](https://www.argentarchives.org/node/235223) on a full-scale Kirin Tor expedition to the Azure Span.
 
+<p class="afternote">More on <a href="https://www.argentarchives.org/freelinking/Lintian">Argent Archives</a></p>
+
 
 ## Behind the scenes
 

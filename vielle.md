@@ -49,6 +49,8 @@ This continued until one summer, during an extended shore leave, she took the ch
 
 For the next two years, Vielle became involved in adventures throughout southern and occasionally northern Eorzea, even at one point sailing to the Far East as part of an [expedition](https://theharborwatch.org/2022/05/09/the-far-east-awaits) to investigate problems with local aetherytes. She remained on amicable terms with her former employers, the Kryst Kontor, eventually starting a reporter career in an upstart newspaper funded by the company, [The Harborwatch](https://theharborwatch.org/).
 
+<p class="afternote">More on <a href="https://chaosarchives.org/Omega/Vielle_Janlenoux">Chaos Archives</a></p>
+
 
 ## Behind the scenes
 
