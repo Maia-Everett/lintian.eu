@@ -1,6 +1,7 @@
 ---
 layout: page
 title: XIVLauncher and Dalamud
+description: A description of XIVLauncher, fan-made FFXIV launcher, and Dalamud, its in-game plugin system
 permalink: /bits/xivlauncher-and-dalamud/
 ---
 
@@ -8,7 +9,7 @@ permalink: /bits/xivlauncher-and-dalamud/
 
 ![XIVLauncher](/assets/screenshots/xivlauncher.png)
 
-However, the biggest advantage of XIVLauncher is its built-in plugin framework, Dalamud. It comes with a ton of plugins that offer quality of life updates, with automated in-game installation and updates. Some [examples](https://goatcorp.github.io/DalamudPlugins/plugins.html) include improved chat, sound and visual notifications, in-game databases, customizing the soundtrack, extra map markers, and more.
+However, the biggest advantage of XIVLauncher is its in-game plugin system, Dalamud. It comes with a ton of plugins that offer quality of life updates, with automated in-game installation and updates. Some [examples](https://goatcorp.github.io/DalamudPlugins/plugins.html) include improved chat, sound and visual notifications, in-game databases, customizing the soundtrack, extra map markers, and more.
 
 Dalamud plugins fill a somewhat analogous role to WoW addons for FFXIV, with the caveat that they are a third-party service not supported by the game developers.
 
