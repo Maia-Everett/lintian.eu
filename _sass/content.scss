@@ -31,3 +31,18 @@ h2 {
   text-align: right;
   font-style: italic;
 }
+
+blockquote {
+  font-family: $aside-font-family;
+  font-style: normal;
+}
+
+ol li:not(:first-child) {
+  margin-top: 5px;
+}
+
+.footnotes {
+  margin-top: 32px;
+  border-top: 1px solid $border-color-01;
+  padding-top: 8px;
+}
