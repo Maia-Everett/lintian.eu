@@ -24,12 +24,28 @@ layout: base
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
+      <nav class="category-navigation">
+        {% if page.previous_in_category != nil %}
+          <a href="{{page.previous_in_category.url}}" class="previous-link">{{ page.previous_in_category.title }}</a>
+        {% endif %}
+        {% if page.next_in_category != nil %}
+          <a href="{{page.next_in_category.url}}" class="next-link">{{ page.next_in_category.title }}</a>
+        {% endif %}
+      </nav>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
+  <nav class="category-navigation">
+    {% if page.previous_in_category != nil %}
+      <a href="{{page.previous_in_category.url}}" class="previous-link">{{ page.previous_in_category.title }}</a>
+    {% endif %}
+    {% if page.next_in_category != nil %}
+      <a href="{{page.next_in_category.url}}" class="next-link">{{ page.next_in_category.title }}</a>
+    {% endif %}
+  </nav>
   <nav class="post-footer">
     <div class="post-categories">
       Posted in:
