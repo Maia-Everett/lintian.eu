@@ -48,7 +48,7 @@ For a strategy game in an original setting where most of the levels are generic 
 
 The human lore section is written, in-universe, by Sir Lothar, Armsman to the Brotherhood of the Horse. It is titled *Chronicles of the War in Azeroth*, describing, year by year, the recent history of the Kingdom of Azeroth.[^kingdom] Yes, you read it right: "Azeroth" here is clearly the name of the [human kingdom](https://warcraft.wiki.gg/wiki/Stormwind_(kingdom)), not the entire world, which is not named.
 
-Warcraft Wiki calls this chronology used in this document "the King's Calendar", but it appears to be their invention, since I can't find it used as an official term in any Blizzard sources. Roleplayers have since adopted it as a kind of consensus headcanon term.
+Warcraft Wiki calls the chronology used in this document "the King's Calendar", but it appears to be their invention, since I can't find it used as an official term in any Blizzard sources. Roleplayers have since adopted it as a kind of consensus headcanon term.
 
 Here's a condensed version.
 
@@ -58,14 +58,14 @@ Here's a condensed version.
 * Year 577: Prince Llane comes of age. Medivh awakens from his sleep, freezing the royal guards in place with a mere wave of his hand, and explains that the clerics watching over him all these years helped him learn to control his powers. He gives King Wrynn a gift: an enchanted hourglass that never empties despite the sand constantly falling. He explains that as long as the glass doesn't empty, the reign of King Wrynn won't fail.
 * Year 583: The lands gradually fall to a strange sickness that puzzles clerics and conjurers alike. As the hourglass empties, Stormwind Keep is suddenly assaulted by unknown creatures --- described as "gross deformities, a cruel reflection of humanity". King Wrynn sends knights to Northshire Abbey, but they're unsuccessful in driving the "foul beasts" to extinction.
 * Year 584: Llane becomes King of Azeroth. The invading creatures are identified as orcs, universally described as "cruel, sadistic and vile", and their base is found in newly-formed swamps to the east.[^swamps]
-* Year 593: The "Orcish hordes"[^hordes] have been driven back into the swamps. A mysterious traveler visits King Llane, identifying herself as Medivh's mother. She explains that she coupled with the King's Conjurer to have a child to whom she could pass her knowledge and power, but other, unforeseen forces intervened, making him "a beacon of mystic power" and driving him insanity. Mother and son battled, leaving both weakened, and at the end, Medivh magically banished her from his domain. The traveler warns Llane that at some point Medivh will have to be dealt with before his power becomes too strong.
+* Year 593: The "Orcish hordes"[^hordes] have been driven back into the swamps. A mysterious traveler visits King Llane, identifying herself as Medivh's mother. She explains that she coupled with the King's Conjurer to have a child to whom she could pass her knowledge and power, but other, unforeseen forces intervened, making him "a beacon of mystic power" and driving him insane. Mother and son battled, leaving both weakened, and at the end, Medivh magically banished her from his domain. The traveler warns Llane that at some point Medivh will have to be dealt with before his power becomes too strong.
 
 The chronicle ends with the mention of [Blackhand](https://warcraft.wiki.gg/wiki/Blackhand), a newly risen War Chief[^warchief] gathering the feuding orcs under one banner. Lothar is seeking recruits for the inevitable war.
 
 <figure class="character-portrait">
 <img src="/assets/wr/church_wc1_manual.png" width="300" /><figcaption>Does this world have crucifixion too? Did someone die on a cross? So many questions!</figcaption></figure>
 
-Next come the unit description: the peasant, footman, archer[^archer], and catapult. The black-and-white art is pretty generic faux-medieval European fantasy; nothing about it screams "Warcraft". Then come the caster units: the cleric and the conjurer. The latter is a pretty standard elemental caster, the spells being Elemental Blast, Summon Elemental, Rain of Fire, and... Summon Scorpions? Huh. One of these things is not like the others. Cleric spells, meanwhile, have some actually interesting lore!
+Next come the unit descriptions: the peasant, footman, archer[^archer], knight, and catapult. The black-and-white art is pretty generic faux-medieval European fantasy; nothing about it screams "Warcraft". Then come the caster units: the cleric and the conjurer. The latter is a pretty standard elemental mage, the spells being Elemental Blast, Summon Elemental, Rain of Fire, and... Summon Scorpions? Huh. One of these things is not like the others. Cleric spells, meanwhile, have some actually interesting lore!
 
 * The cleric's Healing spell is said to work by channeling the spirit of humanity. The pain and injury of the patient is divined among all humankind, making it easier to bear --- described as "carrying the cross of another".
 * The cleric also has Holy Lance, a damaging spell: "As the archangels took up swords of light to defend the heavens, so must we take up holy arms to defend our lands." Yes, the imagery here is pseudo-Christian through and through.
@@ -82,7 +82,7 @@ We can only hope it will be explained in future installments what its significan
 ![WC1 manual human settlement](/assets/wr/tristram.png)
 {% endfigure %}
 
-The buildings are unsurprising. There's a bit of interesting lore for the buildings used to recruit the caster units -- the Church and the Tower.
+The buildings are unsurprising. There's a bit of interesting lore for the buildings used to recruit the caster units --- the Church and the Tower.
 
 * A church must be built entirely of a rare wood known as Holyoak.
 * Orcs are described as "hellspawned".
@@ -104,11 +104,11 @@ Let's look at the other side of the conflict.
 
 The in-universe author of the orc manual is credited as [Garona](https://warcraft.wiki.gg/wiki/Garona) of the [Shadow Council](https://warcraft.wiki.gg/wiki/Shadow_Council), a half-orc half-human.[^garona]
 
-This is curious because the manual doesn't ever mention what the Shadow Council *is*, or who else is on it. In fact, compared to the human manual, the orc manual is downright scarce on names. In fact, the only named characters are Garona herself and War Chief Blackhand. We only get passing mentions of groups or organizations, like the Warlocks and the Necromancers. The overall worldbuilding is vaguer overall.
+This is curious because the manual doesn't ever mention what the Shadow Council *is*, or who else is on it. In fact, compared to the human manual, the orc manual is downright scarce on individual characters: the only ones mentioned are Garona herself and War Chief Blackhand. We only get passing mentions of groups or organizations, like the Warlocks and the Necromancers. The worldbuilding is vaguer overall.
 
 So what do we learn? Well, Garona's document begins with this foreword:
 
-{% figure [caption:"How fortunate that this barbarian society has an enlightened half-human capable of correct grammar."] %}
+{% figure [caption:"How fortunate that this barbarian society has an enlightened half-human with knowledge of correct grammar."] %}
 ![The Destiny of The Orcish Hordes](/assets/wr/thok_shiny_holes.png)
 {% endfigure %}
 
@@ -120,7 +120,7 @@ Here's the backstory, as told by Garona, condensed. Unlike the human chronicle, 
 
 <figure class="character-portrait">
 <img src="/assets/wr/garona_wc1_manual.png" width="300" /><figcaption>Most of the art is nice, if generic compared to today's Warcraft aesthetics. And then there's... this.</figcaption></figure>
-
+9
 
 * The orcs were conquerors on their unnamed [home world](https://warcraft.wiki.gg/wiki/Draenor). Over centuries, their armies subjugated and enslaved their enemies, aided by their Warlocks and Necromancers, and wherever they went, the land itself withered and died. (This is notable because it establishes that the orcs had *multiple* enemies on their home world. The ogres were one of these enemies, as described in their entry, but no others are introduced yet.)
 * After conquering everyone else, the orcish clans, still driven by their desire to expand, turned against each other.
@@ -134,6 +134,13 @@ taking grok to the slaughter"[^grok]) and ate their livestock, and what they cou
 Like with the human manual, the various buildings and units are described next. Peon, grunt, spearman (who throws spears), raider, and catapult, all identical in stats to the corresponding human units; no big surprises here.
 
 Notably, the orc caster units are the necrolyte, described as having "power over all things dark and evil", and the warlock, commanding "the energies of the underworld" and "the very essence of evil". That's some [card-carrying villainy](https://tvtropes.org/pmwiki/pmwiki.php/Main/CardCarryingVillain) out there. The neutral creatures are described as well, and we learn the origin of the ogres (they came from the orcs' world through the portal, and hate both races) and the daemons (they're hellspawn "forged in the fires of Hades", summoned by warlocks).
+
+Interesting lore tidbits:
+
+* Warlocks are followers of the underworld, which seems to be synonymous with Hades.
+* The necrolyte Raise Dead spell works by binding the bodies of the dead to Hell, creating soulless armies.
+* "When an Orc dies, his soul descends into Hades for judgment, and his essence is divided into good and evil." Implying that orcs are not *wholly* evil!
+
 
 So to summarize: the human kingdom in this world has generic medieval European aesthetics and a Christian-coded human religion, worshiping God, complete with crosses. There's also a Hell, clearly inspired by pop culture depictions also based on Christianity. We don't know if Hell, Hades and the underworld are the same thing, but it's probably a safe bet to assume that they're intended to be synonyms.
 
@@ -159,12 +166,12 @@ I'll postpone my overall thoughts on Warcraft 1 and its role for the franchise u
 [^lothar]: Just Lothar for now. His first name, Anduin, after the river from *The Lord of the Rings*, won't be revealed until Warcraft 2, consistent with the setting evolving from "generic quasi-medieval Europe" into more Tolkien-inspired fantasy.
 [^kingdom]: Known as the Kingdom of Stormwind in modern lore.
 [^wrynn]: "Wrynn" is clearly intended to be a given name here, not a family name. The name of Llane's father, known in modern lore as [Barathen Wrynn](https://warcraft.wiki.gg/wiki/Barathen_Wrynn), has a complicated history. We'll talk about it when we get to the installments that retconned it --- twice.
-[^chronology]: In the modern chronology, Medivh was born in year 45 before the Dark Portal, but I don't know if it's right to say that the difference between the calendars is 514 years (559 &minus; 45), since practically *everything* about the Warcraft 1 manual has since been retconned. To my knowledge, no later source establishes what event served to establish the initial year of the Warcraft 1 calendar.
+[^chronology]: In the modern chronology, Medivh was born in year 45 before the Dark Portal, but I don't know if it's right to say that the difference between the calendars is 604 years (559 + 45), since practically *everything* about the Warcraft 1 manual has since been retconned. To my knowledge, no later source establishes what event served to establish the initial year of the Warcraft 1 calendar. Also, in this calendar, orcs appear at Stormwind Keep in year 583, so clearly the Dark Portal was already operational by then. The chronologies don't match, period.
 [^swamps]: The implication here is that the swamps formed *after* the orcs arrived, consistent with the orc manual claiming that their mere presence defiles the land around them.
 [^hordes]: There's no mention of a singular capital-H Horde.
 [^archer]: Human. Elves of any kind aren't part of Warcraft lore yet.
 [^diablo]: Which also hasn't been invented yet. Diablo 1 won't come out until 1997.
-[^garona]: She's unambiguously identified as half-human in the manual. Of course, it makes little sense even here because orcs have only been to the human world for fifteen hears when the story begins, not enough time for an adult half-human half-orc to exist.
+[^garona]: She's unambiguously identified as half-human in the manual. Of course, it makes little sense even here because orcs have only been to the human world for fifteen years when the story begins, not enough time for an adult half-human half-orc to exist.
 [^portal]: It's not named. Also it's described very differently from the Dark Portal first seen in Warcraft 2.
 [^pink]: This is 1994. Humans are white unless noted otherwise. Humans from European-coded societies are *definitely* white.
 [^warlocks]: The type of magic wielded by warlocks is, of course, unnamed. "Arcane" seems to be a catch-all term for magic in general, not a specific type of magic as it became later.
