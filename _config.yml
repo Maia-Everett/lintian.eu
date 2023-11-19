@@ -26,11 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lintian.eu" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
-- about.md
-- lintian.md
-- vielle.md
-- projects.md
-- warcraft-retrospective.md
+- pages/about.md
+- pages/lintian.md
+- pages/vielle.md
+- pages/projects.md
+- pages/warcraft-retrospective.md
 
 # Build settings
 
