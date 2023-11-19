@@ -120,7 +120,6 @@ Here's the backstory, as told by Garona, condensed. Unlike the human chronicle, 
 
 <figure class="character-portrait">
 <img src="/assets/wr/garona_wc1_manual.png" width="300" /><figcaption>Most of the art is nice, if generic compared to today's Warcraft aesthetics. And then there's... this.</figcaption></figure>
-9
 
 * The orcs were conquerors on their unnamed [home world](https://warcraft.wiki.gg/wiki/Draenor). Over centuries, their armies subjugated and enslaved their enemies, aided by their Warlocks and Necromancers, and wherever they went, the land itself withered and died. (This is notable because it establishes that the orcs had *multiple* enemies on their home world. The ogres were one of these enemies, as described in their entry, but no others are introduced yet.)
 * After conquering everyone else, the orcish clans, still driven by their desire to expand, turned against each other.
@@ -142,7 +141,7 @@ Interesting lore tidbits:
 * "When an Orc dies, his soul descends into Hades for judgment, and his essence is divided into good and evil." Implying that orcs are not *wholly* evil!
 
 
-So to summarize: the human kingdom in this world has generic medieval European aesthetics and a Christian-coded human religion, worshiping God, complete with crosses. There's also a Hell, clearly inspired by pop culture depictions also based on Christianity. We don't know if Hell, Hades and the underworld are the same thing, but it's probably a safe bet to assume that they're intended to be synonyms.
+So to summarize: the human kingdom in this world has generic medieval European aesthetics and a Christian-coded human religion, worshiping God, complete with crosses. There's also a Hell, clearly inspired by pop culture depictions also based on Christianity. It seems that "Hell", "Hades" and "the underworld" are different names for the same place.
 
 This is not modern Warcraft. Not yet. This is [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game))[^diablo] with orcs.
 
