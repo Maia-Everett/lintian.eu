@@ -79,13 +79,13 @@ Nonetheless, there are some interesting elements here that didn't return for lat
 
 ### The Gameplay
 
-{% figure [caption:"Zug-zug!"] %}
+{% figure [caption:"This, of course, cleverly foreshadows the eventual conflict with the night elves."] %}
 ![WC1 interface](/assets/wr/wc1_interface.png)
 {% endfigure %}
 
 First, I should give credit where credit is due. The animators did an impressive job for what they had to work with.
 
-The screenshots in this post are made at a resolution of 640x400, but Warcraft 1 was designed to run at resolutions as low as 320x200. Therefore, on the screenshots, every apparent square "pixel" is actually a block of 2x2 pixels. Under these constraints, the artists succeeded in making the units and buildings as distinctive as they could. The bright green skin of the orc units immediately distinguishes them from both the environment and the human units. You never get confused which team is which.
+The screenshots in this post are made at a resolution of 640&times;400, but Warcraft 1 was designed to run at resolutions as low as 320&times;200. Therefore, on the screenshots, every apparent square "pixel" is actually a block of 2&times;2 pixels. Under these constraints, the artists succeeded in making the units and buildings as distinctive as they could. The bright green skin of the orc units immediately distinguishes them from both the environment and the human units. You never get confused which team is which.
 
 Admittedly, I was at first confused *between* the units. Is this particular blob of green pixels a peon? A grunt? A spearman? You learn soon enough to distinguish them, but it's confusing at first.
 
@@ -136,7 +136,7 @@ The story is told entirely through the briefings at the beginning of each missio
 
     There's some of that Warcraft 1 jank here, too. In addition to Garona, there are peons imprisoned across the map. You can rescue them, which is not visually indicated in any way, except that when you approach them, they get a scouting radius as they become your units without any change to their sprites. Of course they're useless in this mission, except as a source of bodies for your necrolytes to raise, you dirty kinslayer. (Then again, kinslaying is perfectly par the course for orcs as they're depicted in this particular game.)
 
-    Finally, Garona herself is found in the farthest away room. When your units approach her, she comes under your control --- again, without any visual indication --- and the mission ends when you bring her to the Hostage Rescue Zone&trade; near your starting position, indicated by arrows on the ground. Even more weirdly, despite having a unique sprite and portrait, Garona uses generic male orc sound lines.
+    Finally, Garona herself is found in the farthest away room. When your units approach her, she comes under your control --- again, without any visual indication --- and the mission ends when you bring her to the [Hostage Rescue Zone&trade;](https://en.wikipedia.org/wiki/Counter-Strike) near your starting position, indicated by arrows on the ground. Even more weirdly, despite having a unique sprite and portrait, Garona uses generic male orc voice lines.
 
 {% figure [caption:"Launcher of a thousand retcons."] %}
 ![Garona](/assets/wr/wc1_garona.png)
