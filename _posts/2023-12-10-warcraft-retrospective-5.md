@@ -8,7 +8,7 @@ Last time, we ended on Warcraft 1's multiple-choice finale. Either the orcs conq
 
 This presented a problem for any future storytellers. When a game has multiple mutually exclusive endings, the writers of its sequels typically [declare a single ending canon](https://tvtropes.org/pmwiki/pmwiki.php/Main/CuttingOffTheBranches) and proceed from there. And usually, [they choose the ending where the good guys win](https://tvtropes.org/pmwiki/pmwiki.php/Main/NoCanonForTheWicked).
 
-In Star Wars, there are games where the player can make the protagonist fall to the dark side and possibly even take over the galaxy, such as [Knights of the Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_(video_game)) and [Jedi Knight: Dark Forces 2](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Dark_Forces_II). But other Star Wars stories that follow the events of these games make these endings non-canon. The first expansion to [Neverwinter Nights 2](https://en.wikipedia.org/wiki/Neverwinter_Nights_2), Mask of the Betrayer, assumes that the player defeated the big bad instead of joining him. Sure, these are all RPGs or shooters, but there are strategy examples as well. For example, [Heroes of Might and Magic 2](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) tells the story of a war for succession between two heirs to the throne, one good and the other evil, and [the sequel](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III) reveals that the good brother won.[^good_endings]
+In Star Wars, there are games where the player can make the protagonist fall to the dark side and possibly even take over the galaxy, such as [Knights of the Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_(video_game)) and [Jedi Knight: Dark Forces 2](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Dark_Forces_II). But other Star Wars stories that follow the events of these games make these endings non-canon. The first expansion to [Neverwinter Nights 2](https://en.wikipedia.org/wiki/Neverwinter_Nights_2), Mask of the Betrayer, assumes that the player defeated the big bad instead of joining him. Sure, these are all RPGs or shooters, but there are strategy examples as well. For example, [Heroes of Might and Magic 2](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) tells the story of a war for succession between two heirs to the throne, one good and the other evil, and [the sequel](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III) continues from the victory of the good brother.[^good_endings]
 
 The writers of Warcraft 2 did something that was not entirely unprecedented, but still very rare to see in video games. They continued the story from the ending where the bad guys won.[^bad_guys]
 
@@ -125,16 +125,80 @@ This is *big*. We've jumped from a pseudo-medieval setting into one where sword 
 
 ## The Orc Section
 
-The narration here is done by Gul'dan, Chieftain of the Stormreaver Clan and Initiate of the Seventh Circle of the Shadow Council.
+{% figure [caption:"&ldquo;Because I'm Batman.&rdquo;"] %}
+<img src="/assets/wr/wc2_kiljaeden.png" width="500" />
+{% endfigure %}
+
+The narration here is done by [Gul'dan](https://warcraft.wiki.gg/wiki/Gul'dan), Chieftain of the Stormreaver Clan and Initiate of the Seventh Circle of the Shadow Council. As expected, he's very haughty and boastful throughout the story, which provides additional context for the orc invasion back in Warcraft 1.
+
+The gist of it is thus. The orcs were always a violent race reveling in conquest. They conquered the whole world and exterminated the draenei, whom they regarded as a weak race, and then fell into apathy and infighting as there was nothing more left to conquer. Gul'dan himself was a shaman[^shaman] student of several teachers, including Ner'zhul, and his talent for channeling the dark powers of the Twisting Nether got him the respect of his peers. Ever hungering to unlock the secrets of the cosmos, Gul'dan made contact with the daemon [Kil'jaeden](https://warcraft.wiki.gg/wiki/Kil'jaeden), who went to tutor him personally.
+
+The orcish religion worships their ancestors. Reaching out into the [Twisting Nether](https://warcraft.wiki.gg/wiki/Twisting_Nether) into his mind, Gul'dan discovered that the spirits of the ancestors do indeed linger on and watch over the living "in hope of finding some means of escape from their lifeless torment". He sought a way to control them, and thus began his foray into the art of necromancy.
+
+If this was modern WoW, I would balk at the workings of the afterlife being revealed so casually. However, this story is told to us from the point of view of Gul'dan, a megalomaniac obsessed with power and a *very* unreliable narrator. If later writers wanted, they could easily say he was mistaken or lying, perhaps to justify his own ambitions to himself and others. Perhaps the spirits of the ancestors were in fact at peace, but he called it torment so he could justify binding them to walking corpses as a way of "freeing" them from this torment. The point is that the device of the unreliable narrator is clearly telegraphed here, instead of being contrived by the writers retroactively.
+
+At any rate, upon his discovery, Gul'dan gathered other warlocks and taught them necromantic rituals. It's important to note that these other warlocks already existed; Gul'dan wasn't the first orc warlock, but he *was* their first necromancer. Together, the warlocks formed the [Shadow Council](https://warcraft.wiki.gg/wiki/Shadow_Council), which secretly took control of the Horde through subterfuge and mind control, and began training the necrolytes.
+
+However, without new lands to conquer, the Horde was still volatile and in danger of turning on itself. It was at that time that Gul'dan's warlocks, but not Gul'dan himself, began to feel a certain *presence* in their dreams. Gul'dan questioned Kil'jaeden about this force, but to his surprise, the daemon reacted when fear. When the presence contacted Gul'dan himself, it revealed itself as Medivh, a human sorcerer showing him a vision of a lush, peaceful world, and an ancient power buried deep beneath the ocean.
+
+Gul'dan shared his vision with the Shadow Council, and together they worked to open a rift to this new world. The first attempt to assault Stormwind was led by Cho'gall and Kilrogg; it ended in disaster, with the orcs fleeing from the kingdom's knights, and the two leaders blaming each other for the failure. Then, Gul'dan and the Shadow Council installed Blackhand as a War Chief the orcs would respect.
+
+Medivh appeared in a vision again, promising to reveal the location of the Tomb of Sargeras to Gul'dan in exchange for the orcs destroying his enemies --- the Kingdom of Azeroth. Gul'dan knew Sargeras was the daemon lord who taught Kil'jaeden himself. The regrouped Horde under Blackhand had more success, with Garona assassinating King Llane, but before it could triumph, Gul'dan sensed that Medivh was assaulted in his tower and mortally wounded. Gul'dan attempted to extract the knowledge of the Tomb from the dying sorcerer by force, but the psychic backlash flung him into a coma that lasted a few weeks.
+
+Gul'dan awoke to a completely changed Horde. In his absence, [Orgrim Doomhammer](https://warcraft.wiki.gg/wiki/Orgrim_Doomhammer) --- retroactively revealed to be the orc player character of Warcraft 1 --- overthrew Blackhand as War Chief, captured and razed Stormwind Keep, and tortured Garona to reveal the existence and location of the Shadow Council, which Orgrim than executed.
+
+A weakened Gul'dan was brought to the new War Chief and, being in no position to resist, pretended to submit to him. To prove his feigned loyalty, he sacrificed all his necrolytes to bind the spirits of the Shadow Council into the corpses of the slain knights of Azeroth, raising them as death knights. He also deceived Orgrim into believing that Blackhand's sons Rend and Maim were plotting against him, prompting him to disband the raiders.
+
+Now, Gul'dan is biding his time. He has formed a clan of his own, the Stormreaver clan, and is waiting for the moment when he can discover the Tomb of Sargeras and strike back against Doomhammer.
 
 
+### The Orcish Clans and Their Allies
 
+There's not much I can say about the orcish clans at this point, as their identities are barely defined. There are seven of them, the same as the number of the human kingdoms, and they use the same seven colors.
+
+* The [Blackrock clan](https://warcraft.wiki.gg/wiki/Blackrock_clan) (red), the military backbone of the Horde. Led by Orgrim Doomhammer, who the manual notes is also known as "the Backstabber".
+* The [Stormreaver clan](https://warcraft.wiki.gg/wiki/Stormreaver_clan) (blue), loyalists led by Gul'dan.
+* The [Twilight's Hammer clan](https://warcraft.wiki.gg/wiki/Twilight%27s_Hammer) (violet), loyal less to the Horde itself and more to the idea of universal annihilation. Led by Cho'gall the ogre-mage.
+* The [Black Tooth Grin clan](https://warcraft.wiki.gg/wiki/Black_Tooth_Grin_clan) (black), charged with guarding the Portal and named for the practice of knocking out one tooth as a sign of loyalty. Led by Rend and Maim, the sons of Blackhand, who may yet get an opportunity to avenge their father.
+* The [Bleeding Hollow clan](https://warcraft.wiki.gg/wiki/Bleeding_Hollow_clan) (green), in charge of the occupation of Khaz Modan. Led by Kilrogg Deadeye.
+* The [Dragonmaw clan](https://warcraft.wiki.gg/wiki/Dragonmaw_clan) (white), who used shamanistic magiks (sic!) to bind the Dragon Queen [Alexstrasza](https://warcraft.wiki.gg/wiki/Alexstrasza)[^alexstrasza] to their service, forcing her to lay eggs for the Horde's use. Led by Zuluhed the Whacked.
+* The [Burning Blade clan](https://warcraft.wiki.gg/wiki/Burning_Blade_clan) (orange), less of a clan and more of a force of unstoppable rage that attacks even fellow orcs. No leader.
+
+This is pretty basic. It won't be until later lore that the clans will be fleshed out with customs of their own.
+
+The orcs have also allied with the trolls, ogres (from whom Gul'dan created the ogre-magi), and goblin alchemists, who provide the Horde with zeppelins and sapper teams armed with explosives. As before, everything but the spells has exactly the same stats as the corresponding Alliance units and buildings. There is some interesting lore to be found here:
+
+* The counterpart to the human Farm is the Pig Farm, where captured wild boars are bred for food.
+* Dragons are native to northern Azeroth (which, at this point, still refers to the southern human kingdom that we know today as the Kingdom of Stormwind).
+* Troll lumber mills are created from hollowed-out ironwood trees. The trolls have invented their own unique method of harvesting lumber: "By treating a group of trees with a volatile alchemical solvent, the Trolls can deaden and weaken large sections of wood. Though it is extremely hazardous to Peon and earth alike, this site makes the process of cutting lumber more efficient."
+* The Dragon Roost is where Alexstrasza is kept in chains by the Dragonmaw clan. It's not explained how you can build more than one.
+* The Horde counterpart to the gnomish submarine is not, as it could be expected, a goblin submarine. Instead, they use mind-controlled giant sea turtles as improvised submersible ships crewed by goblins.
+* Baseline ogres are stupid and unwieldy because of the conflict between their two heads, but ogre-magi combine the brute strength of ogres with intelligence and cunning, which is what makes them so dangerous.
+
+
+## Some Thoughts
+
+*This.* This is what good worldbuilding looks like.
+
+The writer of the Warcraft 2 manual successfully takes one of the sequel hooks left by Warcraft 1 --- the orcs have taken over Stormwind and are looking for new lands to conquer --- and its unresolved mysteries, namely Medivh and the Shadow Council. It then *massively* expands the scope of the world, more so than perhaps any other installment in the Warcraft franchise save Warcraft 3, and recontextualizes the entire conflict of the first game in a way that makes sense in hindsight.
+
+The reason I have devoted so much attention to the Warcraft 2 manual is that many lore concepts that appear in later games and stories take their origin here. Gul'dan, Kil'jaeden, Sargeras, the Twisting Nether, the Guardians of Tirisfal, the Seven Kingdoms, Quel'Thalas, Ironforge, and, of course, the very idea of the Alliance and the Horde instead of just humans and orcs --- though, of course, it's a very different Alliance and a very different Horde than the ones we see in modern Warcraft.
+
+We've gone from orcs from a nondescript world invading a nondescript faux-medieval human kingdom to a "beta" version of what we now know as the [Eastern Kingdoms](http://warcraft.wiki.gg/wiki/Eastern_Kingdoms). Furthermore, the entire tone of the setting is changed. Instead of demonic orcs wielding the power of Hell versus God-worshiping humans in a proto-Diablo-esque world, we now have something aesthetically closer to Dungeons & Dragons.[^dnd] The Alliance consists of traditional D&D "protagonist" races: humans, elves, dwarves, and gnomes. The Horde, meanwhile, is a coalition of traditional D&D "monster" races: orcs, trolls, ogres, and goblins. There's no moral ambiguity here (yet); the Alliance is clearly intended to be the good guys here, and the Horde the bad guys. This will later change.
+
+But what's even more fascinating about the Warcraft 2 manual is how it hints at a larger world. The Great Dark Beyond is filled with countless worlds, as well as cosmic mysteries beyond current mortal comprehension. The daemons are *out there* somewhere, and seem to have a teacher-student hierarchy. This world has a past; though it's only hinted at in broad strokes, we know that there is a history of past grudges between the humans, dwarves and elves, as well as Guardian Aegwyn's defeat of Sargeras. Finally, the orcs had been conquering their world for centuries, and we don't yet know anything about their old enemies, the draenei. This, again, reminds me of the original *Star Wars* movie and the way it hinted at a much larger galaxy than the few planets we saw on screen.
+
+We've got answers to mysteries, but we've got new mysteries in their stead. *As it should be.*
+
+If I were to nitpick, I think there are some obvious cases of gameplay-driven lore here. The manual writer took too much time explaining what didn't really need explaining, like the absence of clerics, warlocks, necrolytes, and raiders compared to Warcraft 1. I don't think most players would blink twice if the units were simply missing in this game with no explanation. The seven kingdoms and the seven orcish clans exist pretty much to give some flavor to your multi-colored allies and opponents in this game, though some do get involved in the plot, and they turned out to be good additions to the lore that have since been greatly fleshed out and gained distinct identities in their own right.
+
+Next up: the human campaign!
 
 
 
 [^good_endings]: There are, of course, exceptions; of particular interest is the approach of [XCOM 2](https://en.wikipedia.org/wiki/XCOM_2), which, not wanting to invalidate the triumphant ending of the first game, continues the story from the *game over state*, where the aliens won and took over the world.
 
-[^bad_guys]: Recall that in the story of Warcraft 1, the orcs were basically a living demonic plague. You could, if you wanted, make a subversive story about how they were unfortunate victims of their nature, 
+[^bad_guys]: Recall that in the story of Warcraft 1, the orcs were basically a living demonic plague. You could, if you wanted, make a subversive story about how they were unfortunate victims of their nature, but this is early Warcraft, which is *very* black and white. The orcs were very clearly intended to be the villains of the first game.
 
 [^first_ones]: For example, everything involving the First Ones and Zereths.
 
@@ -160,3 +224,8 @@ The narration here is done by Gul'dan, Chieftain of the Stormreaver Clan and Ini
 
 [^northeron]: Not much is known about Northeron except that it's one of the dwarven lands, but this implies it's next to the elven lands. It was probably meant to be **North**ern Lorda**eron** before the Cataclysm developers said it was part of the Twilight Highlands. This is supported by [this early WoW map sketch](https://warcraft.wiki.gg/wiki/File:Eastern_Kingdoms_concept_sketch.jpg).
 
+[^shaman]: This is the first reference to the orcs practicing shamanism.
+
+[^alexstrasza]: Her name is spelled as "Alexstraza" twice and as "Alexstrasza" twice in the Tides of Darkness manual, making it unclear which version is correct. The Beyond the Dark Portal manual uses only the latter spelling.
+
+[^dnd]: With caveats that deserve a separate post. I will get to that before we move to Warcraft 3.
