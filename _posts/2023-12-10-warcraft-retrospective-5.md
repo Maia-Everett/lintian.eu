@@ -37,7 +37,7 @@ And to do that, they needed to expand the world.
 
 This series will turn a lot more critical later on as we move to World of Warcraft and its expansions. Generally I will aim to avoid naming and shaming. While I have my own theories on who wrote what[^first_ones], we don't truly know the full story of Blizzard's creative decisions, and likely never will. The purpose of this series is to examine the franchise as a whole, not to cast blame. But [Chris Metzen](https://warcraft.wiki.gg/wiki/Chris_Metzen)'s influence on Warcraft cannot be overstated.
 
-In Warcraft 1, Metzen was just one of several artists. He joined the project late in development, and we find his name near the bottom of the credits, as one of the manual illustrators. At that time, he was *nineteen years old*, and he had a knack for coming up with interesting crazy ideas and pitching them to the rest of the team. This caught the interest of the higher-ups, who, to Metzen's surprise, just outright [put him in charge](https://warcraft.wiki.gg/wiki/Warcraft_II_credits) of Warcraft 2 story and design.
+In Warcraft 1, Metzen was just one of several artists. He joined the project late in development, and we find his name near the bottom of the credits, as one of the manual illustrators. At that time, he was twenty years old, and he had a knack for coming up with interesting crazy ideas and pitching them to the rest of the team. This caught the interest of the higher-ups, who, to Metzen's surprise, just outright [put him in charge](https://warcraft.wiki.gg/wiki/Warcraft_II_credits) of Warcraft 2 story and design.
 
 Opinions on Metzen as a writer are polarized. Personally, I think different writers have different strengths and weaknesses, and the successful ones leverage their strengths while avoiding drawing attention to their weaknesses. Furthermore, when multiple writers work as a team, there can be division of labor: one writer can pitch novel, big-picture, attention-grabbing ideas, and another can refine them with deep dialogue and descriptions with attention to detail.
 
@@ -89,7 +89,7 @@ This is a *huge* expansion on Warcraft 1 lore. We get the names of both Medivh's
 
 However, unprepared to deal with his PHENOMENAL COSMIC POWER, Medivh fell into a coma, in which he lay for six years. During that time, his soul was forever twisted by the evil of the Twisting Nether. Hungering for more power, he turned to necromancy, struck deals with daemons, and eventually, discovering the orcs and their homeworld, struck the aforementioned deal with Gul'dan. We get a reason why Medivh wanted the Kingdom of Azeroth gone: it was the only thing that threatened his rise to power.
 
-Medivh opened "the first of his unnatural Portals" (implying there were more?!) to let the orcs into Azeroth. What follows is a brief recap of the events of Warcraft 1. Medivh is killed, but the orcs are nonetheless victorious, sacking Stormwind Keep and killing King Llane, but Lothar leads the survivors across the sea, setting the stage for...
+Medivh opened "the first of his unnatural Portals" (implying there were more?!) to let the orcs into Azeroth. What follows is a brief recap of the events of Warcraft 1. Medivh was killed, but the orcs were nonetheless victorious, sacking Stormwind Keep and killing King Llane. However, Lothar led the survivors across the sea, setting the stage for...
 
 
 ### The Alliance of Lordaeron
@@ -98,7 +98,7 @@ Medivh opened "the first of his unnatural Portals" (implying there were more?!) 
 ![WC2 Alliance council](/assets/wr/wc2_alliance_council.jpg)
 {% endfigure %}
 
-Alarmed by the orc threat, King Terenas of Lordaeron gathers "a council of delegates from each of the seven kingdoms under his rule". It's strange that all seven kingdoms are described as being under his rule when it's immediately contradicted by the following text. Even the dwarves of Khaz Modan and the elves of Quel'thalas *[sic]* came in, with the three races looking past their old grudges.
+Alarmed by the orc threat, King Terenas of Lordaeron gathered "a council of delegates from each of the seven kingdoms under his rule". It's strange that all seven kingdoms are described as being under his rule when it's immediately contradicted by the following text. Even the dwarves of Khaz Modan and the elves of Quel'thalas *[sic]* came in, with the three races looking past their old grudges.
 
 This is big. We learn that this world is inhabited by more races than just humans, and that there are many kingdoms across it. This immediately changes the setting from a proto-Diablo to something more akin to Dungeons & Dragons.
 
@@ -110,7 +110,7 @@ Meet the seven kingdoms![^seven_kingdoms]
 * [Kul Tiras](https://warcraft.wiki.gg/wiki/Kul_Tiras_(kingdom)). Green, led by Lord Admiral Daelin Proudmoore. Their defining trait is their navy, both merchant ships and warships.
 * [Gilneas](https://warcraft.wiki.gg/wiki/Gilneas_(kingdom)). Black, led by Genn Greymane.[^greymane] Their defining trait is not joining the Alliance.
 * [Dalaran](https://warcraft.wiki.gg/wiki/Dalaran_(kingdom)). Violet, led by the Kirin Tor (no named characters). Their defining trait is magic power and knowledge.
-* [Alterac](https://warcraft.wiki.gg/wiki/Alterac_(kingdom)). Orange, led by Lord Perenolde. As the weakest of the human kingdom, their defining trait is fear of being steamrolled by the Horde.
+* [Alterac](https://warcraft.wiki.gg/wiki/Alterac_(kingdom)). Orange, led by Lord Perenolde. As the weakest of the human kingdoms, their defining trait is fear of being steamrolled by the Horde.
 
 And lifted straight from D&D, you get your typical forest-dwelling elves, subterranean dwarves, and steampunk inventor gnomes. None of them have any named characters.
 
@@ -139,13 +139,13 @@ If this was modern WoW, I would balk at the workings of the afterlife being reve
 
 At any rate, upon his discovery, Gul'dan gathered other warlocks and taught them necromantic rituals. It's important to note that these other warlocks already existed; Gul'dan wasn't the first orc warlock, but he *was* their first necromancer. Together, the warlocks formed the [Shadow Council](https://warcraft.wiki.gg/wiki/Shadow_Council), which secretly took control of the Horde through subterfuge and mind control, and began training the necrolytes.
 
-However, without new lands to conquer, the Horde was still volatile and in danger of turning on itself. It was at that time that Gul'dan's warlocks, but not Gul'dan himself, began to feel a certain *presence* in their dreams. Gul'dan questioned Kil'jaeden about this force, but to his surprise, the daemon reacted when fear. When the presence contacted Gul'dan himself, it revealed itself as Medivh, a human sorcerer showing him a vision of a lush, peaceful world, and an ancient power buried deep beneath the ocean.
+However, without new lands to conquer, the Horde was still volatile and in danger of turning on itself. It was at that time that Gul'dan's warlocks, but not Gul'dan himself, began to feel a certain *presence* in their dreams. Gul'dan questioned Kil'jaeden about this force, but to his surprise, the daemon reacted with fear. When the presence contacted Gul'dan himself, it revealed itself as Medivh, a human sorcerer showing him a vision of a lush, peaceful world, and an ancient power buried deep beneath the ocean.
 
 Gul'dan shared his vision with the Shadow Council, and together they worked to open a rift to this new world. The first attempt to assault Stormwind was led by Cho'gall and Kilrogg; it ended in disaster, with the orcs fleeing from the kingdom's knights, and the two leaders blaming each other for the failure. Then, Gul'dan and the Shadow Council installed Blackhand as a War Chief the orcs would respect.
 
 Medivh appeared in a vision again, promising to reveal the location of the Tomb of Sargeras to Gul'dan in exchange for the orcs destroying his enemies --- the Kingdom of Azeroth. Gul'dan knew Sargeras was the daemon lord who taught Kil'jaeden himself. The regrouped Horde under Blackhand had more success, with Garona assassinating King Llane, but before it could triumph, Gul'dan sensed that Medivh was assaulted in his tower and mortally wounded. Gul'dan attempted to extract the knowledge of the Tomb from the dying sorcerer by force, but the psychic backlash flung him into a coma that lasted a few weeks.
 
-Gul'dan awoke to a completely changed Horde. In his absence, [Orgrim Doomhammer](https://warcraft.wiki.gg/wiki/Orgrim_Doomhammer) --- retroactively revealed to be the orc player character of Warcraft 1 --- overthrew Blackhand as War Chief, captured and razed Stormwind Keep, and tortured Garona to reveal the existence and location of the Shadow Council, which Orgrim than executed.
+Gul'dan awoke to a completely changed Horde. In his absence, [Orgrim Doomhammer](https://warcraft.wiki.gg/wiki/Orgrim_Doomhammer) --- retroactively revealed to be the orc player character of Warcraft 1 --- overthrew Blackhand as War Chief, captured and razed Stormwind Keep, and tortured Garona to reveal the existence and location of the Shadow Council, which Orgrim then executed.
 
 A weakened Gul'dan was brought to the new War Chief and, being in no position to resist, pretended to submit to him. To prove his feigned loyalty, he sacrificed all his necrolytes to bind the spirits of the Shadow Council into the corpses of the slain knights of Azeroth, raising them as death knights. He also deceived Orgrim into believing that Blackhand's sons Rend and Maim were plotting against him, prompting him to disband the raiders.
 
