@@ -93,7 +93,7 @@ Finally, there's still the problem with post-siege slogs. Most missions, like in
 I may have been more negative here than the game deserves. I know that many people swear by Warcraft 2, especially competitive players (which I'm absolutely not, and I'm not at all a good source on gameplay strategy). This game is a lot more fun to play than Warcraft 1 and was a massive breakthrough for its time.
 
 
-## The Story
+### The Story
 
 Once again, the story is pretty barebones, told exclusively in mission briefings with voiceover, and focuses mostly on conquering the land bit by bit. The 3D flyover map is gone, replaced by static maps at the beginning of each of the campaign's four acts.
 
@@ -109,7 +109,7 @@ Once again, the story is pretty barebones, told exclusively in mission briefings
   
 * Finally, you transport your units across the channel and raze the human town of Hillsbrad.
 
-{% figure [caption:"Wait, where's Italy?"] %}
+{% figure [caption:"The [Thandol Span](https://warcraft.wiki.gg/wiki/Thandol_Span) is already part of the lore. We'll see it in the human campaign."] %}
 ![WC2 orc act 2 map](/assets/wr/wc2_orc_act2.png)
 {% endfigure %}
 
@@ -119,7 +119,7 @@ Once again, the story is pretty barebones, told exclusively in mission briefings
 
   As an aside, the appearance of the name "Tol Barad" in Warcraft 2 fascinated me ever since I read *[The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)* as a child, as it's another one of several examples of inexplicable [Sindarin](https://en.wikipedia.org/wiki/Sindarin) in the Warcraft setting.[^sindarin] (Sindarin is the language that is called "Elvish" in the book itself.) We'll see more of them later. Specifically, "[Tol](https://www.elfdict.com/w/tol/s?include_old=1) [Barad](https://www.elfdict.com/w/barad/s?include_old=1)" means "Isle of the Tower", which is oddly appropriate. I wonder if the writer knew this or simply mashed together [Tol Brandir](http://tolkiengateway.net/wiki/Tol_Brandir) and [Barad-dûr](https://tolkiengateway.net/wiki/Barad-d%C3%BBr).
 
-* You escort the ogre-mage [Cho'Gall](https://warcraft.wiki.gg/wiki/Cho'Gall) through the [badlands of Khaz Modan](https://warcraft.wiki.gg/wiki/Badlands) so he can inspect the refinery at [Grim Batol](https://warcraft.wiki.gg/wiki/Grim_Batol) for... er... some reason. Weird choice of inspector, but all right. This is a short and sweet mission that gives you a limited army and features no base-building.
+* You escort the ogre-mage [Cho'gall](https://warcraft.wiki.gg/wiki/Cho'gall) through the [badlands of Khaz Modan](https://warcraft.wiki.gg/wiki/Badlands) so he can inspect the refinery at [Grim Batol](https://warcraft.wiki.gg/wiki/Grim_Batol) for... er... some reason. Weird choice of inspector, but all right. This is a short and sweet mission that gives you a limited army and features no base-building.
 * "Cho'gall reports that the Khaz Modan Refineries are well maintained and fulfilling their quotas." A rare sentence. With the preparations done, you launch a naval attack against [Stromgarde](https://warcraft.wiki.gg/wiki/Stromgarde). This is one of those missions where you not only start without a base, but you have to actually *find* a gold mine first.
 
 {% figure [caption:"&ldquo;My name is 'Thalas. Quel 'Thalas.&rdquo;"] %}
