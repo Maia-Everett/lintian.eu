@@ -45,6 +45,7 @@ plugins:
   - jekyll-category-pages
   - jekyll-sitemap
   - jekyll-figure
+  - jekyll-youtube
 
 show_excerpts: true
 permalink: /:year/:month/:day/:title/
@@ -52,7 +53,7 @@ permalink: /:year/:month/:day/:title/
 feed:
   categories:
   - Warcraft Retrospective
-  
+
 jekyll-figure:
   paragraphs: false
 
