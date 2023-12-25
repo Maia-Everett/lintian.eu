@@ -6,9 +6,9 @@ categories: [ Warcraft Retrospective, Warcraft ]
 
 Warcraft 2: Tides of Darkness was actually the first Warcraft game I ever played in my life, as a child in early school soon after it came out. I didn't have a computer back then, so I played it on my friends' computers. And I have a confession to make: when I played it, I didn't know *anything* I've been talking about for the last four posts.
 
-That was a time when DOS and Norton Commander ruled the day, many computers didn't have CD drives (let alone CD *recorders*), and software was copied between computers on floppy disks. There was no Internet. There were, of course, no manuals. My friends got their copies of Warcraft 2 from people who got them from people from may or may not have had a paper manual, but at any rate none of us knew that a manual even *existed*. So I played the game not knowing anything about its lore, and only in my adult years did I learn that it actually had any worldbuilding at all. And I certainly didn't know who Gul'dan, Orgrim Doomhammer, or Lothar were.
+That was a time when DOS and Norton Commander ruled the day, many computers didn't have CD drives (let alone CD *recorders*), and software was copied between computers on floppy disks. There was no Internet. There were, of course, no manuals. My friends got their copies of Warcraft 2 from people who got them from people who may or may not have had a paper manual, but at any rate none of us knew that a manual even *existed*. So I played the game not knowing anything about its lore, and only in my adult years did I learn that it actually had any worldbuilding at all. And I certainly didn't know who Gul'dan, Orgrim Doomhammer, or Lothar were.
 
-In fact, the copies I played didn't even have music. I din't know if it was because it was cut out to save disk space, or because the computers' sound cards were not MIDI capable, but the fact remains: I played with sound effects and unit voices being played over complete silence. Because of this, I didn't know about the existence of iconic Warcraft 2 music until I heard it rearranged in WoW, during Mists of Pandaria.
+In fact, the copies I played didn't even have music. I don't know if it was because it was cut out to save disk space, or because the computers' sound cards were not MIDI capable, but the fact remains: I played with sound effects and unit voices being played over complete silence. Because of this, I didn't know about the existence of iconic Warcraft 2 music until I heard it rearranged in WoW, during Mists of Pandaria.
 
 {% youtube "https://www.youtube.com/watch?v=9uDM8GJa53c" %}
 
@@ -143,7 +143,7 @@ Once again, the story is pretty barebones, told exclusively in mission briefings
 {% endfigure %}
 
 * For the obligatory Civil Warcraft mission, you are to hunt the treacherous Stormreaver and Twilight's Hammer clans, whom Gul'dan took with him to search for the [Tomb of Sargeras](https://warcraft.wiki.gg/wiki/Tomb_of_Sargeras), which he raised from the bottom of the sea. Gul'dan himself is a unique death knight-like unit surrounded by daemons, and to get to him, you need to break rocks in the middle of the island. That's right: *you* kill Gul'dan here, not a daemon in the Tomb of Sargeras, as the preceding cinematic implied.
-* You raze the [Violet Citadel](https://warcraft.wiki.gg/wiki/Violet_Citadel) [Dalaran](https://warcraft.wiki.gg/wiki/Dalaran_(kingdom)), which in this version is located on a cross-shaped island. Despite being a city of magic in lore, it starts with a single measley mage tower and no mage units, instead having a large garrison of knights and other regular human units.
+* You raze the [Violet Citadel](https://warcraft.wiki.gg/wiki/Violet_Citadel) of [Dalaran](https://warcraft.wiki.gg/wiki/Dalaran_(kingdom)), which in this version is located on a cross-shaped island. Despite being a city of magic in lore, it starts with a single measley mage tower and no mage units, instead having a large garrison of knights and other regular human units.
 * Finally, as the culmination of the campaign, you storm the [capital city of Lordaeron](https://warcraft.wiki.gg/wiki/Capital_City) across Lordamere Lake, fighting the forces of Lordaeron, Azeroth (Stormwind) and Kul Tiras at the same time.
 
 And your reward is another [cinematic](https://www.youtube.com/watch?v=3XkBOct_mFs) that's hilariously janky in hindsight.
@@ -161,7 +161,11 @@ The geography of the northern continent was tailored to the story, and it shows.
 
 No, this campaign isn't *remotely* realistic by the standards of serious military fiction, but for a broad-strokes fantasy game setting like Warcraft, it's pretty well-considered. The downside is that there's almost no focus on the characters, even compared to Warcraft 1. It's all army maneuvers and sieges with you as a nameless commander.[^commander]
 
-Unfortunately, both Tides of Darkness campaigns are among some of the most heavily retconned content from the Warcraft RTS games, and their concept only survives in *very* broad strokes. For one, the importance of naval battles is de-emphasized, mentions of oil are practically excised, and the entire [war](https://warcraft.wiki.gg/wiki/Second_War) is considerably shortened in later lore. We'll look at the other side of the story next time, with the human campaign.
+Unfortunately, both Tides of Darkness campaigns are among some of the most heavily retconned content from the Warcraft RTS games, and their concept only survives in *very* broad strokes. For one, the importance of naval battles is de-emphasized, mentions of oil are practically excised, and the entire [war](https://warcraft.wiki.gg/wiki/Second_War) is considerably shortened in later lore.
+
+Finally, I find this strange that a very prominent [Chekhov's Gun](https://tvtropes.org/pmwiki/pmwiki.php/Main/ChekhovsGun) from the manual didn't fire here. The manual said that Rend and Maim, leaders of the Black Tooth Grin clan, might betray Doomhammer when they sense an opportunity, but this never happens. In fact, in some missions, you play *as* the Black Tooth Grin clan, and the question of their loyalty is never raised. The only time you fight other orcs is the Tomb of Sargeras mission, where you go after Gul'dan. I wonder if this is a remnant of an early story idea that got axed during development.
+
+We'll look at the other side of the story next time, with the human campaign.
 
 
 
