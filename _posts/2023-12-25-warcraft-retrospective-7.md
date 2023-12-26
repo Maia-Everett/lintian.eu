@@ -56,7 +56,7 @@ Overall I found the human campaign more fun. It's refreshing enough that the cam
 
 So far, the objectives of these missions mirror those of the corresponding orc ones.
 
-{% figure [caption:"Here we go again!"] %}
+{% figure [caption:"The name [&ldquo;Khaz Modan&rdquo;](https://warcraft.wiki.gg/wiki/Khaz_Modan) was probably inspired by [Khazad-dûm](https://tolkiengateway.net/wiki/Khazad-dûm), right? It's not just me?"] %}
 ![WC2 human act1](/assets/wr/wc2_human_act2.png)
 {% endfigure %}
 
@@ -107,18 +107,18 @@ Unlike pretty much everything else in Warcraft 2, this campaign act employs --- 
 {% endfigure %}
 
 * Before the push south can begin, you need to destroy Horde holdings at [Crestfall](https://warcraft.wiki.gg/wiki/Crestfall). This is a straightforward islands-type mission, with the wrinkle that you don't strictly have to destroy the entire enemy base, only cripple their naval power. Specifically, you need to destroy all orc transports, shipyards, and oil derricks *[sic]*.
-* Lord Lothar attempted to parley with Orgrim Doomhammer, but was not heard of for days. "Assuming the worst, Admiral Proudmoore and King Terenas agree that it falls upon you to stage a final siege upon Blackrock Spire."
+* [Lord Lothar](https://warcraft.wiki.gg/wiki/Anduin_Lothar) attempted to parley with [Orgrim Doomhammer](https://warcraft.wiki.gg/wiki/Orgrim_Doomhammer), but was not heard of for days. "Assuming the worst, Admiral Proudmoore and King Terenas agree that it falls upon you to stage a final siege upon Blackrock Spire."
 
-  When you start this mission, Lothar and his three knights start in their own corner of the map and are immediately assaulted and killed by an overwhelming Horde force. Poor Lothar. For all his hyped-up badassery throughout two games, he dies in gameplay to random grunts, axethrowers, and ogres. He isn't even under your control, unlike the three knights, so you cannot immediately micromanage him away (not that it would help) --- he just makes his last stand and fights to the death.
+  When you begin this mission, Lothar and his three knights start in their own corner of the map and are immediately assaulted and killed by an overwhelming Horde force. Poor Lothar. For all his hyped-up badassery throughout two games, he dies in gameplay to random grunts, axethrowers, and ogres. He isn't even under your control, unlike the three knights, so you cannot immediately micromanage him away (not that it would help) --- he just makes his last stand and fights to the death.
 
-  Once that cruel twist is done with, it's another islands-type mission with you against an insane number of separate Horde bases you have to destroy. It's supposed to be Blackrock Spire, though the geography here is *nothing* like either Warcraft 1 or WoW.
-* For the campaign finale, you have to destroy the Great Portal to cut the Horde off from reinforcements from their world.
+  Once that cruel twist is done with, it's another islands-type mission with you against an insane number of separate Horde bases you have to destroy. It's supposed to be [Blackrock Spire](https://warcraft.wiki.gg/wiki/Blackrock_Spire), though the geography here is *nothing* like either Warcraft 1 or WoW.
+* For the campaign finale, you have to destroy the [Great Portal](https://warcraft.wiki.gg/wiki/Dark_Portal) to cut the Horde off from reinforcements from their world.
 
-  Once again, the geography is completely out of whack here, featuring water, and the creator of the space-filling path missions has struck again. You start without a base. You have to cross a body of water to find... you guess it, one landable spot that isn't overtaken by sheer cliffs. And it's occupied by an orc base. Once you raze that one and build yours, you need to destroy another, stronger orc base on the same strip of land, build a shipyard on a disconnected body of water, cross *that*, find another small landable spot, destroy *another* orc base... and then the Portal itself is in the middle of an inland lake, guarded by death knights and flying daemons, so you have to build ships to cross *that* too.
+  Once again, the geography is completely out of whack here, featuring water, and the creator of the space-filling path missions has struck again. You start without a base. You have to cross a body of water to find... you guessed it, one landable spot that isn't overtaken by sheer cliffs. And it's occupied by an orc base. Once you raze that one and build yours, you need to destroy another, stronger orc base on the same strip of land, build a shipyard on a disconnected body of water, cross *that*, find another small landable spot, destroy *another* orc base... and then the Portal itself is in the middle of an inland lake, guarded by death knights and flying daemons, so you have to build ships to cross *that* too.
 
   ...Or you could send mass gryphon riders to that central island, I suppose.
   
-  Try finding any of that water in the modern Blasted Lands! Or on the Warcraft 1 map, for that matter.
+  Try finding any of that water in the modern [Blasted Lands](https://warcraft.wiki.gg/wiki/Blasted_Lands)! Or on the Warcraft 1 map, for that matter.
 
   With the Portal destroyed, a victory cutscene plays. It turns out [*you* didn't actually destroy the Portal](https://tvtropes.org/pmwiki/pmwiki.php/Main/StoryOverwrite), it still stands, so that [an unnamed human mage](https://warcraft.wiki.gg/wiki/Khadgar) can destroy it in a cinematic.
 
