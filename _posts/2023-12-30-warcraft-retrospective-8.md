@@ -28,7 +28,7 @@ For these reasons, I'm glad that the writers of Beyond the Dark Portal actually 
 ## The Aftermath of the Second War
 
 <figure class="character-portrait">
-<img src="/assets/wr/btdp_archers.png" width="300" /><figcaption>Blizzard has since got better about making <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/BoobsAndButtPose">unfortunate art</a> of female characters.</figcaption></figure>
+<img src="/assets/wr/btdp_archers.png" width="300" /><figcaption>Blizzard has since got better about making <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/BoobsAndButtPose">unfortunate art</a> of female characters. That said, I'll note that elves are still drawn as basically pointy-eared humans.</figcaption></figure>
 
 The Beyond the Dark Portal manual is fairly short compared to the original game, and doesn't feature as much new lore. Originally it was a [separate manual](https://archive.org/download/Warcraft_II_-_BDP_-_Manual/Warcraft_II_-_BDP_-_Manual.pdf), but in Battle.net Edition, the two manuals were combined into [one](http://ftp.blizzard.com/pub/misc/Warcraft%202%20Battlenet%20edition.PDF), with different formatting but unchanged text. Unfortunately, some illustrations are only found in the original separate manual, not the combined one.
 
