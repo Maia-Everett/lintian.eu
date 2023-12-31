@@ -20,7 +20,7 @@ In hindsight, the decision of the Warcraft 1 writers to have the orcs come from 
 
 The topic of genocide by necessity raises its ugly head when a "monster race" serves as antagonists and is soundly defeated. What should the protagonists do with the remaining ones? *The Lord of the Rings* sidesteps this question entirely; all orcs encountered in the story are combatants who get killed in self-defense (or kill each other in feuds), and after Sauron's defeat, the remainder of the story focuses on the protagonists and has little to say about about the fate of the remaining orcs, only mentioning that they scattered or slew themselves. Supplemental texts clarify that elves and their allies didn't kill defenseless prisoners, even if they were orcs.
 
-Modern Warcraft orcs (from Warcraft 3 onwards) have diverged from Tolkien's creation so much, both visually and thematically, that I think it's best to think of them as completely different beings who just happen to be named the same. Nonetheless, even in Warcraft 2, which features no sympathetic orc characters, the orcs aren't just an evil overlord's horde of interchangeable mooks; they are *people*, with agency. Unlike Tolkien's orcs, they actually have a culture of their own; they are already noted to have shamanistic traditions in the Warcraft 2 manual, and worship their ancestors.
+Modern Warcraft orcs (from Warcraft 3 onwards) have diverged from Tolkien's creation so much, both visually and thematically, that I believe it's best to think of them as completely different beings who just happen to be named the same. Nonetheless, even in Warcraft 2, which features no sympathetic orc characters, the orcs aren't just an evil overlord's horde of interchangeable mooks; they are *people*, with agency. Unlike Tolkien's orcs, they actually have a culture of their own; they are already noted to have shamanistic traditions in the Warcraft 2 manual, and worship their ancestors.
 
 For these reasons, I'm glad that the writers of Beyond the Dark Portal actually gave some thought to the question of "what do we do with the seemingly universally evil horde that just tried to conquer us" --- as we discover in the first section of the manual, which is titled...
 
@@ -58,7 +58,7 @@ This section introduces five characters each for the Alliance and the Horde. To 
 * [Alleria](https://warcraft.wiki.gg/wiki/Alleria_Windrunner) is an elven ranger of Quel'Thalas who hates the orcs and is now hunting the Bleeding Hollow clan, and that's about it. Her surname isn't mentioned.
 * [Danath](https://warcraft.wiki.gg/wiki/Danath_Trollbane) is a Stromgarde mercenary captain and hero of the Second War turned overseer over the orc camps at New Stormwind. This is the first mention that there *is* a New Stormwind. Danath's surname isn't mentioned either.
 * [Turalyon](https://warcraft.wiki.gg/wiki/Turalyon) is a former knight of Lordaeron trained as a paladin by Uther. He was among Lothar's entourage during the ambush at Blackrock Spire and regrets not saving him.
-* [Kurdran](https://warcraft.wiki.gg/wiki/Kurdran_Wildhammer) is also a hero of the Second War, having slain nine dragons atop his gryphon [Sky'rie](https://warcraft.wiki.gg/wiki/Sky'ree) *[sic]*. His surname is --- you guessed it --- not mentioned either.
+* [Kurdran](https://warcraft.wiki.gg/wiki/Kurdran_Wildhammer) is also a hero of the Second War, a dwarven rider who slew nine dragons atop his gryphon [Sky'rie](https://warcraft.wiki.gg/wiki/Sky'ree) *[sic]*. His surname is --- you guessed it --- not mentioned either.
 
 All these characters and the [group](https://warcraft.wiki.gg/wiki/Sons_of_Lothar) they belong to will later become vastly important to the overall setting. Some more than others.
 
@@ -68,7 +68,7 @@ On the Horde side, we have:
 * [Kargath Bladefist](https://warcraft.wiki.gg/wiki/Kargath_Bladefist), the ruthless chieftain of the Shattered Hand clan.
 * [Teron Gorefind](https://warcraft.wiki.gg/wiki/Teron_Gorefiend), the cunning death knight who wants to open his own portal to a world to conquer.
 * [Dentarg](https://warcraft.wiki.gg/wiki/Dentarg), the ogre-mage servant and enforcer to Ner'zhul in the Shadow Moon clan.
-* [Deathwing](https://warcraft.wiki.gg/wiki/Deathwing), a black dragon covered in adamantine scales made by goblin alchemists during the Second War and said to be second in power only to Alexstrasza itself. Now he resides in northwestern Draenor with a group of renegade dragons.
+* [Deathwing](https://warcraft.wiki.gg/wiki/Deathwing), a black dragon covered in adamantine scales made by goblin alchemists during the Second War and said to be second in power only to Alexstrasza herself. Now he resides in northwestern Draenor with a group of renegade dragons.
 
 Yes, one of these things is not like the others, and already it presents a minor continuity issue. Deathwing is blatantly there to explain why the Draenor Horde still has access to dragons despite not having the Dragonmaw clan and the captive Alexstrasza. However, if goblin alchemists made Deathwing nearly impenetrable armor in the Second War, presumably for the needs of Doomhammer's Horde, why didn't Doomhammer, you know, *use him?* A nigh-invulnerable dragon would be a great asset in the conquest of Lordaeron or in pursuit of Gul'dan and his renegade clans.
 
