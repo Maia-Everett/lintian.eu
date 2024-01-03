@@ -1,8 +1,16 @@
-<form method="POST" action="{{ site.staticman_url }}" class="comment-form">
+<form method="POST" action="{{ site.staticman_url }}" class="comment-form" id="comment-form">
+  <section id="commented" style="display: none">
+    Thank you for submitting your comment! It is held for moderation and will be reviewed shortly.
+  </section>
+  <script type="text/javascript">
+    if (window.location.hash == '#commented') {
+      document.getElementById('commented').style.display = 'block';
+    }
+  </script>
   <input
     name="options[redirect]"
     type="hidden"
-    value="{{ page.url | absolute_url }}"
+    value="{{ page.url | absolute_url }}#commented"
   />
   <input name="options[slug]" type="hidden" value="{{ page.slug }}" />
 

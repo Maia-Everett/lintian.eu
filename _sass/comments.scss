@@ -22,8 +22,16 @@
   .comment-name {
     font-size: 16px;
     padding: 15px;
-    border: 1px solid #ddd;
+    background: #14161a;
+    border: 1px solid #3f4960;
+    color: rgba(255, 255, 255, 0.7);
     margin: 0;
+  }
+
+  .comment-message:focus,
+  .comment-name:focus {
+    outline: none;
+    border: 1px solid #79b8ff;
   }
 
   .comment-message {
@@ -41,12 +49,20 @@
 
   .comment-submit {
     width: 200px;
-    border: 1px solid #ddd;
-    color: royalblue;
+    border: 1px solid #3f4960;
+    background: #0D47A1;
+    color: #f0f0f0;
     font-weight: bold;
 
     &:hover {
       cursor: pointer;
+      background: #1565C0;
     }
   }
+}
+
+#commented {
+  font-family: $aside-font-family;
+  margin-bottom: 8px;
+  color: #41c300;
 }
