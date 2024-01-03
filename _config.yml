@@ -25,6 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lintian.eu" # the base hostname & protocol for your site, e.g. http://example.com
 
+staticman_url: https://staticman.lintian.eu/v3/entry/github/Maia-Everett/lintian.eu/main/comments
+
 header_pages:
 - pages/about.md
 - pages/lintian.md
