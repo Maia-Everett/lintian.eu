@@ -226,6 +226,8 @@ This act is devoted to civil war on Draenor, so you only fight orc enemies and n
 
 ### The Finale
 
+Congratulations! You've massacred your own kin and allies on Draenor, lost a good deal of Horde forces frantically going north, south, and sideways on a wild romp across the human kingdoms, and implausibly destroyed two of these kingdoms as collateral damage on the way to your real plan, which was getting Ner'zhul four artifacts so you all can abandon everything you've conquered throughout this campaign and leave the human world for good.
+
 > Ner'zhul holds the ancient scepter of Sargeras in the air and intones the final words of the Spell of Conjuration. The air above you begins to swirl and presses down upon the assembled masses of the Horde. Above you, the crimson skies break open and reveal the chaotic pathways of the Twisting Nether.
 > 
 > As Ner'zhul deploys his remaining forces towards the new portals, you glimpse the Shattered Hand and Warsong clans awaiting orders on the other side of the Dark Portal.
