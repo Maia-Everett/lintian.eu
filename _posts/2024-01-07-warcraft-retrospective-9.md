@@ -20,16 +20,16 @@ No, seriously, why? What was he trying to accomplish? We don't know his thought 
 
 I'm not saying the manual *should* have answered this question. I'm not even sure the writers thought about it. From the perspective of the Warcraft 2 writers, the orcs were evil conquerors who invaded new lands simply because they were *there*. It certainly fits with the characterization of orcs given by Garona in the Warcraft 1 manual and by Gul'dan in the Warcraft 2 manual. So I'm willing to believe that Orgrim's Horde saw new lands to conquer and rose to the challenge because it *could*. Orgrim himself lacks a character entry in the manual, so we don't know his personal goals.
 
-Indeed, this would only be a problem if Orgrim somehow became an important character for the larger Warcraft universe once again. If he once again gained agency again after becoming a prisoner of war, or if his agency in the Second War was revealed in hindsight. Because if his goal was as simple as, say, giving the orcs a new home after Draenor was ruined, he could have simply conquered Stormwind and stopped there. The southern continent had plenty of verdant land to settle on, the humans left behind plenty of infrastructure, and while I'm not a warfare expert, I'd assume that waging a defensive war against the Alliance would be easier than an offensive one --- especially with easy access to reinforcements through the Dark Portal.[^orgrim_justification]
+Indeed, this would only be a problem if Orgrim somehow became an important character for the larger Warcraft universe once again. If he once again gained agency after becoming a prisoner of war, or if his agency in the Second War was revealed in hindsight. Because if his goal was as simple as, say, giving the orcs a new home after Draenor was ruined, he could have simply conquered Stormwind and stopped there. The southern continent had plenty of verdant land to settle on, the humans left behind plenty of infrastructure, and while I'm not a warfare expert, I'd assume that waging a defensive war against the Alliance would be easier than an offensive one --- especially with easy access to reinforcements through the Dark Portal.[^orgrim_justification]
 
-As it turns out, by waging an offensive war, Doomhammer simply overextended himself. He certainly thoroughly prepared for the Second War; by the time Tides of Darkness begins, the Horde has already captured all lands south of the [Thandol Span](https://warcraft.wiki.gg/wiki/Thandol_Span) and built up outposts, fleets, and factories. The Second War was a war between two coalitions of roughly equal strength; indeed, in the ending of the orc campaign, the Horde *wins*, bringing the entire continent under its heels. So far, Beyond the Dark Portal, a sequel to the ending where the Alliance won, is vague at where exactly Doomhammer's Horde canonically faltered, only mentioning that Gul'dan's renegade clans were slaughtered by their own kin.
+As it turns out, by waging an offensive war, Doomhammer simply overextended himself. He certainly thoroughly prepared for the Second War; by the time Tides of Darkness begins, the Horde has already captured all lands south of the [Thandol Span](https://warcraft.wiki.gg/wiki/Thandol_Span) and built up outposts, fleets, and factories. The Second War was a war between two coalitions of roughly equal strength; indeed, in the ending of the orc campaign, the Horde *wins*, bringing the entire continent under its heel. So far, Beyond the Dark Portal, a sequel to the ending where the Alliance won, is vague at where exactly Doomhammer's Horde canonically faltered, only mentioning that Gul'dan's renegade clans were slaughtered by their own kin.
 
 I'll say more on this matter once we get into later lore and more retcons regarding Orgrim and the Second War pile up. For now, remember the yet-unanswered question of his motivations.
 
 
 ## The Horde Identity
 
-The Horde in Warcraft 1 (which wasn't even named that by the game) and the Horde of Warcraft 2 are two very different beasts.[^horde_terms]
+The Horde of Warcraft 1 (which wasn't even named that by the game) and the Horde of Warcraft 2 are two very different beasts.[^horde_terms]
 
 * The **Monster Horde**, led in Warcraft 1 by the Shadow Council and Blackhand[^wc1horde], is a swarm of demonic locusts, devouring everyone and everything in its path and poisoning the very land --- which the Warcraft 1 manual implied was simply the way orcs were. With no technology except catapults, they favor brute strength and dark magic, making pacts with the infernal denizens of Hell[^hell].
 * The **War Machine Horde**, led in Tides of Darkness by Orgrim Doomhammer, is a coalition of races driven by their own interests, wielding dark magic and technology in equal measure. They are industrialized, building zeppelins, foundries and oil tankers just like the equally industrialized Alliance, and command disciplined armies in a war of methodic, relentless conquest led by a [glorious strategist](https://en.wikipedia.org/wiki/Jade_Empire).
@@ -78,7 +78,7 @@ This act is devoted to civil war on Draenor, so you only fight orc enemies and n
 
   Also, how did Ner'zhul suddenly learn how to open portals? The original Dark Portal was a collaboration between Medivh, guided by an unknown presence from the Twisting Nether, and Gul'dan, taught by the daemon Kil'jaeden. There's no indication Ner'zhul, a shaman, was privy to their secrets.[^nerzhul_knowledge]
 
-  The mission proper involves no base building. The objective is to subjugate an order of death knights who somehow know how to rebuild the Dark Portals, and who are currently controlled by Mogor the Ogre of the Laughing Skull clan because... reasons?[^mogor] Oh, and while the mission briefing says to subjugate them, the gameplay objective is to destroy them. Sure, kill the people whom you're trying to recruit for their vital knowledge. It makes perfect sense!
+  The mission proper involves no base building. The objective is to subjugate an order of death knights who somehow know how to rebuild the Dark Portal, and who are currently controlled by [Mogor the Ogre](https://warcraft.wiki.gg/wiki/Mogor) of the [Laughing Skull clan](https://warcraft.wiki.gg/wiki/Laughing_Skull_clan) because... reasons?[^mogor] Oh, and while the mission briefing says to subjugate them, the gameplay objective is to destroy them. Sure, kill the people whom you're trying to recruit for their vital knowledge. It makes perfect sense!
   
   We start with a small force and have more units join us across the way, including [Grom Hellscream](https://warcraft.wiki.gg/wiki/Grommmash_Hellscream) and... troll axethrowers and goblin sappers?
 
@@ -92,7 +92,7 @@ This act is devoted to civil war on Draenor, so you only fight orc enemies and n
 
   Wait a minute. I thought Gul'dan died in the Tomb of Sargeras. How did his skull get to Draenor? The writer drops this bomb on us and doesn't bother to elaborate.
 
-  Sure, Doomhammer's warriors who destroyed Gul'dan's clans could have brought his skull to Doomhammer, who then could have sent it to Draenor. Emphasis on *could have*. But we shouldn't do the writers' work for them. When they ask us to suspend disbelief, it's *their* job to smooth things over --- in this case a single sentence in the manual about the fate of Gul'dan's remains would have sufficed.
+  Sure, Doomhammer's warriors who destroyed Gul'dan's clans could have brought his skull to Doomhammer, who then could have sent it to Draenor. Emphasis on *could have*. But we players shouldn't have to do the writers' work for them. When they ask us to suspend disbelief, it's *their* job to smooth things over --- in this case a single sentence in the manual about the fate of Gul'dan's remains would have sufficed.
 
   And that will be a recurring pattern with Warcraft writing later, as we'll see. Weird, puzzling, but not totally implausible lore developments that could be fixed with a single sentence each *if only anyone cared enough to do it*.
 
@@ -115,7 +115,7 @@ This act is devoted to civil war on Draenor, so you only fight orc enemies and n
 
   This is important knowledge that absolutely affects the Slayer's plans. As it stands, we don't know how long we'll be staying here and whether we should be erecting fortresses and consolidating our power in this region, or simply camping somewhere out of the humans' sight.
 
-  The actual mission gives us Teron as a unique death knight. The goal is, as usual, to destroy all enemies, in this case various human bases near the site of the Dark Portal. Once you start the mission, your lone zeppelin in the northwest is immediately attacked. That zeppelin is a clever way to direct your attention to the path you're supposed to be following. The most natural path from your starting location would lead you to the well-fortified blue base in hte center of the map, where your starting army would be promptly slaughtered before you can establish a base of your own. Instead, the zeppelin alerts you to the existence of the small, lightly defended green base in the northwest, which you can take out and then build a base of your own in its place.
+  The actual mission gives us Teron as a unique death knight. The goal is, as usual, to destroy all enemies, in this case various human bases near the site of the Dark Portal. Once you start the mission, your lone zeppelin in the northwest is immediately attacked. That zeppelin is a clever way to direct your attention to the path you're supposed to be following. The most natural path from your starting location would lead you to the well-fortified blue base in the center of the map, where your starting army would be promptly slaughtered before you can establish a base of your own. Instead, the zeppelin alerts you to the existence of the small, lightly defended green base in the northwest, which you can take out and then build a base of your own in its place.
 
 {% figure [caption:"&ldquo;You're not coming to assault the humans with us? What's the matter, Teron, you yellow?&rdquo;"] %}
 ![BTDP orc4](/assets/wr/btdp_orc4.png)
@@ -125,13 +125,13 @@ This act is devoted to civil war on Draenor, so you only fight orc enemies and n
 
   Again, it is only from a mission briefing that we learn about something substantial that happened between the two games offscreen. Ah well. This [Alexstrasza](https://warcraft.wiki.gg/wiki/Alexstrasza) gal is probably nobody important if her liberation wasn't even worth spending a single manual sentence on, let alone a whole book or something.
 
-  So you attack Blackrock Spire, which once again has changed geography between games, and capture the... *green* dragons?
+  So you attack Blackrock Spire, which once again has changed geography between games, and recruit the... *green* dragons?
 
   ...I should have probably mentioned this earlier. Dragon sprites in Warcraft 2 are green, with their allegiance represented by the color of their wings. In the Tides of Darkness campaign, you only have them for the last two missions, where you're the red player, so they're green with red wings. Here, for some reason, the capturable dragon units are assigned to the green player, so they're fully green.
 
   For now, there's nothing to indicate that dragons come in any different colors except green. The multicolored wings I'll chalk up to gameplay mechanics. We'll see how this turns out.
 
-  And we *still* don't know what our actual goal here is. We're just recruiting allies for... a unknown task that may or may not require them later. But Ner'zhul has apparently read the script and knows that it will totally make sense in the end, making him this game's version of [the Illusive Man](https://www.shamusyoung.com/twentysidedtale/?p=29701).
+  And we *still* don't know what our actual goal here is. We're just recruiting allies for... an unknown task that may or may not require them later. But Ner'zhul has apparently read the script and knows that it will totally make sense in the end, making him this game's version of [the Illusive Man](https://www.shamusyoung.com/twentysidedtale/?p=29701).
 
 {% figure [caption:"&ldquo;Destroy everything.&rdquo; All of existence has been obliterated. You win! Also game over."] %}
 ![BTDP orc4](/assets/wr/btdp_orc6.png)
@@ -143,7 +143,7 @@ This act is devoted to civil war on Draenor, so you only fight orc enemies and n
 
   So how are you supposed to take the Book of Medivh? Perhaps send burglars to covertly steal it from Stormwind Keep? Maybe Garona, who already got there once to assassinate King Llane? Maybe hire some local thieves to do it for you?
 
-  No, it turns out. Since the only thing that interests you here is this one book, clearly the right answer is to raze New Stormwind to the ground. Never mind that it took the original Horde years of preparation to capture the first one, and they only did it on their second attempt under Orgrim's command, and that was when Stormwind was on its own with no Alliance breathing down Orgrim's neck. But now you just capture it on a whim when Ner'zhul suddenly learns they have something he wants, because nobody in this campaign needs preparations or battle plans.
+  No, it turns out. Since the only thing that interests you here is this one book, clearly the right answer is to raze New Stormwind to the ground. Never mind that it took the original Horde years of preparation to capture the original Stormwind, and they only did it on their second attempt under Orgrim's command, and that was when Stormwind was on its own with no Alliance breathing down Orgrim's neck. But now you just capture it on a whim when Ner'zhul suddenly learns they have something he wants, because nobody in this campaign needs preparations or battle plans.
 
   The mission, to its credit, has a nice idea. You face two human bases, but the green one is behind rocks. Though they cannot attack you by land, they can and will send gryphon riders to your base while you're busy fighting blue. You can take them out with dragons alone or to destroy blue first, then send goblin sappers to open a land route to the green base.
 
@@ -187,7 +187,7 @@ This act is devoted to civil war on Draenor, so you only fight orc enemies and n
 
   First of all, how is Alterac still standing? The Alliance destroyed its capital in Tides of Darkness, and it's reasonable to assume that it would be either annexed by neighboring kingdoms, or receive a new leader more loyal to the Alliance than Lord Perenolde was. The presence of the armies of Lordaeron and Stromgarde implies Alterac is under some kind of military occupation, but the narration here is too vague to make definite conclusions.
 
-  Second of all, why did the Alteraci steal the Book of Medivh from New Stormwind? Apparently they themselves didn't use it in any way, and all is would do is further aggravate the Alliance if they found out.
+  Second of all, why did the Alteraci steal the Book of Medivh from New Stormwind? Apparently they themselves didn't use it in any way, and all it would do is further aggravate the Alliance if they found out.
 
   Third of all, why would Lordaeron and Stromgarde punish Alterac for giving away the Book of Medivh to the orcs if they don't even know it's there? There's no indication that anyone but you learned it's in Alterac to begin with, and you only discovered it by accident. And if the Alliance learned the book was in Alterac, wouldn't it punish those responsible for *stealing it from Stormwind in the first place?*
 
@@ -199,9 +199,9 @@ This act is devoted to civil war on Draenor, so you only fight orc enemies and n
 
   You get the point. In Tides of Darkness, whichever side you played, your victory felt *earned*. The orc campaign saw you chipping slowly into enemy territory, bit by bit, fighting for every patch of land, taking care to assemble your forces before decisive strikes. It paid attention to the importance of forward bases, supply lines, and patience. That's what made victory over the Alliance, on their home turf, all the sweeter and established Orgrim Doomhammer as a competent strategist.
 
-  None of that happens here. No only do you help Alterac accomplish something that will only hurt them in the long run, to solve a problem they shouldn't have, creating even worse probems for them in the process, --- but you also do it with an army that magically poofs out of nowhere. The only way this mission (and much of the entire campaign) makes sense is if the writer believes the world literaly works according to the game mechanics: that constructing barracks and shipyards takes mere dozens of seconds and that grunts and dragons simply pop into existence.
+  None of that happens here. Not only do you help Alterac accomplish something that will only hurt them in the long run, to solve a problem they shouldn't have, creating even worse probems for them in the process, --- but you also do it with an army that magically poofs out of nowhere. The only way this mission (and much of the entire campaign) makes sense is if the writer believes the world literally works according to the game mechanics: that constructing barracks and shipyards takes mere dozens of seconds and that grunts and dragons simply pop into existence.
   
-  It's a shame the premise is so awful, because the mission itself is pretty nice. You start with a few Alteraci paladins that you can't replace but that provide healing for your orc troops. There are two bases to destroy and there is a small ship segment that involves recovering and escorting an Alteraci mage from an island, just for variety.
+  It's a shame the premise is so awful, because the mission itself is pretty nice. You start with a few Alteraci knights that you can't replace. There are two bases to destroy and there is a small ship segment that involves recovering and escorting an Alteraci mage from an island, just for variety.
 
   Ugh. We're cleary not supposed to think about this too much. Don't ask any questions, just kill red and blue and enjoy your orange human allies. Worldbuilding is for nerds.
 
@@ -211,7 +211,7 @@ This act is devoted to civil war on Draenor, so you only fight orc enemies and n
 
 * The next mission is not as stupid as the last one, but is pretty stupid nonetheless.
   
-  To complete his artifact collection, Ner'zhul wants the Eye of Dalaran, a focusing device constructed by the mages of Dalaran to rebuild the Violet Citadel.[^violet_citadel] So you have to tear through Lordaeron's defenses into the nation of Dalaran and destroy everything of violet color on the map.
+  To complete his artifact collection, Ner'zhul wants the Eye of Dalaran, a focusing device constructed by the mages of Dalaran to rebuild the [Violet Citadel](https://warcraft.wiki.gg/wiki/Violet_Citadel).[^violet_citadel] So you have to tear through Lordaeron's defenses into the nation of Dalaran and destroy everything of violet color on the map.
 
   Of course, it's ridiculous that you're just invading the northern continent on a whim without any kind of preparation, and that you're just again burning an entire kingdom to the ground for a single artifact. But at least this mission sells the idea that you're the underdog and kind of winging it by making you start on a small island surrounded by *massive* fortifications of the white player (Lordaeron) on your way to the violet player (Dalaran). Destroying white is technically not an objective here, but they'll be a perpetual thorn in your side if you don't at least cripple them.
 
@@ -289,4 +289,4 @@ Next time: the explosive end to Warcraft 2!
 
 [^scepter]: While you're at it, are you sure there aren't any other artifacts in the tomb you'd like to grab besides just the Scepter, Ner'zhul? Maybe some kind of [eye](https://warcraft.wiki.gg/wiki/Eye_of_Sargeras)? Though of all the gaffes that this campaign's writer made, not featuring an artifact that hasn't been invented yet isn't one of them.
 
-[^violet_citadel]: It's not made terribly clear if the Violet Citadel is in the city of Dalaran, or if it *is* the capital city of the nation of Dalaran, or if it's a separate location entirely. Also, since the Horde doesn't get anywhere near the Violet Citadel in the human campaign, it's fair to assume that the penultimate mission of the orc campaign, where you attack Dalaran, is part of the Beyond the Dark Portal continuity.
+[^violet_citadel]: It's not made terribly clear if the Violet Citadel is in the city of Dalaran, or if it *is* the capital city of the nation of Dalaran, or if it's a separate location entirely. Also, since the Horde doesn't get anywhere near the Violet Citadel in the human campaign of Tides of Darkness, it's fair to assume that the penultimate mission of the orc campaign, where you attack Dalaran, is part of the Beyond the Dark Portal continuity.
