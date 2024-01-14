@@ -24,8 +24,17 @@ If [Tor.com](https://www.tor.com/2013/08/27/apostrophes-in-science-fiction-and-f
 I'm not saying the "fantasy apostrophe" should be abolished. By now, it's a fairly established typographic convention. But to me, it's a minor red flag that I might be looking at schlocky fantasy whose author just copied the convention unthinkingly because "it's fantasy, who cares?", possibly from someone who did the same.
 
 
-
 ## Color Me Curious
+
+Like I said before, the various human kingdoms and orc clans in Warcraft 2 were invented largely to give lore flavor to player colors.
+
+However, Warcraft 2 has eight player colors, while the Tides of Darkness manual lists only seven kingdoms and seven clans. The color yellow is not used for either side. It can, however, be selected in multiplayer, in which the yellow human and orc players were described as "Alliance Traitors" and "Horde Traitors", respectively.
+
+In Beyond the Dark Portal, the humans are the same, but the seven orc clans are different. The color yellow is now used for the Laughing Skull clan, while it is blue orcs that are no longer used in the campaigns. Multiplayer doesn't display side names anymore, so the only way to see the name of the blue orcs is to look into the game files.
+
+Turns out they're called the [Flowerpicker clan](https://warcraft.wiki.gg/wiki/Flowerpicker_clan).
+
+Which doesn't really have any significance. It's just a fun Easter egg.
 
 
 ## The Human Campaign
