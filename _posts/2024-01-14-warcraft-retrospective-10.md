@@ -34,7 +34,7 @@ In Beyond the Dark Portal, the humans are the same, but the seven orc clans are 
 
 Turns out they're called the [Flowerpicker clan](https://warcraft.wiki.gg/wiki/Flowerpicker_clan). Which doesn't really have any significance. It's just a fun Easter egg.
 
-Colors in Warcraft 2 are also used to represent hero units. They reuse generic unit sprites (for example, Alleria, Danath and Turalyon use the generic elven archer, footman, and paladin sprites), but to make them visually distinct, on the map, hero units are assigned a different color from the player's own color and join the player's side immediately as the mission begins. It cleverly uses the fact that in Warcraft 2, unlike Warcraft 3, units and buildings don't change color when switching sides.
+Colors in Beyond the Dark Portal are also used to represent hero units. They reuse generic unit sprites (for example, Alleria, Danath and Turalyon use the generic elven archer, footman, and paladin sprites), but to make them visually distinct, on the map, hero units are assigned a different color from the player's own color and join the player's side immediately as the mission begins. It cleverly uses the fact that in Warcraft 2, unlike Warcraft 3, units and buildings don't change color when switching sides.
 
 {% figure [caption:"Heroes are red, generics are blue, I hate this rhyme format and so should you."] %}
 ![BTDP human 1](/assets/wr/btdp_human1.png)
@@ -149,7 +149,7 @@ We're shown a cinematic of Khadgar destroying the Dark Portal. Again. Only this 
 
 So Draenor is about to explode and we're probably never going to see it again in any future Warcraft story. The good news, however, is that the Dark Portal, which was simply closed at the end of Tides of Darkness, is now super-duper-mega-closed and isn't getting reopened, ever. The Alliance Expedition survives by leaving Draenor, and we'll probably encounter it again on one of those wondrous, exciting unknown worlds out there that we're yet to see.[^finale]
 
-The camera also ominously focuses on the Skull of Gul'dan as it falls to the ground. I sure hope what will become of it.
+The camera also ominously focuses on the Skull of Gul'dan as it falls to the ground. I sure wonder what will become of it.
 
 
 ## Final Thoughts
