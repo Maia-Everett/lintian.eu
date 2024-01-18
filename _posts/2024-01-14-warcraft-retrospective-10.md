@@ -109,14 +109,14 @@ Unfortunately, past this point you're not going to see any visual variety in the
 
 * Next is a naval battle on the [Coast of Bones](https://warcraft.wiki.gg/wiki/Coast_of_Bones_(WC2_Human)), where an orcish armada is amassing. This is a Tides of Darkness style "destroy all enemies on an islands map" mission, except to build your base, you have to raze the weaker of the enemy bases first.
 
-* Finally, you assault the heavily fortified Fortress Shadowmoon in a bid to end Ner'zhul and recapture the Book of Medivh. Of course, [the story can't possibly end here](https://tvtropes.org/pmwiki/pmwiki.php/Main/YourPrincessIsInAnotherCastle), since the orc campaign had twelve missions and the human one has only had nine so far...
+* Finally, you assault the heavily fortified Fortress Shadowmoon in a bid to end Ner'zhul and recapture the Book of Medivh. Of course, [the story can't possibly end here](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpoiledByTheFormat), since the orc campaign had twelve missions and the human one has only had nine so far...
 
 
 {% figure [caption:"I don't think you can measure valor. Unless you mean the item upgrade currency."] %}
 ![BTDP human act4](/assets/wr/btdp_human_act4.png)
 {% endfigure %}
 
-* ...Just as could be expected, the princess, or rather Ner'zhul, is in another castle, and so is the Book of Medivh. Furthermore, the orcs have laid siege to [your fortress](https://warcraft.wiki.gg/wiki/Vanguard) near the Dark Portal, and this mission is devoted to lifting the siege.
+* ...Just as could be expected, the princess, or rather Ner'zhul, is [in another castle](https://tvtropes.org/pmwiki/pmwiki.php/Main/YourPrincessIsInAnotherCastle), and so is the Book of Medivh. Furthermore, the orcs have laid siege to [your fortress](https://warcraft.wiki.gg/wiki/Vanguard) near the Dark Portal, and this mission is devoted to lifting the siege.
   
   Although the objective states "Hold out until the besieging Orcs retreat", this is *not* a survival mission as could be expected. Warcraft 2 simply doesn't support survival missions the way Starcraft and Warcraft 3 do. While there is a trigger that's supposed to award victory if every computer player is down to 400 gold or less, because of a bug it doesn't actually fire, so your only option is to go out of your very sizable and well-fortified base and destroy all enemies.
 
@@ -124,7 +124,7 @@ Unfortunately, past this point you're not going to see any visual variety in the
 ![BTDP human11 briefing](/assets/wr/btdp_human11_briefing.png)
 {% endfigure %}
 
-* Next is a very unique mission. The Laughing Skull clan, which you've faced before, has apparently sensed where the wind is blowing and is willing to betray the Horde and give you the Book of Medivh (which they seized from Fortress Shadowmoon before you destroyed it) if you help them take the Blade's Edge Mountains from the Thunderlord clan.
+* Next is a very unique mission. The [Laughing Skull clan]((https://warcraft.wiki.gg/wiki/Laughing_Skull_clan)), which you've faced before, has apparently sensed where the wind is blowing and is willing to betray the Horde and give you the Book of Medivh (which they seized from Fortress Shadowmoon before you destroyed it) if you help them take the Blade's Edge Mountains from the Thunderlord clan.
   
   This is basically an orc mission, even though it's part of the human campaign. You have Khadgar, Alleria, Turalyon and two paladins (which you can't replace, so they and Turalyon are a valuable source of healing), and the rest is all orc units. You soon walk into a yellow orc base that comes under your control, and the rest of the mission is orcs versus orcs.
 
@@ -134,7 +134,7 @@ Unfortunately, past this point you're not going to see any visual variety in the
 
 * While you were retrieving the Book of Medivh, Ner'zhul opened massive dimensional rifts tearing Draenor apart and disappeared into one of them with his followers. Khadgar now has to close the Dark Portal from the Draenor side, with the help of both the Book and the Skull of Gul'dan, so that Draenor's destruction doesn't bring down Azeroth with it as well.
   
-  You have all five of your heroes some distance away from your base, which is under siege by a truly *massive* wave of orcs. The Dark Portal is actually within your fortifications, but only Khadgar can damage it, and he does it very, very slowly. This mission is thus effectively a survival mission where you protect Khadgar with everything you've got while he slowly chips away the Portal's health. All four other heroes are expendable; this is the only mission where you don't have to keep them alive, since this is their last stand on a doomed world.
+  You have all five of your heroes some distance away from your base, which is under siege by a truly *massive* wave of orcs. The Dark Portal is actually inside your fortifications, but only Khadgar can damage it, and he does it very, very slowly. This mission is thus effectively a survival mission where you protect Khadgar with everything you've got while he slowly chips away the Portal's health. All four other heroes are expendable; this is the only mission where you don't have to keep them alive, since this is their last stand on a doomed world.
 
 
 ### Finale
