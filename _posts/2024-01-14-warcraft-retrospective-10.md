@@ -76,7 +76,7 @@ Unfortunately, past this point you're not going to see any visual variety in the
   
   Apparently in the human campaign's timeline, the Book of Medivh was the only artifact Ner'zhul needed on the human world for his portal plan, and there was no wanton destruction and continent-hopping involved: his lackeys just grabbed the book and left. Already this is a far more sensible setup than the orc campaign had.
 
-  Anyway, the High Command believes the only good response is to follow the Horde to Draenor and end its threat there. *Carthago delenda est*. Even if the premise is still stupid, because somehow the Alliance knows Ner'zhul wants to invade multiple other worlds (guess they peeked into that copy of the script he has) and somehow they believe invading them will strengthen the Horde with plunder instead of further exhausting its already halved strength.
+  Anyway, the High Command believes the only good response is to follow the Horde to Draenor and end its threat there. *[Carthago delenda est](https://en.wikipedia.org/wiki/Carthago_delenda_est)*. Even if the premise is still stupid, because somehow the Alliance knows Ner'zhul wants to invade multiple other worlds (guess they peeked into that copy of the script he has) and somehow they believe invading them will strengthen the Horde with plunder instead of further exhausting its already halved strength.
 
   The mission is *sweet*. You start with an army and peasants, having just emerged from the Portal on the other side, and a lone flying machine highlights a good location for your base. Remember that [Alliance fortress](https://warcraft.wiki.gg/wiki/Honor_Hold) that still overlooks the Dark Portal to this day? This is the mission where you build it. From scratch.
 
@@ -88,7 +88,7 @@ Unfortunately, past this point you're not going to see any visual variety in the
 
 * The gryphon rider [Kurdran](https://warcraft.wiki.gg/wiki/Kurdran_Wildhammer) has located the hidden [Forthress Auchindoun](https://warcraft.wiki.gg/wiki/Fortress_Auchindoun), which Alleria suspects will be used for staging a new offensive against Azeroth. You must raze the fortress swiftly and retreat before the enemy can retaliate.
   
-  This mission is quick if you know what to do and frustrating if you don't. Despite the mission briefing, you don't actually have either Kurdran or Alleria here. Instead, you have Turalyon and Danath and some starting troops. Your objective is to destroy the orange player (the Bleeding Hollow clan) and bring Turalyon and Danath to your starting location. The quickest way to win to immediately send your starting army to the orange player's location (which you have to know beforehand or discover), raze their base, then retreat before the other orc players overwhelm you.
+  This mission is quick if you know what to do and frustrating if you don't. Despite the mission briefing, you don't actually have either Kurdran or Alleria here. Instead, you have Turalyon and Danath and some starting troops. Your objective is to destroy the orange player (the Bleeding Hollow clan) and bring Turalyon and Danath to your starting location. The quickest way to win is to immediately send your starting army to the orange player's location (which you have to know beforehand or discover), raze their base, then retreat before the other orc players overwhelm you.
 
   Again, the mission encourages you to be swift and daring, but doesn't force you to. You can still win the traditional way by building a base, it's just harder.
 
