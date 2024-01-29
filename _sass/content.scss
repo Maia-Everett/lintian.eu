@@ -101,3 +101,35 @@ blockquote {
 .embed-container {
   margin-bottom: 15px;
 }
+
+.footnote_tip {
+  font-family:        $aside-font-family;
+  font-size:          0.9rem;
+  display:            inline-block;
+  visibility:         hidden;
+  position:           absolute;
+  overflow:           hidden;
+  padding:            0.5em;
+  overflow:           auto;
+  background:         #1a1a1a;
+  border:             2px solid $border-color-01;
+  box-shadow:         0.25em 0.25em 0.25em #555;
+  z-index:            1;
+  max-width:          450px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 800px) {
+  .footnote_tip {
+    left: 40px;
+    max-width: calc(100% - 80px);
+  }
+}
+
+.footnote_tip p {
+  margin-bottom: 0;
+}
+
+.footnote_tip .reversefootnote {
+  display: none;
+}

@@ -22,7 +22,7 @@ To understand this, we'll need to talk about orcs as a fantasy concept.
 <figure class="character-portrait">
 <img src="/assets/wr/orcs_jenny_dolfen.jpg" width="300" /><figcaption>Middle-earth orcs, by <a href="https://goldseven.wordpress.com/">Jenny Dolfen</a></figcaption></figure>
 
-Like many other fantasy concepts that we take for granted today, orcs as we know them were codified by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien) for his Middle-earth mythos and stories.[^etymology] Though Tolkien never divulged the reasons why he introduced them into his world[^reasons], scholar Tom Shippey believes it was for no other reason than to populate Middle-earth with "a continual supply of enemies over whom one need feel no compunction". Tolkien fought in World War 1, where the enemy soldiers were young men conscripted to fight for the ambitions of politicians interested in redrawing national borders. His orcs, in contrast, were servants of a Dark Lord, a very tangible manifestation of Evil as a cosmic force, which had and *needed* to be fought.
+Like many other fantasy concepts that we take for granted today, orcs as we know them were codified by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien) for his Middle-earth mythos and stories.[^etymology] Though Tolkien never divulged the reasons why he introduced them into his world[^reasons], scholar [Tom Shippey](https://en.wikipedia.org/wiki/Tom_Shippey) believes it was for no other reason than to populate Middle-earth with "a continual supply of enemies over whom one need feel no compunction". Tolkien fought in World War 1, where the enemy soldiers were young men conscripted to fight for the ambitions of politicians interested in redrawing national borders. His orcs, in contrast, were servants of a Dark Lord, a very tangible manifestation of Evil as a cosmic force, which had and *needed* to be fought.
 
 And this was fine for Tolkien's earlier works. But as he developed Middle-earth, it acquired nuance.
 
@@ -80,7 +80,7 @@ Chris Metzen was not subtle about his vision. Just like he stated from the get g
 
 > In general, Metzen and his teammates are trying to abolish the stereotype that Orcs are, as he puts it, "brutal, savage dudes who use foul language." In Warcraft Adventures, they have a complex culture that is rooted in shamanism and a connection to the land. In fact, Metzen draws a connection between Orcs and Native Americans. "We want to show the Orcs as the best that they can be," says Metzen. "They aren't the villainous ones in this chapter, but they still will have an edge, a hard edge." 
 
-Under this revised backstory, the orcs were actually not a race of evil conquerors before they turned to conspiring with demons and practicing black magic. They were a tribal, shamanistic culure living off the land.
+Under this revised backstory, the orcs were actually not a race of evil conquerors before they turned to conspiring with demons and practicing black magic. They were a tribal, shamanistic culture living off the land.
 
 <figure class="character-portrait">
 <img src="/assets/wr/wca_cover.png" width="300" /><figcaption>Mockup cover art for boxes never made.</figcaption></figure>
@@ -182,7 +182,7 @@ In the end, realizing it would simply [not be commercially viable](https://web.a
 
 Warcraft Adventures became a cautionary tale to the company. After the success of Warcraft 2, it had money to throw around, but it was still learning to use that money wisely.
 
-The important thing is that classic Blizzard -- the Blizzard that gave us Diablo, Starcraft and eventually Warcraft 3 --- recognized that Warcraft Adventures was simply not viable to release, and decided to cut its losses. Then twenty-two years later, twilight era Blizzard would just outright overwrite a beloved game with a [rushed, buggy, subpar replacement](https://warcraft.wiki.gg/wiki/Warcraft_III:_Reforged).
+The important thing is that classic Blizzard --- the Blizzard that gave us Diablo, Starcraft and eventually Warcraft 3 --- recognized that Warcraft Adventures was simply not viable to release, and decided to cut its losses. Then twenty-two years later, twilight era Blizzard would just outright overwrite a beloved game with a [rushed, buggy, subpar replacement](https://warcraft.wiki.gg/wiki/Warcraft_III:_Reforged).
 
 
 ## Closing Thoughts

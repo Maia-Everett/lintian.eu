@@ -1,14 +1,44 @@
-// Get the header
-const header = document.querySelector(".site-header");
+// Footnotes
 
-// Get the offset position of the navbar
-const sticky = header.offsetTop;
+window.addEventListener('DOMContentLoaded', initFootnotes, false);
+window.addEventListener('mouseup', hideFootnotes, true);
 
-// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-window.addEventListener("scroll", () => {
-  if (window.scrollY > sticky) {
-    header.classList.add("sticky");
+function initFootnotes() {
+    Array.from(document.querySelectorAll('sup[role=doc-noteref]')).forEach(sup => {
+      const link = sup.querySelector('a');
+      const href = link.getAttribute('href');
+      const targetId = href.substring(1);
+      const footnoteId = href.replace('#fn:', '');
+
+      // Create hidden footnote tooltip
+      const tooltip = document.createElement('div');
+      tooltip.id = 'fntip:' + footnoteId;
+      tooltip.classList.add('footnote_tip');
+      tooltip.innerHTML = document.getElementById(targetId).innerHTML;
+      sup.appendChild(tooltip);
+
+      link.addEventListener('click', showFootnote);
+      link.style.cursor = 'help';
+    });
+}
+
+function hideFootnotes() {
+  Array.from(document.getElementsByClassName('footnote_tip')).forEach(element => element.style.visibility = 'hidden');
+}
+
+function showFootnote(event) {
+  const link = event.target;
+  const footnoteId = link.getAttribute('href').replace('#fn:', '');
+  const footnoteTip = document.getElementById('fntip:' + footnoteId);
+
+  if (footnoteTip.style.visibility == 'visible')  {
+    footnoteTip.style.visibility = 'hidden';
   } else {
-    header.classList.remove("sticky");
+    footnoteTip.style.visibility = 'visible';
   }
-});
+
+  event.preventDefault();
+  event.stopPropagation();
+}
+
+// End footnotes
