@@ -37,6 +37,10 @@ blockquote {
   font-style: normal;
 }
 
+blockquote i, blockquote em {
+  font-style: italic;
+}
+
 ol li:not(:first-child) {
   margin-top: 5px;
 }
