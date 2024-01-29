@@ -16,7 +16,7 @@ Wait, what?
 
 How did we go from two military superpowers warring for control over a continent to the escapades of a single orc?
 
-The out-of-universe answer is that Blizzard was getting tired of the real-time strategy genre at that time, and wanted to branch out into other genres. Capital Multimedia, a sister company to Blizzard that owned the animation studio [Animation Magic](https://en.wikipedia.org/wiki/Animation_Magic), suggested using the Warcraft license for a graphic adventure game, and Blizzard, looking to do more with its "orcs and humans" setting, agreed.
+The out-of-universe answer is that Blizzard was getting tired of the real-time strategy genre at that time, and wanted to branch out into other genres. Capitol Multimedia, a sister company to Blizzard that owned the animation studio [Animation Magic](https://en.wikipedia.org/wiki/Animation_Magic), suggested using the Warcraft license for a graphic adventure game, and Blizzard, looking to do more with its "orcs and humans" setting, agreed.
 
 The change of story focus from armies and fortresses down to individuals began as early as Beyond the Dark Portal, which introduced a cast of recurring protagonists for each side. However, because of the limitations of Warcraft 2's storytelling format, the characters were barely given any characterization at all. What do we *really* know about Grom Hellscream or Danath, as people, based on Beyond the Dark Portal alone? Not much. And it didn't matter. They were just unique units to give some flavor to the real focus of that game, which was base building, army deployment and siege combat.
 
