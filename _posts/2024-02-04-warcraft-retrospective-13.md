@@ -8,10 +8,19 @@ We're now taking a break from games.
 
 After Warcraft Adventures failed to materialize, Blizzard released a series of four books to set the stage for Warcraft 3. Today, we'll be looking into *[Of Blood and Honor](https://warcraft.wiki.gg/wiki/Of_Blood_and_Honor)* by Chris Metzen, a simple, low-stakes story about a human, an orc, and a tower.
 
-This is a fairly short book. With only 128 paper pages, Warcraft Wiki classifies it as a novella. I went in blind, knowing only the basic premise and not expecting much. In some ways, I was pleasantly surprised. To talk 
+This is a fairly short book. With only 128 paper pages, Warcraft Wiki classifies it as a novella. I went in blind, knowing only the basic premise and not expecting much. In some ways, I was pleasantly surprised. Before we get to the book itself, however, let's discuss the motivation for small-scale stories like this one.
 
 
 ## The Importance of Peasants
+
+At one point in the Mass Effect Retrospective, Shamus Young [talks](https://www.shamusyoung.com/twentysidedtale/?p=28980) about the importance of showing the world through the eyes of regular people.
+
+Warcraft 1 and 2 are about large-scale war, about whole army deployments and battles that decide the date of kingdoms and continents. And even this story is highly abstracted by the gameplay, where peasant villages and the nvader fortresses alike are represented by the same kind of bases with the same tech trees. With such abstraction, it's not easy to imagine the wars as they actually occur in-universe, with looting and pillaging, with scorched lands and ruined lives.
+
+Warcraft Adventures gives us a taste of the aftermath of the wars. The orcs lost, were forced to live in a way contrary to their nature, and as a result, were reduced to despondent drunkards. And now we're seeing how the wars affected human society --- through the eyes of a single paladin. And it makes us care about the world the way Warcraft 1 and 2 just didn't, and couldn't by design.
+
+As an example of a game that's effective at making us care, consider [Final Fantasy XIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV). Like many good RPGs, it has a very long, very sweeping and high-stakes story that takes you all across the continent, and occasionally beyond, and where the stakes of the main plot range between national and cosmic. But between saving kingdoms and saving the whole world, it also doesn't forget to present the players a wonderfully detailed and thought-out setting that retains depth at every level of resolution, from cosmic to individual.
+
 
 
 
@@ -47,7 +56,7 @@ But maybe it only feels weird in hindsight because I'm so used to the widespread
 <figure class="character-portrait">
 <img src="/assets/wr/oots_names_i_know.png" width="300" /><figcaption></figcaption></figure>
 
-The prose is... fine. It's harder for me to judge than it would be for a native English speaker, but it seems just right, neither obtusely lofty, nor patronizingly simplistic. There are some awkward word choices[^dynamic], and occasionally, the narrator has a weird habit of explicitly spelling out the characters' feelings even when it's evident from the text. For example:
+The prose is... fine. It's harder for me to judge than it would be for a native English speaker, but it seems just right, neither obtusely lofty, nor patronizingly simplistic --- a pleasant surprise, considering how corny and derivative the dialogue tends to be in Blizzard games produced with Metzen on the writing team. There are some awkward word choices[^dynamic], and occasionally, the narrator has a weird habit of explicitly spelling out the characters' feelings even when it's evident from the text. For example:
 
 >  “The future of our people is no longer your concern,” Barthilas said coldly. “I rule Hearthglen now, Tirion. And as long as I do, I swear that there will never be peace with the orcs! On my parents’ departed souls, I swear that every last orc in Lordaeron will burn for what they’ve done!”
 > 
@@ -59,6 +68,8 @@ And, of course, there's the protagonist-centered morality at the end. Thrall's o
 
 
 ## What's Next?
+
+*Of Blood and Honor* is fairly detached from the rest of the Warcraft narrative so far. We'll return to it once the characters first seen here appear in other works.
 
 Next we'll be looking at *[Day of the Dragon](https://warcraft.wiki.gg/wiki/Day_of_the_Dragon)*, the first Warcraft book by Richard A. Knaak. Whereas in Warcraft 2 and Warcraft Adventures, Alexstrasza and Deathwing were simply powerful dragons who just happened to be red and black respectively, this book forever changed the way dragons were written in all Warcraft media going forward --- both for good and for ill.
 
