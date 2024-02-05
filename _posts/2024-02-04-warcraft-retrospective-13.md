@@ -73,7 +73,7 @@ Tirion awakens back home, in his bed, and thinks it was all a dream first. Howev
 
 We're introduced to a few more characters. There is [Arden](https://warcraft.wiki.gg/wiki/Arden), the captain of the guard at Mardenholde, the "everyman" character who, throughout the story, tries to talk Tirion out of his lofty paladin ideals in favor of common good. There's [Barthilas](https://warcraft.wiki.gg/wiki/Barthilas), a young and brash paladin who missed his chance to prove himself in battle in the Second War, being inducted into the order shortly after it ended, and now longs to fight orcs. Since the story has no real villain, and all characters with the authority to impede Tirion's goals are themselves virtuous, Barthilas exists largely as a [character for the reader to hate](https://tvtropes.org/pmwiki/pmwiki.php/Main/HateSink) --- a paladin in name only, having no respect for anyone but himself, willing to kill an orc on the spot just for being an orc, vengeful, and a sore loser.
 
-Barthilas learns that Tirion faced an orc, and believes he might be a forward scout of an advanced orcish army. He wishes it was him fighting that orc, calls for the woods to be scoured immediately, and overall acts demanding and disrespectful of Tirion, leading to probably the most hilarious-in-hindsight quote in the entire book:
+Barthilas learns that Tirion faced an orc, and believes he might be a forward scout of an advanced orcish army. He wishes it was him fighting that orc, calls for the woods to be scoured immediately, and overall acts demanding and disrespectful of Tirion, leading to probably the most [hilarious-in-hindsight](https://tvtropes.org/pmwiki/pmwiki.php/Main/HilariousInHindsight) quote in the entire book:
 
 > Tirion clenched his fists and tried to keep his voice even. The advisors, who had kept silent during their heated exchange, seemed incensed by Barthilas’ disrespectful rantings.
 > 
@@ -93,10 +93,14 @@ Touched by the story, and despite his doubts and fear of consequences, Tirion pl
 
 (As a side note, Metzen has this really strange obsession with honor, as if he's contractually obligated to mention it at least once per page. An honorable paladin finds an honorable orc warrior who tells him about the honorable old days of the honorable orcish traditions, and as a matter of honor, Tirion swears an oath. Honor.)
 
+{% figure [caption:"Sorry. I had to."] %}
+![Honor](/assets/wr/zuko_honor.png)
+{% endfigure %}
+
 
 ### Where the Feces Hit the Ventilator
 
-Back home, however, Barthilas tries to pry the truth with all his usual lack of tact, to no avail. Then we get a scene of Tirion with his wife Karandra, and... let's not sugarcoat it, it's bad. She's a [Wet Blanket Wife](https://tvtropes.org/pmwiki/pmwiki.php/Main/WetBlanketWife), the kind of character who only exists to guilt-trip the hero into putting his duties above his family. We have *one* female character in this story, and she's a discredited character archetype with all the depth of a sheet of tissue paper. She wants to know the truth about Tirion's solo excursion as well, but he can't tell her because of his oath to Eitrigg.
+Back home, however, Barthilas tries to pry the truth with all his usual lack of tact, to no avail. Then we get a scene of Tirion with his wife Karandra, and... let's not sugarcoat it, it's bad. She's a [Wet Blanket Wife](https://tvtropes.org/pmwiki/pmwiki.php/Main/WetBlanketWife), the kind of character who only exists to guilt-trip the hero for putting his duties above his family. We have *one* female character in this story, and she's a discredited character archetype with all the depth of a sheet of tissue paper. She wants to know the truth about Tirion's solo excursion as well, but he can't tell her because of his oath to Eitrigg.
 
 Soon, [Saidan Dathrohan](https://warcraft.wiki.gg/wiki/Saidan_Dathrohan), Tirion's old friend and superior as a paladin who takes his duty seriously, arrives with a surprise visit. Barthilas alerted him to the existence of orcs in Hearthglen, and now Saidan wants to make sure for himself. Tirion can't lie to him; he confesses that he encountered an orc in battle, but omits the details of his later off-record contact with Eitrigg. Nonetheless, Saidan is adamant that Tirion lead him and others to the place where he saw this orc, which is the abandoned tower. Barthilas is practically shining with glee.
 
@@ -197,7 +201,7 @@ Next we'll be looking at *[Day of the Dragon](https://warcraft.wiki.gg/wiki/Day_
 
 ------------------
 
-Full width screenshot from Final Fantasy XIV.
+Full width screenshots from Final Fantasy XIV and *Avatar: The Last Airbender*.
 
 Screenshot from the webcomic *[The Order of the Stick](https://oots.fandom.com/wiki/Main_Page)* by Rich Burlew.
 
@@ -211,7 +215,7 @@ Screenshot from the webcomic *[The Order of the Stick](https://oots.fandom.com/w
 
 [^geography]: Yes, the geography here is out of whack with World of Warcraft. I'll talk about it in time.
 
-[^timeline]: The timeline is wonky in the narration here. The text insists twice that Tirion has served the Alliance for thirty years as a paladin, yet the Second War, explicitly, only only twelve years ago, and lore-wise, paladins did not exist before the Second War. This will only get murkier as the dates of the First and Second Wars are further retconned and the timeline compressed.
+[^timeline]: The timeline is wonky in the narration here. The text insists twice that Tirion has served the Alliance for thirty years as a paladin, yet the Second War, explicitly, only ended twelve years ago, and lore-wise, paladins did not exist before the Second War. This will only get murkier as the dates of the First and Second Wars are further retconned and the timeline compressed.
 
 [^sense]: The narrator also says that as a paladin, Tirion has an emphatic ability to sense the emotions of others, which is how he knows the orc is sincere. I don't really like it, as it cheapens his character development, is redundant given everything else he learns without any magic, and raises the question of why none of the *other* paladins in the story sensed that Eitrigg was just a lone hermit and no threat.
 
