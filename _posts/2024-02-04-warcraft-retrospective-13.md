@@ -19,7 +19,7 @@ This is a fairly short book. With only 128 paper pages, Warcraft Wiki classifies
 
 At one point in the Mass Effect Retrospective, Shamus Young [talks](https://www.shamusyoung.com/twentysidedtale/?p=28980) about the importance of showing the world through the eyes of regular people.
 
-Warcraft 1 and 2 are about large-scale war, about whole army deployments and battles that decide the fate of kingdoms and continents. And even this story is highly abstracted by the gameplay, where peasant villages and the nvader fortresses alike are represented by the same kind of bases with the same tech trees. With such abstraction, it's not easy to imagine the wars as they actually occur in-universe, with looting and pillaging, with scorched lands and ruined lives.
+Warcraft 1 and 2 are about large-scale war, about whole army deployments and battles that decide the fate of kingdoms and continents. And even this story is highly abstracted by the gameplay, where peasant villages and invader fortresses alike are represented by the same kind of bases with the same tech trees. With such abstraction, it's not easy to imagine the wars as they actually occur in-universe, with looting and pillaging, with scorched lands and ruined lives.
 
 Warcraft Adventures gives us a taste of the aftermath of the wars from the perspective of [an orc raised in human captivity](https://warcraft.wiki.gg/wiki/Thrall). The orcs lost, were forced to live in a way contrary to their nature, and as a result, were reduced to despondent drunkards. And now we're seeing how the wars affected human society --- through the eyes of a single paladin. And it makes us care about the world the way Warcraft 1 and 2 just didn't, and couldn't by design.
 
@@ -27,7 +27,7 @@ As an example of a game that's effective at fostering empathy for the common peo
 
 In one story arc, you're thrust into a country that years ago was conquered by an evil expansionist empire and turned into a colony. The people in occupied villages give sidequests. Here's how a [pretty typical sidequest](https://ffxiv.gamerescape.com/wiki/Hard_Country#Dialogue) in that region plays out, paraphrased.
 
-> *The hero, with their badass weapon in their badass armor, is strolling through the village. They see a lone woman sitting on a bench alone, away from the others, staring at the ground dejectedly.*
+> *The hero, with their badass weapon in their badass armor, is strolling through the village. They see a lone woman sitting on a bench away from the others, staring at the ground dejectedly.*
 >
 > **Jane Q. Peasant:** You best just go past me if you don't want to get in trouble.
 >
