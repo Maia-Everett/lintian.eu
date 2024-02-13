@@ -204,7 +204,7 @@ Warcraft 2, which introduced dragons, didn't develop them much. The Horde probab
 
 *Day of the Dragon* introduced the five Dragon Aspects as we know them now, with their responsibilities. Some details are still missing; for example, Deathwing is only known by that name, leaving him the odd name out. They're properly mysterious, mostly above mortal concerns, and actually have unique characterization and distinct stylistic voices.[^voices] You can't help but be curious where they came from and who bestowed them with these powers.
 
-There are also hints at the ancient history of the world, a long-forgotten time where dragons reigned, and at [ancient elves](https://warcraft.wiki.gg/wiki/Night_elf) who were not like the elves of today's Quel'Thalas. Suddenly, the world was more ancient and mysterious than even the most learned wizards of the present day thought.
+There are also hints at the ancient history of the world, a long-forgotten time when dragons reigned, and at [ancient elves](https://warcraft.wiki.gg/wiki/Night_elf) who were not like the elves of today's Quel'Thalas. Suddenly, the world was more ancient and mysterious than even the most learned wizards of the present day thought.
 
 And of course, this book introduces the idea of dragons transforming into humanoid forms willy-nilly.
 
