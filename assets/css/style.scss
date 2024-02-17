@@ -31,6 +31,10 @@ body {
   word-spacing: 0.5px;
 }
 
+code, pre {
+  word-spacing: 0;
+}
+
 acronym, abbr {
   cursor: pointer;
 }
