@@ -103,7 +103,7 @@ Like I said, I'm not going to play through Warcraft Adventures, as it was never 
 
 Already the trailer properly sets the mood. It's a cartoony game. Not the modern Warcraft aesthetic we know from Warcraft 3 onwards, but a *different* cartoony aesthetic of 1980-style animated series.
 
-The intended overall plot of Warcraft Adventures was retold by Bill Roper in an [inteview to GameSpot](https://web.archive.org/web/20100217005059/https://www.gamespot.com/features/pcgraveyard/p4_05.html/). It's reproduced verbatim by [the Warcraft Wiki page](https://warcraft.wiki.gg/wiki/Warcraft_Adventures:_Lord_of_the_Clans#Story) on the game, with some analysis on the game's deviations from later Warcraft lore.
+The intended [overall plot](https://warcraft.wiki.gg/wiki/Warcraft_Adventures:_Lord_of_the_Clans_storyline) of Warcraft Adventures was retold by Bill Roper in an [inteview to GameSpot](https://web.archive.org/web/20100217005059/https://www.gamespot.com/features/pcgraveyard/p4_05.html/). It's reproduced verbatim by [the Warcraft Wiki page](https://warcraft.wiki.gg/wiki/Warcraft_Adventures:_Lord_of_the_Clans#Story) on the game, with some analysis on the game's deviations from later Warcraft lore.
 
 We're back on Azeroth. This makes sense, since Draenor was destroyed at the end of Beyond the Dark Portal. After the Second War, the Alliance, showing mercy to the surviving orcs, put them in reservations, letting them live there and work the land as long as they didn't cause much fuss. But to the orcs, proud steppe-roamers as they were, this way of life was antithetical to their nature. They fell into lethargy, despair, even alcoholism.
 
