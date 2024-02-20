@@ -188,7 +188,7 @@ Langston is captured in the chaos, shaken and fearing for his life, and Thrall e
 
 ### The Battle of Durnholde
 
-By dropping Taretha's necklace in the hollowed tree, Thrall requests an audience with her, asking her to relay to Blackmoore that he wants to negotiate. She leaves Durnholde through a secret escape tunnel, reuniting with Thrall for a short while. Unfortunately, Blackmoore, who until now lulled Taretha into a false sense of security, had secretly sent a spy after her who learned of the whole exchange.
+By dropping Taretha's necklace in the hollowed tree, Thrall requests a meeting with her, asking her to relay to Blackmoore that he wants to negotiate. She leaves Durnholde through a secret escape tunnel, reuniting with Thrall for a short while. Unfortunately, Blackmoore, who until now lulled Taretha into a false sense of security, had secretly sent a spy after her who learned of the whole exchange.
 
 Blackmoore greets Thrall from Durnholde's walkway, completely smashed drunk, and refuses Thrall's very generous terms of surrender --- releasing all the captive orcs in exchange for Thrall returning into the wilds and leaving the humans alone. Instead, he keeps riling his former slave up, *blabbers out his plan to betray the Alliance*, and Langston, weak-willed coward that he is, misses the opportunity for a peaceful resolution.
 
@@ -221,13 +221,14 @@ As I said, I like this book. Its plot is not terribly original --- it's every co
 ![Honor](/assets/wr/wa_skylight.png)
 {% endfigure %}
 
-And it's especially bewildering when you consider the game the story was adapted from. Warcraft Adventures was not only cartoony and simplistic, it was outright *silly*, rife with visual puns ("when pigs fly"), zany aesthetics (Deathwing smoking a hookah), and plots worthy of Saturday morning cartoon villains. In the game, the cause of the imprisoned orcs' lethargy was not withdrawal from demonic bloodlust. Instead, Blackmoore kept the orcs pacified by striking a deal with Rend and Maim to keep the orcs drunk on black ale in exchange for giving them one hundred orc slaves per month.[^game]
+And it's especially amazing when you consider the game the story was adapted from. Warcraft Adventures was not only cartoony and simplistic, it was outright *silly*, rife with visual puns ("when pigs fly"), zany aesthetics (Deathwing smoking a hookah), and plots worthy of Saturday morning cartoon villains. In the game, the cause of the imprisoned orcs' lethargy was not withdrawal from demonic bloodlust. Instead, Blackmoore kept the orcs pacified by striking a deal with Rend and Maim to keep the orcs drunk on black ale in exchange for giving them one hundred orc slaves per month.[^game]
 
 The tone of the book is anything but silly. It's contemplative and somber. And the Blackmoore of the novel is not a Saturday morning cartoon villain. At all.
 Instead, we continue the themes of banality of evil that began in *Of Blood and Honor*. Though Grom compares Blackmoore with Gul'dan, he really isn't. Gul'dan was a cackling megalomaniac who sold his people to demons and doomed his world in a mad quest for power. Blackmoore is just a despicable person indulging in power that he doesn't deserve and didn't earn. And even then, you can be left sorry for him. This is a story where no one is evil to the core --- not even Blackmoore.
 
 > Why, though, if Blackmoore’s aim had ultimately been to win Thrall’s complete loyalty, had he not been treated better? Memories floated into Thrall’s mind that he had not recalled in years: an amusing game of Hawks and Hares with a laughing Blackmoore; a plateful of sweets sent down from the kitchens after a particularly fine battle; an affectionate hand placed on a huge shoulder when Thrall had conquered a particularly tricky strategic problem.
 > 
+> Blackmoore had always aroused many feelings in Thrall. Fear, adoration, hatred, contempt. But for the first time, Thrall realized that, in many ways, Blackmoore deserved his pity. At the time, Thrall had not known why it was that sometimes Blackmoore was open and jovial, his voice clipped and erudite, and sometimes he was brutal and nasty, his voice slurred and unnaturally loud. Now, he understood; the bottle had gotten its talons as firmly into Blackmoore as an eagle’s sank into a hare. Blackmoore was a man torn between embracing a legacy of treachery and overcoming it, of being a brilliant strategist and fighter and being a cowardly, vicious bully. Blackmoore had probably treated Thrall as well as he knew how.
 
 We could have had [this](https://warcraft.wiki.gg/wiki/Warcraft_Adventures:_Lord_of_the_Clans_storyline) instead, but thankfully, we didn't. *Of Blood and Honor* and *Lord of the Clans* paved the way for turning Warcraft from a purely campy setting into one where both silly *and* serious stories could be told, depending on the writer.
 
@@ -239,6 +240,10 @@ We'll talk about the ramifications of that at a later time.
 Technically, Warcraft 3 comes next, but it will have to wait another entry. *[The Last Guardian](https://warcraft.wiki.gg/wiki/The_Last_Guardian)* was released after that game, but thematically it's still part of the four in-between novels, being an expanded look at some of the events of Warcraft 1 through the eyes of Khadgar, who, as it turns out, was Medivh's apprentice, and setting up some important plot points for the third game.
 
 I'm going into this one completely blind. We'll see how it goes!
+
+----
+
+Screenshots from *[Star Wars: The Empire Strikes Back](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back)* and *[Captain Planet and the Planeteers](https://en.wikipedia.org/wiki/Captain_Planet_and_the_Planeteers)*.
 
 
 
