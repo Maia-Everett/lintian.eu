@@ -12,7 +12,7 @@ permalink: /lintian/
 </header>
 
 *Night elf historian, linguist, explorer, and mage apprentice*<br />
-*Age: 519 (as of year 41 after the Dark Portal)*
+*Age: 520 (as of year 42 after the Dark Portal)*
 
 ## Personality
 
