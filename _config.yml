@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   A fantasy roleplayer's blog, particularly devoted to Warcraft and Final Fantasy XIV.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lintian.eu" # the base hostname & protocol for your site, e.g. http://example.com
+paginate: 10
+paginate_path: "/page/:num/"
 
 staticman_url: https://staticman.lintian.eu/v3/entry/github/Maia-Everett/lintian.eu/main/comments
 
