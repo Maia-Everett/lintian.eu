@@ -45,7 +45,7 @@ Oh, and the pandaren, another iconic Warcraft race, began as an [April Fools jok
 
 Warcraft 3 was also Blizzard's first 3D game, developed with an in-house engine. Everything was new and the technology was untested. Countless art assets and models were made, scrapped, and remade until the team got the look just right. This was the time of Classic Blizzard, when long development times meant quality.
 
-{% figure [caption:"The world shape changed a lot, too. This is one of Metzen's early sketches, a wall painting from 1999."] %}
+{% figure [caption:"World map wall painting by Metzen, from 1999. &ldquo;The Maw&rdquo;, of course, cleverly foreshadows Shadowlands."] %}
 ![Azeroth map 1999](/assets/wr/Azeroth_map_concept_Metzen_1999_wall_painting.jpg)
 {% endfigure %}
 
