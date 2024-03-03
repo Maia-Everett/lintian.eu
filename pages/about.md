@@ -13,3 +13,8 @@ More than just roleplaying myself, I want to support the hobby and ease new peop
 This blog is dedicated to my RP experiences and to my thoughts on different fantasy settings from a roleplayer's point of view.
 
 I am available on Discord, as [Linneris](https://discord.com/users/229300241910857729).
+
+
+## Can I use your writing for my own purposes?
+
+Sure — under specific, fairly permissive terms. See the [copyright page](/copyright/).
