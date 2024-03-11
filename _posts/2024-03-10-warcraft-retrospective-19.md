@@ -4,9 +4,9 @@ title: "Warcraft Retrospective 19: Exodus of the Horde, Part One"
 categories: [ Warcraft Retrospective, Warcraft ]
 ---
 
-All right! Let's start Warcraft 3: Reign of Chaos, and play through all the campaigns, in order.
+All right! Let's start Warcraft 3: Reign of Chaos, and play through all the campaigns, in order. If you want to see a video review of the campaigns, I recommend [this one](https://www.youtube.com/watch?v=UvS0mArxpyo) by GiantCrabGames, which covers both the base game and the Frozen Throne expansion in *amazing* detail, while also focusing on what makes the Warcraft 3 gameplay captivating.
 
-But before I do that, there's one question to clear up...
+Before I play Warcraft 3, however, there's one question to clear up.
 
 <img alt="But what about Reforged?" src="/assets/wr/elephant_reforged.jpg" width="600" />
 
@@ -141,6 +141,108 @@ As amazing as [some fan-made campaigns](https://www.hiveworkshop.com/threads/chr
 
 ## Departures
 
+{% figure [caption:"Another nice touch in this game is that the mission intro text usually tells you how much time has passed between missions in-universe."] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_144940_40.jpg)
+{% endfigure %}
+
+Three days later, the Prophet has yet to show himself. Despite his doubts, Thrall continues with the evacuation plan, which now entails building a base camp to house the arriving Horde. A grunt tells him that Grom Hellscream is yet to arrive, which makes Thrall worried.
+
+{% figure [caption:"Warcraft 3 has an idle workers counter, letting you cycle through all your worker units that are not working on anything, and give orders."] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_145118_45.jpg)
+{% endfigure %}
+
+This mission is a tutorial in base building.
+
+Again, Warcraft 3 sets a new standard in aesthetics, this time it being orc building aesthetics that will carry over into World of Warcraft. There are some changes in how gold mines work. Peons no longer spend time inside gold mines and instead rapidly cycle back and forth, but bring only 10 gold per trip instead of 100. Also, only five peons can gather from the same gold mine efficiently at once. You can assign more, but they'll spend a lot of time waiting outside.
+
+That building next to the great hall is an Altar of Storms, and is purpose is to raise dead heroes. This design solves a problem with hero units that plagued prior RTS games, including Warcraft 2 and Starcraft.
+
+On baseless missions, like in previous games, [the heroes must survive](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroMustSurvive), and any hero's death instantly fails the mission. That's okay in this game, because heroes are sturdy, there's a lot of healing items on the way, and you only control the hero's stack with no pressure to multitask. You just methodically advance from the beginning of the map to the end, exploring everything along the way.
+
+However, on missions with a base, things can get frantic, and your heroes can be killed in the fray. In previous games, this created an incentive to keep your heroes back at your base, out of trouble, which negated their whole purpose and didn't feel exactly, well, *heroic*. In Warcraft 3, slain heroes can be resurrected back at the base, which is slow and expensive, but at least it means you aren't punished for bringing them into critical battles. It's also, *very* critically, [treated as a gameplay mechanic only](https://tvtropes.org/pmwiki/pmwiki.php/Main/GameplayAndStorySegregation), like the rest of the RTS abstractions. Heroes die in the story all the time (there really is a lot of major character deaths in Warcraft 3), but nobody, *ever*, treats the altars as get-back-to-life-free-cards that exist in-story, nor does anyone ever propose or acknowledge the possibility of resurrecting dead characters there.
+
+This is very, very important. Remember this for when we [get to Cataclysm](https://warcraft.wiki.gg/wiki/Spirit_Healer).
+
+{% figure [caption:"And another innovation is that a mission can have a sequence of objectives, not all of which are revealed right away."] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_145622_49.jpg)
+{% endfigure %}
+
+The user interface deserves praise as well. Quests are highlighted in popup text, their objectives are updated as you make progress, and gameplay tips and hints appear throughout the missions, including brief descriptions of new units (under the title of "NEW UNIT ACQUIRED") when you first gain access to them. Whoever was in charge of usability and user experience for this game deserves a medal.
+
+The quest tells us to train five grunts, but it's not actually optimal to do so right away, because it will complete the quest and trigger an event that starts the next one. So I trained four grunts, then led them and Thrall to explore the available part of the map, clearing a gnoll camp and picking up a Scroll of Healing that a hero can use to heal all nearby allies.
+
+{% figure [caption:"Those poor creeps just can't catch a break, existing only as cannon fodder to be slain. Why can't we just <em>talk</em> to them?"] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_145842_51.jpg)
+{% endfigure %}
+
+The road abruptly ends with a broken bridge. Hmm, I wonder if it's plot-activated.
+
+{% figure [caption:"Can we fix it? Yes, we can, but the humans will do it for us."] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_150015_52.jpg)
+{% endfigure %}
+
+Hilariously, you can [repair it](https://www.youtube.com/watch?v=lTeiGLXJoiI), even though it's not what the game expects you to do, and it [breaks the intended sequence](https://tvtropes.org/pmwiki/pmwiki.php/Main/SequenceBreaking). What you're *supposed* to do is to complete the quest, after which human peasants repair the bridge from the other side, and a human captain and some footmen charge in.
+
+{% figure [caption:"Hint: don't give an enemy that outnumbers you a reason to invade your camp."] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_150034_54.jpg)
+{% endfigure %}
+
+Thrall deduces that the captured leader is Grom Hellscream, and charges into the human camp across the river. You storm in, kill some human footmen and riflemen, and free captive orcs, including two shamans --- a new type of caster unit.
+
+Then, suddenly, a message flashes across the screen!
+
+{% figure [caption:"Whose upkeep are you calling low, you punk?!"] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_150406_60.jpg)
+{% endfigure %}
+
+Congratulations, you've encountered the much-maligned [upkeep mechanic](https://warcraft.wiki.gg/wiki/Upkeep).
+
+Like I said, Warcraft 3 is designed around hero units leading relatively small stacks, and this affected the way unit supply works in this game. In Starcraft, your supply cap is 200, and there's no real reason not to mass units until this cap, other than your available resources. In Reign of Chaos, the supply cap is only 90, and even then, you're discouraged from filling it as soon as you can by two "soft caps" --- the breakpoints between no, low, and high upkeep.
+
+At no upkeep, each worker gathering gold or lumber returns 10 of it per trip. At low upkeep, which triggers when your total used supply exceeds 40, each worker only trip only yields 7 gold or lumber, but the gold mine or the forest still have the full 10 deducted --- the remainder is simply lost. At high upkeep, which you enter above 70 supply, each trip only yields 4 gold or lumber. This acts as a rubber band mechanic: the more units you have, the more of your resource gathering is wasted, slowing down your unit production.
+
+On campaign missions where you want to take your time instead of rushing the enemy base right away, it is often beneficial to stockpile some resources at no upkeep, then quickly build up an army when it's time to attack.
+
+{% figure [caption:"If you hit a tower with axes long enough, eventually it will catch fire. Aren't video games educational?"] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_150734_65.jpg)
+{% endfigure %}
+
+Here, the enemy has no base. Instead, you need to destroy three guard towers protecting Grom's cage, after which he is freed, and the Horde is ready to depart.
+
+{% figure [caption:"Is that the entire Horde or are there a bazillion more rows of grunts offscreen?"] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_150831_69.jpg)
+{% endfigure %}
+
+Grom has an idea: the orcs can set sail on the humans' own ships. Because they're nomadic steppe warriors, so naturally, they know how to do that.
+
+[![DM of the Rings](/assets/wr/comic_lotr117.jpg)](https://www.shamusyoung.com/twentysidedtale/?p=1212)
+
+Well, that's unfair. A lot of these orc captives in internment camps probably sailed ships back in the Second War, when naval combat was all the range. Thrall and Grom somehow load the entire Horde onto these few stolen human ships and depart Lordaeron, and the human lands, for good as the Prophet watches from a nearby hill.
+
+{% figure [caption:"The Reign of Chaos engine doesn't support naval units at all, so ships in campaign cutscenes are scripted as either land units or very low-flying air units."] %}
+![Departures](/assets/wr/WC3ScrnShot_031024_150842_70.jpg)
+{% endfigure %}
+
+And just to give you an idea of the difference in level of detail, here's how the same cutscene looks in Reforged. We'll get to that edition --- way, way later, in its due time.
+
+{% figure [caption:""] %}
+![Departures](/assets/wr/WC3ScrnShot_022521_170306_001.jpg)
+{% endfigure %}
+
+Before we proceed, I should really mention one last thing...
+
+
+## The Horde Identity, Redux
+
+First of all, I should say that the music in Warcraft 3 is *superb* and gives me goosebumps even now. In my opinion, the orc music theme really fits Thrall's reformed Horde: the orcs are still proud steppe warriors, but now they've cast off their bloodstained past and are striving to find themselves in a new land.
+
+{% youtube "https://www.youtube.com/watch?v=XVbbai6iiBs" %}
+
+Before, I [mentioned](https://lintian.eu/2024/01/07/warcraft-retrospective-9/) the difference between Warcraft 1's Monster Horde and Warcraft 2's War Machine Horde. The prologue campaign, following *Lord of the Clans*, brings us the faction's current incarnation, which [Ramses calls](https://ramses-reviews.blogspot.com/2014/01/a-special-look-at-alliance-part-two.html) the **Rebel Horde**. They're underdogs, hiding in the hills and trying to free the rest of their people --- a task at which they eventually succeed. They face a shameful past and an uncertain future. They fight humans not for the sake of fighting, but because they're *forced* to.
+
+It seems that this particular version of the Horde has struck a chord with both the writers and the players, and it's not hard to see why. People sympathize with underdogs and atoners, and despite these qualities, Thrall's Horde has definitely retained a certain *edge* and roughness --- it just doesn't revel in them.
+
+We'll see what this vision of the Horde morphs into in the orc campaign proper.
 
 
 ## What's Next?
@@ -149,7 +251,7 @@ And that was part one of the prologue campaign. Next up is part two.
 
 "What part two? Doesn't this campaign only have two missions?"
 
-[Not quite.](https://warcraft.wiki.gg/wiki/Warcraft_III_Demo)
+Not quite. [Make it five.](https://warcraft.wiki.gg/wiki/Warcraft_III_Demo)
 
 
 -------
@@ -157,7 +259,7 @@ And that was part one of the prologue campaign. Next up is part two.
 *["Elephant in the Room"](https://www.deviantart.com/pepey/art/Elephant-in-the-room-747516645) by Ferdi Rizkiyanto, Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.*
 
 
-[^renames]: But with some character renames. I'll get there.
+[^renames]: Some units were renamed and got new models between Reign of Chaos and The Frozen Throne --- apparently for copyright reasons because Warhammer Fantasy had similar ones. Also, Furion was renamed Malfurion for The Frozen Throne, and Reforged also renamed Grom to Grommash. Reforged applies TFT units, gameplay balance, and character names retroactively to the RoC campaign. It's a mess, and we'll look at it when we get to 2020 in the timeline.
 
 [^wolf]: Thrall does ride a white wolf in Reforged.
 
