@@ -37,7 +37,7 @@ Single Player. Campaign. Here we go...
 
 ![Campaign selection](/assets/wr/WC3ScrnShot_030524_133426_04.jpg)
 
-There are two difficulty levels: Normal and Hard. There's also an Easy mode, but it's only unlocked by failing a mission on Normal difficulty. Reforged makes an easy difficulty available from the start, only it calls it Story difficulty. Not being a challenge-oriented player, I'll play through the campaigns on Normal difficulty.
+There are two difficulty levels: Normal and Hard. There's also an Easy mode, but it's only unlocked by failing a mission on Normal difficulty. Reforged makes an easy mode available from the start, only it calls it Story mode. Not being a challenge-oriented player, I'll play through the campaigns on Normal difficulty.
 
 We click the label for the prologue campaign... and get treated with an absolutely *goosebumps-inducing* pre-rendered cinematic.
 
@@ -84,7 +84,7 @@ These screenshots very much showcase the aesthetic Warcraft 3 pioneered, which b
 
 > The art we created completely separated us from other companies' art styles. Where most companies were pushing realism and realistic characters, we opted for a comic book version of fantasy. We didn't want to be *Lord of the Rings* or standard D&D fantasy. We wanted our characters to be the superhero versions of fantasy characters, rock stars with battle axes, with each one of our heroes and units looking like they could take on a whole army by themselves.
 
-Soon, Thrall and the grunts reach and kill a gnoll, then three gnolls (the narrator uses this encounter to teach the attack-move command), and Thrall levels up, learning the Chain Lightning spell. The path crosses a river, where we have our first encounter with one of the long-standing mascots of the Warcraft franchise: fish people called [murlocs](https://en.wikipedia.org/wiki/Murloc).
+Soon, Thrall and the grunts reach and kill a gnoll, then three gnolls (the narrator uses this encounter to teach the attack-move command), and Thrall levels up, learning the Chain Lightning spell. The path crosses a river, where we have our first encounter with one of the long-standing mascots of the Warcraft franchise: fish people called [murlocs](https://warcraft.wiki.gg/wiki/Murloc).
 
 {% figure [caption:"Shallow water can be crossed by land units. Deep water can't be crossed by anything, since you can't control or board ships in this game."] %}
 ![Chasing Visions](/assets/wr/WC3ScrnShot_031024_144036_21.jpg)
@@ -155,7 +155,7 @@ This mission is a tutorial in base building.
 
 Again, Warcraft 3 sets a new standard in aesthetics, this time it being orc building aesthetics that will carry over into World of Warcraft. There are some changes in how gold mines work. Peons no longer spend time inside gold mines and instead rapidly cycle back and forth, but bring only 10 gold per trip instead of 100. Also, only five peons can gather from the same gold mine efficiently at once. You can assign more, but they'll spend a lot of time waiting outside.
 
-That building next to the great hall is an Altar of Storms, and is purpose is to raise dead heroes. This design solves a problem with hero units that plagued prior RTS games, including Warcraft 2 and Starcraft.
+That building next to the great hall is an Altar of Storms, and its purpose is to raise dead heroes. This design solves a problem with hero units that plagued prior RTS games, including Warcraft 2 and Starcraft.
 
 On baseless missions, like in previous games, [the heroes must survive](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroMustSurvive), and any hero's death instantly fails the mission. That's okay in this game, because heroes are sturdy, there's a lot of healing items on the way, and you only control the hero's stack with no pressure to multitask. You just methodically advance from the beginning of the map to the end, exploring everything along the way.
 
@@ -199,7 +199,7 @@ Congratulations, you've encountered the much-maligned [upkeep mechanic](https://
 
 Like I said, Warcraft 3 is designed around hero units leading relatively small stacks, and this affected the way unit supply works in this game. In Starcraft, your supply cap is 200, and there's no real reason not to mass units until this cap, other than your available resources. In Reign of Chaos, the supply cap is only 90, and even then, you're discouraged from filling it as soon as you can by two "soft caps" --- the breakpoints between no, low, and high upkeep.
 
-At no upkeep, each worker gathering gold or lumber returns 10 of it per trip. At low upkeep, which triggers when your total used supply exceeds 40, each worker only trip only yields 7 gold or lumber, but the gold mine or the forest still have the full 10 deducted --- the remainder is simply lost. At high upkeep, which you enter above 70 supply, each trip only yields 4 gold or lumber. This acts as a rubber band mechanic: the more units you have, the more of your resource gathering is wasted, slowing down your unit production.
+At no upkeep, each worker gathering gold returns 10 of it per trip. At low upkeep, which triggers when your total used supply exceeds 40, each worker's trip only yields 7 gold , but the gold mine still has the full 10 deducted --- the remainder is simply lost. At high upkeep, which you enter above 70 supply, each trip only yields 4 gold. This acts as a rubber band mechanic: the more units you have, the more of your resource gathering is wasted, slowing down your unit production, while your gold mine is still exhausted at the same rate.
 
 On campaign missions where you want to take your time instead of rushing the enemy base right away, it is often beneficial to stockpile some resources at no upkeep, then quickly build up an army when it's time to attack.
 
@@ -217,7 +217,7 @@ Grom has an idea: the orcs can set sail on the humans' own ships. Because they'r
 
 [![DM of the Rings](/assets/wr/comic_lotr117.jpg)](https://www.shamusyoung.com/twentysidedtale/?p=1212)
 
-Well, that's unfair. A lot of these orc captives in internment camps probably sailed ships back in the Second War, when naval combat was all the range. Thrall and Grom somehow load the entire Horde onto these few stolen human ships and depart Lordaeron, and the human lands, for good as the Prophet watches from a nearby hill.
+Well, that's unfair. A lot of these orc captives in internment camps probably sailed ships back in the Second War, when naval combat was all the rage. Thrall and Grom somehow load the entire Horde onto these few stolen human ships and depart Lordaeron, and the human lands, for good as the Prophet watches from a nearby hill.
 
 {% figure [caption:"The Reign of Chaos engine doesn't support naval units at all, so ships in campaign cutscenes are scripted as either land units or very low-flying air units."] %}
 ![Departures](/assets/wr/WC3ScrnShot_031024_150842_70.jpg)
@@ -257,6 +257,8 @@ Not quite. [Make it five.](https://warcraft.wiki.gg/wiki/Warcraft_III_Demo)
 -------
 
 *["Elephant in the Room"](https://www.deviantart.com/pepey/art/Elephant-in-the-room-747516645) by Ferdi Rizkiyanto, Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.*
+
+*Screenshot from the webcomic [DM of the Rings](https://www.shamusyoung.com/twentysidedtale/?p=612) by Shamus Young.*
 
 
 [^renames]: Some units were renamed and got new models between Reign of Chaos and The Frozen Throne --- apparently for copyright reasons because Warhammer Fantasy had similar ones. Also, Furion was renamed Malfurion for The Frozen Throne, and Reforged also renamed Grom to Grommash. Reforged applies TFT units, gameplay balance, and character names retroactively to the RoC campaign. It's a mess, and we'll look at it when we get to 2020 in the timeline.
