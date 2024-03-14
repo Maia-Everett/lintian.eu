@@ -23,7 +23,7 @@ Seeking shelter from a sudden storm, the Horde has made landfall on an island. T
 ![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_192706_04.jpg)
 {% endfigure %}
 
-The orcs loaded their entire population on ships and then immediately crashed them. <a href='https://warcraft.wiki.gg/wiki/Draenei'>What other race</a> could possibly achieve such a feat? Furthermore, the shamans sense a source of strange magic, which turns out to be a [tribe of jungle trolls](https://warcraft.wiki.gg/wiki/Darkspear_tribe), led by [Sen'jin](https://warcraft.wiki.gg/wiki/Sen'jin).
+The orcs loaded their entire population on ships and then immediately crashed them. <a href='https://warcraft.wiki.gg/wiki/Draenei'>What other race</a> could possibly achieve such a feat? Furthermore, the shamans sense a source of strange magic, which turns out to be a [tribe of jungle trolls](https://warcraft.wiki.gg/wiki/Darkspear_tribe), led by [Sen'jin](https://warcraft.wiki.gg/wiki/Sen'jin). Warcraft 3 starts the trend of trolls speaking with a [Jamaican accent](https://www.youtube.com/watch?v=1kqhi-YIre8).
 
 {% figure [caption:"Those troll models are so low-poly that I struggle to find where Sen'jin's head is supposed to be. Or his torso, for that matter."] %}
 ![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_192755_09.jpg)
@@ -43,15 +43,15 @@ That well behind him is a corrupted [Fountain of Health](https://warcraft.wiki.g
 ![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_193901_17.jpg)
 {% endfigure %}
 
-Optional quests are just that --- optional. There's generally only one or two per mission and they're mostly worth doing. Here, the two items are located in the north, guarded by ogres and ogre-magi, and the south, gathered by monsters new to the setting --- thunder and lightning lizards.
+Optional quests are just that --- optional. There's generally only one or two per mission and they're mostly worth doing. Here, the two items are located in the north, guarded by ogres and ogre-magi, and the south, gathered by monsters new to the setting: thunder and lightning lizards.
 
-{% figure [caption:"Beware of lightning, my warriors. The mouseover popup says &ldquo;Lightning Lizard&rdquo;"] %}
-![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_143547_18.jpg)
+{% figure [caption:"Beware of lightning, my warriors. The mouseover popup says &ldquo;Lightning Lizard&rdquo;."] %}
+![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_193912_18.jpg)
 {% endfigure %}
 
-Creeps in Warcraft 3 often come in packs of weaker units led by a stronger unit, and another thing I appreciate is that unit size is generally an indicator of strength. The bigger a unit, and the more flashy effects it has, the more menacing it's going to be.
+Creeps in Warcraft 3 often come in packs of weaker units led by a stronger unit, and another thing I appreciate is that unit size is generally an indicator of strength. The bigger a unit, and the flashier effects it has, the more menacing it's going to be.
 
-I actually got overconfident here, sending my entire army on the optional quest. In campaign missions, enemy attacks on your base come periodically in waves, and it's often beneficial to wait for the next wave and then go exploring. I got overconfident, and the humans attacked my base while my troops were gathering the items for the side quest. Fortunately, on normal mode, the attack force is really paltry, and a single peon was able to keep repairing my barracks until Thrall and his units returned to the base.
+I actually got overconfident here, sending my entire army on the optional quest. In campaign missions, enemy attacks on your base come periodically in waves, and it's often beneficial to wait for the next wave and then go exploring. I neglected to wait, and the humans attacked my base while my troops were gathering the items for the side quest. Fortunately, on normal mode, the attack force is really paltry, and a single peon was able to keep repairing my barracks until Thrall and his units returned to the base.
 
 {% figure [caption:"&ldquo;Are you sure they'll keep shooting the barracks and not me?&rdquo;"] %}
 ![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_193946_19.jpg)
@@ -65,7 +65,7 @@ I could counterattack the human base right away, but it's actually worth going a
 ![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_194719_29.jpg)
 {% endfigure %}
 
-Finally, we build up an army and assault the human base. It's defended by a level 3 archmage, but overall its defenses are pretty weak. In this mission, in addition to grunts and shamans, we can build two new units --- the raider and the catapult. Both of them deal siege damage, which is particularly effective against buildings.
+Finally, we build up an army and assault the human base. It's defended by a level 3 archmage, but overall its defenses are pretty weak. In this mission, in addition to grunts and shamans, we can build two new units --- the raider and the catapult. Both of them have the siege damage type, which is particularly effective against buildings.
 
 {% figure [caption:"The human Town Hall has an ability to temporarily turn peasants into militia, aiding in base defense. I have <em>no</em> idea what's going on with that peasant's model."] %}
 ![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_195023_31.jpg)
@@ -73,9 +73,9 @@ Finally, we build up an army and assault the human base. It's defended by a leve
 
 What are these "damage types" I speak of?
 
-Well, it's a bit of a rock-paper-scissors thing. Units have different armor types and different damage types, and some damage types deal more damage to some armor types, and some deal less. It's not quite intuitive, as the exact numbers were picked by balance considerations rather than in-universe logic. In general, melee units deal normal damage, ranged units deal piercing damage, spellcaster units deal magic damage with their autoattacks (which is distinct from damage done by their actual *spells*), and siege units deal siege damage. With armor types, however, it's more hit-or-miss and it's often not obvious what armor type a unit has from just looking at its model. However, what matters for our purposes is that buildings have the fortified armor type, making them resistant to attacks from all non-siege units, but vulnerable to siege units specifically.
+Well, it's a bit of a rock-paper-scissors thing. Units have different armor types and different damage types, and some damage types deal more damage to some armor types, and some deal less. It's not quite intuitive, as the exact numbers were picked by balance considerations rather than in-universe logic. In general, melee units deal normal damage, ranged units deal piercing damage, spellcaster units deal magic damage with their autoattacks (which is distinct from damage done by their actual *spells*), and siege units deal siege damage. With armor types, however, it's more hit-or-miss and it's often not obvious what armor type a unit has from just looking at its model.[^armor_type] However, what matters for our purposes is that buildings have the fortified armor type, making them resistant to attacks from all non-siege units, but vulnerable to siege units specifically.
 
-Also, unarmored armor type and hero and magic damage weren't there at release. They were added in a later balance patch.
+Also, unarmored armor type and hero and magic damage weren't there at release. They were added in a later balance patch. And *also* also, having the "unarmored" armor type doesn't necessarily mean the unit has zero armor. It's just a name.
 
 | --- | --- | --- | --- | --- | --- | --- |
 |     | **Light** | **Medium** | **Heavy** | **Fortified** | **Hero** | **Unarmored** |
@@ -118,13 +118,13 @@ However, suddenly, murlocs climb out from the sea and capture everyone --- orcs,
 ![The Fires Down Below](/assets/wr/WC3ScrnShot_031024_195214_37.jpg)
 {% endfigure %}
 
-Thrall and a troll headhunter are in a prison cell. Thrall wonders what the murlocs want from them, and gets some exposition.
+Thrall and a troll headhunter are in a prison cell, and as usual, nobody bothered to take away their weapons and armor. Thrall wonders what the murlocs want from them, and gets some exposition.
 
 {% figure [caption:"I'm sorry, but was this really the best way to place the camera?"] %}
 ![The Fires Down Below](/assets/wr/WC3ScrnShot_031024_195248_39.jpg)
 {% endfigure %}
 
-Thrall says orcs won't be scared that easily, and escapes by frying the two murloc guards with Chain Lightning. Your starting squad consists on just that one headhunter, but Thrall can also summon his wolves. Thus begins our mission --- a dungeon crawl. And it's *awesome*.
+Thrall says orcs won't be scared that easily, and escapes by frying the two murloc guards with Chain Lightning. Your starting squad consists of just that one headhunter, but Thrall can also summon his wolves. Thus begins our mission --- a dungeon crawl. And it's *awesome*.
 
 Dungeon crawl missions in Warcraft 3 are yet another throwback to Dungeons & Dragons. They're nothing like the linear dungeons of modern WoW; rather, the dungeon fills the entire map, and it's full of secrets, and crazy twists and turns, and mazelike passages, and no shortage of wandering monsters. To keep things fair, however, Thrall's Far Sight ability is disabled underground.
 
@@ -158,7 +158,7 @@ Once you defeat the murloc guards, the sorcerer mortally wounds Sen'jin in a cut
 ![The Fires Down Below](/assets/wr/WC3ScrnShot_031024_202441_63.jpg)
 {% endfigure %}
 
-But sadly, Thrall is too late to save Sen'jin, who, with his dying breath, tells of yet another convenient vision that told him that Thrall will lead his people off the island. Thrall welcomes whatever trolls will follow him --- not that they have much of a choice, as denied of her would-be sacrifices, the sea witch is *pissed* --- and is about to take out her wrath on the island itself.
+But sadly, Thrall is too late to save Sen'jin, who, with his dying breath, speaks of yet another convenient vision, which revealed to him that Thrall will lead his people off the island. Thrall welcomes whatever trolls will follow him --- not that they have much of a choice, as denied her would-be sacrifices, the sea witch is *pissed* and prepares to take out her wrath on the island itself.
 
 
 ## Countdown to Extinction
@@ -183,15 +183,15 @@ I really appreciate the visual continuity here. We're back on the same island, e
 
 Our objective here is simply to survive for 20 minutes. Blizzard previously introduced this type of mission, a ["hold the line"](https://tvtropes.org/pmwiki/pmwiki.php/Main/HoldTheLine) mission, in Starcraft, and here it makes its first Warcraft appearance. This particular mission is pretty easy compared to future ones of that type.
 
-There's also an optional quest. There are three troll camps scattered through the island, giving you free units. One is right next to your base and the other two are not far, so you can visit them all before the enemy attacks. You can also go out exploring, but since Thrall's items and powerups from these bonus missions won't carry over into the main campaign (except in Reforged), I didn't bother.
+There's also an optional quest. There are three troll camps scattered through the island, giving you free units when visited. One is right next to your base and the other two are not far, so you can visit them all before the enemy attacks. You can also go out exploring, but since Thrall's items and powerups from these bonus missions won't carry over into the main campaign (except in Reforged), I didn't bother.
 
 {% figure [caption:"These spikes around orc buildings are a researchable upgrade, and they're pretty useful in this mission, as they deal damage to melee attackers."] %}
 ![Countdown to Extinction](/assets/wr/WC3ScrnShot_031024_204452_79.jpg)
 {% endfigure %}
 
-The enemy attacks from three directions: the west, northeast, and northwest. You can build up a large army to defend your base, but you'll run into the upkeep mechanic. Instead, you can build towers to rain arrows on approaching enemies. The orcs have only one type of this fortification, the Watch Tower, which is pretty cheap, but not very durable. There's an upgrade to give it Fortified armor, but it's not available in this mission.
+The enemy attacks from three directions: the west, northeast, and southeast. You can build up a large army to defend your base, but you'll run into the upkeep mechanic. Instead, you can build towers to rain arrows on approaching enemies. The orcs have only one type of this fortification, the Watch Tower, which is pretty cheap, but not very durable. There's an upgrade to give it Fortified armor, but it's not available in this mission.
 
-Enemy waves consist mostly of murlocs of various types, but the northeast and northwest waves also bring rock golems, which like to stomp the ground and bring massive damage to your towers unless you destroy them quickly. There's also a murloc hero and the Sea Witch herself.
+Enemy waves consist mostly of murlocs of various types, but the northeast and southeast waves also bring rock golems, which like to stomp the ground and bring massive damage to your towers unless you destroy them quickly. There's also a murloc hero and the Sea Witch herself.
 
 As usual for hold-the-line missions, at the last minute the enemies attack you with everything they have, from all three directions at once. They have no bases and instead just spawn on the map, so you can't neutralize them preemptively. When the timer runs out, the mission ends and you sail away --- on three ships, apparently.
 
@@ -210,5 +210,7 @@ We'll leave Thrall, Grom, and the Horde on their journey to Kalimdor and won't r
 [^voice_acting]: Apparently this happened because they only had English voice acting available for the demo missions. Reforged re-recorded non-English voice acting anyway to be in line with WoW terminology, so they recorded new voice lines for the "lost" missions as well.
 
 [^gases]: Foreshadowing!
+
+[^armor_type]: After all the balance patches, generally heavy, medium and light armor is worn by melee, ranged, and flying units respectively. The unarmored armor type, however, is all over the place.
 
 [^dungeon]: Now riddle me this: who built this dungeon? Probably not the murlocs. Was it the night elves? When in doubt, blame the night elves.
