@@ -114,6 +114,10 @@ However, suddenly, murlocs climb out from the sea and capture everyone --- orcs,
 
 ## The Fires Down Below
 
+{% figure [caption:"Yes, sadly, the loading screen map for all three missions is mostly the same."] %}
+![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_195214_37.jpg)
+{% endfigure %}
+
 
 
 
@@ -121,6 +125,43 @@ However, suddenly, murlocs climb out from the sea and capture everyone --- orcs,
 
 ## Countdown to Extinction
 
+{% figure [caption:"Spoiler: the arrow doesn't point to where Thrall will actually land."] %}
+![Countdown to Extinction](/assets/wr/WC3ScrnShot_031024_202649_68.jpg)
+{% endfigure %}
+
+Thrall and his followers emerge from the same cave where the murlocs led them two missions ago. However, the Sea Witch herself appears, proclaiming their doom, and the nearby volcano is about to erupt and sink the whole island. The orcs have to hurry with their ship repairs.
+
+{% figure [caption:"The Sea Witch is clearly some kind of ghost. There's no way she's <a href='https://warcraft.wiki.gg/wiki/Zar%27jira'>a fleshy serpentine creature</a>, right? That's crazy talk."] %}
+![Countdown to Extinction](/assets/wr/WC3ScrnShot_031024_202708_71.jpg)
+{% endfigure %}
+
+Thankfully, the repairs are nearly complete, and we only need to hold out a bit longer.
+
+I really appreciate the visual continuity here. We're back on the same island, even if it's not one-for-one the same map. The base we get in this mission is supposed to be the same one as in Riders on the Storm, and even the Fountain of Health is still there, and working, whether or not you purified it before.
+
+{% figure [caption:"<a href='https://knowyourmeme.com/memes/helth'>helth</a>"] %}
+![Countdown to Extinction](/assets/wr/WC3ScrnShot_031024_203448_78.jpg)
+{% endfigure %}
+
+Our objective here is simply to survive for 20 minutes. Blizzard previously introduced this type of mission, a ["hold the line"](https://tvtropes.org/pmwiki/pmwiki.php/Main/HoldTheLine) mission, in Starcraft, and here it makes its first Warcraft appearance. This particular mission is pretty easy compared to future ones of the same time.
+
+There's also an optional quest. There are three troll camps scattered through the island, giving you free units. One is right next to your base and the other two are not far, so you can visit them all before the enemy attacks. You can also go out exploring, but since Thrall's items and powerups from these bonus missions won't carry over into the main campaign (except in Reforged), I didn't bother.
+
+{% figure [caption:"These spikes around orc buildings are a researchable upgrade, and they're pretty useful in this mission, as they deal damage to melee attackers."] %}
+![Countdown to Extinction](/assets/wr/WC3ScrnShot_031024_204452_79.jpg)
+{% endfigure %}
+
+The enemy attacks from three directions: the west, northeast, and northwest. You can build up a large army to defend your base, but you'll run into the upkeep mechanic. Instead, you can build towers to rain arrows on approaching enemies. The orcs have only one type of this fortification, the Watch Tower, which is pretty cheap, but not very durable. There's an upgrade to give it Fortified armor, but it's not available in this mission.
+
+Enemy waves consist mostly of murlocs of various types, but the northeast and northwest waves also bring rock golems, which like to stomp the ground and bring massive damage to your towers unless you destroy them quickly. There's also a murloc hero and the Sea Witch herself.
+
+As usual for hold-the-line missions, at the last minute the enemies attack you with everything they have, from all three directions at once. They have no bases and instead just spawn on the map, so you can't neutralize them preemptively. When the timer runs out, the mission ends and you sail away --- on three ships, apparently.
+
+{% figure [caption:"The Dark Tide, huh? Sounds ominous."] %}
+![Countdown to Extinction](/assets/wr/WC3ScrnShot_031024_205124_85.jpg)
+{% endfigure %}
+
+Thrall isn't sure what the witch is talking about, but knows that their destiny lies elsewhere. Onward, to Kalimdor!
 
 
 ## Next Up, the Humans
