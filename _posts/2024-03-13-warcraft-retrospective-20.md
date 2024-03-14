@@ -115,12 +115,50 @@ However, suddenly, murlocs climb out from the sea and capture everyone --- orcs,
 ## The Fires Down Below
 
 {% figure [caption:"Yes, sadly, the loading screen map for all three missions is mostly the same."] %}
-![Riders on the Storm](/assets/wr/WC3ScrnShot_031024_195214_37.jpg)
+![The Fires Down Below](/assets/wr/WC3ScrnShot_031024_195214_37.jpg)
 {% endfigure %}
 
+Thrall and a troll headhunter are in a prison cell. Thrall wonders what the murlocs want from them, and gets some exposition.
 
+{% figure [caption:"I'm sorry, but was this really the best way to place the camera?"] %}
+![The Fires Down Below](/assets/wr/WC3ScrnShot_031024_195248_39.jpg)
+{% endfigure %}
 
+Thrall says orcs won't be scared that easily, and escapes by frying the two murloc guards with Chain Lightning. Your starting squad consists on just that one headhunter, but Thrall can also summon his wolves. Thus begins our mission --- a dungeon crawl. And it's *awesome*.
 
+Dungeon crawl missions in Warcraft 3 are yet another throwback to Dungeons & Dragons. They're nothing like the linear dungeons of modern WoW; rather, the dungeon fills the entire map, and it's full of secrets, and crazy twists and turns, and mazelike passages, and no shortage of wandering monsters. To keep things fair, however, Thrall's Far Sight ability is disabled underground.
+
+{% figure [caption:"This mission is scarce on healing, so those healing wards from the previous one will come handy."] %}
+![The Fires Down Below](/assets/wr/WC3ScrnShot_031024_195359_41.jpg)
+{% endfigure %}
+
+We're in some kind of underground complex, and out first objective is to save all the orc and troll prisoners. There are human prisoners too, and they're hostile to both you *and* the murlocs. The enemy of your enemy is still your enemy, so it's often best to let them fight each other, then mop up the winners.
+
+Listing every encounter, every item, and every secret in this one mission alone would fill a guide by itself. It's an explorer's paradise, and it's very satisfying to methodically visit every corner of this space-filling dungeon[^dungeon] and the surrounding volcanic cavern. I have to admit that they made it a bit *too* mazelike; at one point I reached an impasse, was confused where to go next, and only after consulting a revealed map on Warcraft Wiki, did I discover this one passage I missed, requiring me to backtrack across half the map to break down these rock chunks.
+
+{% figure [caption:"Wreck-It Thrall."] %}
+![The Fires Down Below](/assets/wr/WC3ScrnShot_031024_201310_52.jpg)
+{% endfigure %}
+
+The rock chunks are yet another [antepiece](https://tvtropes.org/pmwiki/pmwiki.php/Main/Antepiece). By *forcing* you to break them down to proceed, the game teaches you that rock chunks are destructible, and there are several more of them around the map that hide secret items behind them.
+
+Among the encounters, there's a particularly tough one with some ghosts in the lower left corner, who guard a whole trove of powerup tomes, but can go hard on your units. You can, however, send in Thrall's wolves first to gather aggro.
+
+![The Fires Down Below](/assets/wr/oots_1116.png)
+
+Once you free the last prisoners, you learn that Sen'jin has been taken away to be sacrificed to the sea witch. To get to him, you'll have a to fight through a *large* group of murlocs, including a sorcerer boss.
+
+{% figure [caption:"You sense it? From this far away?"] %}
+![The Fires Down Below](/assets/wr/WC3ScrnShot_031024_202319_60.jpg)
+{% endfigure %}
+
+Once you defeat the murloc guards, the sorcerer mortally wounds Sen'jin in a cutscene and begins a boss fight. He's a level 6 hero with some adds, bringing down fiery boulders on you.
+
+{% figure [caption:"Now why don't we have climactic murloc bosses in WoW dungeons?"] %}
+![The Fires Down Below](/assets/wr/WC3ScrnShot_031024_202441_63.jpg)
+{% endfigure %}
+
+But sadly, Thrall is too late to save Sen'jin, who, with his dying breath, tells of yet another convenient vision that told him that Thrall will lead his people off the island. Thrall welcomes whatever trolls will follow him --- not that they have much of a choice, as denied of her would-be sacrifices, the sea witch is *pissed* --- and is about to take out her wrath on the island itself.
 
 
 ## Countdown to Extinction
@@ -143,7 +181,7 @@ I really appreciate the visual continuity here. We're back on the same island, e
 ![Countdown to Extinction](/assets/wr/WC3ScrnShot_031024_203448_78.jpg)
 {% endfigure %}
 
-Our objective here is simply to survive for 20 minutes. Blizzard previously introduced this type of mission, a ["hold the line"](https://tvtropes.org/pmwiki/pmwiki.php/Main/HoldTheLine) mission, in Starcraft, and here it makes its first Warcraft appearance. This particular mission is pretty easy compared to future ones of the same time.
+Our objective here is simply to survive for 20 minutes. Blizzard previously introduced this type of mission, a ["hold the line"](https://tvtropes.org/pmwiki/pmwiki.php/Main/HoldTheLine) mission, in Starcraft, and here it makes its first Warcraft appearance. This particular mission is pretty easy compared to future ones of that type.
 
 There's also an optional quest. There are three troll camps scattered through the island, giving you free units. One is right next to your base and the other two are not far, so you can visit them all before the enemy attacks. You can also go out exploring, but since Thrall's items and powerups from these bonus missions won't carry over into the main campaign (except in Reforged), I didn't bother.
 
@@ -172,3 +210,5 @@ We'll leave Thrall, Grom, and the Horde on their journey to Kalimdor and won't r
 [^voice_acting]: Apparently this happened because they only had English voice acting available for the demo missions. Reforged re-recorded non-English voice acting anyway to be in line with WoW terminology, so they recorded new voice lines for the "lost" missions as well.
 
 [^gases]: Foreshadowing!
+
+[^dungeon]: Now riddle me this: who built this dungeon? Probably not the murlocs. Was it the night elves? When in doubt, blame the night elves.
