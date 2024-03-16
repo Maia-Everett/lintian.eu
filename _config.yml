@@ -57,6 +57,7 @@ permalink: /:year/:month/:day/:title/
 feed:
   categories:
   - Warcraft Retrospective
+  - Chaos Archives
 
 jekyll-figure:
   paragraphs: false
