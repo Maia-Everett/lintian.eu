@@ -197,10 +197,10 @@ The day is saved, though Arthas has his doubts --- the orcs were trying to summo
 So now we can start our third mission --- wait, what's that?
 
 {% figure [caption:""] %}
-![Jaina's Meeting](/assets/wr/20240314234810_1.jpg)
+![Jaina's Meeting](/assets/wr/20240314234924_1.jpg)
 {% endfigure %}
 
-That's called an interlude. Warcraft 3 uses them to as breaks between acts of a campaign, often focusing on what's going on elsewhere, away from where the protagonists currently are. Here, for the first time, we see the mage city of Dalaran on screen.
+That's called an interlude --- a long cutscene between missions. Warcraft 3 uses them as breaks between acts of a campaign, often focusing on what's going on elsewhere, away from where the protagonists currently are. Here, for the first time, we see the mage city of Dalaran on screen.
 
 The Prophet has brought his warnings of doom to Archmage Antonidas, leader of the Kirin Tor, but he's having none of it.
 
@@ -232,7 +232,7 @@ He's been waiting for a while, and his companion, the nameless Captain, is getti
 
 Let's talk about Jaina. She's Arthas's love interest, because no tale of a heroic knight is complete without a love interest, but she quickly establishes herself to be more than just that. Her voice is pretty soft and timid compared to Arthas's confident bravado, but already we know that she thinks for herself what she wants (she's the daughter of the ruler of Kul Tiras, but chose to study magic in Dalaran), doesn't quite play by the rules (she eavesdropped on her teacher's conversation), and can hold her weight in battle. She doesn't, however, revel in fighting; whereas Arthas's attack quotes are all "Feel my wrath!" and "You are past redemption!", Jaina is all "I hate resorting to violence" and "All I ever wanted was to study".
 
-This makes her not just second fiddle to Arthas, but a genuine foil to him. Arthas is convinced of his own righteousness, while Jaina takes a stance of reserved doubt. For now, she stays in the shadow, fighting because she has to, until a combination of circumstances and uneasy choices pushes her to the forefront.
+This makes her not second fiddle to Arthas, but a genuine foil to him. Arthas is convinced of his own righteousness, while Jaina takes a stance of reserved doubt. For now, she stays in the shadow, fighting because she has to, until a combination of circumstances and uneasy choices will later push her to the forefront.
 
 It's way too early to talk about the context in which this quote was said, but I think Christie Golden put it best:
 
@@ -309,7 +309,7 @@ These cultists are actually acolytes --- the worker units of the undead faction.
 ![The Cult of the Damned](/assets/wr/20240315001541_1.jpg)
 {% endfigure %}
 
-Now, the game expects you to wait until the base is built, develop it, defending it from undead attacks, and then launch the assault on the nearby undead base. However, on normal difficulty, you actually start with enough forces to destroy the undead base right way, making the rest of the mission a complete cakewalk.
+Now, the game expects you to wait until the base is built, develop it, defending it from undead attacks, and then launch the assault on the nearby undead base. However, on normal difficulty, you actually start with enough forces to destroy the undead base right away, making the rest of the mission a complete cakewalk.
 
 While my base was still under construction, I grabbed all my starting units and immediately went northwest. The undead base had some ghouls and a necromancer, but this early on it had only two buildings capable of doing damage --- the necropolis and one spirit tower. Between Arthas's Holy Light, Jaina's elemental and blizzard, and the mortar team launching cannons from a distance, one can destroy this base before it even becomes a threat.
 
