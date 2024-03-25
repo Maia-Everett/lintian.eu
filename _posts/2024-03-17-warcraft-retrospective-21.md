@@ -44,7 +44,7 @@ The human campaign is interesting in its approach to storytelling, in that it do
 
 The campaign revolves around the personalities of Arthas, Uther and Jaina, and the friction between them. I'll talk about Jaina a bit later --- for now, let's focus on the other two.
 
-Arthas, the prince of Lordaeron, is King Terenas's son. He's very much hero-coded: a handsome blonde man, the heir to the throne, and a knight in proverbial shining armor.[^knight] Uther is a old seasoned paladin, a veteran of the Second War. According to the manual, he's 64 years old at the time of Warcraft 3. He's our old wise mentor figure.
+[Arthas](https://warcraft.wiki.gg/wiki/Arthas_Menethil), the prince of Lordaeron, is King Terenas's son. He's very much hero-coded: a handsome blonde man, the heir to the throne, and a knight in proverbial shining armor.[^knight] [Uther the Lightbringer](https://warcraft.wiki.gg/wiki/Uther_the_Lightbringer)[^uther] is an old seasoned paladin, a veteran of the Second War who, according to the manual, is 64 years old at the time of Warcraft 3. He's our old wise mentor figure.
 
 {% figure [caption:"This is what Uther looked like in Warcraft 2, by the way."] %}
 ![The Defense of Strahnbrad](/assets/wr/wc2_uther.png)
@@ -81,11 +81,15 @@ Speaking of villagers, something seems to be amiss with the names. So far, human
 
 And the village is worth exploring, as there's good stuff here. For example, these two villagers will turn into footmen when approached.
 
-{% figure [caption:"Wait, you're not going to give me a quest?"] %}
-![The Defense of Strahnbrad](/assets/wr/20240314231349_1.jpg)
+{% figure [caption:"Wait, you're not going to give me a quest? That's right, not every overhead ! starts a quest."] %}
+![The Defense of Strahnbrad](/assets/wr/20240314231307_1.jpg)
 {% endfigure %}
 
 We also get our first real side quest here. A woman named Alicia wants us to save her little son, Timmy, from gnoll kidnappers. As a reward, we get a Ring of Protection +1.
+
+{% figure [caption:"Children! The prince is approaching! Make a cross formation!"] %}
+![The Defense of Strahnbrad](/assets/wr/20240314231349_1.jpg)
+{% endfigure %}
 
 I have to say this: child models in the original Warcraft 3 are really, really ugly. I understand that the developers had to be very scarce with polygons so that the game would run even on less powerful computers, so I'll excuse things like Arthas's hair looking like an angular yellow lump. But children only appear in the campaign, so there really was no reason to make their models *this* unnaturally stretched.
 
@@ -153,9 +157,9 @@ Arthas is eager to retaliate, but Uther reminds him of the dangers of such overe
 > **Arthas:** Yes, Uther.  
 > **Uther:** Now, get in there and destroy the beasts!
 
-I don't know if it's supposed to be a character flaw --- Uther is certainly not perfect --- but the fact is, he's encouraging his student, who has just demonstrated his rashness, to do exactly the thing Uther warned him to be cautions about.
+I don't know if it's supposed to be a character flaw --- Uther is certainly not perfect --- but the fact is, he's encouraging his student, who has just demonstrated his rashness, to do exactly the thing Uther warned him to be cautious about.
 
-We get the base under our control, and since this is a tutorial mission, our first task is to build it up. We build some farms, a barracks, and start training footmen. Meanwhile, Arthas is free to explore. Uther remains to defend the base, and as a *level 10* paladin, he's a one-man army. His AI is pretty good too --- he pops Divine Shield when it makes sense and heals your wounded units. I suppose the mission designers wanted you not to feel punished for exploring this early into the campaign, when you may have trouble multitasking between your field units and your base.
+We get the base under our control, and since this is a tutorial mission, our first task is to build it up. We build some farms, a barracks, and start training footmen. Meanwhile, Arthas is free to explore. Uther remains to defend the base, and as a *level 10* paladin, he's a one-man army. His AI is pretty good too --- he pops Divine Shield when it makes sense and heals your wounded units. I suppose the mission designers didn't want you to feel punished for exploration this early into the campaign, when you may have trouble multitasking between your field units and your base.
 
 {% figure [caption:"I knew the peasants say &ldquo;Yes, milord&rdquo;, but I always heard it as &ldquo;Yest', milord&rdquo; --- or a military &ldquo;Aye, milord&rdquo; in Russian."] %}
 ![Blackrock and Roll](/assets/wr/20240314233357_1.jpg)
@@ -183,7 +187,7 @@ Uther attacks, but this was only a mirror image. The real Blademaster, meanwhile
 ![Blackrock and Roll](/assets/wr/20240314234337_1.jpg)
 {% endfigure %}
 
-We're not under time pressure, so we can explore the rest of the map. The orcs who attack our base actually have a base on their own, but it's not the mission objective to destroy it (even though we can). I just hunted the creeps around the map and went straight for the Blademaster. As only a level 2 hero, he dies easily.
+We're not under time pressure, so we can explore the rest of the map. The orcs who attack our base actually have a base of their own, but it's not the mission objective to destroy it (even though we can). I just hunted the creeps around the map and went straight for the Blademaster. As only a level 2 hero, he dies easily.
 
 {% figure [caption:"That bastard doesn't even give Arthas the satisfaction of looking at him as he charges in."] %}
 ![Blackrock and Roll](/assets/wr/20240314234810_1.jpg)
@@ -202,7 +206,7 @@ So now we can start our third mission --- wait, what's that?
 
 That's called an interlude --- a long cutscene between missions. Warcraft 3 uses them as breaks between acts of a campaign, often focusing on what's going on elsewhere, away from where the protagonists currently are. Here, for the first time, we see the mage city of Dalaran on screen.
 
-The Prophet has brought his warnings of doom to Archmage Antonidas, leader of the Kirin Tor, but he's having none of it.
+The Prophet has brought his warnings of doom to Archmage [Antonidas](https://warcraft.wiki.gg/wiki/Antonidas), leader of the Kirin Tor, who's having none of it.
 
 {% figure [caption:"Before? Looks like the Prophet was really persistent."] %}
 ![Jaina's Meeting](/assets/wr/20240314234940_1.jpg)
@@ -210,13 +214,13 @@ The Prophet has brought his warnings of doom to Archmage Antonidas, leader of th
 
 And that makes three leaders the Prophet has tried to convince so far, and the only one who heeded his warnings was a guerilla rebel who had no reason to stay in Lordaeron anyway. That's not a good track record.
 
-When the Prophet leaves in frustration, it turns out that young Jaina Proudmoore, Antonidas's student, has been eavesdropping on the conversation through an invisibility spell.
+When the Prophet leaves in frustration, it turns out that young [Jaina Proudmoore](https://warcraft.wiki.gg/wiki/Jaina_Proudmoore), Antonidas's student, has been eavesdropping on the conversation through an invisibility spell.
 
 {% figure [caption:"What do the obelisks do? Probably nothing, they're just here to look cool."] %}
 ![Jaina's Meeting](/assets/wr/20240314235003_1.jpg)
 {% endfigure %}
 
-The two teleport to observe elven sorceresses training by turning each other into sheep, and Antonidas sends Jaina to Lordaeron to investigate reports of the plague. He mentions that he's arranged to assign her a "special envoy", who turns out to be...
+The two teleport to observe elven sorceresses training by turning each other into sheep[^teleport], and Antonidas sends Jaina to Lordaeron to investigate reports of the plague. He mentions that he's arranged to assign her a "special envoy", who turns out to be...
 
 {% figure [caption:"It took Jaina three days to get there? The cutscene has <em>just</em> established she can teleport!"] %}
 ![Jaina's Meeting](/assets/wr/20240314235053_1.jpg)
@@ -238,7 +242,7 @@ It's way too early to talk about the context in which this quote was said, but I
 
 > Jaina has a very strong core. And when adversity and disaster and personal torment rip her down to nothing but that core, that core is still intact. It's hurt, but it's intact.
 
-The mission begins, and once again we're traveling through the Lordaeron countryside and meeting villagers. However, there's a sort of uneasiness in the air, and the color palette is more muted compared to the first mission. Soon enough, we'll run into our first obstacle --- a broken bridge.
+The mission begins, and once again we're traveling through the Lordaeron countryside and meeting villagers. However, there's a sort of foreboding uneasiness in the air, and the color palette is more muted compared to the first mission. Soon enough, we'll run into our first obstacle --- a broken bridge.
 
 {% figure [caption:"HECTOOOOOOR!"] %}
 ![Ravages of the Plague](/assets/wr/20240314235523_1.jpg)
@@ -260,7 +264,7 @@ We make our way across the river ford in the north, through bandits and murlocs,
 ![Ravages of the Plague](/assets/wr/20240315000020_1.jpg)
 {% endfigure %}
 
-If you're quick enough, you can save all three footmen by healing them with Arthas --- annoyingly, you have to target the actual units on the map, since they're not under your control yet. The surviving footmen join you, and after recperating at the Fountain of Health (and completing the side quest), you head south to find... this.
+If you're quick enough, you can save all three footmen by healing them with Arthas --- annoyingly, you have to target the actual units on the map, since they're not under your control yet. The surviving footmen join us, and after recuperating at the Fountain of Health (and completing the side quest), we head south to find... this.
 
 {% figure [caption:"This is NOT fine."] %}
 ![Ravages of the Plague](/assets/wr/20240315000457_1.jpg)
@@ -352,7 +356,7 @@ We fight some undead minions and explore some more, finding another Timmy (who's
 
 Unfortunately, these two missions are the only ones were we get to control Jaina. She doesn't even make it to level 6 to let us unlock her class's ultimate ability, Mass Teleport.
 
-Part of it is because Jaina was originally [supposed to die](http://pretzel-lectern.blogspot.com/2016/05/behind-warcraft-iii-interview-with.html) in the Cult of the Damned mission. They discarded this idea early on, in part it was because it was "too Raynor and Kerrigan again", and Arthas had enough motive to pursue Mal'Ganis as it is. However the official strategy guide was never updated to reflect this plot change, and still claims she dies.
+Part of it is because Jaina was originally [supposed to die](http://pretzel-lectern.blogspot.com/2016/05/behind-warcraft-iii-interview-with.html) in the Cult of the Damned mission. They discarded this idea early on, in part it was because it was "too Raynor and Kerrigan again", and Arthas had enough motive to pursue Mal'Ganis as it is. However, the official strategy guide was never updated to reflect this plot change, and still claims she dies.
 
 For now, we head farther north, towards Stratholme and a confrontation with Mal'Ganis.
 
@@ -384,7 +388,7 @@ Human towers work a little oddly. Peasants build Scout Towers, which by themselv
 
 The reason I'm training extra units at the base is because we have an optional quest: to intercept a plagued grain caravan heading across the outlying villages. I gave the undead bases a wide berth and took my starting force, including Arthas, and destroyed the caravan before it became a problem.
 
-{% figure [caption:"Remember to wash your hands afterwards"] %}
+{% figure [caption:"Remember to wash your hands afterwards."] %}
 ![March of the Scourge](/assets/wr/20240317135645_1.jpg)
 {% endfigure %}
 
@@ -449,6 +453,10 @@ Next up: Stratholme and beyond!
 
 [^clever]: By the standards of video game storytelling in 2002.
 
+[^uther]: In Warcraft 2, he was called Uther Lightbringer, without the "the". I don't know if "Lightbringer" was actually supposed to be his last name back then, rather than an epithet, or it was an oversight.
+
 [^knight]: It will be a while before Blizzard starts playing this character archetype [unironically](https://starcraft.fandom.com/wiki/Valerian_Mengsk).
 
 [^european]: They are a mix of different European cultures, granted. We also get Benedict, Achilles and Marie Claire Antoinette, with no indication of what human nations in-universe have such naming conventions.
+
+[^teleport]: For what are probably balance reasons, Jaina can only teleport and turn invisible [in cutscenes](https://tvtropes.org/pmwiki/pmwiki.php/Main/CutscenePowerToTheMax), not as a playable hero in-game.
