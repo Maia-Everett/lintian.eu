@@ -36,7 +36,7 @@ Gee, I wonder why nobody listened to him. If he's really trying to save the worl
 
 ## The Defense of Strahnbrad
 
-{% figure [caption:"The Defense of Strahnbrad"] %}
+{% figure [caption:"They don't know it, but it took them so long to react that the orcs are already gone."] %}
 ![The Defense of Strahnbrad](/assets/wr/20240314230831_1.jpg)
 {% endfigure %}
 
