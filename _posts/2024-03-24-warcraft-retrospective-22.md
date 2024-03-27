@@ -4,7 +4,11 @@ title: "Warcraft Retrospective 22: To Atrocity and Beyond"
 categories: [ Warcraft Retrospective, Warcraft ]
 ---
 
-This is the moment we've been anticipating. One of the most memorable moments in the entire Warcraft franchise, and one of the major defining moments of the Warcraft 3 storyline, which is still debated from a moral perspective even today. I'm talking, of course, about...
+Before I continue, I should, once again, praise the music in Warcraft 3. The human theme perfectly captures how the Alliance sees itself: as a bastion of order, majesty and valor. Even if --- as we know, and are about to see once again --- it doesn't always *quite* live up to these ideals.
+
+{% youtube "https://www.youtube.com/watch?v=kLh2TrxBJr0" %}
+
+Now, this is the moment we've been anticipating. One of the most memorable moments in the entire Warcraft franchise, and one of the major defining moments of the Warcraft 3 storyline, which is still debated from a moral perspective even today. I'm talking, of course, about...
 
 
 ## The Culling
@@ -173,7 +177,7 @@ The path to the dwarves is blocked by a purple undead base, but it has weak defe
 ![The Shores of Northrend](/assets/wr/20240323190633_1.jpg)
 {% endfigure %}
 
-The main dwarven base comes under our control, and we get a tone of building for free, including a Workshop --- and with it, two new mechanical units, the gyrocopter and the steam tank. Gyrocopters are a new iteration of the Warcraft 2 flying machine; they're still cheap and fragile, but now they can attack air units instead of being pure scouts. Steam tanks, on the other hand, are absolute powerhouses, the ultimate siege units. They move slowly, but their siege attacks deal increased damage to buildings (and reduced to units), and best of all, they're durable and themselves have the fortified armor type like buildings, meaning that everything except other siege units deals reduced damage to them. A few steam tanks can tear the enemy base to shreds while its defenders are preoccupied with other units.
+The main dwarven base comes under our control, and we get a ton of buildings for free, including a Workshop --- and with it, two new mechanical units, the gyrocopter and the steam tank. Gyrocopters are a new iteration of the Warcraft 2 flying machine; they're still cheap and fragile, but now they can attack air units instead of being pure scouts. Steam tanks, on the other hand, are absolute powerhouses, the ultimate siege units. They move slowly, but their siege attacks deal increased damage to buildings (and reduced to units), and best of all, they're durable and themselves have the fortified armor type like buildings, meaning that everything except other siege units deals reduced damage to them. A few steam tanks can tear the enemy base to shreds while its defenders are preoccupied with other units.
 
 {% figure [caption:"Ah yes, the reputable Wraithson family."] %}
 ![The Shores of Northrend](/assets/wr/20240323191009_1.jpg)
@@ -355,9 +359,9 @@ We're not parting with him just yet.
 
 Warcraft 3 is a beloved game, and Arthas is one of the most popular and memorable characters in the entire franchise. And it's not hard to see why.
 
-The campaign begins with a bog standard fantasy setup: the valiant hero, his love interest, and his wise old mentor. But Arthas is flawed from the start. A little too brash. A little too impatient. A little too uninterested in negotiations, in gathering intel, in assessing the situation, in planning ahead instead of blindly charging in.
+The campaign begins with a bog standard fantasy setup: the valiant hero, his love interest, and his wise old mentor. But Arthas is flawed from the start. A little too brash. A little too impatient. A little too uninterested in negotiations, in gathering intel, in assessing the situation, in planning ahead instead of charging in.
 
-We follow all the standard beats of a save-the-world story. A confrontation with the henchman of the big bad guy. An early confrontation with the big bad guy that strengthens the protagonist's resolve. An enchanted sword that can only be claimed by those who overcome the trials. This may indeed have been how Arthas saw this scenario in his head, a golden path that his destiny laid for him. But it all *wrong*, set up by the Lich King to superficially resemble a hero's journey, and Arthas kept making wrong decisions. He executed Kel'Thuzad one spot instead of trying to capture him and learning more about the Scourge's plans. He was far too eager to purge Stratholme, alienated his friends, and didn't try to reason with them. He sailed into an obvious trap, and once he did, he fell to the sunk cost fallacy, committing one atrocity after another because if he stopped and went back, the atrocities already committed would have been committed in vain.
+We follow all the standard beats of a save-the-world story. A confrontation with the henchman of the big bad guy. An early confrontation with the big bad guy that strengthens the protagonist's resolve. An enchanted sword that can only be claimed by those who overcome the trials. This may indeed have been how Arthas saw this scenario in his head, a golden path that his destiny laid for him. But it all *wrong*, set up by the Lich King to superficially resemble a hero's journey, and Arthas kept making wrong decisions. He executed Kel'Thuzad on the spot instead of trying to capture him and learning more about the Scourge's plans. He was far too eager to purge Stratholme, alienated his friends, and didn't try to reason with them. He sailed into an obvious trap, and once he did, he fell to the sunk cost fallacy, committing one atrocity after another because if he stopped and went back, the atrocities already committed would have been committed in vain.
 
 Arthas is not just a deconstruction of the standard fantasy hero. He's also a deconstruction of the very idea behind World of Warcraft’s more cookie-cutter plots: that everything can be solved with heroic determination and fighting spirit, that you just have to find the right bad guy to punch, and that any artifacts you find along the way are just means to an end to enable your eventual triumph.
 
