@@ -10,7 +10,7 @@ Before I play Warcraft 3, however, there's one question to clear up.
 
 <img alt="But what about Reforged?" src="/assets/wr/elephant_reforged.jpg" width="600" />
 
-Thank you, Elephant in the Room. In January 2020, Blizzard forcefully replaced the original version of Warcraft 3 with a remaster called [Warcraft 3: Reforged](https://warcraft.wiki.gg/wiki/Warcraft_III:_Reforged), whose quality has been... *controversial* to say the least. Reforged is now the only edition that you can download directly from Battle.net. It has two versions of the campaigns --- one nearly identical to the original version[^renames], with old models, and one with revamped models and some mission changes as well, including four completely revamped missions.
+Thank you, Elephant in the Room. In January 2020, Blizzard forcibly replaced the original version of Warcraft 3 with a remaster called [Warcraft 3: Reforged](https://warcraft.wiki.gg/wiki/Warcraft_III:_Reforged), whose quality has been... *controversial* to say the least. Reforged is now the only edition that you can download directly from Battle.net. It has two versions of the campaigns --- one nearly identical to the original version[^renames], with old models, and one with revamped models and some mission changes as well, including four completely revamped missions.
 
 For this retrospective, I'm going to use the original edition of Warcraft 3 --- specifically, version 1.31, the last version of classic Warcraft 3 before it was overwritten with Reforged. It has all the original graphics and the unchanged campaigns, but also support for widescreen and 4K resolutions.
 
