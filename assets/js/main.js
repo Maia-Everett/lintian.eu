@@ -1,3 +1,14 @@
+// External links
+
+window.addEventListener('DOMContentLoaded', () => {
+  Array.from(document.querySelectorAll('a'))
+    .filter(link => link.href && link.host !== window.location.host)
+    .forEach(link => {
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+    });
+});
+
 // Footnotes
 
 window.addEventListener('DOMContentLoaded', initFootnotes, false);
