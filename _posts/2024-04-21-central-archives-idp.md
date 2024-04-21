@@ -74,7 +74,7 @@ This is the single biggest update to the system deployed all at once since the i
 
 * Everything related to user accounts --- signing up, logging in, password reset --- has been consolidated under Central Archives. These three pages also now use a new "minimal UI" page design without sidebars and other clutter.
 * The login page now links to the signup page.
-* As some users with `@yahoo.com` email accounts have reported problems with delivery of verification emails, I've switched to a different, hopefully more reliable email provider.
+* As some users with `@yahoo.com` email accounts have reported problems with delivery of verification emails, I've switched to a different, hopefully more reliable email provider. You might notice that system emails are now arriving from `server@centralarchives.org` instead of `server@chaosarchives.org`.
 * Security of the browser client has been tightened across the board. The HTML editor (TinyMCE) is now self-hosted instead of being loaded from an external website, all external and inline JavaScript is now blocked, and browser client code cannot communicate in background with any servers other than the Archives server itself.
 
 And other small improvements and fixes I may be forgetting about.
