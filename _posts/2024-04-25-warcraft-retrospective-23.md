@@ -34,7 +34,7 @@ We see this pattern continue in Knights of the Old Republic. Now, I love that ga
 
 This, of course, ignores the very real and tragic reasons that drive people in real life to commit atrocities.
 
-Arthas's transformation from the well-intentioned sociopath at the end of the human campaign to the completely amoral monster in the undead campaign has a significant gap in it. A gap that is --- unlike *everything else in the campaign* --- not shown, but told us in six short lines of text.
+Arthas's transformation from the well-intentioned sociopath at the end of the human campaign to the completely amoral monster in the undead campaign has a significant gap in it. A gap that is --- unlike *everything else in the campaign* --- not shown, but told to us in six short lines of text.
 
 {% figure [caption:"Arthas: driven mad by corruption before it was mainstream."] %}
 ![Younglings](/assets/wr/20240323202311_1.jpg)
@@ -210,7 +210,7 @@ The Scourge captures an elven priest, and Arthas interrogates him on how to ente
 ![Into the Realm Eternal](/assets/wr/20240425001415_1.jpg)
 {% endfigure %}
 
-Arthas is, naturally, undeterred by the trees. He brings meat wagons, who cut a way through the trees right towards the first, weakly defended elven base. You transition from the cutscene into gameplay, with your units in the middle of destroying the base. Then, you build yours over it --- from scratch.
+Arthas is, naturally, undeterred by the trees. He brings meat wagons, which cut a way through the trees right towards the first, weakly defended elven base. You transition from the cutscene into gameplay, with your units in the middle of destroying the base. Then, you build yours over it --- from scratch.
 
 While the base is still under construction, Arthas get [a special guest](https://warcraft.wiki.gg/wiki/Sylvanas_Windrunner).
 
@@ -239,16 +239,16 @@ The gate falls, and Sylvanas retreats.
 {% endfigure %}
 
 
-## Key to the Three Moons
+## Key of the Three Moons
 
 {% figure [caption:"This really doesn't look like &ldquo;just beyond&rdquo; to me."] %}
-![Key to the Three Moons](/assets/wr/20240425004041_1.jpg)
+![Key of the Three Moons](/assets/wr/20240425004041_1.jpg)
 {% endfigure %}
 
 Arthas shatters the gate and pursues Sylvanas. In return, she does this:
 
 {% figure [caption:"I didn't know high elf rangers had moon-themed powers!"] %}
-![Key to the Three Moons](/assets/wr/20240425004142_1.jpg)
+![Key of the Three Moons](/assets/wr/20240425004142_1.jpg)
 {% endfigure %}
 
 Whatever spell it is, it collapses the bridge. Arthas curses and looks for another way to cross the river.
@@ -259,8 +259,8 @@ Remember this, because it will be relevant later.
 
 Once again, we attack a small elven outpost and establish our base on its ruins. This time, the elves have flying units --- dragonhawk riders --- which most of your units cannot attack. However, in this mission you get crypt fiends, undead nerubians from Northrend. Their web ability temporarily grounds flying units, making them vulnerable to melee.
 
-{% figure [caption:"This really doesn't look like &ldquo;just beyond&rdquo; to me."] %}
-![Key to the Three Moons](/assets/wr/20240425004228_1.jpg)
+{% figure [caption:"Once again, the campaign presents you with an antepiece, a simple scenario tailored to showcasing the new unit's special ability."] %}
+![Key of the Three Moons](/assets/wr/20240425004228_1.jpg)
 {% endfigure %}
 
 Our objective here is to collect three pieces of a special key that opens the inner elfgate. The catch here is that this map is split into islands, and you need to find a way to cross from one island to the other.
@@ -270,13 +270,13 @@ These means shortly present themselves in the form of goblin zeppelins. I board 
 Now here comes the really hilarious part. The game doesn't tell you this, but you can actually repair the sunken bridge with acolytes!
 
 {% figure [caption:"The dark magics have raised the bridge! As an... undead bridge?"] %}
-![Key to the Three Moons](/assets/wr/20240425011432_1.jpg)
+![Key of the Three Moons](/assets/wr/20240425011432_1.jpg)
 {% endfigure %}
 
 In my playthrough, I didn't do it until I had already built up an army and ferried it across with zeppelins. The northwestern base is the main one, with a ton of defenders, zeppelins constantly unloading more, and Sylvanas herself. Necrowagons still work here, although they need some support from crypt fiends to bind dragonhawk riders and zeppelins. I also erected a ring of Spirit Towers around my base to repel dragonhawk attacks from the northern base.
 
 {% figure [caption:"That sorceress is surprisingly nonchalant."] %}
-![Key to the Three Moons](/assets/wr/20240425011927_1.jpg)
+![Key of the Three Moons](/assets/wr/20240425011927_1.jpg)
 {% endfigure %}
 
 This mission has a lot of replay value because of its complicated geography. You can use zeppelins, or you can just take the central island, which has portals to all three enemy bases *and* a gold mine to boot. You can repair the bridge. You can take the bases in different order...
@@ -286,7 +286,7 @@ One annoyance is the limited inventory slots. The urn already takes an inventory
 The gate opens, and Arthas has a case of [That Makes Me Feel Angry](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThatMakesMeFeelAngry) as he charges through.
 
 {% figure [caption:"Hey, gather your party before venturing forth!"] %}
-![Key to the Three Moons](/assets/wr/20240425012109_1.jpg)
+![Key of the Three Moons](/assets/wr/20240425012109_1.jpg)
 {% endfigure %}
 
 
@@ -299,6 +299,10 @@ Everything, *everything* to him is just a speed bump on the way to whatever shor
 The first two Quel'Thalas missions are largely filler. They're light on plot developments and mostly serve to establish Sylvanas as a persistent thorn in Arthas's side. In the second half of the campaign, the dominoes are about to fall down and the pacing will *really* pick up.
 
 Next up: the battle of Silvermoon!
+
+------
+
+Screenshots from *Star Wars: Revenge of the Sith* and *The Order of the Stick: Utterly Dwarfed*.
 
 
 [^prequels]: Assuming you acknowledge the prequels, of course.
