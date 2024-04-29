@@ -145,7 +145,7 @@ Arthas and his men have made landfall, with "only a few" ships missing. Arthas i
 
 All Arthas cares about now is the mission. Everything, and everyone, is expendable.
 
-[Northrend](http://warcraft.wiki.gg/wiki/Northrend), as depicted in this campaign, is a barren, gloomy land, even this southeastern shore around [Daggercap Bay](http://warcraft.wiki.gg/wiki/Daggercap_Bay).[^daggercap] The mission starts wuth a short exploration segment, where we wander a maze of passages and trees, encountering frost wolves, living nerubians[^nerubians], and [ice trolls](http://warcraft.wiki.gg/wiki/Ice_troll), a new variety of troll distinct from the forest and jungle trolls we've already seen. Trolls in Warcraft are like elves in the Forgotten Realms: put them in a new natural environment, and soon enough you'll have a new type of trolls named after it.
+[Northrend](http://warcraft.wiki.gg/wiki/Northrend), as depicted in this campaign, is a barren, gloomy land, even this southeastern shore around [Daggercap Bay](http://warcraft.wiki.gg/wiki/Daggercap_Bay).[^daggercap] The mission starts with a short exploration segment, where we wander a maze of passages and trees, encountering frost wolves, living nerubians[^nerubians], and [ice trolls](http://warcraft.wiki.gg/wiki/Ice_troll), a new variety of troll distinct from the forest and jungle trolls we've already seen. Trolls in Warcraft are like elves in the Forgotten Realms: put them in a new natural environment, and soon enough you'll have a new type of trolls named after it.
 
 {% figure [caption:"&ldquo;I could kill him with my eyes closed!&rdquo;"] %}
 ![The Shores of Northrend](/assets/wr/20240323185646_1.jpg)
@@ -153,7 +153,7 @@ All Arthas cares about now is the mission. Everything, and everyone, is expendab
 
 Eventually, Arthas and his men come across...
 
-{% figure [caption:"&ldquo;I have this mental image of them stumbling upon a fully built mine with carts and piles of gold and just assuming it's abandoned."] %}
+{% figure [caption:"I have this mental image of them stumbling upon a fully built mine with carts and piles of gold and just assuming it's abandoned."] %}
 ![The Shores of Northrend](/assets/wr/20240323190121_1.jpg)
 {% endfigure %}
 
