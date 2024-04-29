@@ -440,7 +440,7 @@ We get another interlude. The Prophet stops Arthas on the road and begins his sp
 
 The Prophet warns him that this land is doomed, the only salvation lies west, and the harder Arthas strives to slay his enemies, the faster he'll deliver his people into their hands. But Arthas is undeterred. Nothing will convince him to turn away from defending his people --- not the Prophet...
 
-{% figure [caption:"I mean, he might just be a madman with a thing for ravens and crypting ramblings, but there's a <em>chance</em> he's right? Right?"] %}
+{% figure [caption:"I mean, he might just be a madman with a thing for ravens and cryptic ramblings, but there's a <em>chance</em> he's right? Right?"] %}
 ![March of the Scourge](/assets/wr/20240317141919_1.jpg)
 {% endfigure %}
 
