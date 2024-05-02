@@ -69,7 +69,7 @@ On the other hand, if your world is supposed to support mainly **adventure stori
 
 * Much of the world is unexplored and unclaimed. It might be that the wilderness is infested with monsters, or there is simply no government that bothers to claim it.
 * Individuals can make a meaningful difference working on their own, outside any formal chain of command.
-* Central governments are small and weak, if they exist at all. After all, your stories focus on a small cast of adventurers, and if if the government could just exterminate the wandering monsters or send its own archaeologists to study the ancient temple, there would be nothing for the protagonists left to do. A typical adventure world consists of isolated villages, city-states, and small feudal domains.
+* Central governments are small and weak, if they exist at all. After all, your stories focus on a small cast of adventurers, and if the government could just exterminate the wandering monsters or send its own archaeologists to study the ancient temple, there would be nothing for the protagonists left to do. A typical adventure world consists of isolated villages, city-states, and small feudal domains.
 * As a corollary to the former, armies are small, armed conflicts are localized instead of spilling to the entire continent, and the more remote towns might be protected by nothing more than skeleton garrisons.
 * If borders are maintained at all, they're relatively transparent and adventurers are able to move from town to town with little problem.
 * Multinational groups are more common. In fact, the main cast is likely to be multinational, so that the unique perspective of different cultures can be showcased through the protagonists alone.
