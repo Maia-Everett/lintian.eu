@@ -147,7 +147,7 @@ In Beyond the Dark Portal, we were told that the clans of Doomhammer's Horde wer
 
 It's important to realize that [plot holes are a gradient](https://www.shamusyoung.com/twentysidedtale/?p=25227). As long as they don't significantly distract from the story, they can pass by unnoticed. We'll later talk about why Warcraft 3, despite some flaws in its storyline, still holds well together and is rightfully remembered as a beloved classic.
 
-Anyway, we secure the demon gate. The Scourge mops up the orcs, who have [outlived their usefulness](https://tvtropes.org/pmwiki/pmwiki.php/Main/ YouHaveOutlivedYourUsefulness) to the Legion, and Kel'Thuzad receives his next instructions from Lord Archimonde.
+Anyway, we secure the demon gate. The Scourge mops up the orcs, who have [outlived their usefulness](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveOutlivedYourUsefulness) to the Legion, and Kel'Thuzad receives his next instructions from Lord Archimonde.
 
 {% figure [caption:"MAYHEM!"] %}
 ![The Revelation](/assets/wr/20240429213651_1.jpg)
