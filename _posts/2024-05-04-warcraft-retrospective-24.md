@@ -141,7 +141,7 @@ Gameplay-wise, this mission is fun and it's satisfying to see the orc bases fall
 * Their heroes are blademasters, which makes sense, and far seers, which doesn't. Far seers are a type of shaman, like Thrall. These demon-worshiping orcs don't have the regular shaman unit, instead using the campaign-only warlock unit, and logically they shouldn't have far seers, either. In Reforged, the far seer heroes have warlock models... and still use shamanistic powers. You were so close to getting it right, Reforged. So close.
 * Finally, are you really telling me that there were *this many* demon-worshiping orcs living in the Alterac Mountains all this time, and yet their existence was completely unnoticed by both Lordaeron and the nearby Frostwolf clan?
 
-That last point bears a particular emphasis. All the way [in the first entry](https://lintian.eu/2023/11/02/warcraft-retrospective-1/#what-is-this-for), I said that my goal was to examine the cracks in Warcraft's foundations. Here, we see a plot element that's relatively harmless on its own, taking Warcraft 3 in isolation, but becomes more and more damaging to the believability of the setting as it gets repeatedly reused in the sequels.
+That last point deserves particular emphasis. All the way [in the first entry](https://lintian.eu/2023/11/02/warcraft-retrospective-1/#what-is-this-for), I said that my goal was to examine the cracks in Warcraft's foundations. Here, we see a plot element that's relatively harmless on its own, taking Warcraft 3 in isolation, but becomes more and more damaging to the believability of the setting as it gets repeatedly reused in the sequels.
 
 In Beyond the Dark Portal, we were told that the clans of Doomhammer's Horde were captured and put into internment camps. In Lord of the Clans, we learned that the Frostwolf and Warsong clans stayed free all along, one hidden and the other evading capture. Now we have another clan of free orcs that was previously unaccounted for. And later, World of Warcraft will retroactively add so many independent clans to the eastern continent that sometimes it feels like Thrall was the only orc who was ever imprisoned.
 
@@ -239,6 +239,8 @@ Here's another question to ponder. So the Legion wants to invade Azeroth in full
 *Still.*
 
 Even the slowest-paced missions of Warcraft 3 are still dynamic and don't kill the tension. And it does make sure to properly set up the world, introduce all the relevant characters, and invest in foreshadowing, hanging all the [Chekhov's guns](https://tvtropes.org/pmwiki/pmwiki.php/Main/ChekhovsGun) that will be firing later. And Kel'Thuzad and Arthas here have an affable master-and-apprentice kind of relationship.
+
+And the Scourge establishes itself as a real threat by upping the ante from Warcraft 2, succeeding where Doomhammer failed. Whereas the Second War Horde, lore-wise, failed to capture Dalaran, Silvermoon and Capital City, here, the Scourge crushes all three. The once-proud Alliance now lies in ruins, and now, the fate of the world itself is at stake.
 
 For now, we'll take a break from doom and gloom and wanton destruction, as we return to Thrall and the Horde and find out what they've been up to in the meantime, on the other side of the world. Next up: the orc campaign!
 
