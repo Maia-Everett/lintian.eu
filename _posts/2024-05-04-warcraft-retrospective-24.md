@@ -116,7 +116,7 @@ The plague in Lordaeron and the sacking of Quel'Thalas were just the prelude to 
 ## Blackrock & Roll, Too!
 
 {% figure [caption:"Oh hey, we're back to the start of the human campaign!"] %}
-![The Revelation](/assets/wr/20240429210015_1.jpg)
+![Blackrock & Roll, Too!](/assets/wr/20240429210015_1.jpg)
 {% endfigure %}
 
 The good news is that there's a demon gate nearby that will do exactly what Kel'Thuzad needs: let him communicate with the demon lord to receive further instructions. The bad news is that it's protected by a bazillion Blackrock orcs.
@@ -126,7 +126,7 @@ Despite appearances --- you get surrounded by five orc bases --- this mission is
 ...Get it? A breeze! ...What?
 
 {% figure [caption:"MAYHEM!"] %}
-![The Revelation](/assets/wr/20240429212510_1.jpg)
+![Blackrock & Roll, Too!](/assets/wr/20240429212510_1.jpg)
 {% endfigure %}
 
 They also have a decent anti-air attack, which is good because enemy air units have been a pain so far, forcing me to rely on crypt finds to bring them to the ground, and these orcs have big, powerful red dragons.
@@ -149,8 +149,8 @@ It's important to realize that [plot holes are a gradient](https://www.shamusyou
 
 Anyway, we secure the demon gate. The Scourge mops up the orcs, who have [outlived their usefulness](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveOutlivedYourUsefulness) to the Legion, and Kel'Thuzad receives his next instructions from Lord Archimonde.
 
-{% figure [caption:"MAYHEM!"] %}
-![The Revelation](/assets/wr/20240429213651_1.jpg)
+{% figure [caption:"Archimonde's penchant for goofy faces on screenshots is only rivaled by the Prophet."] %}
+![Blackrock & Roll, Too!](/assets/wr/20240429213651_1.jpg)
 {% endfigure %}
 
 The spellbook in question is kept in Dalaran, and, of course, the Kirin Tor won't surrender it willingly.
@@ -159,13 +159,13 @@ The spellbook in question is kept in Dalaran, and, of course, the Kirin Tor won'
 ## The Siege of Dalaran
 
 {% figure [caption:"*The next morning?* Has Arthas equipped his entire army with Boots of Speed?"] %}
-![The Revelation](/assets/wr/20240429213746_1.jpg)
+![The Siege of Dalaran](/assets/wr/20240429213746_1.jpg)
 {% endfigure %}
 
 Arthas arrives at the gates of Dalaran, demanding that the wizards of the Kirin Tor surrender to the Scourge. Antonidas replies... with snark.
 
 {% figure [caption:"&ldquo;Also, you don't look well. Have you been eating your vegetables?&rdquo;"] %}
-![The Revelation](/assets/wr/20240429213831_1.jpg)
+![The Siege of Dalaran](/assets/wr/20240429213831_1.jpg)
 {% endfigure %}
 
 Antonidas boasts that the mages have prepared for Arthas's arrival by erecting magical auras that will destroy any undead that pass through. Then he teleports away.
@@ -173,7 +173,7 @@ Antonidas boasts that the mages have prepared for Arthas's arrival by erecting m
 The aura indeed makes it unviable to rely on the undead faction's primary tactic --- spamming waves of individually weak units. Thankfully, at the start of this mission, you unlock abominations --- bulky and sturdy flesh golems. Frost wyrms work well too, but will take some time to be ready.
 
 {% figure [caption:"Arcanister? As in, arcane canister?"] %}
-![The Revelation](/assets/wr/20240429215555_1.jpg)
+![The Siege of Dalaran](/assets/wr/20240429215555_1.jpg)
 {% endfigure %}
 
 This mission is pretty easy --- a nice [breather level](https://tvtropes.org/pmwiki/pmwiki.php/Main/BreatherLevel) between the rather involved previous two chapters and the absolutely brutal final one. You advance through Dalaran at your leisure across a narrow map. There are three archmage heroes maintaining the aura, and after you kill the first two, their auras dissipate, allowing you to advance. There are some helpful treasures along the way, like storage crates containing rock golems that are immune to the undead-damaging aura. Even Antonidas himself, for all his buildup, is kind of a pushover, as you can ignore his entourage and summons and just shoot him with a maxed-out Death Coil or two.
@@ -181,7 +181,7 @@ This mission is pretty easy --- a nice [breather level](https://tvtropes.org/pmw
 Reforged completely overhauled this mission and, amazingly, did it right. The wizards feel like more of a threat, there are secrets to uncover that give a good look at Kirin Tor culture and their fondness for hoarding knowledge and conducting weird magical experiments, and Antonidas was upgraded to a proper climactic boss fight. It's a glimpse of what Reforged could have been --- a total overhaul and modernization of the campaign --- if not for its troubled development and inept management.
 
 {% figure [caption:"Then don't!"] %}
-![The Revelation](/assets/wr/20240429220710_1.jpg)
+![The Siege of Dalaran](/assets/wr/20240429220710_1.jpg)
 {% endfigure %}
 
 Antonidas dies, Dalaran is in ruins, and the spellbook is ours. It's time to proceed to the summoning ritual that will bring Archimonde into the world.
@@ -190,7 +190,7 @@ Antonidas dies, Dalaran is in ruins, and the spellbook is ours. It's time to pro
 ## Under the Burning Sky
 
 {% figure [caption:"One hell of a mission."] %}
-![The Revelation](/assets/wr/20240429220756_1.jpg)
+![Under the Burning Sky](/assets/wr/20240429220756_1.jpg)
 {% endfigure %}
 
 Apparently one hour was all it took for Kel'Thuzad to read through Medivh's spellbook and get an understanding of the ritual.
@@ -198,21 +198,21 @@ Apparently one hour was all it took for Kel'Thuzad to read through Medivh's spel
 This is a hold-the-line mission, and it's damn hard. The humans are moving in from three massively-fortified bases, hell-bent on stopping the summoning ritual. Meanwhile, we're back to controlling one hero, stuck protecting a squishy lich whose death results in an instant game over.
 
 {% figure [caption:"And the ground around Kel'Thuzad is pavement you can't build on."] %}
-![The Revelation](/assets/wr/20240429230256_1.jpg)
+![Under the Burning Sky](/assets/wr/20240429230256_1.jpg)
 {% endfigure %}
 
 On hard difficulty, this is probably the hardest mission in Reign of Chaos. Even on normal, it kept me on my toes, with a lot of my time spent frantically repairing and rebuilding my towers after enemy steam tanks plow through them like a knife through butter. The Burning Legion does send reinforcements --- two packs of felhounds and then infernals --- but at the last minute the assault becomes brutal, with the humans sending *massive* waves from all three directions. Worse yet, your gold mine doesn't have enough gold to last through the entire mission. Thankfully, my expansion survived intact until the very end.
 
 {% figure [caption:"That sheep is a polymorphed crypt fiend. I think."] %}
-![The Revelation](/assets/wr/20240429234935_1.jpg)
+![Under the Burning Sky](/assets/wr/20240429234935_1.jpg)
 {% endfigure %}
 
 After the enemy razed my towers, they beelined straight for Kel'Thuzad, whom I was able to keep alive with two Death Coils, long enough to outlast the timer.
 
-Archimonde makes an absolutely *bombastic* entrance.
+Archimonde makes an absolutely *glorious* entrance.
 
 {% figure [caption:"Also, sweet loot just lying around! (Actually Kel'Thuzad's former inventory, which the game deposited there for Arthas to use.)"] %}
-![The Revelation](/assets/wr/20240429235053_1.jpg)
+![Under the Burning Sky](/assets/wr/20240429235053_1.jpg)
 {% endfigure %}
 
 Now, the Burning Legion's invasion begins properly. As the Lich King is of no further use to Archimonde, he reassigns command of the Scourge to the dreadlords. To say this makes Arthas livid would be an understatement, but Kel'Thuzad urges patience. The Lich King foresaw this as well, and Arthas still has a role to play in his ultimate plan. For now, the two will lay low.
