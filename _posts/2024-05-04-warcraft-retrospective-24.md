@@ -5,7 +5,7 @@ categories: [ Warcraft Retrospective, Warcraft ]
 excerpt_separator: <!--more-->
 ---
 
-Last time, we saw Arthas lead the Scourge to the outskirts of Silvermoon, where he plans to raise Kel'Thuzad at the high elves' sacred font of power, the Sunwell. Meanwhile, this was playing in the background.
+Last time, we saw Arthas lead the Scourge to the outskirts of Silvermoon, where he plans to raise Kel'Thuzad at the high elves' sacred font of power, ~~Comic Sans~~ the Sunwell. Meanwhile, this was playing in the background.
 
 {% youtube "https://www.youtube.com/watch?v=5SWGRsZai28" %}
 
@@ -221,7 +221,7 @@ As for Archimonde, he doesn't toy around and lets his power immediately be felt.
 
 {% youtube "https://www.youtube.com/watch?v=eEEd9xR5K_Q" %}
 
-*This* how you establish a cosmic, power-level-through-the-roof villain. Not by making boastful grandiose speeches that make him look like an edgy tryhard. Not by making menacing gestures at a random schmuck who escapes his allegedly inescapable prison within ten minutes of learning of its existence. But by making it clear that he means business, that we puny mortals are mere ants to him, and that he has no need to lower himself to facing us in combat when he can destroy whole cities with a wave of his hand.
+*This* is how you establish a cosmic, power-level-through-the-roof villain. Not by making boastful grandiose speeches that make him look like an edgy tryhard. Not by making menacing gestures at a random schmuck who escapes his allegedly inescapable prison within ten minutes of learning of its existence. But by making it clear that he means business, that we puny mortals are mere ants to him, and that he has no need to lower himself to facing us in combat when he can destroy whole cities with a wave of his hand.
 
 Be afraid. Be *very* afraid.
 
