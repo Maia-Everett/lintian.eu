@@ -136,14 +136,14 @@ While your objective is just the red player, it's better to take them all out, s
 Gameplay-wise, this mission is fun and it's satisfying to see the orc bases fall to you one by one. Story-wise, however, it's chock full of continuity issues.
 
 * Kel'Thuzad uses a generic lich model. While this look has since become iconic and very much associated with Kel'Thuzad, it doesn't explain why an undead human has an orc-like skull. (Generic liches, as said in the manual, are Ner'zhul's orc followers raised into undeath, so the model makes sense for them.) It's pretty clear that the model came first and the character second, which makes me wonder if Kel'Thuzad wasn't in the original script[^script] and instead the primary lich hero was supposed to be Ner'zhul or one of his lieutenants.
-* The Blackrock orcs use red dragons, even though Alexstrasza has long been freed by this point, all the way back in [Day of the Dragon](https://lintian.eu/2024/02/11/warcraft-retrospective-14/).
+* The Blackrock orcs use red dragons, even though Alexstrasza has long been freed by this point, all the way back in *[Day of the Dragon](https://lintian.eu/2024/02/11/warcraft-retrospective-14/)*.
 * They have jungle troll headhunters, who weren't part of the old Horde and only allied themselves with Thrall later during his voyage to Kalimdor. Reforged replaced them with forest troll axethrowers, which is more fitting.
 * Their heroes are blademasters, which makes sense, and far seers, which doesn't. Far seers are a type of shaman, like Thrall. These demon-worshiping orcs don't have the regular shaman unit, instead using the campaign-only warlock unit, and logically they shouldn't have far seers, either. In Reforged, the far seer heroes have warlock models... and still use shamanistic powers. You were so close to getting it right, Reforged. So close.
 * Finally, are you really telling me that there were *this many* demon-worshiping orcs living in the Alterac Mountains all this time, and yet their existence was completely unnoticed by both Lordaeron and the nearby Frostwolf clan?
 
 That last point deserves particular emphasis. All the way [in the first entry](https://lintian.eu/2023/11/02/warcraft-retrospective-1/#what-is-this-for), I said that my goal was to examine the cracks in Warcraft's foundations. Here, we see a plot element that's relatively harmless on its own, taking Warcraft 3 in isolation, but becomes more and more damaging to the believability of the setting as it gets repeatedly reused in the sequels.
 
-In Beyond the Dark Portal, we were told that the clans of Doomhammer's Horde were captured and put into internment camps. In Lord of the Clans, we learned that the Frostwolf and Warsong clans stayed free all along, one hidden and the other evading capture. Now we have another clan of free orcs that was previously unaccounted for. And later, World of Warcraft will retroactively add so many independent clans to the eastern continent that sometimes it feels like Thrall was the only orc who was ever imprisoned.
+In Beyond the Dark Portal, we were told that the clans of Doomhammer's Horde were captured and put into internment camps. In *Lord of the Clans*, we learned that the Frostwolf and Warsong clans stayed free all along, one hidden and the other evading capture. Now we have another clan of free orcs that was previously unaccounted for. And later, World of Warcraft will retroactively add so many independent clans to the eastern continent that sometimes it feels like Thrall was the only orc who was ever imprisoned.
 
 It's important to realize that [plot holes are a gradient](https://www.shamusyoung.com/twentysidedtale/?p=25227). As long as they don't significantly distract from the story, they can pass by unnoticed. We'll later talk about why Warcraft 3, despite some flaws in its storyline, still holds well together and is rightfully remembered as a beloved classic.
 
@@ -217,11 +217,11 @@ Archimonde makes an absolutely *bombastic* entrance.
 
 Now, the Burning Legion's invasion begins properly. As the Lich King is of no further use to Archimonde, he reassigns command of the Scourge to the dreadlords. To say this makes Arthas livid would be an understatement, but Kel'Thuzad urges patience. The Lich King foresaw this as well, and Arthas still has a role to play in his ultimate plan. For now, the two will lay low.
 
-As for Archimonde, he doesn't toy around and lets his power immediately felt. In his character-establishing moment, he effortlessly levels Dalaran by conjuring and then knocking over a sand effigy of the city.
+As for Archimonde, he doesn't toy around and lets his power immediately be felt. In his character-establishing moment, he effortlessly levels Dalaran by conjuring and then knocking over a sand effigy of the city.
 
 {% youtube "https://www.youtube.com/watch?v=eEEd9xR5K_Q" %}
 
-*This* how you establish a cosmic, power-level-through-the-roof villain. Not by making boastful grandiose speeches that make him look like an edgy tryhard. Not by making menacing gestures at a random schmuck who escapes his allegedly inescapable prison within ten minutes of learning of its existence. But by making it clear that he's not toying around, that we puny mortals are mere ants to him, and that he has no need to lower himself to facing us in combat when he can destroy whole cities with a wave of his hand.
+*This* how you establish a cosmic, power-level-through-the-roof villain. Not by making boastful grandiose speeches that make him look like an edgy tryhard. Not by making menacing gestures at a random schmuck who escapes his allegedly inescapable prison within ten minutes of learning of its existence. But by making it clear that he means business, that we puny mortals are mere ants to him, and that he has no need to lower himself to facing us in combat when he can destroy whole cities with a wave of his hand.
 
 Be afraid. Be *very* afraid.
 
