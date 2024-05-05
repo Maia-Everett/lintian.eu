@@ -201,7 +201,7 @@ This is a hold-the-line mission, and it's damn hard. The humans are moving in fr
 ![Under the Burning Sky](/assets/wr/20240429230256_1.jpg)
 {% endfigure %}
 
-On hard difficulty, this is probably the hardest mission in Reign of Chaos. Even on normal, it kept me on my toes, with a lot of my time spent frantically repairing and rebuilding my towers after enemy steam tanks plow through them like a knife through butter. The Burning Legion does send reinforcements --- two packs of felhounds and then infernals --- but at the last minute the assault becomes brutal, with the humans sending *massive* waves from all three directions. Worse yet, your gold mine doesn't have enough gold to last through the entire mission. Thankfully, my expansion survived intact until the very end.
+On hard difficulty, this is probably the hardest mission in Reign of Chaos. Even on normal, it kept me on my toes, with a lot of my time spent frantically repairing and rebuilding my towers after enemy steam tanks plowed through them like a knife through butter. The Burning Legion does send reinforcements --- two packs of felhounds and then infernals --- but at the last minute the assault becomes brutal, with the humans sending *massive* waves from all three directions. Worse yet, your gold mine doesn't have enough gold to last through the entire mission. Thankfully, my expansion survived intact until the very end.
 
 {% figure [caption:"That sheep is a polymorphed crypt fiend. I think."] %}
 ![Under the Burning Sky](/assets/wr/20240429234935_1.jpg)
