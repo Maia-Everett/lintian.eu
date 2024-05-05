@@ -183,7 +183,7 @@ I really appreciate the visual continuity here. We're back on the same island, e
 
 Our objective here is simply to survive for 20 minutes. Blizzard previously introduced this type of mission, a ["hold the line"](https://tvtropes.org/pmwiki/pmwiki.php/Main/HoldTheLine) mission, in Starcraft, and here it makes its first Warcraft appearance. This particular mission is pretty easy compared to future ones of that type.
 
-There's also an optional quest. There are three troll camps scattered through the island, giving you free units when visited. One is right next to your base and the other two are not far, so you can visit them all before the enemy attacks. You can also go out exploring, but since Thrall's items and powerups from these bonus missions won't carry over into the main campaign (except in Reforged), I didn't bother.
+There's also an optional quest. There are three troll camps scattered through the island, giving you free units when visited. One is right next to your base and the other two are not far, so you can visit them all before the enemy attacks. You can also go out exploring, but since Thrall's items and powerups from these bonus missions won't carry over into the main campaign, I didn't bother.
 
 {% figure [caption:"These spikes around orc buildings are a researchable upgrade, and they're pretty useful in this mission, as they deal damage to melee attackers."] %}
 ![Countdown to Extinction](/assets/wr/WC3ScrnShot_031024_204452_79.jpg)
