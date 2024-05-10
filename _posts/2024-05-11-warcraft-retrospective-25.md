@@ -107,7 +107,29 @@ I mean, it's possible that Grom or other orcs from Draenor described to him what
 ![The Wreckage of Lordaeron](/assets/wr/20240505185229_1.jpg)
 {% endfigure %}
 
+We get another interlude. While the orcs are busy exploring this mysterious continent and gaining new allies, back in Lordaeron, things aren't so rosy. The demons are mercilessly slaughtering whole human villages.
 
+{% figure [caption:"Arthas burned human settlements down before it was mainstream."] %}
+![The Wreckage of Lordaeron](/assets/wr/20240505185304_1.jpg)
+{% endfigure %}
+
+This large demon Tichondrius is talking to is [Mannoroth](https://warcraft.wiki.gg/wiki/Mannoroth), a giant [four-legged centauroid... thing](https://warcraft.wiki.gg/wiki/Pit_lord). 
+
+{% figure [caption:"That infernal in the background is just chilling around."] %}
+![The Wreckage of Lordaeron](/assets/wr/20240505185309_1.jpg)
+{% endfigure %}
+
+It's incredible how much story significance they managed to pack into a relatively short cutscene --- and in a natural way, at that. First of all, it re-establishes a sense of urgency and tension. After two relatively quiet and low-stakes "Thrall's tropical safari" missions, we get reminded that the Burning Legion is still a looming threat --- and they aren't going to stop at Lordaeron. Their ultimate goal is still to destroy the whole world, though how they're planning to achieve it is yet unclear.
+
+This cutscene also establishes an important fact about the backstory: Mannoroth considers the orcs to be "his", and he is considered responsible for their previous failure to conquer this world. After learning that they escaped to Kalimdor[^agents], he wants to follow and reclaim them. Suddenly, Archimonde appears and reminds both who's the boss here.
+
+{% figure [caption:"That infernal in the background is just chilling around."] %}
+![The Wreckage of Lordaeron](/assets/wr/20240505185403_1.jpg)
+{% endfigure %}
+
+The final thing this cutscene establishes is the [brains-and-brawn](https://tvtropes.org/pmwiki/pmwiki.php/Main/BrainsAndBrawn) duo of Tichondrius and Mannoroth. Tichondrius is the schemer, playing the long game and making plans. Mannoroth, on the other hand, is not particularly bright, and is [the muscle](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheBigGuy). The two also have little love for each other yet [have to work together](https://tvtropes.org/pmwiki/pmwiki.php/Main/TeethClenchedTeamwork) for the time being.
+
+In the next mission, things will begin to heat up for the Horde.
 
 
 ## Cry of the Warsong
@@ -132,3 +154,5 @@ Next up, Tichondrius and Mannoroth do the same thing they do every night: try to
 
 
 [^boarqpines]: [Boar-q-pines](https://avatar.fandom.com/wiki/Boar-q-pine)?
+
+[^agents]: Tichondrius says that his "agents" told him the orcs landed in Kalimdor. Who these agents are and how they learned this is never explained.
