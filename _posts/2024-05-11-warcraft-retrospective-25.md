@@ -145,6 +145,7 @@ Cairne then engaged that centaur alongside his tauren, in a cutscene, while cont
 
 And there we go. The orcs and the tauren part ways for now, and Thrall sets out for his next destination: Stonetalon Peak, where the Oracle will hopefully give him the answers he seeks.
 
+While this mission is fairly light on plot developments --- its only significance is Thrall learning the location of the Oracle, which could easily be moved to the end of the previous mission --- it helps introduce the new setting and set the pacing. It establishes the scope and breadth of Kalimdor and shows that Thrall took some time to traverse it while back in the east, the Burning Legion was engaged in...
 
 
 ## The Wreckage of Lordaeron
@@ -184,6 +185,66 @@ In the next mission, things will begin to heat up for the Horde.
 ![Cry of the Warsong](/assets/wr/20240505185420_1.jpg)
 {% endfigure %}
 
+By this point, the player is probably itching to build a base and maybe raze some enemy ones. One of Thrall's grunts echoes this sentiment.
+
+{% figure [caption:"Poor Thrall. He's an idealistic young leader stuck leading a nation of [fantasy Klingons](https://tvtropes.org/pmwiki/pmwiki.php/Main/ProudWarriorRaceGuy)."] %}
+![Cry of the Warsong](/assets/wr/20240505185433_1.jpg)
+{% endfigure %}
+
+Soon, the opportunity presents itself:
+
+{% figure [caption:"The archmage says the orcs have followed them here, so yes, they're refugees too."] %}
+![Cry of the Warsong](/assets/wr/20240505185501_1.jpg)
+{% endfigure %}
+
+We gain control, help Grom destroy this human undead base, and build our own on its ruins, all the while Grom stays at his fully built base nearby. He says that the humans got here the same way the orcs did, and "a frail girl named [Proudmoore](https://warcraft.wiki.gg/wiki/Jaina_Proudmoore)" leads them.
+
+Scouts bring Thrall a report, and he formulates a plan.
+
+{% figure [caption:"You spotted something on the other side of the map? Couldn't you also reveal the map for me?"] %}
+![Cry of the Warsong](/assets/wr/20240506132923_1.jpg)
+{% endfigure %}
+
+There's a goblin laboratory that will bring Thrall to Stonetalon Peak quickly, and he hopes to hire some zeppelins without causing much fuss. Then... basically, this happens.
+
+> **Thrall:** Right, here's the plan. We'll run through, get to the laboratory, secure the zeppelins, then fly them to Stonetalon Peak. Do not engage any of the humans. Hopefully we can do this with as few casualties as possible--  
+> **Grom:** Alright chums, time's up, let's do this. [GROOOOOOM HELLSCREEEEEEEEEAM!](https://warcraft.wiki.gg/wiki/Leeroy_Jenkins_(video))  
+> **Thrall:** Oh spirits, he just ran in, save him!
+
+That's right --- not only does Grom attack the humans in direct disregard of Thrall's order, but he does it in the stupidest way possible. He takes, like, five grunts with him while leaving behind the rest of his army (including raiders, who would be very good at razing buildings), then charges across the map to one of the human bases at random. After he invariably dies if attacking on his own, the humans get alerted and counterattack, except they attack *you*. It's like playing multiplayer with a blockhead ally with no comprehension of unit specialization or basic tactics.
+
+Because of this, the optimal thing to do is to join Grom on his assaults and take out the human bases together, one by one. You still have to invest in base defense just in case one of the other human bases attacks you in the meantime.
+
+{% figure [caption:"That paladin will soon be paladout."] %}
+![Cry of the Warsong](/assets/wr/20240506134205_1.jpg)
+{% endfigure %}
+
+Thankfully, the map designers realized that you might want to explore the map at your own pace without Grom forcing your hand. Once all the humans are gone, Grom is content to sit at his base for the remainder of the mission, and for once, destroying all enemy bases doesn't actually end the mission, as we still have to hire the zeppelins and bring them back to our base. This gives the player the opportunity to kill the remaining creeps and take their stuff. In particular, these folks are worth a visit:
+
+{% figure [caption:"What kind of creatures left these giant skulls? They're much larger than the owlbears' heads!"] %}
+![Cry of the Warsong](/assets/wr/20240506140947_1.jpg)
+{% endfigure %}
+
+These [owlbears](https://warcraft.wiki.gg/wiki/Wildkin), which drop some really nice Claws of Attack +9, are, as their name implies, part owl, part bear... [and part stag, which handily avoids potential lawsuits](https://warcraft.wiki.gg/wiki/Angry_Egg). Between centaurs, harpies, tauren (minotaurs), and now these, Kalimdor sometimes really feels like a habitat for all those D&D creatures that Blizzard wanted to introduce into Warcraft as part of its ongoing retool into an adventure setting, but that didn't fit thematically into the old world.
+
+The path to the goblin laboratory is guarded by more centaurs and harpies --- nothing to difficult. In theory, it's possible to complete the main quest without destroying the humans, but the path is blocked by one of the human bases, so you'll have to either level at least that one, or run your army through it, probably taking large casualties along the way. There's also no advantage in doing so, since Warcraft 3 never remembers or acknowledges the player's moral choices across missions.
+
+Interestingly, early on, the developers did play with the possibility of moral choices. The idea was that if the player completed this mission without killing humans or stopped Grom from attacking them, there [could be benefits later](https://youtube.com/watch?v=yUTNP5kzSrs). The same was true of the next mission, which once again pits you against an enemy that isn't your primary objective.
+
+While that concept didn't materialize, Reforged did make a nod to the abandoned idea. When patch 1.33 [updated all the campaigns](https://www.hiveworkshop.com/threads/1-33-campaign-balance-update.340191/)[^reforged], it added a new path allowing the player to bypass the human bases entirely. Like all other campaign changes, this one was reverted a year later in patch 1.36.1.
+
+Thanks for nothing, Reforged. Again.
+
+Once the zeppelins are brought back to the base, Thrall confronts Grom, who says a true warrior would have simply taken the pass from the humans. Thrall lashes out on him for disobeying a direct order, and then...
+
+{% figure [caption:"Foreshadowing!"] %}
+![Cry of the Warsong](/assets/wr/20240506142113_1.jpg)
+{% endfigure %}
+
+Thrall decides he can't afford the liability that Grom represents, and punishes him by [reassigning him to a menial task](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReassignedToAntarctica) --- building a settlement at the northern forest.
+
+I'm sure this will end well and not in any way backfire.
+
 
 ## The Spirits of Ashenvale
 
@@ -211,3 +272,5 @@ Hold your formations! The kodos must be protected!
 [^goatee]: And maybe a goatee, because everyone knows [goatee bearers are evil](https://tvtropes.org/pmwiki/pmwiki.php/Main/BeardOfEvil).
 
 [^agents]: Tichondrius says that his "agents" told him the orcs landed in Kalimdor. Who these agents are and how they learned this is never explained.
+
+[^reforged]: While also making them noticeably harder all across the board, out of the developer's unsolicited belief that the players wanted more challenge or something.
