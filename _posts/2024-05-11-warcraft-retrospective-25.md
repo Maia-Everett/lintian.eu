@@ -50,7 +50,7 @@ Soon enough, we witness three [horse-men](warcraft.wiki.gg/wiki/Centaur) fight a
 ![Landfall](/assets/wr/20240505162906_1.jpg)
 {% endfigure %}
 
-We also fight the quillboar *[sic]*, a race of boar-porcupine-people.[^boarqpines]
+We also fight the [quillboar](https://warcraft.wiki.gg/wiki/Quilboar) *[sic]*, a race of boar-porcupine-people.[^boarqpines]
 
 {% figure [caption:"At least they're prettier than the humans, says the grunt."] %}
 ![Landfall](/assets/wr/20240505163008_1.jpg)
@@ -86,34 +86,80 @@ As soon as Thrall approaches Cairne at the end of the map, the centaurs attack, 
 ## The Long March
 
 {% figure [caption:"Followed by the Short April."] %}
-![Landfall](/assets/wr/20240505165332_1.jpg)
+![The Long March](/assets/wr/20240505165332_1.jpg)
 {% endfigure %}
 
 Thrall displays a surprising knowledge of the world he never saw.
 
 {% figure [caption:"Before the retcons, anyway."] %}
-![Landfall](/assets/wr/20240505165339_1.jpg)
+![The Long March](/assets/wr/20240505165339_1.jpg)
 {% endfigure %}
 
-I mean, it's possible that Grom or other orcs from Draenor described to him what their world was like before the warlocks turned it into the barely-hospitable wasteland we saw in Beyond the Dark Portal.
+I mean, it's possible that Grom or other orcs from Draenor described to him what their world was like before the warlocks turned it into the barely-hospitable wasteland we saw in Beyond the Dark Portal. But still.
 
+The tauren revere someone called the [Earth Mother](https://warcraft.wiki.gg/wiki/Earth_Mother), and Cairne likes a life of freely roaming the plains. Thrall, on the other hand, wants the orcs to have a land they can call their own.
 
+This is one long escort mission. The tauren have brought along four [kodo beasts](https://warcraft.wiki.gg/wiki/Kodo) --- horned dinosaur-like pack animals --- and at least two of them must survive until the end. There are three oases (actually Fountains of Health) to visit along the way, and other than them, sources of healing continue to be very scarce, so you once again have to be careful with your limited units.
+
+{% figure [caption:"I have no idea what that spell effect is."] %}
+![The Long March](/assets/wr/20240505183204_1.jpg)
+{% endfigure %}
+
+Story-wise, very little of importance happens in this mission, and it ends up being kind of a drag. (We do learn that Grom Hellscream is alive and has sent scouts to find Thrall.) Gameplay-wise, its purpose is to teach you some micromanagement by putting you in a situation where you have to conserve your units.
+
+In theory, this mission is a series of trade-offs. You can be purely defensive, following the main road and protecting the caravan from periodically spawning centaur raiders, or you can take forays into side paths and battle creeps in the hope of finding some good loot. Either way, as soon as you're away from the caravan, you can expect to hear...
+
+{% figure [caption:"These three headhunters graduated from the [Imperial Stormtrooper Marksmanship Academy](https://tvtropes.org/pmwiki/pmwiki.php/Main/ImperialStormtrooperMarksmanshipAcademy)."] %}
+![The Long March](/assets/wr/20240505183530_1.jpg)
+{% endfigure %}
+
+And you can expect Cairne to repeat this line again. And again. And *again*.
+
+In practice, this is a rare mission that actually *punishes* you for exploration most of the time, as most of the loot here is really underwhelming. Some of the optional encounters drop *nothing*, others drop a potion or scroll that only just about covers the HP and mana you expended to defeat them in the first place, some drop items that give +1 strength or intelligence and aren't even worth picking up considering you only have six inventory slots, and only three items in the entire mission are worth picking, one of which comes from an encounter right along the main road, and two from a hard optional boss fight.
+
+In my playthrough I went into the other extreme, playing it too safe and thus missing a neat Mantle of Intelligence +3 from a group of harpies near the main road that I took care to avoid. Ah well. Thrall will find better items later anyway.
+
+The final stretch, between the second and third oasis, goes past a series of towers, but thankfully, we get catapults to knock them down. Catapults that... Grom's Warsong clan just brought us all the way here across half the Barrens, apparently.
+
+{% figure [caption:"Despite being built by centaurs, these towers use the Horde tower model."] %}
+![The Long March](/assets/wr/20240505184848_1.jpg)
+{% endfigure %}
+
+After we reach the last oasis, the ending cutscene plays. The caravan has reached Mulgore, but an overwhelming wave of centaurs advances through the nearby mountain pass. In response, Cairne stomps the ground so hard that it causes a cave-in, blocking the exit.
+
+{% figure [caption:"Curses! We're foiled by a head-high ramp we can just run over!"] %}
+![The Long March](/assets/wr/20240505185116_1.jpg)
+{% endfigure %}
+
+And... this is where, for the first time in my entire playthrough, I saw a Warcraft 3 cutscene actually bug out. Cairne started telling Thrall what the Oracle is, but one centaur got through the rubble, and Cairne interrupted his exposition for his catchphrase that he's only supposed to say during the actual mission.
+
+{% figure [caption:"That's one suicidal centaur."] %}
+![The Long March](/assets/wr/wc3_hold_your_formations.jpg)
+{% endfigure %}
+
+Cairne then engaged that centaur alongside his tauren, in a cutscene, while continuing to talk.
+
+{% figure [caption:"&ldquo;Cairne, we're sort of in the middle of talking about the Oracle...&rdquo; — &ldquo;I can multitask!&rdquo;"] %}
+![The Long March](/assets/wr/20240505185148_1.jpg)
+{% endfigure %}
+
+And there we go. The orcs and the tauren part ways for now, and Thrall sets out for his next destination: Stonetalon Peak, where the Oracle will hopefully give him the answers he seeks.
 
 
 
 ## The Wreckage of Lordaeron
 
-{% figure [caption:"They laughed at the Prophet. They called him mad. But who's now saying &ldquo;I told you so&rdquo;?"] %}
+{% figure [caption:"They laughed at the Prophet. They called him mad. But who's saying &ldquo;I told you so&rdquo; now?"] %}
 ![The Wreckage of Lordaeron](/assets/wr/20240505185229_1.jpg)
 {% endfigure %}
 
 We get another interlude. While the orcs are busy exploring this mysterious continent and gaining new allies, back in Lordaeron, things aren't so rosy. The demons are mercilessly slaughtering whole human villages.
 
-{% figure [caption:"Arthas burned human settlements down before it was mainstream."] %}
+{% figure [caption:"Arthas burned down human settlements before it was mainstream."] %}
 ![The Wreckage of Lordaeron](/assets/wr/20240505185304_1.jpg)
 {% endfigure %}
 
-This large demon Tichondrius is talking to is [Mannoroth](https://warcraft.wiki.gg/wiki/Mannoroth), a giant [four-legged centauroid... thing](https://warcraft.wiki.gg/wiki/Pit_lord). 
+This large demon that Tichondrius is talking to is [Mannoroth](https://warcraft.wiki.gg/wiki/Mannoroth), a giant [four-legged centauroid... thing](https://warcraft.wiki.gg/wiki/Pit_lord). I like how demon designs from Warcraft 3 onwards are creative and varied instead of conventional "human with horns and hooves"[^goatee] designs of different sizes.
 
 {% figure [caption:"That infernal in the background is just chilling around."] %}
 ![The Wreckage of Lordaeron](/assets/wr/20240505185309_1.jpg)
@@ -150,9 +196,18 @@ In the next mission, things will begin to heat up for the Horde.
 
 ## Next Up...
 
-Next up, Tichondrius and Mannoroth do the same thing they do every night: try to TAKE OVER THE WORLD!
+Next up, Grom's battle against the night elves sees two unexpected interventions from two completely different giant centaur-like people, and Grom rediscovers his long-forgotten favorite color.
+
+> — What are we going to do tonight, Tichondrius?  
+> — The same thing we do every night, Mannoroth: try to DESTROY THE WORLD!
+
+----
+
+Hold your formations! The kodos must be protected!
 
 
 [^boarqpines]: [Boar-q-pines](https://avatar.fandom.com/wiki/Boar-q-pine)?
+
+[^goatee]: And maybe a goatee, because everyone knows [goatee bearers are evil](https://tvtropes.org/pmwiki/pmwiki.php/Main/BeardOfEvil).
 
 [^agents]: Tichondrius says that his "agents" told him the orcs landed in Kalimdor. Who these agents are and how they learned this is never explained.
