@@ -22,7 +22,7 @@ In contrast to the hectic and dramatic presentation of the undead campaign final
 ![Landfall](/assets/wr/20240429235252_1.jpg)
 {% endfigure %}
 
-The orcs have landed in some kind of tropical savannah. Thrall isn't even sure that this is Kalimdor, but his grunt assures him that this must be it. The other ships are missing, and Grom Hellscream's fate concerns Thrall in particular. Time to look around.
+The orcs have landed in some kind of tropical savanna. Thrall isn't even sure that this is Kalimdor, but his grunt assures him that this must be it. The other ships are missing, and Grom Hellscream's fate concerns Thrall in particular. Time to look around.
 
 We start with two grunts and two troll headhunters, and in classic Reign of Chaos, which only includes the first two missions of the prologue campaign, it's not explained where the trolls came from. They're just... there, somehow. Their story is only told in full in the Warcraft 3 demo, in the [bonus prologue missions](https://lintian.eu/2024/03/13/warcraft-retrospective-20/) I previously covered. Thankfully, these missions are included in Reforged.
 
@@ -252,7 +252,93 @@ I'm sure this will end well and not in any way backfire.
 ![The Spirits of Ashenvale](/assets/wr/20240506142208_1.jpg)
 {% endfigure %}
 
+At a new Warsong base in the forest, Grom is pissed at Thrall for using his best warriors for manual labor. Nonetheless, when a grunt complains that the woods are too quiet, like they're being watched, Grom simply mocks him for being afraid of spirits. To him, there's nothing here but ancient trees in shadow... he says, while [strange blue lights](https://warcraft.wiki.gg/wiki/Wisp) circle the nearby trees and, unknown to the orcs, they're indeed being watched by some kind of [archer in a cloak](https://warcraft.wiki.gg/wiki/Sentinel).
 
+{% figure [caption:"Oh hey, new map tileset!"] %}
+![The Spirits of Ashenvale](/assets/wr/20240506142323_1.jpg)
+{% endfigure %}
+
+Not just that, but there are strange female voices being heard among the trees, laughing and whispering in an [unknown language](https://warcraft.wiki.gg/wiki/Darnassian).
+
+For now, all seems quiet. The orcs are chopping wood, the strange lights aren't displaying any kind of hostility, and you get your quest: to obtain *fifteen thousand lumber*.
+
+{% figure [caption:"What could possibly require so much lumber, anyway?"] %}
+![The Spirits of Ashenvale](/assets/wr/20240506142340_1.jpg)
+{% endfigure %}
+
+The first thing you'll realize is that harvesting this much lumber with peons alone would take forever, even if you built a lot of them and kept constructing new war mills to keep their trips to the trees and back as short as possible.
+
+The second thing you'll realize is that your starting base is cut off from the rest of the map by a thin row of trees. In a few seconds, however, your peons will break through them, and as you run into the gap, you face... warrior women?
+
+{% figure [caption:"Turns out neither culture has established first contact protocols."] %}
+![The Spirits of Ashenvale](/assets/wr/20240508232425_1.jpg)
+{% endfigure %}
+
+This is such a stark contrast with Thrall's first encounter with Cairne and the tauren that I wonder if it's a deliberate juxtaposition. Had Thrall been leading this expedition and not Grom, I have no doubt that he'd defuse the situation and establish diplomatic relations with this new race. Unfortunately, Grom is interested in sating his bloodlust, rather than in peaceful coexistence, and so Thrall's decision to send him here --- whose consequences Thrall, in fairness, couldn't have known --- will result in tragedy for everyone involved.
+
+This is our gameplay introduction to the [night elves](https://warcraft.wiki.gg/wiki/Night_elf) --- the fourth playable race of Warcraft 3. I'll talk more in detail about them when we get to their own campaign, but for now, I'll just say this. Everyone knows how Grom characterizes his newfound opponents in this mission:
+
+{% figure [caption:"I'll take his word on the &ldquo;far too tall&rdquo; thing, since the in-game models of high elf and night elf archers are the same size (and are in fact recolors of each other)."] %}
+![The Spirits of Ashenvale](/assets/wr/20240508232434_1.jpg)
+{% endfigure %}
+
+He also says they fight with unmatched savagery and are the perfect warriors. Thing is, this characteristic is immediately undermined by storytelling considerations. Since they're introduced as the player's opponents in the orc campaign, it means that in their first on-screen appearance in a Warcraft game, the night elves *lose*.
+
+The Sentinels had, as we know from the manual, ten thousand years to prepare for the return of the Burning Legion --- yet the moment they're actually attacked, they lose, and not even to the Burning Legion, but by mortal refugees in hostile territory who didn't even know they were there.
+
+Technically, you don't *have* to defeat them all in this mission. In fact, it's *very* likely that you'll complete the mission without even destroying the majority of night elf bases. But story needs mean that they fail to stop you from cutting down their woods.
+
+Which is not to say the victory will come easily. The *third* thing you'll notice is that your starting base has no gold mine. There's one some distance past the breach, but it's out there in the open with no chokepoints, and the enemy will be very persistent in this mission. The night elves fight dirty. They ambush you at night, suddenly materializing their troops in the middle of your base by taking advantage of their [Shadowmeld](https://warcraft.wiki.gg/wiki/Shadowmeld) ability, which makes them invisible at night as long as they don't move. They also send in archers riding [flying beasts](http://warcraft.wiki.gg/wiki/Hippogryph) at a time when your anti-air options are very limited. You likely had time to practice the raiders' Ensnare ability (which is *not* auto-cast) on harpies in the previous missions, but just in case you forgot, the game reminds you of it in Grom's voice.
+
+{% figure [caption:"Incorporating both unit introductions and a tutorial on unit abilities, diegetically, while maintaining tension. It's just one of many touches that makes Warcraft 3 so special."] %}
+![The Spirits of Ashenvale](/assets/wr/20240508232729_1.jpg)
+{% endfigure %}
+
+This is one of my favorite missions in the game. It captures the idea of Ashenvale as a dangerous, unknown place as the metaphorical fog of war is in full effect and you're fighting night elves on their home turf. Those cute little orbs of light are enemy units spying on you. You have to protect your source of gold on a hard-to-defend forest clearing while the enemy has flying units and you don't. Your goal — harvesting lumber — means removing your own bases’ natural defenses, leaving you open to more venues of attack. If you start harvesting at the wrong place, you open another route for the night elves to attack you. Meanwhile, they have three bases that do have natural chokepoints, and attack you from all sides --- and at night, they could be lying in ambush, *anywhere* on the map.
+
+The map design is clever as well, as it gives you ideas what should be done without bogging you down in overbearing tips.
+
+After you secure the initial gold mine, you'll notice that the eastern side of the minimap has neutral building icons showing up. You'll naturally want to give this place a visit. It's a goblin camp, run by this guy:
+
+{% figure [caption:"That name is a bit too on the nose, isn't it?"] %}
+![The Spirits of Ashenvale](/assets/wr/20240508232648_1.jpg)
+{% endfigure %}
+
+These [furbolgs](https://warcraft.wiki.gg/wiki/Furbolg) the goblin speak of inhabit a camp to the west.
+
+{% figure [caption:"Horse people, boar people, bull people, bear people... What's next? Wolf people? Nah, that's crazy talk."] %}
+![The Spirits of Ashenvale](/assets/wr/20240508233145_1.jpg)
+{% endfigure %}
+
+Once you kill their chieftain and return to Neeloc, he gives you two goblin shredders[^shredders] for free and lets you hire more for gold. He also opens his shop for you. It's a standard Goblin Merchant, and now one item that so far has been largely useless through the campaigns --- the Gem of True Seeing --- will be very useful, as it reveals nearby invisible units.
+
+Let's engage in some arithmetic. A single tree has 50 HP, and workers chop trees into lumber at a rate of one lumber per HP.[^hp] Peons harvest 1 lumber per swing and carry bundles of 10 lumber per trip, so a single peon will make five trips before felling a single tree, and to meet the mission objective by just chopping wood, you have to fell 300 trees. A single shredder, on the other hand, harvests 10 lumber per swing and carries bundles of *200* lumber, so it will fell five trees before returning to the nearest great hall or war mill. If you aren't careful about where you direct your shredders, they'll quickly deforest the surroundings of your base, leaving you exposed to ground attacks --- on a map that's scarce on defensible positions to begin with.
+
+The next thing you'll likely notice is that your gold mine is pretty low on gold. You'll want another one. There's an unexplored patch of map to the south and west of your route to the furbolgs, and that sounds like a natural direction. There's a tiny night elf base there, whose main structure, the Tree of Life, yields *3000* lumber when destroyed[^tree_of_life], to Grom's glee. To the west of it is a gold mine with plenty of gold, guarded by dark troll creeps, but it's close to a large night elf base that will pester you with attacks, so you'll likely want to destroy that one, too.
+
+{% figure [caption:"Horse people, boar people, bull people, bear people... What's next? Wolf people? Nah, that's crazy talk."] %}
+![The Spirits of Ashenvale](/assets/wr/20240508234926_1.jpg)
+{% endfigure %}
+
+Combat, exploration, and story objectives are all intertwined --- as it should be.
+
+This leaves the south secured. At this point, your forces are stretched across a large territory that's hard to defend, and it becomes progressively harder to defend as your shredders clear more and more patches of forest. This highlights, in an exaggerated form, the tactical considerations of harvesting lumber that are part of Warcraft 3 map design in campaigns and multiplayer alike. Night elves, importantly, do *not* have this disadvantage shared by the other three factions; their worker unit, the wisp, harvests lumber without destroying trees, so they don't have to worry about leaving their bases explosed or about constructing more mills to shorten worker travel times.
+
+It's possible to destroy all enemies here, but there's no real need. In my playthrough, as I was getting closer to the goal, I went northeast and destroyed another lightly defended Tree of Life, completing the mission without so much as ever seeing the two-and-a-half night elf bases in the north, and with half the map still unexplored.
+
+{% figure [caption:"That small building is a [moon well](https://warcraft.wiki.gg/wiki/Moonwell), and it heals nearby allies until it's exhausted, effectively giving base defenders a larger HP pool."] %}
+![The Spirits of Ashenvale](/assets/wr/20240508235539_1.jpg)
+{% endfigure %}
+
+I love the orc campaign. The gameplay is fun, the characters have distinct personalities and well-foreshadowed flaws that become important to the plot, and there's a tragedy to it that is very Warcraft. Thrall would rather live and let live, but orcish culture values glory in battle, dragging him into fights he'd rather avoid and reopening old hatreds between orcs and humans. Grom, meanwhile, struggles with his old demonic bloodlust like a former drug addict, and cares little for Thrall's diplomatic ways. Because of this, he drags the orcs into conflict with the most powerful race in Kalimdor that could have been avoided had it been Thrall in his place.
+
+There's tragedy. There's conflict. And that's *good!* It's conflict that follows organically from past events and from the personalities of the characters involved. All the writers had to do was put Thrall and Grom in a new environment and simply let them be themselves. It's conflict that opens up new story threads, opportunities for character development, and makes the endings of both this campaign and the next one that much more poignant. And it's very, very different from forcing conflict by writer fiat for marketing reasons.
+
+For now, Thrall is making new allies, and Grom is making new enemies.
+
+Will the cycle of hatred be broken?
+
+Time will tell.
 
 
 ## Next Up...
@@ -274,3 +360,9 @@ Hold your formations! The kodos must be protected!
 [^agents]: Tichondrius says that his "agents" told him the orcs landed in Kalimdor. Who these agents are and how they learned this is never explained.
 
 [^reforged]: While also making them noticeably harder all across the board, out of the developer's unsolicited belief that the players wanted more challenge or something.
+
+[^shredders]: Notice how Warcraft 3 has towned down the crazy tech compared to Warcraft 2, but a bit of it is still there, courtesy of gnomes and goblins. Shredders are humanoid mechs with chainsaws, piloted by goblins.
+
+[^hp]: Technically, trees are destructible doodads, like gates and bridges. "Doodad" is the Warcraft 3 engine term for all map objects that are not units or buildings, and destructible doodads are special because, while they cannot be selected, they have HP and can be destroyed. That a tree's lumber yield is dependent on its remaining HP means that if you damage trees with AoE attacks, they will yield less lumber before falling.
+
+[^tree_of_life]: Only in this one mission. They don't normally work that way.
