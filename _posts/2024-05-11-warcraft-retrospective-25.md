@@ -74,7 +74,7 @@ The leader of these bull-men is the elderly but vigorous chief [Cairne Bloodhoof
 
 Thrall immediately latches to the idea of finding this Oracle. When Cairne learns that there's an army of horse-men --- centaurs --- marching north, he is immediately alarmed and storms off with his tauren to defend his village. And here, I hate to say it, the mission creates a fake sense of urgency.
 
-The dialogue and the quest description makes it look like you need to follow Cairne right away and protect it from harm. However, there's still a pretty large unexplored chunk of the map that contains some of the best loot in this mission. What the game *doesn't* tell you is that Cairne will be safe as long as you don't trigger the final event by following him. This fits with Warcraft 3's overall philosophy of encouraging exploration and not punishing the player for it. And indeed, there's a guarded Health Stone on the newly-unlocked portion of the map, as well as a large village of murlocs on the coast. The murlocs fight dirty, using poisons and nets, but the reward --- a Periapt of Vitality --- is well worth it.
+The dialogue and the quest description makes it look like you need to follow Cairne right away and protect him from harm. However, there's still a pretty large unexplored chunk of the map that contains some of the best loot in this mission. What the game *doesn't* tell you is that Cairne will be safe as long as you don't trigger the final event by following him. This fits with Warcraft 3's overall philosophy of encouraging exploration and not punishing the player for it. And indeed, there's a guarded Health Stone on the newly-unlocked portion of the map, as well as a large village of murlocs on the coast. The murlocs fight dirty, using poisons and nets, but the reward --- a Periapt of Vitality --- is well worth it.
 
 {% figure [caption:"The tauren are considered AI allies, so you see where they went. Don't worry --- they'll patiently wait for you to clear the map."] %}
 ![Landfall](/assets/wr/20240505164907_1.jpg)
@@ -170,7 +170,7 @@ It's incredible how much story significance they managed to pack into a relative
 
 This cutscene also establishes an important fact about the backstory: Mannoroth considers the orcs to be "his", and he is considered responsible for their previous failure to conquer this world. After learning that they escaped to Kalimdor[^agents], he wants to follow and reclaim them. Suddenly, Archimonde appears and reminds both who's the boss here.
 
-{% figure [caption:"That infernal in the background is just chilling around."] %}
+{% figure [caption:"I have *no idea* what's going on with Archimonde's model here. It's a mess of polygons."] %}
 ![The Wreckage of Lordaeron](/assets/wr/20240505185403_1.jpg)
 {% endfigure %}
 
@@ -197,7 +197,7 @@ Soon, the opportunity presents itself:
 ![Cry of the Warsong](/assets/wr/20240505185501_1.jpg)
 {% endfigure %}
 
-We gain control, help Grom destroy this human undead base, and build our own on its ruins, all the while Grom stays at his fully built base nearby. He says that the humans got here the same way the orcs did, and "a frail girl named [Proudmoore](https://warcraft.wiki.gg/wiki/Jaina_Proudmoore)" leads them.
+We gain control, help Grom destroy this human base, and build our own on its ruins, all the while Grom stays at his fully built base nearby. He says that the humans got here the same way the orcs did, and "a frail girl named [Proudmoore](https://warcraft.wiki.gg/wiki/Jaina_Proudmoore)" leads them.
 
 Scouts bring Thrall a report, and he formulates a plan.
 
@@ -227,7 +227,7 @@ Thankfully, the map designers realized that you might want to explore the map at
 
 These [owlbears](https://warcraft.wiki.gg/wiki/Wildkin), which drop some really nice Claws of Attack +9, are, as their name implies, part owl, part bear... [and part stag, which handily avoids potential lawsuits](https://warcraft.wiki.gg/wiki/Angry_Egg). Between centaurs, harpies, tauren (minotaurs), and now these, Kalimdor sometimes really feels like a habitat for all those D&D creatures that Blizzard wanted to introduce into Warcraft as part of its ongoing retool into an adventure setting, but that didn't fit thematically into the old world.
 
-The path to the goblin laboratory is guarded by more centaurs and harpies --- nothing to difficult. In theory, it's possible to complete the main quest without destroying the humans, but the path is blocked by one of the human bases, so you'll have to either level at least that one, or run your army through it, probably taking large casualties along the way. There's also no advantage in doing so, since Warcraft 3 never remembers or acknowledges the player's moral choices across missions.
+The path to the goblin laboratory is guarded by more centaurs and harpies --- nothing too difficult. In theory, it's possible to complete the main quest without destroying the humans, but the path is blocked by one of the human bases, so you'll have to either level at least that one, or run your army through it, probably taking large casualties along the way. There's also no advantage in doing so, since Warcraft 3 never remembers or acknowledges the player's moral choices across missions.
 
 Interestingly, early on, the developers did play with the possibility of moral choices. The idea was that if the player completed this mission without killing humans or stopped Grom from attacking them, there [could be benefits later](https://youtube.com/watch?v=yUTNP5kzSrs). The same was true of the next mission, which once again pits you against an enemy that isn't your primary objective.
 
@@ -243,7 +243,7 @@ Once the zeppelins are brought back to the base, Thrall confronts Grom, who says
 
 Thrall decides he can't afford the liability that Grom represents, and punishes him by [reassigning him to a menial task](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReassignedToAntarctica) --- building a settlement at the northern forest.
 
-I'm sure this will end well and not in any way backfire.
+I'm sure this will end well and will not in any way backfire.
 
 
 ## The Spirits of Ashenvale
@@ -260,7 +260,7 @@ At a new Warsong base in the forest, Grom is pissed at Thrall for using his best
 
 Not just that, but there are strange female voices being heard among the trees, laughing and whispering in an [unknown language](https://warcraft.wiki.gg/wiki/Darnassian).
 
-For now, all seems quiet. The orcs are chopping wood, the strange lights aren't displaying any kind of hostility, and you get your quest: to obtain *fifteen thousand lumber*.
+For now, all seems quiet. The peons are chopping wood, the strange lights aren't displaying any kind of hostility, and you get your quest: to obtain *fifteen thousand lumber*.
 
 {% figure [caption:"What could possibly require so much lumber, anyway?"] %}
 ![The Spirits of Ashenvale](/assets/wr/20240506142340_1.jpg)
@@ -268,7 +268,7 @@ For now, all seems quiet. The orcs are chopping wood, the strange lights aren't 
 
 The first thing you'll realize is that harvesting this much lumber with peons alone would take forever, even if you built a lot of them and kept constructing new war mills to keep their trips to the trees and back as short as possible.
 
-The second thing you'll realize is that your starting base is cut off from the rest of the map by a thin row of trees. In a few seconds, however, your peons will break through them, and as you run into the gap, you face... warrior women?
+The second thing you'll realize is that your starting base is cut off from the rest of the map by a thin row of trees. In a few seconds, however, your peons break through them, and as you run into the gap, you face... warrior women?
 
 {% figure [caption:"Turns out neither culture has established first contact protocols."] %}
 ![The Spirits of Ashenvale](/assets/wr/20240508232425_1.jpg)
@@ -284,7 +284,7 @@ This is our gameplay introduction to the [night elves](https://warcraft.wiki.gg/
 
 He also says they fight with unmatched savagery and are the perfect warriors. Thing is, this characteristic is immediately undermined by storytelling considerations. Since they're introduced as the player's opponents in the orc campaign, it means that in their first on-screen appearance in a Warcraft game, the night elves *lose*.
 
-The Sentinels had, as we know from the manual, ten thousand years to prepare for the return of the Burning Legion --- yet the moment they're actually attacked, they lose, and not even to the Burning Legion, but by mortal refugees in hostile territory who didn't even know they were there.
+The Sentinels had, as we know from the manual, ten thousand years to prepare for the return of the Burning Legion --- yet the moment they're actually attacked, they lose, and not even to the Burning Legion, but to mortal refugees in hostile territory who didn't even know they were there.
 
 Technically, you don't *have* to defeat them all in this mission. In fact, it's *very* likely that you'll complete the mission without even destroying the majority of night elf bases. But story needs mean that they fail to stop you from cutting down their woods.
 
@@ -304,19 +304,19 @@ After you secure the initial gold mine, you'll notice that the eastern side of t
 ![The Spirits of Ashenvale](/assets/wr/20240508232648_1.jpg)
 {% endfigure %}
 
-These [furbolgs](https://warcraft.wiki.gg/wiki/Furbolg) the goblin speak of inhabit a camp to the west.
+These [furbolgs](https://warcraft.wiki.gg/wiki/Furbolg) the goblin speaks of inhabit a camp to the west.
 
 {% figure [caption:"Horse people, boar people, bull people, bear people... What's next? Wolf people? Nah, that's crazy talk."] %}
 ![The Spirits of Ashenvale](/assets/wr/20240508233145_1.jpg)
 {% endfigure %}
 
-Once you kill their chieftain and return to Neeloc, he gives you two goblin shredders[^shredders] for free and lets you hire more for gold. He also opens his shop for you. It's a standard Goblin Merchant, and now one item that so far has been largely useless through the campaigns --- the Gem of True Seeing --- will be very useful, as it reveals nearby invisible units.
+Once you kill their chieftain and return to Neeloc, he gives you two goblin shredders[^shredders] for free and lets you hire more for gold. He also opens his shop to you. It's a standard Goblin Merchant, and now one item that so far has been largely useless through the campaigns --- the Gem of True Seeing --- will be very useful, as it reveals nearby invisible units.
 
-Let's engage in some arithmetic. A single tree has 50 HP, and workers chop trees into lumber at a rate of one lumber per HP.[^hp] Peons harvest 1 lumber per swing and carry bundles of 10 lumber per trip, so a single peon will make five trips before felling a single tree, and to meet the mission objective by just chopping wood, you have to fell 300 trees. A single shredder, on the other hand, harvests 10 lumber per swing and carries bundles of *200* lumber, so it will fell five trees before returning to the nearest great hall or war mill. If you aren't careful about where you direct your shredders, they'll quickly deforest the surroundings of your base, leaving you exposed to ground attacks --- on a map that's scarce on defensible positions to begin with.
+Let's engage in some arithmetic. A single tree has 50 HP, and workers chop trees into lumber at a rate of one lumber per HP.[^hp] Peons harvest 1 lumber per swing and carry bundles of 10 lumber per trip, so a single peon will make five trips before felling a single tree, and to meet the mission objective by just chopping wood, you have to fell 300 trees. A single shredder, on the other hand, harvests 10 lumber per swing and carries bundles of *200* lumber, so it will fell four trees before returning to the nearest great hall or war mill. If you aren't careful about where you direct your shredders, they'll quickly deforest the surroundings of your base, leaving you exposed to ground attacks --- on a map that's scarce on defensible positions to begin with.
 
-The next thing you'll likely notice is that your gold mine is pretty low on gold. You'll want another one. There's an unexplored patch of map to the south and west of your route to the furbolgs, and that sounds like a natural direction. There's a tiny night elf base there, whose main structure, the Tree of Life, yields *3000* lumber when destroyed[^tree_of_life], to Grom's glee. To the west of it is a gold mine with plenty of gold, guarded by dark troll creeps, but it's close to a large night elf base that will pester you with attacks, so you'll likely want to destroy that one, too.
+The next thing you'll likely notice is that your gold mine is pretty low on gold. You'll want another one. There's an unexplored patch of map to the south and west of your route to the furbolgs, and that sounds like a natural direction to head next. There's a tiny night elf base there, whose main structure, the Tree of Life, yields *3000* lumber when destroyed[^tree_of_life], to Grom's glee. To the west of it is a gold mine with plenty of gold, guarded by dark troll creeps, but it's close to a large night elf base that will pester you with attacks, so you'll likely want to destroy that one, too.
 
-{% figure [caption:"Horse people, boar people, bull people, bear people... What's next? Wolf people? Nah, that's crazy talk."] %}
+{% figure [caption:"Without a source of healing, my casualties attacking this base were huge, but such is the life of orcs."] %}
 ![The Spirits of Ashenvale](/assets/wr/20240508234926_1.jpg)
 {% endfigure %}
 
