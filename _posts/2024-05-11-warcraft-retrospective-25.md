@@ -9,6 +9,8 @@ excerpt_separator: <!--more-->
 
 While in Lordaeron, mortals tremble and despair as doom has come to this world, Thrall and his orcs and recently-joined Darkspear trolls continue to sail west to Kalimdor, blissfully unaware of the fate of the land they left --- for now.
 
+<!--more-->
+
 
 ## Landfall
 
