@@ -65,7 +65,7 @@ Cenarius immediately establishes what a serious threat he is by animating the tr
 
 This mission is one of those that look scarier than they really are when you're playing them for the first time. To underscore just how screwed you appear to be, you're not given any quests right away. You start with four bases, but the two on the west are immediately attacked by an overwhelming night elf force and cannot be saved --- all you can do is evacuate peons from them to your main base across the river in the east. Once the night elves finish leveling your buildings, they move in their own; they can do that because most of their buildings are animate trees that can uproot and walk.
 
-Once your three bases in the west are done with, Cenarius channels a spell that regrows the forest around all three bases.
+Once your three bases in the west are done with, Cenarius channels a spell that regrows the forest around all of them.
 
 {% figure [caption:"The animation is kind of silly, since it looks like the trees just erupt from the ground instead of growing."] %}
 ![The Hunter of Shadows](/assets/wr/20240515224556_1.jpg)
@@ -182,6 +182,138 @@ Thrall isn't too worried. He was raised by humans, and believes he knows all the
 ![The Oracle](/assets/wr/20240516000827_1.jpg)
 {% endfigure %}
 
+Thrall and Cairne have entered the Oracle cavern, but soon come across a fork in the road.
+
+{% figure [caption:"Fools! The first rule of adventuring is to never split the party!"] %}
+![The Oracle](/assets/wr/20240516000846_1.jpg)
+{% endfigure %}
+
+This is another dungeon crawl mission, and I *love* it. It's rather similar aesthetically to The Fires Down Below, the prologue campaign mission where the orcs and trolls escaped the murloc prison. The twist here is that there are two dungeon-crawling sections, one for Thrall and one for Cairne. On normal mode, the mission is refreshingly easy and I completed it without losing a single unit.
+
+{% figure [caption:"The Skeleton Lord has a skull on his shield? Was it like that when he was alive, too?"] %}
+![The Oracle](/assets/wr/20240516001821_1.jpg)
+{% endfigure %}
+
+Most of the enemies on Thrall's side are undead. There are lots and lots of items to find, more than you can actually use, and plenty of consumables refreshing health and mana. For added annoyance, there are two quest items that are mandatory pickups and take up inventory slots.
+
+Unlike the murloc dungeon, which was of unknown origin, this one was definitely built by night elves. Just look at these gates:
+
+{% figure [caption:"The Skeleton Lord has a skull on his shield? Was it like that when he was alive, too?"] %}
+![The Oracle](/assets/wr/20240516002420_1.jpg)
+{% endfigure %}
+
+There are tons of scripted events. The human peasants on the other side of these gates arm themselves and turn into footmen as you approach. Later, you reach sheep that turn out to be polymorphed footmen lying in ambush.
+
+{% figure [caption:"Peace, man! We're just chillin' out here!"] %}
+![The Oracle](/assets/wr/20240516002824_1.jpg)
+{% endfigure %}
+
+...Or it *would* be an ambush, had the script not bugged out. At release the footmen attacked the player, but in my playthrough, the sheep turned into neutral footmen who proceeded to just stand there, and all that was left for me to do was to kill the sorceresses who had polymorphed them. Apparently it was another bug introduced by patch 1.31; I don't remember if Reforged fixed it.
+
+Finally, you come across a battle between harpies and a level 10 red dragon. As usual in such cases, you can wait until one side is eliminated, and mop up the survivors.
+
+{% figure [caption:"What treasure? I don't see any."] %}
+![The Oracle](/assets/wr/20240516002950_1.jpg)
+{% endfigure %}
+
+The dragon drops a magical amulet, the Heart of Aszune. (I don't want to think about where it kept it.) Soon, Thrall comes upon Aszune herself, who is, apparently... a night elf statue.
+
+{% figure [caption:"&ldquo;I am Aszune, ancient priestess of the moon-children.&rdquo; — &ldquo;And I am a door. I'm locked.&rdquo;"] %}
+![The Oracle](/assets/wr/20240516003122_1.jpg)
+{% endfigure %}
+
+All right, she was presumably a living night elf in the ancient past, and this is her spirit speaking. When the heart is returned to Aszune, the glow fades, but there is a chasm to cross. Thrall believes that there's a spirit bridge powered by an enchanted gemstone, which is missing. Hopefully Cairne will find it.
+
+We now get control of Cairne (while retaining control of Thrall). Whereas Thrall and his orcs were navigating hallways, Cairne and his three tauren are navigating caves outside the underground complex. They fight a variety of enemies, including these kobolds who seem to be mining something.
+
+{% figure [caption:"The reason I can't level up Thrall is because the only available ability to level is Far Sight, which isn't available in this mission."] %}
+![The Oracle](/assets/wr/20240516003345_1.jpg)
+{% endfigure %}
+
+There's also this cute map secret: the Hungry Hungry Lizard.
+
+{% figure [caption:"Good thing it's a herbivore! Or a... fungivore?"] %}
+![The Oracle](/assets/wr/20240516004006_1.jpg)
+{% endfigure %}
+
+It eats its way through mushrooms until it devours so many that it explodes, leaving behind the Lion Horn of Stormwind --- basically a level 1 Devotion Aura in item form.
+
+The quest item, the Enchanted Gemstone, is protected by a whole lot of quillboars --- and the mission gives you a choice in how to approach this encounter, with different trade-offs.
+
+{% figure [caption:"What are they doing here? Why are they all clustered in this pit? What are they after Why haven't they picked up the gemstone? Or should I just stop questioning old-school dungeon logic?"] %}
+![The Oracle](/assets/wr/20240516004258_1.jpg)
+{% endfigure %}
+
+The easy way is to activate the spike trap, which kills all the quillboars, but you don't get any loot other than the quest item. The hard way is to go into the pit and fight them head on. This is really hard, and I chose not to do it, but if you do, they'll drop a Necklace of Spell Immunity.
+
+Cairne picks up the enchanted gemstone, which he recognizes as the spirit stone of Stonetalon Chasm. Legends claim that it will activate the spirit bridge that leads to the Oracle. Cairne then finds a way to Thrall's section, fights some suits of animated armor, and opens a door that can only be opened from his side, leading to Thrall and the spirit bridge.
+
+{% figure [caption:"Cairne sure knows a lot of suspiciously specific legends about this cavern."] %}
+![The Oracle](/assets/wr/20240516005352_1.jpg)
+{% endfigure %}
+
+Before going in, I redistribute loot and make a short trip with Thrall to Cairne's section to pick up an item Cairne had no room for. This is because the spirit bridge is a point of no return.
+
+{% figure [caption:"Sorry, wrong game. This one doesn't actually warn you."] %}
+![The Oracle](/assets/wr/oracle_cutscenes.png)
+{% endfigure %}
+
+The minimap makes it look like there's a large unexplored chunk in the southeast, but nope. As soon as you cross the spirit bridge, the mission ends with the final cutscene. And what a cutscene it is!
+
+Thrall, Cairne and Jaina find themselves on the other side of the spirit bridge. It looks like a fight is about to erupt.
+
+{% figure [caption:"I have a smile on my face and I'm walking on air!"] %}
+![The Oracle](/assets/wr/20240516005425_1.jpg)
+{% endfigure %}
+
+But then, suddenly...
+
+{% figure [caption:"Or I'll unleash the powers of that protoss pylon behind me!"] %}
+![The Oracle](/assets/wr/20240516005429_1.jpg)
+{% endfigure %}
+
+Turns out that this entire quest for the Oracle was a ploy for the Prophet to gather Thrall and Jaina in one place, so he could tell them what destiny holds.
+
+First of all, what?
+
+Second of all, WHAT?
+
+This raises so many questions that I don't know where to begin.
+
+The Prophet urged Thrall to sail to Kalimdor, but didn't give him any specific directions. Thrall randomly bumped into Cairne, who told him the legend of the Oracle of Stonetalon Peak. We don't know how Jaina learned of this cavern, but maybe she just randomly stumbled upon some local lore. And then the Prophet flew in here, past all the guards and traps, and... waited for them both in this final chamber as part of some ridiculously convoluted scene to impersonate the Oracle?
+
+*What's going on?* Did he somehow foresee that Thrall and Jaina would both find their way here at the exact same moment? That's called "reading the script", and it still doesn't explain how they went in at the exact same moment. It's a ridiculous contrivance that requires both a massive coincidence and the Prophet reading the script in advance.
+
+But wait, it gets worse. Since the first mission, the orc campaign has been teasing the mystery of the Oracle. Even the omniscient narrator who writes quest descriptions contributes to the anticipation. Here's the description for the quest you get after picking up the Heart of Aszune:
+
+> **Heart of Aszune**
+> 
+> Long ago, the Night Elf princess, Aszune, mocked the Oracle's wisdom. As punishment, she was transformed into living stone. Now, only the retrieval of her gemstone heart can end the curse and allow passage to the Oracle's domicile. 
+
+The Oracle is *ancient*, dating back to the times when night elves had princesses --- that is, to the Kaldorei Empire, over ten thousand years ago. What kind of entity can be that old and that powerful?
+
+And then that mystery just never gets resolved. The game forgets about it. In the Oracle's chamber, we find not the ancient Oracle of legend, but the Prophet we already know. And while his identity is not yet revealed, suffice to say that there's a very, very good reason why he cannot possibly be the Oracle who cursed Aszune.
+
+To my knowledge, the identity of the original Oracle is *still* unknown. Even Chronicle is silent on this matter.
+
+To be clear, the unresolved mystery and the ridiculous plot contrivance leading to this cutscene are the *only* real gripes I have with the plot of Reign of Chaos. Despite my reservations about the offscreen transformation of paladin Arthas into death knight Arthas, at least my imagination can fill the blanks there, and I understand why they didn't show it for pacing reasons. Here, the writers have no excuse. The plot needed to bring Thrall and Jaina together where the Prophet could address them, but the chosen solution was a non sequitur.
+
+By itself, it's not fatal, and the overall story still works. But this sets a dangerous precedent of Warcraft writers ignoring their own setup and established facts --- even facts established in the same game --- to get the characters where they need them, logic be damned.
+
+{% figure [caption:"I'm not sure Thrall should be able to turn his head at a right angle..."] %}
+![The Oracle](/assets/wr/20240516005515_1.jpg)
+{% endfigure %}
+
+The Prophet urges Thrall and Jaina to work together, and Jaina balks at the idea. The Prophet admonishes her and drops this bombshell on Thrall:
+
+{% figure [caption:"Imma chargin' mah lazer!"] %}
+![The Oracle](/assets/wr/20240516005527_1.jpg)
+{% endfigure %}
+
+Thrall will need Jaina's help to save Grom, so now he has the motivation to work with her. Unfortunately --- and the story glosses over this --- *she* has no motivation to work *with him*. As far as Jaina knows, Thrall slaughtered his way through lots of her people to get this far --- people she worked so hard offscreen to evacuate from a doomed Lordaeron --- and Grom's fall to darkness has just established that the orcs are dangerous, unreliable, and will return to consorting with demons at the slightest provocation. She has no reason to help Thrall except for the Prophet pressuring her into it.
+
+She's been cornered by a railroading GM who won't take no for an answer.
+
 
 ## By Demons Be Driven
 
@@ -190,7 +322,7 @@ Thrall isn't too worried. He was raised by humans, and believes he knows all the
 {% endfigure %}
 
 
-Next up: the night elf campaign, the climactic finale of Reign of Chaos!
+We have two more posts to go through for the night elf campaign, and with it, the climactic finale of Reign of Chaos. After that, I'll pause for a bit and talk about the strengths of Warcraft 3's worldbuilding and the reason it became such a universally beloved foundation of the Warcraft setting as we know it now.
 
 
 [^bug]: I couldn't even pick up scrolls of healing to heal my units.
