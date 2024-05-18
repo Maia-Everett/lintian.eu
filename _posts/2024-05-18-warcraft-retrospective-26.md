@@ -321,6 +321,76 @@ She's been cornered by a railroading GM who won't take no for an answer.
 ![By Demons Be Driven](/assets/wr/20240516005623_1.jpg)
 {% endfigure %}
 
+Now comes the time to save Grom from himself.
+
+{% figure [caption:"Apparently they talked some more offscreen."] %}
+![By Demons Be Driven](/assets/wr/20240516005631_1.jpg)
+{% endfigure %}
+
+Jaina formulates a plan. She gives Thrall a soul gem that will let him capture Grom's spirit without hurting him. If Thrall brings it back to Jaina's base, they can work together to free Grom from the demons' control.
+
+While this mission *will* keep you on your toes --- it's the finale of the orc campaign, after all, --- it's not actually as scary as it looks. But it's pretty scary, still.
+
+The Warsong orcs have two large bases and a couple of smaller outposts. As chaos orcs, they're bigger, stronger and meaner than your normal orcs, and can plow through your fortifications if you aren't careful. Grom is protected by a whole canyon full of demons. 
+
+{% figure [caption:"&ldquo;So you're the Legion's lapdogs?&rdquo; — &ldquo;Shut up!&rdquo;"] %}
+![By Demons Be Driven](/assets/wr/20240516011055_1.jpg)
+{% endfigure %}
+
+Finally, shortly into the mission, the screen shakes, and infernals begin to rain out of the sky.
+
+{% figure [caption:"It is said: If you cannot beat them, join them. I say, if you cannot beat them, BEAT THEM! Because they will be expecting you to join them, so you will have the element of surprise."] %}
+![By Demons Be Driven](/assets/wr/20240516011435_1.jpg)
+{% endfigure %}
+
+But it really isn't *that* bad.
+
+The path to the eastern Warsong base goes past a Fountain of Health guarded by some centaurs. Once I defeated them, I had a natural staging point from where I could lead hit-and-run attacks on the enemy base and pull back my wounded units to heal here. And once I tied up the eastern base, the western one mostly preferred to attack Jaina instead of me, so I only had to deal with infernals --- and building a row of towers and setting a peon to auto-repair was enough to keep them at bay.
+
+{% figure [caption:"Nothing but a speed bump on the way to Grom."] %}
+![By Demons Be Driven](/assets/wr/20240519014825_1.jpg)
+{% endfigure %}
+
+
+I didn't even bother fighting the demons. Defeating all enemies isn't the objective --- coming back with Grom's spirit is. I led all my units in to distract the demons while Thrall moved closer in, triggering a cutscene where Grom declares Lord Mannoroth his new master. Thrall, apparently, doesn't even know who that is.
+
+{% figure [caption:"I assume he was so ashamed of this that it never came up in any of his prior conversations with Thrall."] %}
+![By Demons Be Driven](/assets/wr/20240519014904_1.jpg)
+{% endfigure %}
+
+The revelation that Grom doomed his people *knowingly* further enrages Thrall, who attacks.
+
+I have to admit that I wasn't entirely thrilled to get a cutscene at this specific point in gameplay. Usually, cutscenes are shown in the beginning of the mission, the end, and after reaching quest givers or completing intermediate objectives. All of these are usually "safe" points, when you aren't expected to be heavily engaged in gameplay. Here, I was focused on reaching and capturing Grom and getting the hell out, so the cutscene pulled me out of gameplay that I was concentrating on. In the mission designers' defense, I assume they really did expect the player to clear all resistance on the way to Grom before approaching him.
+
+While Grom is a level 10 blademaster who instantly respawns if killed, you're not supposed to actually fight him. Targeting him with the soul gem instantly traps him inside. That done, I pulled back and directed Thrall back the same way he came. Presto, mission complete.
+
+{% figure [caption:"Only moments before the end of the mission did I learn that you can view the humans' resources."] %}
+![By Demons Be Driven](/assets/wr/20240516013130_1.jpg)
+{% endfigure %}
+
+We're rewarded with a pretty cool ending cutscene where Jaina, Thrall, elven priests, and orcish shamans all work together to cleanse Grom of his demonic frenzy. Eventually, his skin reverts from red to green.
+
+{% figure [caption:"This cleverly foreshadows the Horde repeatedly devastating Alliance lands and then saying sorry."] %}
+![By Demons Be Driven](/assets/wr/20240516013157_1.jpg)
+{% endfigure %}
+
+"To hell with your apologies!" says Thrall. "I need you to help me save our people!"
+
+The two then depart to the nearby canyon to face Mannoroth together.
+
+{% figure [caption:"Hey! Watch your language!"] %}
+![By Demons Be Driven](/assets/wr/20240516013218_1.jpg)
+{% endfigure %}
+
+And face him they do. *And how.*
+
+{% youtube "https://youtu.be/yACjCmT313g" %}
+
+Mannoroth engages in evil gloating befitting of the B-movie villain he is. Grom, enraged, goes out in a blaze of glory, charging in and burying his axe in the demon's chest. He is fatally wounded by the resulting explosion, and lies dying as Thrall limps to him.
+
+> — Thrall... The blood haze has lifted. The demon's fire has burnt out in my veins. I have... freed myself.
+> — No, old friend. You've freed us all.
+
 
 We have two more posts to go through for the night elf campaign, and with it, the climactic finale of Reign of Chaos. After that, I'll pause for a bit and talk about the strengths of Warcraft 3's worldbuilding and the reason it became such a universally beloved foundation of the Warcraft setting as we know it now.
 
