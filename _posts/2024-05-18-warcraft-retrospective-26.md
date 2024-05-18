@@ -143,8 +143,37 @@ Back at the orc base, the scout, a raider, reports to Thrall that the humans hav
 
 Thrall explains that these "pinkskins" are called humans, are their enemies from across the sea, and seem intent on keeping the orcs from the peak. Cairne thinks the Oracle's wisdom belongs to all, and suggests getting help from nearby [wyverns](https://warcraft.wiki.gg/wiki/Wyvern), which have no love for hostile invaders.
 
+This is a more relaxed and less hectic mission than the previous one. We only have a single chokepoint to defend, and we get a second hero: Cairne, the [tauren chieftain](https://warcraft.wiki.gg/wiki/Tauren_Chieftain_(Warcraft_III)). He can stomp the ground for AoE damage and stun and send waves of earth tremor that travel in a straight line. His Endurance Aura gives bonuses to movement speed and attack speed to nearby units. Finally his ultimate ability is Reincarnation, which makes him come back to life five seconds after death, with a four-minute cooldown.
 
+We also unlock the [tauren](https://warcraft.wiki.gg/wiki/Tauren_(Warcraft_III)) unit. Each of the four playable factions has a late-game heavy melee unit: humans have knights, undead have abominations, orcs have tauren, and night elves have... a unit we haven't yet seen for story reasons, but will.
 
+There are two side quests here. One is to restore a defiled fountain of health with a special item that drops off the centaur khan; we've had a similar quest before in the prologue campaign.
+
+{% figure [caption:"A fountain of health in *the Barrens* was blessed by Elune? Hmm. I sure wonder if her influence once extended beyond night elf lands."] %}
+![Where Wyverns Dare](/assets/wr/20240515232822_1.jpg)
+{% endfigure %}
+
+The other is to free the wyverns, which have been enslaved by local harpies. While optional, the wyverns will prove useful in the assault on the human base inaccessible by land.
+
+{% figure [caption:"As will this loot!"] %}
+![Where Wyverns Dare](/assets/wr/20240515234547_1.jpg)
+{% endfigure %}
+
+The choice of name here is, admittedly, kind of odd. In most mythology and fantasy depictions, [wyverns](https://en.wikipedia.org/wiki/Wyvern) are a type of dragon, and the kind of creatures introduced in Warcraft 3 --- lions with scorpion tails and sometimes with bat wings --- are more commonly called [manticores](https://en.wikipedia.org/wiki/Manticore). In fact, Warcraft wyverns look pretty similar to the [depiction of manticores in D&D](https://forgottenrealms.fandom.com/wiki/Manticore), though with leaner torsos and bigger wings.
+
+Whatever they're called, they prove very handy in completing the main quest --- destroying the blue human base blocking the entrance to the Oracle cavern. There's also a light blue base accessible by ground, which doesn't pose any problems when assaulting it. The blue one, however, is located on a cliff and inaccessible by air, and the potential landing sites are protected with patrolling gryphon riders. Wyverns help take care of them.
+
+{% figure [caption:"By the end, my air-dropped army was reduced to just Thrall, Cairne, and a lone tauren. And Thrall's wolves."] %}
+![Where Wyverns Dare](/assets/wr/20240516000515_1.jpg)
+{% endfigure %}
+
+Just before entering the cavern, Thrall and Cairne see Jaina enter, in the company of two knights. The entrance is surrounded by... a Stonehenge-like structure?
+
+{% figure [caption:"Grom didn't actually say she was a sorceress. On screen, at least."] %}
+![Where Wyverns Dare](/assets/wr/20240516000542_1.jpg)
+{% endfigure %}
+
+Thrall isn't too worried. He was raised by humans, and believes he knows all their stratagems. There's no way they're going to stop him from reaching...
 
 
 ## The Oracle
