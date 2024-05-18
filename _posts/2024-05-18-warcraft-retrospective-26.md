@@ -321,7 +321,7 @@ She's been cornered by a railroading GM who won't take no for an answer.
 ![By Demons Be Driven](/assets/wr/20240516005623_1.jpg)
 {% endfigure %}
 
-Now comes the time to save Grom from himself.
+Now comes the time to save Grom.
 
 {% figure [caption:"Apparently they talked some more offscreen."] %}
 ![By Demons Be Driven](/assets/wr/20240516005631_1.jpg)
@@ -331,7 +331,7 @@ Jaina formulates a plan. She gives Thrall a soul gem that will let him capture G
 
 While this mission *will* keep you on your toes --- it's the finale of the orc campaign, after all, --- it's not actually as scary as it looks. But it's pretty scary, still.
 
-The Warsong orcs have two large bases and a couple of smaller outposts. As chaos orcs, they're bigger, stronger and meaner than your normal orcs, and can plow through your fortifications if you aren't careful. Grom is protected by a whole canyon full of demons. 
+The Warsong orcs have two large bases and a couple of smaller outposts. As chaos orcs, they're bigger, stronger and meaner than your normal orcs, and can plow through your fortifications if you aren't careful.[^chaos_orc_units] Grom is protected by a whole canyon full of demons. 
 
 {% figure [caption:"&ldquo;So you're the Legion's lapdogs?&rdquo; — &ldquo;Shut up!&rdquo;"] %}
 ![By Demons Be Driven](/assets/wr/20240516011055_1.jpg)
@@ -388,11 +388,38 @@ And face him they do. *And how.*
 
 Mannoroth engages in evil gloating befitting of the B-movie villain he is. Grom, enraged, goes out in a blaze of glory, charging in and burying his axe in the demon's chest. He is fatally wounded by the resulting explosion, and lies dying as Thrall limps to him.
 
-> — Thrall... The blood haze has lifted. The demon's fire has burnt out in my veins. I have... freed myself.
+> — Thrall... The blood haze has lifted. The demon's fire has burnt out in my veins. I have... freed myself.  
 > — No, old friend. You've freed us all.
 
 
+## Thoughts
+
+The Warcraft 3 orc campaign is a story of old hatreds threatening to restart a vicious cycle of violence.
+
+It's a story of an idealistic youth who refuses to give up on his friend, however far gone, and brings him back to the light.
+
+It's also a story of facing one's past misdeeds, moving forward, correcting them, and finding redemption in death.
+
+It's *also* also, less charitably, a story of settlers from across the sea landing on a new continent and immediately proceeding to kill most natives they meet and take their stuff. But I'm not going to dwell on this particular point now; rather, I'll save it for the orc campaign in the expansion, where the unfortunate implications will become more evident.
+
+Grom Hellscream shines in his role as a foil to Thrall. Is his storyline cheesy? Absolutely. Have we seen these story beats before? Yes, a million times. If it was a standalone story, it wouldn't work, but it does work in the larger context of Warcraft 3 and the orc backstory established in Warcraft 1, 2, and *Lord of the Clans*. The conflict between Thrall and Grom is really a conflict between two different visions of the Horde's future. Will the orcs peacefully coexist with other cultures and find new allies, fighting when they have to, or will they turn into blood-crazed savages who fight for the sake of fighting? For now, Thrall's vision has prevailed.
+
+His story also plays into a theme running through all of Warcraft 3: willingly embracing corruption to beat a seemingly unbeatable enemy. Or, translating fantasy terms into real-world terms, willingly crossing a moral threshold and committing atrocities for the sake of greater goals, because, of course, the ends justify the means.
+
+I wonder also if the final scene of the ending cinematic, with Grom dying in Thrall's arms, was a reference to Aragorn and Boromir. Like Boromir, Grom was the more flawed of the two, more susceptible to corruption, eventually falling to it, and like Boromir, he found redemption in death, fighting to save his close ones.
+
+And Grom got that chance because --- unlike Arthas --- he had a friend who never gave up on saving him from himself. It really does make me wonder whether Stratholme could have turned out differently.
+
+But Grom's redemption creates an interesting situation. He's going to be remembered as the hero who freed the orcs from Mannoroth and the danger of being enslaved by the Legion ever again --- but he was also one of the leaders responsible for said enslavement in the first place. He fought on Ner'zhul's side in a war that doomed Draenor. He committed unprompted massacres against humans and night elves, which went unpunished before his death. As his superior, Thrall bears some of the responsibility, as does the Warsong clan that enabled him.
+
+Whatever come, the name of Hellscream is bound to be surrounded by controversy going forward.
+
+
+## What's Next?
+
 We have two more posts to go through for the night elf campaign, and with it, the climactic finale of Reign of Chaos. After that, I'll pause for a bit and talk about the strengths of Warcraft 3's worldbuilding and the reason it became such a universally beloved foundation of the Warcraft setting as we know it now.
+
+Next up: something is rotten in the forest of Ashenvale.
 
 
 [^bug]: I couldn't even pick up scrolls of healing to heal my units.
@@ -406,3 +433,5 @@ We have two more posts to go through for the night elf campaign, and with it, th
 [^fel_orcs]: They were renamed fel orcs in The Frozen Throne, and Reforged backported this name to Reign of Chaos too.
 
 [^damage]: And that damage carries over when you gain control of the zeppelin after the cutscene ends. Attention to detail!
+
+[^chaos_orc_units]: One consolation is that the Warsong don't build wyverns or tauren, which makes sense because they never befriended either. They also don't have any troll units, having placed their former Darkspear allies in cages that you can break to free them. Once again, gameplay and story support each other, and the gameplay advantage Thrall has in this mission supports the superiority of his vision of the Horde, going forward.
