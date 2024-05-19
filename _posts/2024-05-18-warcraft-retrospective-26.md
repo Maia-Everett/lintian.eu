@@ -362,7 +362,13 @@ The revelation that Grom doomed his people *knowingly* further enrages Thrall, w
 
 I have to admit that I wasn't entirely thrilled to get a cutscene at this specific point in gameplay. Usually, cutscenes are shown in the beginning of the mission, the end, and after reaching quest givers or completing intermediate objectives. All of these are usually "safe" points, when you aren't expected to be heavily engaged in gameplay. Here, I was focused on reaching and capturing Grom and getting the hell out, so the cutscene pulled me out of gameplay that I was concentrating on. In the mission designers' defense, I assume they really did expect the player to clear all resistance on the way to Grom before approaching him.
 
-While Grom is a level 10 blademaster who instantly respawns if killed, you're not supposed to actually fight him. Targeting him with the soul gem instantly traps him inside. That done, I pulled back and directed Thrall back the same way he came. Presto, mission complete.
+While Grom is a level 10 blademaster who instantly respawns if killed, you're not supposed to actually fight him. Targeting him with the soul gem instantly traps him inside--
+
+...Wait, what?
+
+This sounds way, *way* too convenient. So Jaina can make an artifact that will just instantly capture any powerful enemy of her choice in a Pokeball? It would break the setting if this plot device was remembered again, but it never was, which creates a *different* problem that plagues Warcraft, where a really convenient quest item is used once and never mentioned again in future situations where it would be useful. At the very least, they could have come up with some magibabble to explain why it only works this once. (For example, it could work because Thrall and Grom had been friends for so long that it created a [law of sympathy](https://warcraft.wiki.gg/wiki/Arcane#Laws_of_arcane_magic) bond powerful enough for the artifact to work. My point is that *the writers* should be explaining this, not me.)
+
+Anyway, with Grom's spirit captured, I pulled back and directed Thrall back the same way he came. Presto, mission complete.
 
 {% figure [caption:"Only moments before the end of the mission did I learn that you can view the humans' resources."] %}
 ![By Demons Be Driven](/assets/wr/20240516013130_1.jpg)
@@ -435,3 +441,4 @@ Next up: something is rotten in the forest of Ashenvale.
 [^damage]: And that damage carries over when you gain control of the zeppelin after the cutscene ends. Attention to detail!
 
 [^chaos_orc_units]: One consolation is that the Warsong don't build wyverns or tauren, which makes sense because they never befriended either. They also don't have any troll units, having placed their former Darkspear allies in cages that you can break to free them. Once again, gameplay and story support each other, and the gameplay advantage Thrall has in this mission supports the superiority of his vision of the Horde, going forward.
+
