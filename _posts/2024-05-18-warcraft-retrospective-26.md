@@ -22,7 +22,7 @@ All is well in the Ashenvale forest (the part that Grom isn't currently deforest
 ![The Blood of Mannoroth](/assets/wr/20240508235641_1.jpg)
 {% endfigure %}
 
-Suddenly, that peace is interrupted when Mannoroth and Tichondrius teleport in.
+Suddenly, that peace is disrupted when Mannoroth and Tichondrius teleport in.
 
 {% figure [caption:"I realize that Warcraft 3 has blurry textures because of hardware limitations of its time, but could the map designers at least not do close-ups of them?"] %}
 ![The Blood of Mannoroth](/assets/wr/20240508235715_1.jpg)
@@ -63,7 +63,7 @@ Cenarius immediately establishes what a serious threat he is by animating the tr
 ![The Hunter of Shadows](/assets/wr/20240508235946_1.jpg)
 {% endfigure %}
 
-This mission is one of those that look scarier than they really are when you're playing them for the first time. To underscore just how screwed you appear to be, you're not given any quests right away. You start with four bases, but the two on the west are immediately attacked by an overwhelming night elf force and cannot be saved --- all you can do is evacuate peons from them to your main base across the river in the east. Once the night elves finish leveling your buildings, they move in their own; they can do that because most of their buildings are animate trees that can uproot and walk.
+This mission is one of those that look scarier than they really are when you're playing them for the first time. To underscore just how screwed you appear to be, you're not given any quests right away. You start with four bases, but the three in the west are immediately attacked by an overwhelming night elf force and cannot be saved --- all you can do is evacuate peons from them to your main base across the river in the east. Once the night elves finish leveling your buildings, they move in their own; they can do that because most of their buildings are animate trees that can uproot and walk.
 
 Once your three bases in the west are done with, Cenarius channels a spell that regrows the forest around all of them.
 
@@ -73,7 +73,7 @@ Once your three bases in the west are done with, Cenarius channels a spell that 
 
 Wow. Just *wow*. If he can just casually do that, he really does deserve his title of demigod. We're so screwed. He's going to flatten us.
 
-After this cutscene, the night elves launch an absolutely *massive* attack on the remaining base, from three directions. I actually had to restart this mission because I lost too many units and buildings to their flying units. In the second playthrough, I built mostly headhunters and raiders, and researched Ensnare to counter the chimaeras and hippogryph riders.
+After this cutscene, the night elves launch a pretty massive attack on the remaining base, from three directions. I actually had to restart this mission because I lost too many units and buildings to their flying units. In the second playthrough, I built mostly headhunters and raiders, and researched Ensnare to counter the chimaeras and hippogryph riders.
 
 {% figure [caption:"Sadly, I didn't take screenshots of the full wave."] %}
 ![The Hunter of Shadows](/assets/wr/20240515224646_1.jpg)
@@ -198,7 +198,7 @@ Most of the enemies on Thrall's side are undead. There are lots and lots of item
 
 Unlike the murloc dungeon, which was of unknown origin, this one was definitely built by night elves. Just look at these gates:
 
-{% figure [caption:"The Skeleton Lord has a skull on his shield? Was it like that when he was alive, too?"] %}
+{% figure [caption:"Thrall might have lost his Far Sight in this mission, but apparently he can see through doors."] %}
 ![The Oracle](/assets/wr/20240516002420_1.jpg)
 {% endfigure %}
 
@@ -240,7 +240,7 @@ It eats its way through mushrooms until it devours so many that it explodes, lea
 
 The quest item, the Enchanted Gemstone, is protected by a whole lot of quillboars --- and the mission gives you a choice in how to approach this encounter, with different trade-offs.
 
-{% figure [caption:"What are they doing here? Why are they all clustered in this pit? What are they after Why haven't they picked up the gemstone? Or should I just stop questioning old-school dungeon logic?"] %}
+{% figure [caption:"What are they doing here? Why are they all clustered in this pit? What are they after? Why haven't they picked up the gemstone? Or should I just stop questioning old-school dungeon logic?"] %}
 ![The Oracle](/assets/wr/20240516004258_1.jpg)
 {% endfigure %}
 
@@ -262,7 +262,7 @@ The minimap makes it look like there's a large unexplored chunk in the southeast
 
 Thrall, Cairne and Jaina find themselves on the other side of the spirit bridge. It looks like a fight is about to erupt.
 
-{% figure [caption:"I have a smile on my face and I'm walking on air!"] %}
+{% figure [caption:"I got a smile on my face and I'm walking on air!"] %}
 ![The Oracle](/assets/wr/20240516005425_1.jpg)
 {% endfigure %}
 
@@ -272,7 +272,7 @@ But then, suddenly...
 ![The Oracle](/assets/wr/20240516005429_1.jpg)
 {% endfigure %}
 
-Turns out that this entire quest for the Oracle was a ploy for the Prophet to gather Thrall and Jaina in one place, so he could tell them what destiny holds.
+Turns out that this entire quest for the Oracle was a ploy by the Prophet to gather Thrall and Jaina in one place, so he could tell them what destiny holds.
 
 First of all, what?
 
@@ -280,7 +280,7 @@ Second of all, WHAT?
 
 This raises so many questions that I don't know where to begin.
 
-The Prophet urged Thrall to sail to Kalimdor, but didn't give him any specific directions. Thrall randomly bumped into Cairne, who told him the legend of the Oracle of Stonetalon Peak. We don't know how Jaina learned of this cavern, but maybe she just randomly stumbled upon some local lore. And then the Prophet flew in here, past all the guards and traps, and... waited for them both in this final chamber as part of some ridiculously convoluted scene to impersonate the Oracle?
+The Prophet urged Thrall to sail to Kalimdor, but didn't give him any specific directions. Thrall randomly bumped into Cairne, who told him the legend of the Oracle of Stonetalon Peak. We don't know how Jaina learned of this cavern, but maybe she just randomly stumbled upon some local lore. And then the Prophet flew in here, past all the guards and traps, and... waited for them both in this final chamber as part of some ridiculously convoluted scheme to impersonate the Oracle?
 
 *What's going on?* Did he somehow foresee that Thrall and Jaina would both find their way here at the exact same moment? That's called "reading the script", and it still doesn't explain how they went in at the exact same moment. It's a ridiculous contrivance that requires both a massive coincidence and the Prophet reading the script in advance.
 
@@ -412,7 +412,7 @@ Grom Hellscream shines in his role as a foil to Thrall. Is his storyline cheesy?
 
 His story also plays into a theme running through all of Warcraft 3: willingly embracing corruption to beat a seemingly unbeatable enemy. Or, translating fantasy terms into real-world terms, willingly crossing a moral threshold and committing atrocities for the sake of greater goals, because, of course, the ends justify the means.
 
-I wonder also if the final scene of the ending cinematic, with Grom dying in Thrall's arms, was a reference to Aragorn and Boromir. Like Boromir, Grom was the more flawed of the two, more susceptible to corruption, eventually falling to it, and like Boromir, he found redemption in death, fighting to save his close ones.
+I wonder also if the final scene of the ending cinematic, with Grom dying in Thrall's arms, was a reference to [Aragorn](https://tolkiengateway.net/wiki/Aragorn) and [Boromir](https://tolkiengateway.net/wiki/Boromir). Like Boromir, Grom was the more flawed of the two, more susceptible to corruption, eventually falling to it, and like Boromir, he found redemption in death, fighting to save his close ones.
 
 And Grom got that chance because --- unlike Arthas --- he had a friend who never gave up on saving him from himself. It really does make me wonder whether Stratholme could have turned out differently.
 
@@ -430,7 +430,7 @@ Next up: something is rotten in the forest of Ashenvale.
 
 [^bug]: I couldn't even pick up scrolls of healing to heal my units.
 
-[^faun]: When Shadowlands, much later, introduces [more "classic" satyr-like beings](https://warcraft.wiki.gg/wiki/Sylvar), it will be a sign that they've given up on this kind of creative reimanining and are just copying D&D wholesale, from the cosmology to the creatures.
+[^faun]: When Shadowlands, much later, introduces [more "classic" satyr-like beings](https://warcraft.wiki.gg/wiki/Sylvar), it will be a sign that they've given up on this kind of creative reimagining and are just copying D&D wholesale, from the cosmology to the creatures.
 
 [^satyr]: This is revealed in-game in the night elf campaign, but it's also in the manual, so I might as well mention it now.
 
