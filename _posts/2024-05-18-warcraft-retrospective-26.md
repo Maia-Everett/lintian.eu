@@ -161,7 +161,7 @@ The other is to free the wyverns, which have been enslaved by local harpies. Whi
 
 The choice of name here is, admittedly, kind of odd. In most mythology and fantasy depictions, [wyverns](https://en.wikipedia.org/wiki/Wyvern) are a type of dragon, and the kind of creatures introduced in Warcraft 3 --- lions with scorpion tails and sometimes with bat wings --- are more commonly called [manticores](https://en.wikipedia.org/wiki/Manticore). In fact, Warcraft wyverns look pretty similar to the [depiction of manticores in D&D](https://forgottenrealms.fandom.com/wiki/Manticore), though with leaner torsos and bigger wings.
 
-Whatever they're called, they prove very handy in completing the main quest --- destroying the blue human base blocking the entrance to the Oracle cavern. There's also a light blue base accessible by ground, which doesn't pose any problems when assaulting it. The blue one, however, is located on a cliff and inaccessible by air, and the potential landing sites are protected with patrolling gryphon riders. Wyverns help take care of them.
+Whatever they're called, they prove very handy in completing the main quest --- destroying the blue human base blocking the entrance to the Oracle cavern. There's also a light blue base accessible by ground, which doesn't pose any problems when assaulting it. The blue one, however, is located on a cliff and only accessible by air, and the potential landing sites are protected with patrolling gryphon riders. Wyverns help take care of them.
 
 {% figure [caption:"By the end, my air-dropped army was reduced to just Thrall, Cairne, and a lone tauren. And Thrall's wolves."] %}
 ![Where Wyverns Dare](/assets/wr/20240516000515_1.jpg)
