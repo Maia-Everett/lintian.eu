@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 And so we get to the final campaign of Reign of Chaos: the night elf one. And... oh boy, it's going to be awkward for me to talk about it.
 
-It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept, in general --- though it might surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover that this basically only applies to two races in all of fantasy that I know of. Most varieties of elves that have been invented by fantasy writers over the past few decades leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
+It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept, in general --- though it might surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover --- that this basically only applies to two races in all of fantasy that I know of. Most varieties of elves that have been invented by fantasy writers over the past few decades leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
 
 Before you raise your pitchforks (or bows), let me say a few words in my defense.
 
