@@ -71,18 +71,53 @@ Now, the reason I'm bothering to say all this is because I listed specifically t
 ### After Tolkien
 
 {% figure [caption:"We greet you, Earthlings. Take us to your leader!"] %}
-![Arda](/assets/wr/D&D_elves.jpg)
+![D&D elves](/assets/wr/D&D_elves.jpg)
 {% endfigure %}
 
 As we know, *The Lord of the Rings* was so popular that Tolkien's conception of elves thoroughly displaced everything that came before it in the public consciousness. But all too often, later writers fell into shallow stereotypes.
 
 From my experience, post-Tolkien elves tend to fall into two broad categories. On one hand we have writers whose elves or [thinly-veiled elf-stand-ins](https://james-camerons-avatar.fandom.com/wiki/Na%27vi) are unrealistically perfect, live in a [Mary Suetopia](https://tvtropes.org/pmwiki/pmwiki.php/Main/StrawUtopia), and conspicuously share the author's exact real-life views on social issues, or at least views the author approves of. They can be devoutly conservative in their customs, or they can be [atheists and vegetarians](https://inheritance.fandom.com/wiki/Elf); prudish or sexually liberated; or outright ecoterrorists if the author wants to preach environmentalism. In any case, we're supposed to find them sympathetic.
 
-The other kind of annoying elves lean not on moralizing, but on the power fantasy aspect. These elves are better than you at everything, dear reader, and [they want you to know it](https://tvtropes.org/pmwiki/pmwiki.php/Main/CantArgueWithElves). They're stronger than you, faster than you, smarter than you, prettier than you, and better than you at any setting-relevant skill you can name. It comes off as smug and condescending, and at times strays uncomfortably close to eugenic Master Race characters. Bonus points if they act like entitled human teenagers with none of the supposed wisdom that their unfathomably high age is supposed to bring.
+The other kind of annoying elves lean not on moralizing, but on the power fantasy aspect. These elves are better than you at everything, dear reader, and [they want you to know it](https://tvtropes.org/pmwiki/pmwiki.php/Main/CantArgueWithElves). They're stronger than you, faster than you, smarter than you, prettier than you, and better than you at any setting-relevant skill you can name. It comes off as smug and condescending, and at times strays uncomfortably close to a Master Race eugenics fantasy. Bonus points if they act like entitled human teenagers with none of the supposed wisdom that their unfathomably high age is supposed to bring.
 
-And then there's D&D, as its own thing. As a roleplaying game or, rather, a toolkit for hosting roleplaying games, it's not really *about* anything; it brings you the building blocks, but the adventure author is supposed to assemble them into a game that hopefully weaves a story *about* something. At first, Gary Gygax, who is given [way more credit for his part in creating D&D than he deserves](https://kotaku.com/dungeons-deceptions-the-first-d-d-players-push-back-1837516834), favored humans over nonhumans and believed D&D should have been about humans first and foremost; originally "elf" was both a race *and* a class, so you could be a human fighter, or a human cleric, or... an elf, period.
+And then there's D&D, as its own thing. As a roleplaying game or, rather, a toolkit for hosting roleplaying games, it's not really *about* anything; it brings you the building blocks, but the adventure author is supposed to assemble them into a game that hopefully weaves a story *about* something. At first, Gary Gygax, who is given [way more credit for his part in creating D&D than he deserves](https://kotaku.com/dungeons-deceptions-the-first-d-d-players-push-back-1837516834), favored humans over nonhumans and believed D&D should have been about humans first and foremost; originally "elf" was both a race *and* a class, so you could be a human fighter, or a human cleric, or... an elf, period. And then D&D went overboard and started adding new elf varieties for each environment you can think of --- as actual *biologically different races*, each with its own shade of technicolor skin color. And so now we have sun elves, moon elves, star elves, wood elves, wild elves, grey elves, sea elves, winged elves, and can this madness please stop before, of all the elf cliches, some video game developer copies *this* one?
+
+...Oops, [too late](https://warcraft.wiki.gg/wiki/Elf).
+
+And that wasn't enough. Of all of D&D's multicolored varieties of elves, one managed to take off to the point of inspiring imitators of its own: the [drow](https://en.wikipedia.org/wiki/Drow), created by --- who else? --- the notorious [misogynist, biological determinist](https://kotaku.com/the-struggle-to-bring-more-women-into-game-development-1783683864) and lover of the concept of evil races, Gary Gygax. As one of the monster races that players are supposed to have no moral qualms indiscriminately killing, drow, also called dark elves, are a universally dark-skinned and near-universally evil race that lives underground and has a [fashion sense](https://static.wikia.nocookie.net/forgottenrealms/images/8/80/Constant_Guardian.jpg/revision/latest?cb=20181003144633) that I can most charitably describe as "not even disguising the author's fetish".
+
+It's telling that when one Warcraft 3 developer suggested making "dark elves" a playable faction (which ultimately led to the creation of night elves), [none of them wanted to go with drow](http://web.archive.org/web/20010205012800/http://www.zdnet.com/gamespot/stories/previews/0,10869,2667651,00.html).
 
 
+### Enter Warcraft
+
+Warcraft 2 made a big jump from faux-Christian humans against hellish orcs --- as seen in Warcraft 1 --- to a more typical roster of fantasy races, introducing elves, dwarves and gnomes for the Alliance, and trolls, ogres and goblins for the Horde. Traditional adventurer races versus traditional monster races. It made sense.
+
+It seems to me, however, that nobody was interested in actually fleshing out Quel'Thalas. The logic was, it seems, that since they were going for a high fantasy setting, it needed elves in the same way that Superman needs those little red underpants outside his costume: [which is to say, not at all, but it's always there anyway](https://www.shamusyoung.com/twentysidedtale/?p=27926). I mean, pretty much the only things we knew about Quel'Thalas prior to Warcraft 3 were that they had archers and druids (the latter of whom are conspicuously absent in Warcraft 3), provided the Alliance with destroyer ships and lumber mills, and had a history of enmity with the trolls. In Warcraft 2, they weren't yet known as "high elves", just "elves", with no reason to believe that there were more kinds of them. And then, throughout all the Warcraft media until and counting Reign of Chaos, we got exactly *three* named characters from Quel'Thalas: Alleria, Vereesa, and Sylvanas. And they --- what a coincidence! --- were all rangers, and at that point, pretty much interchangeable.
+
+And then, with Warcraft 3, came the night elves.
+
+{% figure [caption:"Man, that early concept art was *wild*. If anything, far more savage than what we got."] %}
+![Night elf concept art](/assets/wr/Night_Elves_-_Concept.jpg)
+{% endfigure %}
+
+With them came a lot of lore (by RTS standards) that wasn't, strictly speaking, *necessary*, but was there anyway --- a sign that the worldbuilders were enjoying their work. They have unique and consistent aesthetics that aren't borrowed from ISO Standard Fantasy Elves, but aren't imported wholesale from a single real-life culture either, instead borrowing from a variety of real-life cultures and mixing them into something new and fresh. They weave in some of the Tolkienian themes mentioned earlier in a way that shows *understanding*, not just mindless imitation. And in-game, it all works together: the lore, the visuals, the music, and the characters.
+
+Night elves are very popular to this day and are still one of the most lore-rich races in the setting, which makes it hard to believe that their creation was basically a happy accident.
+
+When brainstorming playable factions for Warcraft 3, the developers [debated](http://web.archive.org/web/20010205012800/http://www.zdnet.com/gamespot/stories/previews/0,10869,2667651,00.html) whether to make elves and dwarves their own factions. There was no majority agreement on making "traditional" elves a standalone faction until someone suggested dark elves. Since they didn't want to do D&D drow either, they combined "the best of wood elves and dark elves" into a single race. Despite the developers not going with drow, night elves had more drow influences early on than were retained in the finished game, for example, riding giant insects; in Warcraft 3 as we know it, the only elements that survive are dark skin and strict gender roles with a matriarchal bent.
+
+As for their history, as outlined in the manual, I can't help but wonder if one of the Warcraft 3  writers was a fan of *The Silmarillion*.
+
+{% figure [caption:"The Maelstrom swirls at the former site of the capital of a colonialist empire whose ruler's hubris sundered the world."] %}
+![WC3 manual world map](/assets/wr/wc3_manual_map_world.jpg)
+{% endfigure %}
+
+The Titans, the godlike "orderers" of the land, sea and wildlife, were betrayed by their [fallen brother](https://warcraft.wiki.gg/wiki/Sargeras), the Satanic arch-villain of the entire setting, who was ultimately responsible for breaking their original design for the world --- a single continent with a [great lake](https://warcraft.wiki.gg/wiki/Well_of_Eternity) in is center --- into two major continents with the Great Sea between them. Forsaking the eastern continent, the night elves --- who called themselves *kaldorei*, or "children of the stars" --- retreated to the western continent, [Kalimdor](https://tolkiengateway.net/wiki/Kalimdor). There they dwell, until mariners from across the sea will come to enlist their help in saving the world.
+
+The night elves once had a glorious civilization, but it was destroyed in the Sundering. Those who remain now are world-weary, having lived for many millennia in a fading and decaying world while they themselves stayed unchanging. They're associated with twilight, while daytime is the domain of the younger races, and of all the gods they most revere [Elune](https://warcraft.wiki.gg/wiki/Elune), Mother Moon, who is associated with the night sky and with hope in the deepest darkness.
+
+It's not a perfect match, and a lot of it could be just coincidence, convergent evolution, or ideas floating in the air. But I really do wonder.
 
 
 ## Enemy at the Gates
@@ -94,10 +129,9 @@ And then there's D&D, as its own thing. As a roleplaying game or, rather, a tool
 ## The Awakening of Stormrage
 
 
-## The Druids Arise
 
 
-Next up: a very, *very* iconic character enters the scene.
+Next up: the finale of Reign of Chaos, where allies expected and unexpected enter the scene, and a tree explodes!
 
 
 [^ears]: And Tolkien *probably* [didn't picture them](https://middle-earth.xenite.org/do-tolkiens-elves-have-pointy-ears/) with pointy ears; at the very least, this detail is never mentioned in his stories and appears to be a later fan conflation with Victorian elves and fairies. There's also a textual instance of [a human](https://tolkiengateway.net/wiki/Nienor) disguising herself as an elf in a traveling company of actual elves, which would be difficult if the two races could be easily distinguished by ear shape.
