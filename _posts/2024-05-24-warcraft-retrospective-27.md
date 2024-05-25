@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 And so we get to the final campaign of Reign of Chaos: the night elf one. And... oh boy, it's going to be awkward for me to talk about it.
 
-It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept, in general --- though it might surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover --- that this basically only applies to two races in all of fantasy that I know of. Most varieties of elves that have been invented by fantasy writers over the past few decades --- at least those that are actually *called* elves[^races] --- leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
+It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept. It might, however, surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover that I'm really not *that* found of the elf concept in general, except for two races in all of fantasy that I know of. Most varieties of elves that have been invented by fantasy writers over the past few decades --- at least those that are actually *called* elves[^races] --- leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
 
 Before you raise your pitchforks (or bows), let me say a few words in my defense.
 
@@ -145,16 +145,94 @@ Why do so many women in this game like to show off their cleavage on the battlef
 
 You want to portray athletic and assertive women, that's fine. Good, even! Make them wear something sensible that still signals these traits. In a modern setting, in everyday life, a tank top would be appropriate. On a fantasy battlefield... some kind of sleeveless leather vest, maybe. Whatever. I'm not an armor expert. In-universe, I'm sure that a culture with ten thousand years of experience in armorcraft would come up with something that both doesn't restrict the wearer's movements *and* provides actual protection.
 
-Moving on...
+Moving on. Let's dive into the campaign.
 
 
-## Enemy at the Gates
+## Enemies at the Gate
 
 {% figure [caption:"To all of my children to whom Death has passed his judgment..."] %}
-![Enemy at the Gates](/assets/wr/20240519160720_1.jpg)
+![Enemies at the Gate](/assets/wr/20240519160720_1.jpg)
 {% endfigure %}
 
+The camera slooooowly zooms in on Tyrande standing atop a cliff. The sky is an ominous shade of orange.
 
+{% figure [caption:"Eh, it's probably just a sunset"] %}
+![Enemies at the Gate](/assets/wr/20240519160734_1.jpg)
+{% endfigure %}
+
+We see her from the front. She's riding some kind of [white tiger](https://warcraft.wiki.gg/wiki/Ash'alah). A [named archer](https://warcraft.wiki.gg/wiki/Shandris_Feathermoon) comes to check in on her.
+
+{% figure [caption:"What are these pawprints on the pillars?"] %}
+![Enemies at the Gate](/assets/wr/20240519160750_1.jpg)
+{% endfigure %}
+
+Tyrande is sensing something dark stirring within the forest. Perhaps the greenskins who killed Cenarius, perhaps something more. She sends an owl scout to look for troublemakers. Turns out humans and orcs are working together chopping wood for construction. It's an uneasy alliance, but their commander, a paladin named Duke Lionheart, is defusing tensions for the time being.
+
+{% figure [caption:"I only just noticed that the paladin model's libram has &ldquo;SAM&rdquo; written on the page. Short for Samwise, I assume."] %}
+![Enemies at the Gate](/assets/wr/20240519160821_1.jpg)
+{% endfigure %}
+
+Warcraft 3 likes to introduce gameplay abilities through cutscenes, which I appreciate, and this mission is no exception. By seeing Tyrande summon and use an Owl Scout in a cutscene, players will have a better understanding of how the ability works. (It's an invulnerable owl, immune to spells, that you can control to fly around and scout the map.)
+
+Story-wise, however, I already have some questions.
+
+Everyone here acts like they've learned nothing from Grom's disastrous foray into Ashenvale. Presumably, if not Grom himself, then at least some of his warriors would tell Thrall and Jaina that the woods are inhabited, and they'd attempt to parley with the night elves or at least find other sources of lumber to avoid their wrath. Here, it looks like the humans and orcs don't even *know* about them.
+
+Tyrande resolves to establish a base and deal with these outlanders as they deserve.
+
+I have to say, Tyrande's voice fits the character *perfectly*. It's fitting for an elven veteran leader who has Seen Some Things over her long life, sounding assertive and world-weary at the same time.
+
+Once the cutscene ends, you gain control of Tyrande and Shandris, except the in-game unit called Shandris in the cutscene actually turns out to be a generic archer no different from any of the others. 
+
+{% figure [caption:"Whom is she saying this to?"] %}
+![Enemies at the Gate](/assets/wr/20240519160919_1.jpg)
+{% endfigure %}
+
+Night elves have a rather unique gameplay, with important differences from the other factions. Most of their buildings, including the primary one, are ~~ents~~ ~~treants~~ sentient walking trees that act as units when uprooted (and can attack) and as buildings when rooted. Before a night elf player can harvest gold, the main tree must entangle it with its roots, which takes time. As another antepiece, the player in this mission is asked to manually root the tree of life and entangle the gold mine, so they can learn they can do that.
+
+The worker unit of the night elf faction is the [wisp](https://warcraft.wiki.gg/wiki/Wisp), which looks like a ball of light. According to the manual, legends say that wisps are actually the disembodied spirits of the night elves themselves, but these rumors have yet to be proven. In addition to their role as worker units, they have some minor combat utility: their Detonate ability sacrifices the wisp to drain some mana from nearby spellcasters and deal damage to summoned creatures.[^detonate]
+
+Unlike other factions' worker units, wisps harvest lumber without destroying trees and without making trips back and forth; they just circle a tree and give you +5 lumber every 8 seconds. This means that night elves don't need a lumber mill building to shorten the trips (and indeed they don't have one), that they don't have the tactical disadvantage of leaving their base more and more exposed as its surroundings are deforested, and that there's never any disadvantage of sending all your idle wisps to gather lumber, so you might as well do that.
+
+While waiting for the base to build, we explore its surroundings. Just outside, there's a tribe of furbolgs that is preparing to move out because of a seeping corruption in the forest, but the shaman wants to rally the rest of his people first. Tyrande agrees to help.
+
+{% figure [caption:"Whom is she saying this to?"] %}
+![Enemies at the Gate](/assets/wr/20240519161028_1.jpg)
+{% endfigure %}
+
+It's worth putting the main quest on hold and completing this side quest first, as the furbolgs are scattered all over the map, and the enemy won't start attacking until you establish your base and train five archers. So I trained four archers, picked up some free ones northeast of my base, and went out exploring, finding the furbolgs and destroying their homes once they leave.
+
+{% figure [caption:"I mean, there's treasure in these log-houses, and the furbolgs won't need them anymore anyway."] %}
+![Enemies at the Gate](/assets/wr/20240519161608_1.jpg)
+{% endfigure %}
+
+Along the way, we fight some Alliance and Horde outposts and disrupt their logging operations. Some of the orcs have captured furbolgs in nets, so it's not like they're entirely innocent here.
+
+{% figure [caption:"Archers are excellent at focusing their attacks."] %}
+![Enemies at the Gate](/assets/wr/20240519162231_1.jpg)
+{% endfigure %}
+
+While this is a simple mission, its lack of pressure lets you assess the strengths and weaknesses of your initial unit, the archer. Archers are the only combat unit we can build in this mission, and while they're cheap, they're also really fragile.[^fragile] Destroying buildings with ranged units alone also takes forever in Warcraft 3, because the piercing attack type deals the lowest damage to buildings out of all attack types in the game.
+
+Because of this, gameplay mechanics alone encourage you to strike at night. All female night elves in-game[^shadowmeld] have the Shadowmeld ability that makes them invisible at night as long as they don't move or act, and it can be activated on purpose, which makes the unit invisible and untargetable and drops enemy aggro. Therefore, if you're fighting at night and an archer gets heavily wounded, you can simply hide her, forcing the enemy to switch their attacks to other units.
+
+Once we find all the furbolgs and return to the village, the shaman rewards us with three furbolg frontliners, providing us with much-needed melee support for the archers. Now is the time to train the fifth archer, which completes the main quest and activates a new one: to kill Duke Lionheart, the paladin in charge of the joint Alliance-Horde base.
+
+{% figure [caption:"Sir, we're under attack by a squad of scantily clad women! Permission to ask them on a date?"] %}
+![Enemies at the Gate](/assets/wr/20240519163754_1.jpg)
+{% endfigure %}
+
+The base is protected by a mix of human and orc units, and the paladin is level 6, so it's best to lure him away, and if his troops come with him, he'll resurrect some of them once. Once he dies, the mission ends.[^circlet]
+
+But... at that very moment, all hell breaks loose.
+
+{% figure [caption:"Night elf military strategy boils down to &ldquo;Attack! Attack! Retreat! Retreat!&rdquo;"] %}
+![Enemies at the Gate](/assets/wr/20240519164023_1.jpg)
+{% endfigure %}
+
+At last, the Burning Legion has begun its full-scale invasion of Kalimdor. I like how, once again, they've waited for the denizens of the world to kill each other, waiting until one of the sides was decapitated, and only *then* launched their attack. It shows that they're smart, patient, strategizing. It sets them apart from generic mindless monster hordes that seek to overwhelm the enemy with sheer numbers. And it builds on what came before, with the Burning Legion using the orcs and undead for their proxy war before entering the world themselves. Thematic consistency!
+
+Sadly, it's about to be undermined by the next mission, where the demons act like total oafs with the attention span of a TikTok addict.
 
 
 ## Daughters of the Moon
@@ -183,3 +261,11 @@ Next up: the finale of Reign of Chaos, where allies expected and unexpected ente
 [^primitive_quendian]: Which can be thought of as their equivalent of [Proto-Indo-European](https://en.wikipedia.org/wiki/Proto-Indo-European_language).
 
 [^languages]: Plus a few less important ones that Tolkien didn't develop in detail.
+
+[^detonate]: Remember this. It will become important very soon.
+
+[^fragile]: Maybe you'd be more durable if you wore actual armor, you dimwits!
+
+[^shadowmeld]: The game is very consistent about this. Male night elves don't have Shadowmeld. Female units that are not night elves (specifically, dryads) don't have it either. When the expansion added a new female hero, she got Shadowmeld too. And then Reforged added a female skin for the demon hunter hero, increasing diversity at the expense of mechanical consistency. Sigh.
+
+[^circlet]: Which might not be what you want. There's a Circlet of Nobility hidden in a tent back at the back of the base. If you want to get it, the best way is probably to sneak in with Shadowmeld, grab it with Tyrande and retreat, and only *then* amass a force and kill the paladin.
