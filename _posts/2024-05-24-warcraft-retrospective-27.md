@@ -305,11 +305,27 @@ Actually, here's something that bugs me. *What language are the non-Elvish words
 
 Mass market fantasy usually handwaves the question of language barriers unless the plot relies on it (like Thrall not knowing Orcish for most of *Lord of the Clans*). Somehow, people from different isolated cultures, even different *continents*, can understand each other right away, and nobody draws attention to it in-story. It's just one of a myriad "I won't bring it up if you don't" unspoken agreements between the writer and the audience, and there's usually an implicit understanding that whatever language the characters are "really" speaking in-universe is [rendered as the language of the work](https://tvtropes.org/pmwiki/pmwiki.php/Main/TranslationConvention) (English or otherwise) for the audience's benefit.
 
-And Warcraft 3 handwaves away the language barrier while *also* drawing attention to the idea that the characters have different native languages. It's the fantasy equivalent of a character saying "Guten tag, my name is Klaus" in an English-language work, in a scene that takes place in Berlin and there are only German speakers present.
+And Warcraft 3 handwaves away the language barrier while *also* drawing attention to the idea that the characters have different native languages. Night elves talk to each other in a mixture of English and their own language, and Thrall says things like "Lok'tar, my warriors!" with only orcs present. It's the fantasy equivalent of a character saying "Guten tag, my name is Klaus" in an English-language work, in a scene that takes place in Berlin and there are only German speakers present.
 
+Whatever. Our army keeps growing, and now we have a choice of stealthing past enemies or fighting them head on. Eventually we come across some ballistas, as well as an Easter egg hidden behind the trees.
 
+{% figure [caption:"This is totally canon."] %}
+![Daughters of the Moon](/assets/wr/20240520003802_1.jpg)
+{% endfigure %}
 
+If we destroy the trees with ballistas (how unelflike of us) and approach this neutral [hydralisk](https://starcraft.fandom.com/wiki/Hydralisk) with Tyrande, it will join our forces. Depending on your choice, this leads to either an exciting climax or an underwhelming, but practical anticlimax.
 
+Our goal is to reach the teal night elf base in the southeast, but there's a large undead base in the way. It looks like we're headed for a siege, and the hydralisk's really powerful attack would be of great help here... or we can just destroy a few more trees and take the hidden path around the undead base, skipping the final fight entirely. And strangely for Warcraft 3, which usually rewards completing objectives the hard way with more loot, destroying the undead base here yields exactly two rewards: jack and squat.
+
+So I didn't bother. I ran through the side path straight to the victory cutscene, where Tyrande meets... Shandris?
+
+{% figure [caption:"Funnily, if the hydralisk is in this area when the cutscene begins, it will be in the shot too."] %}
+![Daughters of the Moon](/assets/wr/20240520004935_1.jpg)
+{% endfigure %}
+
+How is this possible? In the previous mission, Shandris was with Tyrande, then she turned into a generic archer who I'm pretty sure died in my playthrough. Here, she's not only at a different base that had no contact with Tyrande until now, but she has her own model (or well, a recolor of Sylvanas's model, but you know what I mean). Was the archer in the first mission originally supposed to be just that, some random archer, instead of Shandris?
+
+Tyrande tells her that the undead who attacked this village were sent by the Burning Legion. Against such might, the Sentinels have only one option: to awaken the druids.
 
 
 ## The Awakening of Stormrage
