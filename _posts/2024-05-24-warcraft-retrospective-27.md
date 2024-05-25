@@ -232,7 +232,7 @@ But... at that very moment, all hell breaks loose.
 
 At last, the Burning Legion has begun its full-scale invasion of Kalimdor. I like how, once again, they've waited for the denizens of the world to kill each other, waiting until one of the sides was decapitated, and only *then* launched their attack. It shows that they're smart, patient, strategizing. It sets them apart from generic mindless monster hordes that seek to overwhelm the enemy with sheer numbers. And it builds on what came before, with the Burning Legion using the orcs and undead for their proxy war before entering the world themselves. Thematic consistency!
 
-Sadly, it's about to be undermined by the next mission, where the demons act like total oafs with the attention span of a TikTok addict.
+Sadly, it's about to be undermined by the next mission, where the demons are made to look like complete fools.
 
 
 ## Daughters of the Moon
@@ -240,6 +240,76 @@ Sadly, it's about to be undermined by the next mission, where the demons act lik
 {% figure [caption:"The soul yearns for honor, and the flesh the hereafter..."] %}
 ![Daughters of the Moon](/assets/wr/20240519164054_1.jpg)
 {% endfigure %}
+
+Tyrande and her Sentinels are on the run from the undead and demons...
+
+...Aaaaand this was where I hit the inventory bug again.
+
+{% figure [caption:"Plan B: Distract them with shinies!"] %}
+![Daughters of the Moon](/assets/wr/20240519164101_1.jpg)
+{% endfigure %}
+
+In version 1.31, at the beginning of this mission, Tyrande loses her inventory slots, like Grom did in his second mission, dropping her items on the ground at the start of the intro cutscene. My patience was finally exhausted, so I downgraded to version 1.30, in which this mission played without any bugs and the only thing I lost was the 64-bit build of the game; 1.30 and earlier only have a 32-bit variant.
+
+Archimonde, Tichondrius, and their doomguards chase the Sentinels to a precipice. They kill the archers, and then... one of the most unintentionally hilarious scenes in the entire game happens.
+
+{% figure [caption:"In Warcraft 3, night elves have purple blood. For World of Warcraft, this will change."] %}
+![Daughters of the Moon](/assets/wr/wc3_nightelf2.jpg)
+{% endfigure %}
+
+Tyrande, having recognized Archimonde from ten thousand years ago, shadowmelds. (There's no way that's her shadow on the ground, right? Must be cast by a tree or something.) Like a Saturday morning cartoon villain, Archimonde [kills one of the doomguards on the spot](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveFailedMe) for letting her get away. The unfathomably powerful eredar warlock who leveled a city with a wave of his hand apparently doesn't have any magical means of seeing through invisibility, nor does he know that Shadowmeld has the crippling weakness of requiring the user to stand still, so Tyrande is clearly still there; nor can any of the demons smell her or hear her breath.
+
+The demons leave, and Tyrande reappears, once again apparently talking to herself.
+
+{% figure [caption:"And then what? Do you have a more long-term plan?"] %}
+![Daughters of the Moon](/assets/wr/20240519164156_1.jpg)
+{% endfigure %}
+
+I love and hate this mission at the same time.
+
+I love it because it's a genuine stealth mission, a rarity in RTS games. At the beginning, you control Tyrande alone, in an area heavily patrolled by doom guards. She can't take them solo, even one by one, so she has to rely on Shadowmeld to slip away.
+
+I hate it because this mission runs on game logic.
+
+{% figure [caption:"Oh bother, I bumped into something invisible. Must have been unusually dense air. If only I had one more point of intelligence to know for sure."] %}
+![Daughters of the Moon](/assets/wr/20240520002900_1.jpg)
+{% endfigure %}
+
+The mission's premise *relies* on enemies dropping aggro and resuming their patrols whenever you hit the magic I key to H**i**de. This reduces the Burning Legion, a millennia-old demon army that has scoured countless worlds of all life, to total oafs with the attention span of a TikTok addict. Breaking line of sight with Tyrande as soon as she disappears is bad enough, but if Tyrande stands in the way of a demon's patrol route, it will *physically bump into her*, walk around, and continue on its merry way like nothing happened.
+
+When people say ["this game is too videogame-y"](https://www.shamusyoung.com/twentysidedtale/?p=31770), this is the kind of stuff they mean. Like Shamus Young aptly noted, they're saying that it too obviously suffers from the limitations of the medium and that the writers have done a bad job at concealing those limitations --- either perverting an otherwise serious story to accommodate silly gameplay tropes, or treating gameplay abstractions as literally true.
+
+Anyway, Tyrande continues south, evading the [stupid, incompetent, and disappoining minions](https://warcraft.wiki.gg/wiki/Slayer_of_Stupid,_Incompetent_and_Disappointing_Minions) and snagging some nice loot from under their noses. Eventually she reaches a human footman making camp in a corner of the woods that's seemingly calm... until five archers appear out of nowhere and ambush him.
+
+{% figure [caption:"I wonder what happens if you take so long to get here that dawn comes and the archers can't hide. Though time of day passes slowly in this mission, it passes still."] %}
+![Daughters of the Moon](/assets/wr/20240520002959_1.jpg)
+{% endfigure %}
+
+This reminds the player, in case they haven't noticed, that archers can also hide at night.
+
+As the Sentinels advance, Tyrande notices more footmen fighting ghouls. This could have clued her in that they could be useful allies, but her prejudice and rashness are too strong.
+
+{% figure [caption:"Kill them all, Elune will sort them out."] %}
+![Daughters of the Moon](/assets/wr/20240520003037_1.jpg)
+{% endfigure %}
+
+A little farther along the road is a small orc outpost fighting undead. While they're distracted, Tyrande can steal a useful Mantle of Intelligence +3 with the usual "run in, grab item, shadowmeld, run out" method.
+
+And farther ahead still are huntresses, who join us as well. They're close-range light cavalry riding black panther-like creatures. Finally we get fairly durable frontliner units that archers can hide behind. A huntress can also plant a sentinel owl over one tree, which reveals a small area of the map around it and can only be removed by destroying the tree.
+
+{% figure [caption:"I'm guessing &ldquo;Fandu-dath-belore?&rdquo; is Elvish for &ldquo;Who goes there?&rdquo;. Now I only need to know how to say &ldquo;An illusion! What are you hiding?&rdquo; and &ldquo;Something's not quite right...&rdquo;."] %}
+![Daughters of the Moon](/assets/wr/20240520003624_1.jpg)
+{% endfigure %}
+
+Actually, here's something that bugs me. *What language are the non-Elvish words spoken in?*
+
+Mass market fantasy usually handwaves the question of language barriers unless the plot relies on it (like Thrall not knowing Orcish for most of *Lord of the Clans*). Somehow, people from different isolated cultures, even different *continents*, can understand each other right away, and nobody draws attention to it in-story. It's just one of a myriad "I won't bring it up if you don't" unspoken agreements between the writer and the audience, and there's usually an implicit understanding that whatever language the characters are "really" speaking in-universe is [rendered as the language of the work](https://tvtropes.org/pmwiki/pmwiki.php/Main/TranslationConvention) (English or otherwise) for the audience's benefit.
+
+And Warcraft 3 handwaves away the language barrier while *also* drawing attention to the idea that the characters have different native languages. It's the fantasy equivalent of a character saying "Guten tag, my name is Klaus" in an English-language work, in a scene that takes place in Berlin and there are only German speakers present.
+
+
+
+
 
 
 ## The Awakening of Stormrage
