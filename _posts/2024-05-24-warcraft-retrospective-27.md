@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 And so we get to the final campaign of Reign of Chaos: the night elf one. And... oh boy, it's going to be awkward for me to talk about it.
 
-It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept, in general --- though it might surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover --- that this basically only applies to two races in all of fantasy that I know of. Most varieties of elves that have been invented by fantasy writers over the past few decades leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
+It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept, in general --- though it might surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover --- that this basically only applies to two races in all of fantasy that I know of. Most varieties of elves that have been invented by fantasy writers over the past few decades --- at least those that are actually *called* elves[^races] --- leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
 
 Before you raise your pitchforks (or bows), let me say a few words in my defense.
 
@@ -150,17 +150,33 @@ Moving on...
 
 ## Enemy at the Gates
 
+{% figure [caption:"To all of my children to whom Death has passed his judgment..."] %}
+![Enemy at the Gates](/assets/wr/20240519160720_1.jpg)
+{% endfigure %}
+
+
+
 
 ## Daughters of the Moon
 
+{% figure [caption:"The soul yearns for honor, and the flesh the hereafter..."] %}
+![Daughters of the Moon](/assets/wr/20240519164054_1.jpg)
+{% endfigure %}
+
 
 ## The Awakening of Stormrage
+
+{% figure [caption:"Look to those who walked before to lead those who walk after..."] %}
+![The Awakening of Stormrage](/assets/wr/20240520005014_1.jpg)
+{% endfigure %}
 
 
 
 
 Next up: the finale of Reign of Chaos, where allies expected and unexpected enter the scene, and a tree explodes!
 
+
+[^races]: There are some thematically elf-adjacent races that I do like, but they're neither called elves nor look like stereotypical fantasy elves.
 
 [^ears]: And Tolkien *probably* [didn't picture them](https://middle-earth.xenite.org/do-tolkiens-elves-have-pointy-ears/) with pointy ears; at the very least, this detail is never mentioned in his stories and appears to be a later fan conflation with Victorian elves and fairies. There's also a textual instance of [a human](https://tolkiengateway.net/wiki/Nienor) disguising herself as an elf in a traveling company of actual elves, which would be difficult if the two races could be easily distinguished by ear shape.
 
