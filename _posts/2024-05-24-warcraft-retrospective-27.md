@@ -7,11 +7,9 @@ excerpt_separator: <!--more-->
 
 And so we get to the final campaign of Reign of Chaos: the night elf one. And... oh boy, it's going to be awkward for me to talk about it.
 
-It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept. It might, however, surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover that I'm really not *that* found of the elf concept in general, except for two races in all of fantasy that I know of. Most varieties of elves that have been invented by fantasy writers over the past few decades --- at least those that are actually *called* elves[^races] --- leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
+It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept. It might, however, surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover that I'm really not *that* found of the elf concept in general, except for two races in all of fantasy that I know of.<!--more--> Most varieties of elves that have been invented by fantasy writers over the past few decades --- at least those that are actually *called* elves[^races] --- leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
 
 Before you raise your pitchforks (or bows), let me say a few words in my defense.
-
-<!--more-->
 
 
 ## An Abridged, Oversimplified, and Highly Inaccurate History of Elves
@@ -334,8 +332,45 @@ Tyrande tells her that the undead who attacked this village were sent by the Bur
 ![The Awakening of Stormrage](/assets/wr/20240520005014_1.jpg)
 {% endfigure %}
 
+Adding to the mystery of the duplicate Shandris, in this mission she's nowhere to be found, despite departing with Tyrande at the end of the last mission. Tyrande is talking to an unnamed archer.
 
+{% figure [caption:"By our colors combined, we summon-- oops, we dropped our items."] %}
+![The Awakening of Stormrage](/assets/wr/20240520005032_1.jpg)
+{% endfigure %}
 
+The Horn of Cenarius can awaken the druids, but of course, nothing is ever simple. First of all, an orc base is blocking the way to the shrine where the horn is kept. Worse yet, the undead are advancing on the nearby barrow dens, where [Furion Stormrage](https://warcraft.wiki.gg/wiki/Malfurion_Stormrage), the wisest and most powerful of all the druids, lies in his slumber. For now, the dens are protected by trees, but if the undead chop through them all, the player will lose.
+
+{% figure [caption:"Ah, suicidal overconfidence."] %}
+![The Awakening of Stormrage](/assets/wr/20240520205120_1.jpg)
+{% endfigure %}
+
+This mission is fairly easy on normal difficulty and, reportedly, frustratingly hard on hard, owing to the small margin of error because the undead clear the trees faster on hard. On normal difficulty, you can just build a large army and pulverize the orcs. On hard, you might have to run through the orc base, likely taking some losses but hopefully keeping enough of your force intact to face the real obstacle here, which is the primal guardians protecting the Horn of Cenarius. They look like colorful ghostly Cenariuses (Cenarii?) and are *supposed* to use powers of fire, frost, and lightning.
+
+{% figure [caption:"Daughters of the Moon 2: Quest for Free Swag."] %}
+![The Awakening of Stormrage](/assets/wr/20240520210527_2.jpg)
+{% endfigure %}
+
+And indeed, at release, that was what they did. These elemental powers are given to them by their Orbs of Fire, Frost, and Lightning, which they're supposed to keep in their inventories. Here, in the less-bugged-than-1.31-but-apparently-still-bugged version 1.30, they dropped their orbs on the ground, and I was able to actually pick them up.
+
+Even without their orbs, the Primal Guardians are no slouches.[^guardians] They're strong spellcasters and have entourages of owlbears with them. To even the odds a bit, in this mission we unlock [dryads](https://warcraft.wiki.gg/wiki/Dryad), daughters of Cenarius, who are immune to spells and magic attacks and can dispel magic *on autocast*, making them the most convenient counter to enemy buffs and debuffs like Bloodlust and Slow. They also have really sweet and cheerful [unit quotes](https://www.youtube.com/watch?v=_GpjsaI4H04).
+
+{% figure [caption:"Fear the fearsome fury of the forest fawn!"] %}
+![The Awakening of Stormrage](/assets/wr/20240520210116_1.jpg)
+{% endfigure %}
+
+Once the Primal Guardians are down, Tyrande sounds the Horn of Cenarius, and Furion awakens.
+
+{% figure [caption:"Well, thank you for [telling us](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThatMakesMeFeelAngry) this angers you greatly, Furion! How else would we know?"] %}
+![The Awakening of Stormrage](/assets/wr/20240520210213_1.jpg)
+{% endfigure %}
+
+He immediately shows us how powerful he is by animating the entire grove between him and the undead base, making quick work of them.
+
+{% figure [caption:"I sure hope he's as strong in-game as he is in this cutscene! Then again, maybe not. It'd be no fun."] %}
+![The Awakening of Stormrage](/assets/wr/20240520210239_1.jpg)
+{% endfigure %}
+
+And that's it. A short and sweet mission before the absolute marathon of the following one.
 
 Next up: the finale of Reign of Chaos, where allies expected and unexpected enter the scene, and a tree explodes!
 
@@ -355,3 +390,5 @@ Next up: the finale of Reign of Chaos, where allies expected and unexpected ente
 [^shadowmeld]: The game is very consistent about this. Male night elves don't have Shadowmeld. Female units that are not night elves (specifically, dryads) don't have it either. When the expansion added a new female hero, she got Shadowmeld too. And then Reforged added a female skin for the demon hunter hero, increasing diversity at the expense of mechanical consistency. Sigh.
 
 [^circlet]: Which might not be what you want. There's a Circlet of Nobility hidden in a tent back at the back of the base. If you want to get it, the best way is probably to sneak in with Shadowmeld, grab it with Tyrande and retreat, and only *then* amass a force and kill the paladin.
+
+[^guardians]: Actually, why are we even fighting them? Couldn't whoever put the horn there tell them to stand down? Same team!
