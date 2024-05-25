@@ -129,13 +129,13 @@ And so we get to the night elf campaign, "Eternity's End". It's a rather ominous
 
 ...Wait a minute, what is that archer wearing? Or rather, why is she wearing so little?
 
-Over my years of roleplay, I've got plenty of in-character excuses for Sentinel "armor", and none of them really satisfy me. It's for mobility. Night elves don't have prudish Western decency mores. Sentinel archers rely on being hidden, and if they're caught in melee they're screwed anyway, armor or no armor. And so on and so forth.
+Over my years of roleplay, I've heard plenty of in-character excuses for Sentinel "armor", and none of them really satisfy me. It's for mobility. Night elves don't have prudish Western decency mores. Sentinel archers rely on being hidden, so if they're caught in melee they're screwed anyway, armor or no armor. And so on and so forth.
 
 Thing is, these are [Thermian arguments](https://www.youtube.com/watch?v=AxV8gAGmbtk). Warcraft 3 is not a historical documentary, it's a mass market video game taking place in a make-believe world. None of these justifications explain the massive shoulderpads and gloves that protect the archer's shoulders and forearms *and nothing else*.
 
 Since it's a 2002 game, I really don't think any thought process involved in this design went deeper than "Dude, look at the cleavage on that hot chick! 10/10 would totally bang."
 
-You can't even claim that it's specifically a night elven cultural trait. Here are Jaina and Sylvanas's in-game models.
+You can't even claim that it's specifically a night elven cultural trait that visually distinguishes them from the other races. Here are Jaina and Sylvanas's in-game models.
 
 {% figure [caption:""] %}
 ![Jaina and Sylvanas](/assets/wr/wc3_jaina_sylvanas.jpg)
