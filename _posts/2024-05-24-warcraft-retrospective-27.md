@@ -152,7 +152,7 @@ Moving on. Let's dive into the campaign.
 ![Enemies at the Gate](/assets/wr/20240519160720_1.jpg)
 {% endfigure %}
 
-The camera slooooowly zooms in on Tyrande standing atop a cliff. The sky is an ominous shade of orange.
+The camera slooooowly zooms in on [Tyrande](https://warcraft.wiki.gg/wiki/Tyrande_Whisperwind) standing atop a cliff. The sky is an ominous shade of orange.
 
 {% figure [caption:"Eh, it's probably just a sunset"] %}
 ![Enemies at the Gate](/assets/wr/20240519160734_1.jpg)
