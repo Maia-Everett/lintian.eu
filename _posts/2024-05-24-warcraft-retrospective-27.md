@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 And so we get to the final campaign of Reign of Chaos: the night elf one. And... oh boy, it's going to be awkward for me to talk about it.
 
-It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept. It might, however, surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover that I'm really not *that* found of the elf concept in general, except for two races in all of fantasy that I know of.<!--more--> Most varieties of elves that have been invented by fantasy writers over the past few decades --- at least those that are actually *called* elves[^races] --- leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
+It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept. It might, however, surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover that I'm really not *that* fond of the elf concept in general, except for two races in all of fantasy that I know of.<!--more--> Most varieties of elves that have been invented by fantasy writers over the past few decades --- at least those that are actually *called* elves[^races] --- leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
 
 Before you raise your pitchforks (or bows), let me say a few words in my defense.
 
@@ -228,7 +228,7 @@ But... at that very moment, all hell breaks loose.
 ![Enemies at the Gate](/assets/wr/20240519164023_1.jpg)
 {% endfigure %}
 
-At last, the Burning Legion has begun its full-scale invasion of Kalimdor. I like how, once again, they've waited for the denizens of the world to thin each other's numbers, binding their time until one of the sides was decapitated, and only *then* launched their attack. It shows that they're smart, patient, strategizing. It sets them apart from generic mindless monster hordes that seek to overwhelm the enemy with sheer numbers. And it builds on what came before, with the Burning Legion using the orcs and undead for their proxy war before entering the world themselves. Thematic consistency!
+At last, the Burning Legion has begun its full-scale invasion of Kalimdor. I like how, once again, they've waited for the denizens of the world to thin each other's numbers, biding their time until one of the sides was decapitated, and only *then* launched their attack. It shows that they're smart, patient, strategizing. It sets them apart from generic mindless monster hordes that seek to overwhelm the enemy with sheer numbers. And it builds on what came before, with the Burning Legion using the orcs and undead for their proxy war before entering the world themselves. Thematic consistency!
 
 Sadly, it's about to be undermined by the next mission, where the demons are made to look like complete fools.
 
