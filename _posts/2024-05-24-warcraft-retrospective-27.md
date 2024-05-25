@@ -5,10 +5,6 @@ categories: [ Warcraft Retrospective, Warcraft ]
 excerpt_separator: <!--more-->
 ---
 
-{% figure [caption:""] %}
-![Eternity's End](/assets/wr/20240519160649_1.jpg)
-{% endfigure %}
-
 And so we get to the final campaign of Reign of Chaos: the night elf one. And... oh boy, it's going to be awkward for me to talk about it.
 
 It's no secret that I like night elves. This website is, after all, named after a night elf [roleplay character of mine](https://lintian.eu/lintian/). It's furthermore no secret that I like elves as a fantasy concept, in general --- though it might surprise people who know me as the [Argent Dawn realm forum](https://eu.forums.blizzard.com/en/wow/c/argent-dawn/190)'s resident elf-lover --- that this basically only applies to two races in all of fantasy that I know of. Most varieties of elves that have been invented by fantasy writers over the past few decades leave me either annoyed or indifferent, except for exactly two of them: Tolkien elves, and night elves.
@@ -118,6 +114,38 @@ The Titans, the godlike "orderers" of the land, sea and wildlife, were betrayed 
 The night elves once had a glorious civilization, but it was destroyed in the Sundering. Those who remain now are world-weary, having lived for many millennia in a fading and decaying world while they themselves stayed unchanging. They're associated with twilight, while daytime is the domain of the younger races, and of all the gods they most revere [Elune](https://warcraft.wiki.gg/wiki/Elune), Mother Moon, who is associated with the night sky and with hope in the deepest darkness.
 
 It's not a perfect match, and a lot of it could be just coincidence, convergent evolution, or ideas floating in the air. But I really do wonder.
+
+
+## Eternity's End
+
+{% figure [caption:"To all of my children in whom Life flows abundant..."] %}
+![Eternity's End](/assets/wr/20240519160649_1.jpg)
+{% endfigure %}
+
+And so we get to the night elf campaign, "Eternity's End". It's a rather ominous title --- after all, isn't an eternity by definition endless? I wonder what can possibly--
+
+<figure class="character-portrait">
+<img src="/assets/wr/question_my_choice_of_attire.jpg" width="300" /><figcaption></figcaption></figure>
+
+...Wait a minute, what is that archer wearing? Or rather, why is she wearing so little?
+
+Over my years of roleplay, I've got plenty of in-character excuses for Sentinel "armor", and none of them really satisfy me. It's for mobility. Night elves don't have prudish Western decency mores. Sentinel archers rely on being hidden, and if they're caught in melee they're screwed anyway, armor or no armor. And so on and so forth.
+
+Thing is, these are [Thermian arguments](https://www.youtube.com/watch?v=AxV8gAGmbtk). Warcraft 3 is not a historical documentary, it's a mass market video game taking place in a make-believe world. None of these justifications explain the massive shoulderpads and gloves that protect the archer's shoulders and forearms *and nothing else*.
+
+Since it's a 2002 game, I really don't think any thought process involved in this design went deeper than "Dude, look at the cleavage on that hot chick! 10/10 would totally bang."
+
+You can't even claim that it's specifically a night elven cultural trait. Here are Jaina and Sylvanas's in-game models.
+
+{% figure [caption:""] %}
+![Jaina and Sylvanas](/assets/wr/wc3_jaina_sylvanas.jpg)
+{% endfigure %}
+
+Why do so many women in this game like to show off their cleavage on the battlefield?
+
+You want to portray athletic and assertive women, that's fine. Good, even! Make them wear something sensible that still signals these traits. In a modern setting, in everyday life, a tank top would be appropriate. On a fantasy battlefield... some kind of sleeveless leather vest, maybe. Whatever. I'm not an armor expert. In-universe, I'm sure that a culture with ten thousand years of experience in armorcraft would come up with something that both doesn't restrict the wearer's movements *and* provides actual protection.
+
+Moving on...
 
 
 ## Enemy at the Gates
