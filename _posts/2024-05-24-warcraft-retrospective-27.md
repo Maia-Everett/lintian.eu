@@ -228,7 +228,7 @@ But... at that very moment, all hell breaks loose.
 ![Enemies at the Gate](/assets/wr/20240519164023_1.jpg)
 {% endfigure %}
 
-At last, the Burning Legion has begun its full-scale invasion of Kalimdor. I like how, once again, they've waited for the denizens of the world to kill each other, waiting until one of the sides was decapitated, and only *then* launched their attack. It shows that they're smart, patient, strategizing. It sets them apart from generic mindless monster hordes that seek to overwhelm the enemy with sheer numbers. And it builds on what came before, with the Burning Legion using the orcs and undead for their proxy war before entering the world themselves. Thematic consistency!
+At last, the Burning Legion has begun its full-scale invasion of Kalimdor. I like how, once again, they've waited for the denizens of the world to thin each other's numbers, binding their time until one of the sides was decapitated, and only *then* launched their attack. It shows that they're smart, patient, strategizing. It sets them apart from generic mindless monster hordes that seek to overwhelm the enemy with sheer numbers. And it builds on what came before, with the Burning Legion using the orcs and undead for their proxy war before entering the world themselves. Thematic consistency!
 
 Sadly, it's about to be undermined by the next mission, where the demons are made to look like complete fools.
 
@@ -360,7 +360,7 @@ Even without their orbs, the Primal Guardians are no slouches.[^guardians] They'
 
 Once the Primal Guardians are down, Tyrande sounds the Horn of Cenarius, and Furion awakens.
 
-{% figure [caption:"Well, thank you for [telling us](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThatMakesMeFeelAngry) this angers you greatly, Furion! How else would we know?"] %}
+{% figure [caption:"Well, thank you for [telling us](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThatMakesMeFeelAngry) this angers you greatly, Furion! How else would we know? By the tone of your voice?"] %}
 ![The Awakening of Stormrage](/assets/wr/20240520210213_1.jpg)
 {% endfigure %}
 
