@@ -43,7 +43,7 @@ In [Tolkien's world](https://tolkiengateway.net/wiki/Arda), elves are a race of 
 
 Prior to that, the ["pagan gods"](https://tolkiengateway.net/wiki/Valar) or, if you will, demiurges of the world, creators of the land, sea and wildlife, had a series of fierce battles with their [fallen brother](https://tolkiengateway.net/wiki/Melkor), the Satanic arch-villain of the entire setting, during which their original design for the world --- a single continent with a [great lake](https://tolkiengateway.net/wiki/Great_Lake) in is center --- was broken into two continents with the Great Sea between them. Forsaking the eastern continent --- known in later times as [Middle-earth](https://tolkiengateway.net/wiki/Middle-earth) --- to the Enemy to do as he pleased, the gods retreated to the [western continent](https://tolkiengateway.net/wiki/Aman), where they built their earthly paradise known as [Valinor](https://tolkiengateway.net/wiki/Valinor).
 
-{% figure [caption:"Looks familiar, doesn't it?"] %}
+{% figure [caption:"Yes, I know the inaccuracies of this map, but it's pretty and illustrates the point well enough."] %}
 ![Arda](/assets/wr/Arda.jpg)
 {% endfigure %}
 
@@ -87,7 +87,7 @@ It's telling that when one Warcraft 3 developer suggested making "dark elves" a 
 
 Warcraft 2 made a big jump from faux-Christian humans against hellish orcs --- as seen in Warcraft 1 --- to a more typical roster of fantasy races, introducing elves, dwarves and gnomes for the Alliance, and trolls, ogres and goblins for the Horde. Traditional adventurer races versus traditional monster races. It made sense.
 
-It seems to me, however, that nobody was interested in actually fleshing out Quel'Thalas. The logic was, it seems, that since they were going for a high fantasy setting, it needed elves in the same way that Superman needs those little red underpants outside his costume: [which is to say, not at all, but it's always there anyway](https://www.shamusyoung.com/twentysidedtale/?p=27926). I mean, pretty much the only things we knew about Quel'Thalas prior to Warcraft 3 were that they had archers and druids (the latter of whom are conspicuously absent in Warcraft 3), provided the Alliance with destroyer ships and lumber mills, and had a history of enmity with the trolls. In Warcraft 2, they weren't yet known as "high elves", just "elves", with no reason to believe that there were more kinds of them. And then, throughout all the Warcraft media until and counting Reign of Chaos, we got exactly *three* named characters from Quel'Thalas: Alleria, Vereesa, and Sylvanas. And they --- what a coincidence! --- were all rangers, and at that point, pretty much interchangeable.
+It seems to me, however, that nobody was interested in actually fleshing out Quel'Thalas. The logic was, it seems, that since they were going for a high fantasy setting, it needed elves in the same way that Superman needs those little red underpants outside his costume: [which is to say, not at all, but they're always there anyway](https://www.shamusyoung.com/twentysidedtale/?p=27926). I mean, pretty much the only things we knew about Quel'Thalas prior to Warcraft 3 were that they had archers and druids (the latter of whom are conspicuously absent in Warcraft 3), provided the Alliance with destroyer ships and lumber mills, and had a history of enmity with the trolls. In Warcraft 2, they weren't yet known as "high elves", just "elves", with no reason to believe that there were more kinds of them. And then, throughout all the Warcraft media until and counting Reign of Chaos, we got exactly *three* named characters from Quel'Thalas: Alleria, Vereesa, and Sylvanas. And they --- what a coincidence! --- were all rangers, and at that point, pretty much interchangeable.
 
 And then, with Warcraft 3, came the night elves.
 
@@ -154,11 +154,11 @@ Moving on. Let's dive into the campaign.
 
 The camera slooooowly zooms in on [Tyrande](https://warcraft.wiki.gg/wiki/Tyrande_Whisperwind) standing atop a cliff. The sky is an ominous shade of orange.
 
-{% figure [caption:"Eh, it's probably just a sunset"] %}
+{% figure [caption:"Eh, it's probably just a sunset."] %}
 ![Enemies at the Gate](/assets/wr/20240519160734_1.jpg)
 {% endfigure %}
 
-We see her from the front. She's riding some kind of [white tiger](https://warcraft.wiki.gg/wiki/Ash'alah). A [named archer](https://warcraft.wiki.gg/wiki/Shandris_Feathermoon) comes to check in on her.
+We see her from the front. She's riding some kind of [white tiger](https://warcraft.wiki.gg/wiki/Ash'alah). A [named archer](https://warcraft.wiki.gg/wiki/Shandris_Feathermoon) comes to check up on her.
 
 {% figure [caption:"What are these pawprints on the pillars?"] %}
 ![Enemies at the Gate](/assets/wr/20240519160750_1.jpg)
@@ -373,6 +373,16 @@ He immediately shows us how powerful he is by animating the entire grove between
 And that's it. A short and sweet mission before the absolute marathon of the following one.
 
 Next up: the finale of Reign of Chaos, where allies expected and unexpected enter the scene, and a tree explodes!
+
+-------
+
+Illustrations:
+
+* *Ängsälvor* (Swedish “Meadow Elves”) by Nils Blommér (1850), public domain
+* Illustration of Shakespeare’s *A Midsummer Night’s Dream* by Arthur Rackham, public domain
+* "Ossë and the Teleri", by [Steamey](http://steamey.deviantart.com/)
+* "A map of Middle-earth and the Undying Lands", from David Day's *A Tolkien Bestiary*
+* D&D elves by Todd Lockwood, from the book *Forgotten Realms Campaign Setting 3rd edition*
 
 
 [^races]: There are some thematically elf-adjacent races that I do like, but they're neither called elves nor look like stereotypical fantasy elves.
