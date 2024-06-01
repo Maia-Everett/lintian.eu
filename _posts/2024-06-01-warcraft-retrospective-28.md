@@ -5,6 +5,46 @@ categories: [ Warcraft Retrospective, Warcraft ]
 excerpt_separator: <!--more-->
 ---
 
+Previously on Warcraft 3: Reign of Chaos...
+
+> Bravely bold Tyrande rode forth from Ashenvale.  
+> She was not afraid to die, o brave Tyrande!  
+> She was not at all afraid of the humans and the orcs,  
+> Brave, brave, brave, brave Tyrande!
+
+{% youtube "https://www.youtube.com/watch?v=6TwV-11hzkk" %}
+
+<!--more-->
+
+But the moment she killed the paladin who kept the two races working together despite their tensions, the Burning Legion launched an invasion into night elf lands. And the Sentinel Army, badass warrior women with ten thousand years of training and strategizing, whose very *raison d'être* was to prepare for the inevitable return of the Legion, had no viable answer other than retreat.
+
+> Brave Tyrande ran away.  
+> Bravely ran away, away!  
+> When Burning Legion reared its head,  
+> She bravely turned her tail and fled.  
+> Yes, brave Tyrande turned about  
+> And gallantly she chickened out.  
+> Bravely taking to her feet,  
+> She beat a very brave retreat,  
+> Bravest of the brave, Tyrande!
+
+Okay, I'm not being *entirely* fair here. For one, Cenarius, who could go one on one against the strongest demon lords, is dead, and lack of his support crippled the Sentinels. Of course, Even granting that, the Sentinels lost to a single orc clan without Cenarius, and even though he easily gave them a beating once he appeared on the battlefield himself, he fell to the same orcs gorged on demon blood --- not even to full demons. I'm not sure he'd have made *that* much of a difference, had he survived.
+
+And without Cenarius, Tyrande's crowning solo achievement so far was killing a reasonable authority figure who likely would have just left her alone or even allied with the night elves, had she asked nicely. Her rashness and prejudice *are*, after all, very much intended character flaws.
+
+Now that Furion has awakened, though, the night elves' fortunes will begin to turn. He will now lead a quest to awaken the other druids, but before we get to that, let's review...
+
+
+## The Invasion Stratagems of the Burning Legion
+
+The Burning Legion is a refreshing change from the usual evil legions of doom seen in stock fantasy, in that they're *smart*.
+
+As GiantCrabGames mentions in his ["Warcraft 3: Campaign Masterpiece or Overrated?"](https://youtu.be/UvS0mArxpyo?t=8202) video, the Burning Legion has destroyed countless worlds prior to this one, and they have their invasions figured out down to a science, letting the inhabitants of the world do most of the work for them without needlessly wasting their own forces. Their strategy involves three steps.
+
+
+
+
+
 
 ## The Druids Arise
 
