@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 Last time, we saw Arthas lead the Scourge to the outskirts of Silvermoon, where he plans to raise Kel'Thuzad at the high elves' sacred font of power, ~~Comic Sans~~ the Sunwell. Meanwhile, this was playing in the background.
 
-{% youtube "https://www.youtube.com/watch?v=5SWGRsZai28" %}
+{% youtube "https://www.youtube.com/watch?v=KVQX9h14mP8" %}
 
 The undead theme is an interesting departure from the others. Unlike the noble and triumphant human theme or the rousing and warlike orc theme, this one isn't energetic. It's eerie, haunting, and foreboding. Something foul is in the air, creeping on you and sapping your resolve --- and the growls of the walking dead and the clanging of unholy mechanical contraptions will be the last sounds you hear before your life, too, is drained away.
 
