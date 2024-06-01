@@ -148,7 +148,7 @@ Moving on. Let's dive into the campaign.
 
 ## Enemies at the Gate
 
-{% figure [caption:"To all of my children to whom Death has passed his judgment..."] %}
+{% figure [caption:"To all of my children to whom Death hath passed his judgment..."] %}
 ![Enemies at the Gate](/assets/wr/20240519160720_1.jpg)
 {% endfigure %}
 
