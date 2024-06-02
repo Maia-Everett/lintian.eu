@@ -49,6 +49,8 @@ The Legion has had setbacks, but mostly, so far, we've only had some successes a
 
 And against a foe that saps the defenders' strength by pitting the nations of the world against each other, the only way to have even a *chance* of repelling them is to unite everyone, *literally everyone*, and hope no one will stab you in the back.
 
+Warcraft 3 has set a high bar for the franchise. If future villain factions are to be seen as a credible threat, they will need to be portrayed as *at least* this smart.
+
 
 ## The Druids Arise
 
@@ -507,6 +509,99 @@ The Prophet being Medivh, one of the major antagonists of Warcraft 1, was a nice
 ![Twilight of the Gods](/assets/wr/20240527232309_1.jpg)
 {% endfigure %}
 
+And so it has come to this. Everything, everything so far has led to this pivotal moment --- the [defense of Mount Hyjal and the World Tree](https://warcraft.wiki.gg/wiki/Battle_of_Mount_Hyjal) against an advancing demon army led by Archimonde himself.
+
+The heroes gather to discuss the battle plan, and Furion shares a bit of history --- and explains to the others their goal.
+
+{% figure [caption:"If anything, in-game it's scaled down. In the cinematic, the World Tree is *humongous*."] %}
+![Twilight of the Gods](/assets/wr/20240527232404_1.jpg)
+{% endfigure %}
+
+Now it is the time they give that power back. It does mean, as Tyrande notes, that they will age as mortals do, and that their powers over nature will wane over time.[^wane] Furion, however, believes that they might have lived long enough already.
+
+Yes, he's single-handedly making this decision for the entire race --- though in fairness, it's not like they have many other options.
+
+At this moment, Archimonde appears at the footsteps of the mountain, absolutely chewing the scenery with his evil gloating.
+
+{% figure [caption:"It's disco time, redux!"] %}
+![Twilight of the Gods](/assets/wr/20240527232455_1.jpg)
+{% endfigure %}
+
+Jaina promises that she and Thrall will delay the invaders for as long as they can if the night elves can provide them with support and keep them from being overwhelmed. This earns her a bit of praise from Tyrande.
+
+{% figure [caption:"Better *dangerously* late than never, I suppose."] %}
+![Twilight of the Gods](/assets/wr/20240527232509_1.jpg)
+{% endfigure %}
+
+And so begins the campaign finale, where the objective is to hold the line for *forty-five minutes*. We have both Tyrande and Furion, a fully built base, and two computer allies with fully built bases of their own --- and level 10 heroes.
+
+{% figure [caption:"He wears one of these Claws of Attack on each hand. Over his real claws."] %}
+![Twilight of the Gods](/assets/wr/20240527232521_1.jpg)
+{% endfigure %}
+
+I have a confession to make. Ever since the game's release, I never completed this mission without cheat codes until now because I was simply too afraid of its perceived mechanical complexity, until I did it for the sake of this post. It ended up not being as scary as I thought, at least on normal.
+
+I won't go too much into detail, since this is not a strategy guide or let's play.[^letsplay] Both of these can be found aplenty on the Internet. The game does expect you to claim the two unguarded gold mines as soon as you can, which ensures you have a steady supply of gold and can spend it on whatever you see fit. There is, however, one thing that will help, and that's building moon wells and ancient protectors at allied bases.
+
+Every faction has a "farm" building that provides supply, and each of them has a unique mechanic. Orc burrows let peons hide inside and throw spears at attackers, effectively acting as makeshift towers. Undead ziggurats are upgradable to spirit towers. Human farms... er... are cheap and take less space (though they provide less supply, too)? And night elf moon wells replenish the health and mana of nearby allied units through a supply of their own mana that regenerates at night.
+
+Build them at allied bases. It will help your allies a lot: both the orcs, who have a lot of meaty tanky units and can bear the brunt of enemy attacks for you, and the humans, who build a lot of spellcasters.
+
+I'll just focus on the broad strokes of this mission that really does play like a satisfying epic conclusion to the story of Reign of Chaos.
+
+In the top right, there is the World Tree. It's Archimonde's goal, and if he succeeds in reaching it, the world is doomed. Through Furion's druidic know-how, it's drawing wisps to itself, and our goal is to survive for 45 minutes until it draws enough of them, and the trap for Archimonde is set in place.
+
+The World Tree is protected by three bases arranged at the turns of the S-shaped ascent from Archimonde's undead base to the mountain summit. There's Jaina's human base, then Thrall's orc base, then your own night elf base. You're expected to help your allies hold out for as long as you can, against waves of enemies that start weak and grow increasingly stronger. Later waves throw in frost wyrms, infernals, and eventually level 10 heroes: a pit lord, a dreadlord, and a lich.
+
+{% figure [caption:"The banshee waves were especially devastating. My losses against other waves weren't too bad, but these ones depleted almost my entire army with Possession until I figured out how to counter them."] %}
+![Twilight of the Gods](/assets/wr/20240601201123_1.jpg)
+{% endfigure %}
+
+If, or more likely *when*, Jaina's base is destroyed, Archimonde moves his operations to its former location, taunting her in a cutscene.
+
+{% figure [caption:"I like to imagine that Archimonde deliberately wastes his cannon-fodder minions just for entertainment. When you've destroyed worlds for as long as he did, you'll likely do anything so that the invasions don't get stale and boring."] %}
+![Twilight of the Gods](/assets/wr/20240528231157_1.jpg)
+{% endfigure %}
+
+"Is talking all you demons do?" asks Jaina, then teleports away. The enemy waves then reset back to the weakest units (ghouls and crypt fiends), and we fall back to Thrall's base and build up its defenses.
+
+{% figure [caption:"Occasionally the orcs bloodlusted my troops and we tore the undead to shreds in seconds. Felt nice."] %}
+![Twilight of the Gods](/assets/wr/20240528233702_1.jpg)
+{% endfigure %}
+
+Oh right, I should talk about the new unit!
+
+In this final mission, we unlock the hippogryph rider, the only (to my knowledge) combining unit in Warcraft 3. A hippogryph rider is just that: an archer, a regular old archer, mounted on a hippogryph. By themselves, hippogryphs can only attack air, which is almost useless in this mission (as the enemy builds very few air units, if any). However, you can combine a hippogryph and an archer into one unit, which adds their HP together and makes them efficient and versatile aerial cavalry.
+
+Night elves have another air unit, the [chimaera](https://warcraft.wiki.gg/wiki/Chimaera_(Warcraft_III)) a massive flying beast with a very powerful ground attack, but it's not available in the Reign of Chaos campaign. Reforged does make them available in this mission, however.
+
+It's actually possible to hold Thrall's base until the timer runs out (I did it in my playthrough), or maybe even Jaina's if you're a skilled player. If Thrall's base does fall, another cutscene will play out, like with Jaina. Thrall will injure Archimonde, then teleport away.
+
+{% figure [caption:"Man, nobody in this mission shows actual fear of Archimonde."] %}
+![Twilight of the Gods](/assets/wr/wc3_nightelf7_thrall.jpg)
+{% endfigure %}
+
+Again, the waves reset to the weakest ones. Defending your own base shouldn't be too bad now if there's not much time left, as they should start with ghouls and crypt fiends agai-- OH GODDESS IT'S ARCHIMONDE HIMSELF AND HE'S HUGE
+
+{% figure [caption:"I have no idea why that brave little archer was there, but I did move her away to join the rest of my troops deeper at the base."] %}
+![Twilight of the Gods](/assets/wr/20240528235903_1.jpg)
+{% endfigure %}
+
+When there are thirty or so seconds left, Archimonde begins moving towards the World Tree himself from wherever he is, leaving a trail of blight behind and tearing through everything. As long as there are enough buildings left standing, there's not enough time for him to reach his destination. The time expires, and the quest is completed.
+
+{% figure [caption:"This raises the question of why he bothered with minions at all instead of just wrecking everything himself."] %}
+![Twilight of the Gods](/assets/wr/20240528235923_1.jpg)
+{% endfigure %}
+
+"Archimonde's victory has made him overconfident," remarks Furion. "He will not see the trap that I laid for him until it is too late."
+
+Tyrande joins him on his overlook.
+
+{% figure [caption:"Hopefully he doesn't overhear them."] %}
+![Twilight of the Gods](/assets/wr/20240529000004_1.jpg)
+{% endfigure %}
+
+"Yes," says Furion. "Now our victory is assured."
 
 {% youtube "https://www.youtube.com/watch?v=66m8sQY4pNg" %}
 
@@ -514,9 +609,15 @@ And so, in his overconfidence, Archimonde walks straight into Furion's trap.
 
 Remember how, in the [previous post](https://lintian.eu/2024/05/24/warcraft-retrospective-27/), I mentioned that wisps can detonate themselves to damage summoned creatures?
 
-Furion gathered a *staggering* number of wisps around the World Tree.
+While we were holding the line, Furion gathered a *staggering* number of wisps around the World Tree.
 
-And Archimonde is a summoned creature.
+And Archimonde --- while very, *very* powerful --- is a summoned creature.
+
+.
+
+.
+
+.
 
 *Hasta la vista, baby.*
 
@@ -544,7 +645,9 @@ And Archimonde is a summoned creature.
 > 
 > As for me, I came back to ensure that there would be a future, to teach the world that it no longer needed Guardians. The hope for future generations has always resided in mortal hands. And now that my task is done, I will take my place amongst the legends of the past.
 
-Next up, we're going to take a break from playing Warcraft 3 for a deeper dive into the strengths of its worldbuilding --- and the high bar it set for the rest of the franchise, which successor games, sadly, often fail to meet.
+And so ends Warcraft 3: Reign of Chaos.
+
+This is a lot to take in, so I'll save my overall thoughts for later. Next up, we're going to catch our breath. We'll take a break from playing Warcraft 3 for a deeper dive into the strengths of its worldbuilding --- and the high standard it set for the rest of the franchise, which successor games, sadly, often fail to meet.
 
 ------
 
@@ -574,3 +677,7 @@ Our sacred grove is being desecrated!
 [^gameplay]: In-story, I mean. In gameplay, paladins can resurrect recently-fallen allies and heroes can respawn at altars, but it's just a gameplay mechanic that's never acknowledged in-story. Otherwise a lot of characters, including King Terenas and Uther, would still be alive.
 
 [^medivh]: This includes me. I played Warcraft 1 long after Warcraft 1, and this cutscene was the first time I heard that name.
+
+[^wane]: Or will they? *(Dun dun duuuun!)*
+
+[^letsplay]: If you're curious, I didn't do anything particularly clever. I immediately claimed the two extra gold mines and started building wisps to send to allied bases, to provide them with moon wells and ancient protectors. My army for Jaina's base was a little bit of everything, for Thrall's I mostly built hippogryph riders and a few dryads while the orcs tanked. Tyrande's Necklace of Spell Immunity made her invulnerable to enemy crowd control and magic attacks, and her Orb of Lightning, which I was *not* supposed to have, made her deal massive damage to summoned units, making her auto-attacks just delete infernals from existence. I used Starfall for the most dangerous waves, like banshees, and Tranquility on cooldown, and didn't even make use of the land mines or mercenary units. I'm not any kind of pro player, and my reaction times are as slow as Windows Vista, and I still found the mission pretty comfortable on normal.
