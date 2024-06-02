@@ -195,7 +195,7 @@ We've unlocked druids of the talon, whom, I hate to say, I haven't found *that* 
 
 Eventually we come upon this suspicious growth of giant mushrooms, and it seems there's a passage behind them.
 
-{% figure [caption:"[Detect Evil!](https://tvtropes.org/pmwiki/pmwiki.php/Main/DetectEvil) Oh, it says they're evil. Slay them all!"] %}
+{% figure [caption:"&ldquo;Furion, can you turn these mushrooms into treants?&rdquo; --- &ldquo;Mushrooms aren't even *plants!* ...But I'll try anyway.&rdquo;"] %}
 ![Brothers in Blood](/assets/wr/20240526201107_1.jpg)
 {% endfigure %}
 
