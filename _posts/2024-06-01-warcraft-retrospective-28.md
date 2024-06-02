@@ -377,7 +377,7 @@ I'm not saying the game should have explained this, but it comes completely out 
 
 Illidan tries to repel the intruder with --- of course --- violence. Arthas says he'll find out they're evenly matched --- so I'll assume he knows who Illidan is. Somehow.
 
-{% figure [caption:"&ldquo;Why the high ground?&rdquo; --- &ldquo;To look dramatic.&rdquo;"] %}
+{% figure [caption:"To showcase the game's cool combat animations, of course!"] %}
 ![A Destiny of Flame and Sorrow](/assets/wr/20240527224725_1.jpg)
 {% endfigure %}
 
@@ -413,7 +413,7 @@ The map design here is also interesting. As far as I can tell, one of the purpos
 
 We destroy the demon gate near the Skull of Gul'dan, and Illidan approaches it.
 
-{% figure [caption:"Illidan's glaives have images of a panda face on them. It's another one of Samwise Didier's Easter eggs."] %}
+{% figure [caption:"Or maybe it would yield more net power if I didn't destroy the skull but rather carried it around... Hang on, let me do the math."] %}
 ![A Destiny of Flame and Sorrow](/assets/wr/20240527230634_1.jpg)
 {% endfigure %}
 
