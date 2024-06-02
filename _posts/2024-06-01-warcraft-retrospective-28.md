@@ -62,7 +62,15 @@ Two days after Furion awakened, he finally decides to tell her how he felt in th
 ![The Druids Arise](/assets/wr/20240520211517_1.jpg)
 {% endfigure %}
 
-Turns out the two are lovers. Furion finally reveals what the Legion's final goal is:
+People familiar with [Winterspring](https://warcraft.wiki.gg/wiki/Winterspring) in World of Warcraft might be surprised at its depiction in Warcraft 3 as a summer location not different from Ashenvale, though admittedly we can assume from this that Winterspring follows the normal cycle of seasons instead of being a [land of everlasting winter](https://awoiaf.westeros.org/index.php/Land_of_Always_Winter). Apparently this bugged someone on the Reforged team too, because between patch 1.33 and patch 1.36.1, the Reforged version of this mission used a winter tileset instead of the Ashenvale tileset. I made the below screenshot during patch 1.33, and now, with the changes reverted, the only way to make it is by playing the right version offline.[^offline]
+
+Reforged giveth and Reforged taketh away. *Again.*
+
+{% figure [caption:"I'll explain later --- two posts from now, in fact --- why he's called Malfurion here."] %}
+![The Druids Arise](/assets/wr/WC3ScrnShot_112722_233349_000.jpg)
+{% endfigure %}
+
+Anyway, it turns out the two are lovers. Furion finally reveals what the Legion's final goal is:
 
 {% figure [caption:"What if you destroyed the World Tree first? Sure, it would diminish you, but at least Archimonde can't destroy the world, right?"] %}
 ![The Druids Arise](/assets/wr/20240520211557_1.jpg)
@@ -165,6 +173,184 @@ This mission is a perfect example of why I love Warcraft 3 so much. It is absolu
 ![Brothers in Blood](/assets/wr/20240520220013_1.jpg)
 {% endfigure %}
 
+Now we delve into the Barrow Deeps below Mount Hyjal to awaken the slumbering druids of the claw. Furion is being knowledgeable and cautious, and Tyrande brash and practical.
+
+{% figure [caption:"Meanwhile, the dryads are playing their idle animations, which look like they just *can't* stand still --- hopping in place, spinning their spears, and so on."] %}
+![Brothers in Blood](/assets/wr/wc3_nightelf5.jpg)
+{% endfigure %}
+
+And then Furion is just like "Agreed. Just be careful." I like how every time Tyrande rebukes him, he just goes along with her, as if he knows that arguing with her is a waste of time.
+
+This is another dungeon crawl. Like Thrall's Far Sight earlier, Tyrande's Owl Scout is disabled here to avoid trivializing exploration. Unlike Thrall, it stings even more because while scouting abilities aren't that useful in the campaign[^scouting], Tyrande *starts* with this ability, meaning that one of her skill points is permanently sunk into a very situational exploration ability rather than one useful in combat.
+
+Once again, Tyrande's reaction to meeting everything tainted by evil is to exterminate it with extreme prejudice.
+
+{% figure [caption:"[Detect Evil!](https://tvtropes.org/pmwiki/pmwiki.php/Main/DetectEvil) Oh, it says they're evil. Slay them all!"] %}
+![Brothers in Blood](/assets/wr/20240526200655_1.jpg)
+{% endfigure %}
+
+We've unlocked druids of the talon, whom, I hate to say, I haven't found *that* useful in this campaign. They have an autocast debuff (Faerie Fire)... but it's most useful against small numbers of strong units, while our primary enemy favors [spamming large waves of individually weak units](https://tvtropes.org/pmwiki/pmwiki.php/Main/ZergRush). They can transform into birds that can only attack air... in a campaign that has almost no flying enemies.[^flying] Finally, Cyclone tosses an enemy into the air without damaging it, useful for disabling enemy commanders while we make work of their minions... which does come sporadically useful, but mostly later in this mission.
+
+Eventually we come upon this suspicious growth of giant mushrooms, and it seems there's a passage behind them.
+
+{% figure [caption:"[Detect Evil!](https://tvtropes.org/pmwiki/pmwiki.php/Main/DetectEvil) Oh, it says they're evil. Slay them all!"] %}
+![Brothers in Blood](/assets/wr/20240526201107_1.jpg)
+{% endfigure %}
+
+This is a map secret. The game doesn't explain you this, instead relying on you to figure out by yourself that:
+
+1. The giant mushrooms work as trees game-mechanically.
+2. You have a hero who can turn trees into walking trees.
+3. If you clear enough of the mushrooms, you will open an entrance to the blocked passage.
+
+And you might have discovered the first two if you've regularly made use of Furion's Force of Nature ability (and you should). "Hmm, this map has no trees, but these giant mushrooms are about tree-sized. I wonder what happens if... Oooh!"
+
+{% figure [caption:"Let's use the disposable minions to scout ahead."] %}
+![Brothers in Blood](/assets/wr/20240526201141_1.jpg)
+{% endfigure %}
+
+The passage is littered with menacing bones and is home to... THE LARGEST PANDA EVER![^panda] It drops a Necklace of Spell Immunity, one of the best items in the game that will make the final mission a *lot* easier.
+
+{% figure [caption:"Let's use the disposable minions to scout ahead."] %}
+![Brothers in Blood](/assets/wr/20240526201211_1.jpg)
+{% endfigure %}
+
+There's another encounter with giant spiders at a defiled fountain, and Tyrande and Furion both reach level 6, unlocking their ultimate abilities. I don't know if it's intentional --- after all, their gameplay mechanics are the same as of the generic Priestess of the Moon and Keeper of the Grove hero classes --- but I like how even their ultimate abilities make a contrast with each other that fits their personalities. Tyrande gets Starfall, a channeled AoE damage spell that rains falling stars on the heads of nearby enemies. Furion, meanwhile, gets Tranquility, a channeled AoE heal that rains revitalizing... er, rain on the heads of nearby allies. One takes lives and the other saves them. Perfectly balanced, as all things should be.
+
+Now that we've got a powerful combat heal that recharges fairly quickly, we no longer need healing items and can afford to be less cautious.
+
+Past the spiders, we reach another group of furbolgs who have a side quest for us. While I'm gushing about Warcraft 3, I have to mention how much I admire the furbolg chieftain's [diction](https://youtu.be/gK4Pz2bnG5s?t=447). The voice acting in this game is almost universally superb.
+
+{% figure [caption:"Shome people shay I can't help it, I ashure you thish ishn't the cashe. It'sh jusht that I feel you get more out of life when you [follow your S with an H](https://www.youtube.com/watch?v=LB7f_kZQ9hY)!"] %}
+![Brothers in Blood](/assets/wr/20240526202110_1.jpg)
+{% endfigure %}
+
+These furbolgs have escaped the corruption that claimed their surface brethren, but their shaman has been bitten by a ~~radioactive~~ spider and poisoned, and only water from the nearby fountain of life --- overrun by hostile creatures --- can save him. We kill the undead and lightning lizards, fill the vial, return it (after healing our own units at the fountain), and as a reward, we get a talisman that will let us summon up to three furbolgs to temporarily fight at our side in a pinch.
+
+It's a small and wholesome quest, and I like it because it emphasizes two points:
+
+1. For all of Tyrande's flaws, the forest creatures are her charge, and she's always willing to help.
+2. While the furbolgs don't have much in terms of magic items to spare, they're always ready to spare some of their own warriors to fight alongside the night elves.
+
+Next I save the game, because we're about to hit a point of no return. The heroes reach the entrance to some kind of underground complex, and Furion is alarmed.
+
+{% figure [caption:"Agreed, we should go --- right in!"] %}
+![Brothers in Blood](/assets/wr/20240526202656_1.jpg)
+{% endfigure %}
+
+Whoever this [Illidan](https://warcraft.wiki.gg/wiki/Illidan_Stormrage) is, Tyrande thinks he would be the perfect ally against the demons if freed, but Furion is adamant that this "beast" --- who is his own brother, incidentally --- is too dangerous to be set free. He forbids Tyrande from doing it --- and, of course, she doesn't listen. Again.
+
+{% figure [caption:"And of course, what Elune allows or forbids Tyrande to do is conveniently unverifiable by anyone but her. Clergy at its finest."] %}
+![Brothers in Blood](/assets/wr/20240526202730_1.jpg)
+{% endfigure %}
+
+
+### Furion's Quest: Awaken Druids
+
+The two split up. Tyrande takes all the archers and huntresses with her, and we're left controlling Furion, druids of the talon, and dryads. Furion still aims to awaken the druids of the claw, and they set off, reaching another circle of power that's supposed to activate a spirit bridge.
+
+Unlike the orc campaign's dungeon crawl, where we spent half the mission looking for the enchanted gemstone to activate the bridge, here Furion just has to say a word to pass. This helps reinforce the idea that he's not only a knowledgeable sage, but also the legitimate authority here, while everyone else has to jump through hoops to override magical security systems.[^magic]
+
+{% figure [caption:"&ldquo;You shall not pass!&rdquo; --- &ldquo;I shall pass.&rdquo; --- &ldquo;You shall pass.&rdquo;"] %}
+![Brothers in Blood](/assets/wr/wc3_nightelf5_2.jpg)
+{% endfigure %}
+
+On the other side, the party runs into hostile owlbears who declare them "unworthy of the bear gods' presence". Furion realizes they must be referring to the druids of the claw. Then we fight some black dragon whelps, whom Furion identifies as "foul spawn of Deathwing" who have taken refuge beneath the earth. Perhaps he has some kind of history with Deathwing? Hmmm.
+
+The druids of the claw, as it turns out, are awake already, but have lost themselves to their animal instincts and turned feral, attacking Furion's forces. In a cutscene, the druids of the talon use Cyclone to disable them, thus showing the player what they need to do to pass through the druids of the claw without harming them.
+
+Furion then has this genius insight:
+
+{% figure [caption:"Who keeps all these braziers lit?"] %}
+![Brothers in Blood](/assets/wr/20240526203434_1.jpg)
+{% endfigure %}
+
+I don't really understand what stops him from sounding the horn right here anyway and awakening the druids in the immediate vicinity, and then doing it bit by bit as they advance deeper into the cavern. Does the horn have a long cooldown or something?
+
+But whatever. Thus begins a gauntlet where we have to navigate a long, twisting passage filled with hostile mobs, until Furion reaches the final circle of power from which he can sound the horn. It's filled with hostile undead, spiders and sludges, whom we can kill, and hostile druids of the claw, who attack us but *must not* be killed. This section teaches us the use of Entangling Roots and Cyclone for crowd control. We can either advance methodically, killing the creeps, or we can just rush through without engaging, taking massive losses, but all that matters is that Furion reaches the end of the passage.
+
+As before, Furion sounds the Horn of Cenarius, and his brethren awaken.
+
+{% figure [caption:"BUT WHAT DID THEY EAT?"] %}
+![Brothers in Blood](/assets/wr/20240526203634_1.jpg)
+{% endfigure %}
+
+
+### Tyrande's Quest: Free Illidan
+
+Meanwhile, Tyrande and her Sentinels enter the prison complex.
+
+{% figure [caption:"Look, Tyrande, your goddess can grant you awesome powers, but I'm pretty sure that even she cannot rewrite *the logical truth of facts*."] %}
+![Brothers in Blood](/assets/wr/20240526203704_1.jpg)
+{% endfigure %}
+
+They're faced with an owlbear who happens to have a theological disagreement with Tyrande about the goddess's intentions. Instead of discussing the matter peacefully ~~at an ecumenical council~~, they, of course, just attack. If I had a coin for every armed conflict in Warcraft 3 that could be solved by the belligerents lowering their arms and talking, I could fund an actually good remaster of the game.
+
+{% figure [caption:"Somehow, Tyrande got a third archer, despite starting the mission with only two."] %}
+![Brothers in Blood](/assets/wr/20240526203709_1.jpg)
+{% endfigure %}
+
+First of all... *owlbears can talk?* They're *people* and not just feral beasts? This makes Thrall's wildlife-purging spree in the orc campaign even more suspect.
+
+Second of all, this entire segment of the mission makes no sense and baffles me to this day.
+
+Tyrande is the High Priestess of Elune, the leader of the kaldorei nation. This prison complex is full of hostile guards, who consist of owlbears and campaign-only night elf units. Can't she just order them to stand down? Or are they not subject to her authority? Do the night elves believe in [separation of powers](https://en.wikipedia.org/wiki/Separation_of_powers) unlike every other culture seen in this setting?
+
+The puzzles don't end here. The prison wardens are clearly engaged in some kind of arcane research:
+
+{% figure [caption:"&ldquo;Leave me be, I was just looking for the loo!&rdquo;"] %}
+![Brothers in Blood](/assets/wr/20240526203829_1.jpg)
+{% endfigure %}
+
+These mystics reuse the [emissary](https://lintian.eu/2024/03/24/warcraft-retrospective-22/) models from the human campaigns. They're apparently supposed to be either humans or high elves (in Reforged, they use high elf models). How did they get here? What is their goal here? Why are they on the prison wardens' side?
+
+They're holding Sentinels prisoner? For what crimes?
+
+{% figure [caption:"By now I've run out of jokes about keeping prisoners fully armed and mounted."] %}
+![Brothers in Blood](/assets/wr/20240526204414_1.jpg)
+{% endfigure %}
+
+Tyrande can kill wardens in their sleep! (Which admittedly fits her pragmatic personality.)
+
+{% figure [caption:"And if you don't, they'll wake up and attack if you try to loot this room."] %}
+![Brothers in Blood](/assets/wr/20240526204906_1.jpg)
+{% endfigure %}
+
+There are piles of skulls everywhere? The final boss is a level 3 keeper of the grove surrounded by trees growing on hard rock, underground?
+
+{% figure [caption:"Whoa there, don't break your jaw yelling like that!"] %}
+![Brothers in Blood](/assets/wr/20240526205859_1.jpg)
+{% endfigure %}
+
+This feels like a [bizarro episode](https://tvtropes.org/pmwiki/pmwiki.php/Main/BizarroEpisode) and almost nothing seen here comes up again.[^watchers] I wonder if we were originally supposed to fight some kind of renegade night elf faction, maybe a secret group of Highborne 
+
+Tyrande finally reaches Illidan's cell...
+
+{% figure [caption:"Maybe he should have pursued a career in poetry. Dark, brooding poetry."] %}
+![Brothers in Blood](/assets/wr/20240526205931_1.jpg)
+{% endfigure %}
+
+And... I'm sorry, every time he appears on screen or opens his mouth in Warcraft 3, he just cracks me up. I can't help but think of this.
+
+{% figure [caption:"Or maybe even [this](https://i.kym-cdn.com/photos/images/newsfeed/000/613/323/e2e.jpg)." class:"figure-400"] %}
+![Brothers in Blood](/assets/wr/ow_the_edge.jpg)
+{% endfigure %}
+
+He looks and acts like someone had an idea of a "cool" character, but way overdid it and ended up with a delinquent 14-year-old's idea of "cool" instead. He's tattooed out the wazoo, goes barechested, wears a blindfold, wields double crescent glaives and is constantly making some kind of acrobatic movements while idle. He does admittedly provide a *very* stark contrast with mainstream night elf aesthetics, establishing him as an outcast from the first seconds you see him on screen.
+
+When he hears that the Burning Legion has returned and his people have need of him once again, he effortlessly breaks out of his cell, and the two brothers have a very much *non*-cordial reunion.
+
+{% figure [caption:"And it left a gaping black void in my misunderstood soul!"] %}
+![Brothers in Blood](/assets/wr/20240526210021_1.jpg)
+{% endfigure %}
+
+Furion says that he was "only" sentenced to pay for his sins, nothing more. Tyrande shuts down their angry banter, saying that Illidan will help them drive the demons back, but Furion asks if she has considered the cost. He will have nothing to do with this.
+
+And I like it! It's a nice reversal of their regular dynamic. Tyrande, usually the unforgiving one, is in favor of cooperation for pragmatic reasons. Furion, usually the softer and more diplomatic one, can entertain the notion of allying with complete strangers, but can't forgive his own brother for a deed committed ten thousand years ago. This establishes him as a person with flaws and an occasional harsh streak, rather than an infallible saintly goody-two-shoes.
+
+Later Warcraft writers could learn from this.
+
+
 
 ## A Destiny of Flame and Sorrow
 
@@ -233,3 +419,15 @@ Our sacred grove is being desecrated!
 [^treants]: Unlike necromancer skeletons, there's numerical consistency here as well: you'll never get more treants than there are trees around. If you point the spell at a cluster of one or two trees, you'll get one or two treants, not all three or four.
 
 [^trees]: Technically, since the Warcraft 3 engine doesn't allow cleansing blighted trees, the script destroys them and grows new ones in their place.
+
+[^offline]: Which requires complicated workarounds to get around Reforged's always-online DRM. Thanks a lot, Blizzard!
+
+[^scouting]: They're useful in your first playthrough, but not so much when you already know where everything is.
+
+[^flying]: And in the final mission, you get better flyers.
+
+[^panda]: Depending on which unit discovers the panda, they will say a line in the short cutscene. For example, Furion says "Our sins have returned to haunt us." while a druid of the talon says "How about if I just stand over here?" Since I discovered the panda with treants, I got no lines. Ah well.
+
+[^magic]: Aren't night elves supposed to have forsaken magic? This bridge sure doesn't look like it runs on druidism or Elune's divine powers.
+
+[^watchers]: The details, at least. It will be remembered in broad strokes. There's [someone](https://warcraft.wiki.gg/wiki/Maiev_Shadowsong) out there who will remember that Tyrande set Illidan free and massacred wardens just doing their job, and she'll be *pissed*.
