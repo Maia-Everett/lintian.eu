@@ -322,7 +322,7 @@ There are piles of skulls everywhere? The final boss is a level 3 keeper of the 
 ![Brothers in Blood](/assets/wr/20240526205859_1.jpg)
 {% endfigure %}
 
-This feels like a [bizarro episode](https://tvtropes.org/pmwiki/pmwiki.php/Main/BizarroEpisode) and almost nothing seen here comes up again.[^watchers] I wonder if we were originally supposed to fight some kind of renegade night elf faction, maybe a secret group of Highborne 
+This feels like a [bizarro episode](https://tvtropes.org/pmwiki/pmwiki.php/Main/BizarroEpisode) and almost nothing seen here comes up again.[^watchers] I wonder if we were originally supposed to fight some kind of renegade night elf faction, maybe a secret group of Highborne who hid from their forest-dwelling kin underground, but the developers ran out of time and filled the dungeon with generic and cut units instead.
 
 Tyrande finally reaches Illidan's cell...
 
@@ -351,12 +351,111 @@ And I like it! It's a nice reversal of their regular dynamic. Tyrande, usually t
 Later Warcraft writers could learn from this.
 
 
-
 ## A Destiny of Flame and Sorrow
 
 {% figure [caption:"And though the night sky's filled with blackness..."] %}
 ![A Destiny of Flame and Sorrow](/assets/wr/20240527224642_1.jpg)
 {% endfigure %}
+
+Illidan is talking to himself.
+
+{% figure [caption:"Ten thousand years of solitude could admittedly be damaging to one's concept of an inner monologue."] %}
+![A Destiny of Flame and Sorrow](/assets/wr/20240527224651_1.jpg)
+{% endfigure %}
+
+Suddenly, his soliloquy is interrupted by... Arthas?!
+
+{% figure [caption:"&ldquo;Why the high ground?&rdquo; --- &ldquo;To look dramatic.&rdquo;"] %}
+![A Destiny of Flame and Sorrow](/assets/wr/20240527224705_1.jpg)
+{% endfigure %}
+
+How is this even possible? Yes, the Burning Legion took undead with them to Kalimdor, and they evidently possess the ability to teleport across the world, but I assumed they only took forces loyal to them. Arthas is on Team Lich King, and Tichondrius and company know this. I just assumed both he and Kel'Thuzad stayed back in Lordaeron, and neither of them have been shown to have the ability to teleport across continents. (And if they did, as we'll later see, it would come *very* useful in the expansion, short-circuiting the plot.)
+
+I'm not saying the game should have explained this, but it comes completely out of the blue. If anything, showing Arthas's silhouette in the shadows, watching, at the end of one of the previous Kalimdor missions would have helped.
+
+Illidan tries to repel the intruder with --- of course --- violence. Arthas says he'll find out they're evenly matched --- so I'll assume he knows who Illidan is. Somehow.
+
+{% figure [caption:"&ldquo;Why the high ground?&rdquo; --- &ldquo;To look dramatic.&rdquo;"] %}
+![A Destiny of Flame and Sorrow](/assets/wr/20240527224725_1.jpg)
+{% endfigure %}
+
+And Arthas reveals what he wants --- by talking while still fighting.
+
+The demons are corrupting the forest with the help of an artifact called the Skull of Gul'dan. Arthas wants Illidan to steal it, to the latter's confusion.
+
+{% figure [caption:"Either Gul'dan was humongous, or these demons are tiny!"] %}
+![A Destiny of Flame and Sorrow](/assets/wr/20240527224756_1.jpg)
+{% endfigure %}
+
+And yes, it turns out that Arthas's master does know who Illidan is, and that he's sought power his entire life. Now, through Arthas, the Lich King is tempting Illidan with the power of the Skull. Should he seize it, his enemies will be undone.
+
+Which is all well and good, but... how did the Legion get the Skull?
+
+[Last time we saw it](https://lintian.eu/2024/01/14/warcraft-retrospective-10/), it clattered on the ground on Draenor after Khadgar used it to *absolutely certainly for good* seal the Dark Portal from that world's side. Then the Alliance Expedition left through one of Ner'zhul's portals just before Draenor exploded. For all intents and purposes, the Skull of Gul'dan, if it's even still intact, should be floating somewhere out there in the Great Dark Beyond alongside Draenor's debris.
+
+How did the Legion recover it? And what makes the skull of a mortal warlock so special compared to body parts of actual demons?
+
+Whatever. The mission begins.
+
+Compared to the previous two missions, which had lots of objectives and lots of scripted events, this one is very straightforward. Build a base, build an army, fight through everything, take the skull. Our enemies here are corrupted ancients, satyrs, and demons. But there are a few nuances here worth mentioning.
+
+{% figure [caption:"Illidan's glaives have images of a panda face on them. It's another one of Samwise Didier's Easter eggs."] %}
+![A Destiny of Flame and Sorrow](/assets/wr/20240527230501_1.jpg)
+{% endfigure %}
+
+Tyrande and Furion are sitting this one out (actually they're probably busy elsewhere). We control Illidan, a [demon hunter](https://warcraft.wiki.gg/wiki/Demon_Hunter_(Warcraft_III)) --- a very *edgy* agility hero. He has a passive chance of evading enemy attacks, and his active abilities are Mana Burn, which drains mana from a spellcaster at the expense of the demon hunter's own mana, and Immolation, which activates a fiery shield that damages nearby enemies, at the cost of steadily draining the caster's mana.
+
+We also unlock the druids of the claw. These guys are versatile and very useful as both tanks and healers, thought not both at once. In caster form they can cast Roar, which gives nearby allies a whopping 25% boost to damage for 45 seconds, and Rejuvenation, which heals a single ally over time. In bear form, they can't cast either of these, but become bulky and tanky damage sponges on par with the heavy melee units of the other races.
+
+The map design here is also interesting. As far as I can tell, one of the purposes of this mission is to teach the player the value of building expansions[^expansion], which will be pretty much mandatory for the final mission. While on hard mode, the player is likely to have used expansions already, on normal mode they're optional and it's possible to get this far without making use of more than one gold mine at once. This map is built in such a way that no matter where you go from your base, you will come upon a gold mine --- one almost unguarded and two used by enemy bases. They're practically begging to be used, so why not, indeed, use them?
+
+We destroy the demon gate near the Skull of Gul'dan, and Illidan approaches it.
+
+{% figure [caption:"Illidan's glaives have images of a panda face on them. It's another one of Samwise Didier's Easter eggs."] %}
+![A Destiny of Flame and Sorrow](/assets/wr/20240527230634_1.jpg)
+{% endfigure %}
+
+This is the part where the hero intends to claim a cursed source of power. We've seen this with Arthas versus Mal'Ganis and with Grom versus Cenarius. Both were offered a last-minute chance to reconsider by their less unhinged and more doubtful allies. Both rejected it.
+
+Illidan decides to claim the Skull's powers for himself. Any moment now, some concerned night elf is going to object to this plan.
+
+...Aaaany moment now.
+
+Nobody? Well then.
+
+{% figure [caption:"It's disco time!"] %}
+![A Destiny of Flame and Sorrow](/assets/wr/wc3_nightelf6.jpg)
+{% endfigure %}
+
+Illidan consumes the Skull and is transformed, becoming a one-man army with --- of course! --- Chaos damage. For a regular demon hunter hero, this ability, Metamorphosis, lasts for 45 seconds with a three-minute cooldown. Illidan gains this form *permanently*, at least for the remainder of this mission. Now he's more than equipped to destroy Tichondrius--
+
+> Our sacred grove is being desecrated!
+
+...But meanwhile, the satyrs are getting persistent in their attacks on my expansion. So I take out their base (whose defenses include a Skeleton King) with my army led by a supercharged Illidan, before heading to the corner of the map where Tichondrius patiently waits in a company of doomguards and infernals. Only Illidan can damage Tichondrius, and he tears through the poor dreadlord in a matter of seconds while his army distracts the remaining demons. Mission complete.
+
+{% figure [caption:"Dryads are immune to magic, which lets them completely no-sell most of the magical nastiness of doomguards and infernals. That's probably why they lasted the longest."] %}
+![A Destiny of Flame and Sorrow](/assets/wr/20240527231946_1.jpg)
+{% endfigure %}
+
+Tichondrius, the strategist behind the Legion's invasion plans, is dead, which throws a second wrench into their plans after the death of Mannoroth, their heaviest hitter. The forest is saved and will heal in time. You'd think Illidan would be hailed and praised, but instead, Furion is *furious*.[^furious]
+
+{% figure [caption:"I suppose exile at least beats spending another ten thousand years in prison."] %}
+![A Destiny of Flame and Sorrow](/assets/wr/20240527232029_1.jpg)
+{% endfigure %}
+
+"So be it... brother," says Illidan and leaves. Once again Furion falls victim to his unwillingness to let go of his prejudices against Illidan specifically, and it will be interesting to see what it will cost him --- and others.
+
+We've almost reached the climactic finale of Reign of Chaos. Before that, however, there's something I'd like to point out.
+
+This is now the third time throughout Warcraft 3 that a character has accepted a cursed source of power to beat a seemingly unbeatable enemy. All three times, it was part of someone else's long game. Arthas fell into the Lich King's trap specifically designed to corrupt him, with Mal'Ganis playing the bait. Grom was the Legion's pawn for getting rid of Cenarius before the invasion proper began. Now Illidan was used by the Lich King, with Arthas as his messenger, to weaken the Legion before the assault on the World Tree, as part of a more long-term plan to break free from its hold over the Scourge.
+
+With Arthas and Grom, the writers' message was clear. By taking in their respective curses, they became their schemers' slaves. The message was clear: it's not worth damning yourself, even to do the otherwise impossible.
+
+But Illidan, by all appearances, is still himself. He retained his sanity. He's not a slave to the demons, in fact he's still opposed to them. It's Furion who's in the wrong here by pushing away a willing and powerful ally --- and his own brother, to boot. So the message here seems to be "power is just that, power, what matters is the ends for which you use it".
+
+And both of these messages are fine! There are popular and well-written fantasy works that have used both of them. But having both of them present in a *single* work sends a weird mixed message and ends up not really saying anything. Is the intended moral supposed to be "cursed power will corrupt and enslave you, unless you're the right kind of person to handle it, in which case go right ahead"?
+
+Ehh. I'm not sure the writers even thought about it that much. It's not fatal to the story *now*, but later, as the Warcraft setting develops, the inability to take one of these two messages *and stick to it* will harm its worldbuilding in the long run.
 
 
 ## The Last Guardian
@@ -364,6 +463,42 @@ Later Warcraft writers could learn from this.
 {% figure [caption:"Fear not, rise up, come on and take my hand!"] %}
 ![The Last Guardian](/assets/wr/20240527232102_1.jpg)
 {% endfigure %}
+
+A raven --- or should I say, the Prophet in raven form --- is soaring over the waterfalls of Mount Hyjal while Tyrande and Furion are arguing.
+
+{% figure [caption:"Wait, so Furion asked Tyrande to come here without explaining why?"] %}
+![The Last Guardian](/assets/wr/20240527232118_1.jpg)
+{% endfigure %}
+
+Turns out that last night in a dream, a raven spoke to Furion and summoned him to this place. Thrall and Jaina were also summoned, and introduce themselves. Inexplicably, they can all understand each other without any language barriers getting in the way.
+
+{% figure [caption:"&ldquo;And I am Daenerys Stormborn of House Targaryen, the First of Her Name, Queen of the Andals and the First Men, Protector of the Seven Kingdoms, the Mother of Dragons, the Khaleesi of the Great Grass Sea, the Unburnt, the Breaker of Chains.&rdquo;"] %}
+![The Last Guardian](/assets/wr/20240527232148_1.jpg)
+{% endfigure %}
+
+Tyrande says they're not welcome here, but then the Prophet descends, assumes his real form, and says that he was the one who summoned them all here to unite against the Legion. Furion, very reasonably, *for the first time in the entire story* asks him the important question: who is he? And the Prophet, at long last, gives an answer.
+
+{% figure [caption:"Exposition time!"] %}
+![The Last Guardian](/assets/wr/20240527232210_1.jpg)
+{% endfigure %}
+
+This is our "talking to Vigil on Ilos before pursuing Saren" moment: the final calm before the climactic confrontation, where questions are answered and the conflict properly contextualized. The Prophet explains everything. The entire history of the conflict, in a manner easy to understand, bringing up to speed players who didn't play the previous games, and making people who read [*The Last Guardian*](https://lintian.eu/2024/02/25/warcraft-retrospective-16/) say "I knew it!"
+
+{% figure [caption:"Exposition time!"] %}
+![The Last Guardian](/assets/wr/20240527232220_1.jpg)
+{% endfigure %}
+
+The Prophet is Medivh, the Last Guardian. Years ago, he opened the Dark Portal, and by doing so, paved the way for the orcs --- and their demon puppeteers. For this, he was slain by those he cared for most, but despite his death, the war still raged on, leaving entire kingdoms devastated. Now he has returned [(somehow)](https://www.youtube.com/watch?v=EsjwVu_ihKU) to set things right --- by uniting everyone in arms against the enemies of all who live.
+
+As good as this moment is, and as much as I hate to ruin it with my nitpicking, I have questions.
+
+* One: just *how* did Medivh return? So far we've seen no evidence that resurrection is possible in this setting, and every death has been treated as final and permanent.[^gameplay] 
+* Two: why did his resurrection, however it was accomplished, purge Sargeras's corruption (or possession) out of his soul?
+* Three: why did he think that these cryptic prophecies and convoluted scheme to get everyone to Kalimdor was the best way to save the world? Did he [scan all the possible futures](https://www.youtube.com/watch?v=eGKPfZTXHsc) and see only this one outcome where they won?
+* Four: what motive do Tyrande and Furion have to believe him? As far as they know or care, he's just another human mage, and now he has outright admitted to them that he was the one who started this entire mess.
+* Five: how come *nobody recognized him?* Why did absolutely nobody, not even Jaina or Antonidas, who really should have known better, comment that this wandering doomsayer looked a lot like the most famous mage in human history whose portrait probably hung in every other classroom in Dalaran?
+
+The Prophet being Medivh, one of the major antagonists of Warcraft 1, was a nice twist back at release --- for people who knew or cared who Medivh was, at least.[^medivh] It was certainly a good narrative bookend, a redeemed villain returning one last time to make up for the damage he caused. But I feel like it's the kind of twist that raised more questions than it answered.
 
 
 ## Twilight of the Gods
@@ -431,3 +566,11 @@ Our sacred grove is being desecrated!
 [^magic]: Aren't night elves supposed to have forsaken magic? This bridge sure doesn't look like it runs on druidism or Elune's divine powers.
 
 [^watchers]: The details, at least. It will be remembered in broad strokes. There's [someone](https://warcraft.wiki.gg/wiki/Maiev_Shadowsong) out there who will remember that Tyrande set Illidan free and massacred wardens just doing their job, and she'll be *pissed*.
+
+[^expansion]: An expansion is a secondary mini-base built primarily for the purpose of harvesting gold from a gold mine.
+
+[^furious]: Badum-tish!
+
+[^gameplay]: In-story, I mean. In gameplay, paladins can resurrect recently-fallen allies and heroes can respawn at altars, but it's just a gameplay mechanic that's never acknowledged in-story. Otherwise a lot of characters, including King Terenas and Uther, would still be alive.
+
+[^medivh]: This includes me. I played Warcraft 1 long after Warcraft 1, and this cutscene was the first time I heard that name.
