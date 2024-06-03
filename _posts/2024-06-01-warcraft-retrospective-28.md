@@ -486,7 +486,7 @@ Tyrande says they're not welcome here, but then the Prophet descends, assumes hi
 
 This is our "talking to Vigil on Ilos before pursuing Saren" moment: the final calm before the climactic confrontation, where questions are answered and the conflict properly contextualized. The Prophet explains everything. The entire history of the conflict, in a manner easy to understand, bringing up to speed players who didn't play the previous games, and making people who read [*The Last Guardian*](https://lintian.eu/2024/02/25/warcraft-retrospective-16/) say "I knew it!"
 
-{% figure [caption:"Exposition time!"] %}
+{% figure [caption:"And then it shows him being killed by generic footmen in a cave. Reforged corrected it, showing him killed by Lothar and Khadgar in his study."] %}
 ![The Last Guardian](/assets/wr/20240527232220_1.jpg)
 {% endfigure %}
 
@@ -676,7 +676,7 @@ Our sacred grove is being desecrated!
 
 [^gameplay]: In-story, I mean. In gameplay, paladins can resurrect recently-fallen allies and heroes can respawn at altars, but it's just a gameplay mechanic that's never acknowledged in-story. Otherwise a lot of characters, including King Terenas and Uther, would still be alive.
 
-[^medivh]: This includes me. I played Warcraft 1 long after Warcraft 1, and this cutscene was the first time I heard that name.
+[^medivh]: I wasn't among those. I played Warcraft 1 long after Warcraft 3, and this cutscene was the first time I heard that name.
 
 [^wane]: Or will they? *(Dun dun duuuun!)*
 
