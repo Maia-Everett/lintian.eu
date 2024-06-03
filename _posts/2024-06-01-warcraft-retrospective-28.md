@@ -108,7 +108,7 @@ Oops, did I mention that you're traveling in the middle of *total chaos?*
 ![The Druids Arise](/assets/wr/20240520212740_1.jpg)
 {% endfigure %}
 
-The orcs and undead are having skirmishes over the map, and you get periodically caught in the crossfire. I strategically placed my ancient protector and an extra wisp to repair them, making sure that my army won't have to come back to defend the base. Too often, anyway.
+The orcs and undead are having skirmishes over the map, and you get periodically caught in the crossfire. I strategically placed my ancient protectors and an extra wisp to repair them, making sure that my army won't have to come back to defend the base. Too often, anyway.
 
 Soon, Tyrande and Furion come across a defiled fountain of life.
 
@@ -304,7 +304,7 @@ The puzzles don't end here. The prison wardens are clearly engaged in some kind 
 ![Brothers in Blood](/assets/wr/20240526203829_1.jpg)
 {% endfigure %}
 
-These mystics reuse the [emissary](https://lintian.eu/2024/03/24/warcraft-retrospective-22/) models from the human campaigns. They're apparently supposed to be either humans or high elves (in Reforged, they use high elf models). How did they get here? What is their goal here? Why are they on the prison wardens' side?
+These mystics reuse the [emissary](https://lintian.eu/2024/03/24/warcraft-retrospective-22/) models from the human campaign. They're apparently supposed to be either humans or high elves (in Reforged, they use high elf models). How did they get here? What is their goal here? Why are they on the prison wardens' side?
 
 They're holding Sentinels prisoner? For what crimes?
 
