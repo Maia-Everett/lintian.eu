@@ -58,7 +58,7 @@ Warcraft 3 has set a high bar for the franchise. If future villain factions are 
 ![The Druids Arise](/assets/wr/20240520210731_1.jpg)
 {% endfigure %}
 
-Two days after Furion awakened, he finally decides to tell her how he felt in the thousand years since they were separated.
+Two days after Furion awakened, he finally decides to tell Tyrande how he felt in the thousand years since they were separated.
 
 {% figure [caption:"I swear, those animated portraits. Furion looks like he's suffering from constipation."] %}
 ![The Druids Arise](/assets/wr/20240520211517_1.jpg)
