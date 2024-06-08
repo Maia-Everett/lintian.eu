@@ -116,7 +116,7 @@ Soon, Tyrande and Furion come across a defiled fountain of life.
 ![The Druids Arise](/assets/wr/20240520212820_1.jpg)
 {% endfigure %}
 
-Turns out the furbolgs who fled back in the first mission didn't escape corruption after all. Instead of even discussion the possibility of finding a cure, Tyrande immediately jumps to the conclusion that they must be eradicated, and since the writers have apparently forgot that this is supposed to immediately paint the character as evil, we merrily go ahead, slaughtering the entire tribe for a side quest.
+Turns out the furbolgs who fled back in the first mission didn't escape corruption after all. Instead of even discussing the possibility of finding a cure, Tyrande immediately jumps to the conclusion that they must be eradicated, and since the writers have apparently forgot that this is supposed to [immediately paint the character as evil](https://lintian.eu/2024/03/24/warcraft-retrospective-22/), we merrily go ahead, slaughtering the entire tribe for a side quest.
 
 {% figure [caption:"Look, you woke him up to help you. Is it really the best time to be throwing potshots like this?"] %}
 ![The Druids Arise](/assets/wr/20240520213432_1.jpg)
@@ -166,7 +166,7 @@ Past the satyr base lie the barrow dens. Furion sounds the horn, and the druids 
 ![The Druids Arise](/assets/wr/20240520215953_1.jpg)
 {% endfigure %}
 
-This mission is a perfect example of why I love Warcraft 3 so much. It is absolutely crammed with stuff to discover, and is essentially several adventures packed into one. We crossed a war zone, caught in the crossfire of flyers fighting overhead; killed a whole tribe of crazed furbolgs; stormed a human base; cleansed a cursed glade populated by undead; and finally, plowed our own corrupted ancients out of their misery. The druids of the talon are really an arbitrary MacGuffin here; anything could be behind this gauntlet of obstacles. Gameplay-wise it's a blast, and there's so much stuff to try that every playthrough is going to be different.
+This mission is a perfect example of why I love Warcraft 3 so much. It is absolutely crammed with stuff to discover, and is essentially several adventures packed into one. We crossed a war zone, caught in the crossfire of flyers fighting overhead; killed a whole tribe of crazed furbolgs; stormed a human base; cleansed a cursed glade populated by undead; and finally, put our own corrupted ancients out of their misery. The druids of the talon are really an arbitrary MacGuffin here; anything could be behind this gauntlet of obstacles. Gameplay-wise it's a blast, and there's so much stuff to try that every playthrough is going to be different.
 
 
 ## Brothers in Blood
@@ -199,7 +199,7 @@ Eventually we come upon this suspicious growth of giant mushrooms, and it seems 
 ![Brothers in Blood](/assets/wr/20240526201107_1.jpg)
 {% endfigure %}
 
-This is a map secret. The game doesn't explain you this, instead relying on you to figure out by yourself that:
+This is a map secret. The game doesn't explain this, instead relying on you to figure out by yourself that:
 
 1. The giant mushrooms work as trees game-mechanically.
 2. You have a hero who can turn trees into walking trees.
@@ -213,7 +213,7 @@ And you might have discovered the first two if you've regularly made use of Furi
 
 The passage is littered with menacing bones and is home to... THE LARGEST PANDA EVER![^panda] It drops a Necklace of Spell Immunity, one of the best items in the game that will make the final mission a *lot* easier.
 
-{% figure [caption:"Let's use the disposable minions to scout ahead."] %}
+{% figure [caption:"And now comes the &ldquo;disposable&rdquo; part."] %}
 ![Brothers in Blood](/assets/wr/20240526201211_1.jpg)
 {% endfigure %}
 
@@ -304,7 +304,7 @@ The puzzles don't end here. The prison wardens are clearly engaged in some kind 
 ![Brothers in Blood](/assets/wr/20240526203829_1.jpg)
 {% endfigure %}
 
-These mystics reuse the [emissary](https://lintian.eu/2024/03/24/warcraft-retrospective-22/) models from the human campaign. They're apparently supposed to be either humans or high elves (in Reforged, they use high elf models). How did they get here? What is their goal here? Why are they on the prison wardens' side?
+These mystics reuse the [emissary](https://lintian.eu/2024/03/24/warcraft-retrospective-22/) model from the human campaign. They're apparently supposed to be either humans or high elves (in Reforged, they use high elf models). How did they get here? What is their goal here? Why are they on the prison wardens' side?
 
 They're holding Sentinels prisoner? For what crimes?
 
@@ -433,7 +433,7 @@ Illidan consumes the Skull and is transformed, becoming a one-man army with --- 
 
 > Our sacred grove is being desecrated!
 
-...But meanwhile, the satyrs are getting persistent in their attacks on my expansion. So I take out their base (whose defenses include a Skeleton King) with my army led by a supercharged Illidan, before heading to the corner of the map where Tichondrius patiently waits in a company of doomguards and infernals. Only Illidan can damage Tichondrius, and he tears through the poor dreadlord in a matter of seconds while his army distracts the remaining demons. Mission complete.
+...But meanwhile, the satyrs are getting persistent in their attacks on my expansion. So I take out their base (whose defenses include a Skeleton King) with my army led by a supercharged Illidan, before heading to the corner of the map where Tichondrius patiently waits in a company of doomguards and infernals. Only Illidan can damage Tichondrius, and he tears through the poor dreadlord in a matter of seconds while his army distracts the rest of the demons. Mission complete.
 
 {% figure [caption:"Dryads are immune to magic, which lets them completely no-sell most of the magical nastiness of doomguards and infernals. That's probably why they lasted the longest."] %}
 ![A Destiny of Flame and Sorrow](/assets/wr/20240527231946_1.jpg)
@@ -451,7 +451,7 @@ We've almost reached the climactic finale of Reign of Chaos. Before that, howeve
 
 This is now the third time throughout Warcraft 3 that a character has accepted a cursed source of power to beat a seemingly unbeatable enemy. All three times, it was part of someone else's long game. Arthas fell into the Lich King's trap specifically designed to corrupt him, with Mal'Ganis playing the bait. Grom was the Legion's pawn for getting rid of Cenarius before the invasion proper began. Now Illidan was used by the Lich King, with Arthas as his messenger, to weaken the Legion before the assault on the World Tree, as part of a more long-term plan to break free from its hold over the Scourge.
 
-With Arthas and Grom, the writers' message was clear. By taking in their respective curses, they became their schemers' slaves. The message was clear: it's not worth damning yourself, even to do the otherwise impossible.
+With Arthas and Grom, the author intent was obvious. By taking in their respective curses, they became their schemers' slaves. The message was clear: it's not worth damning yourself, even to do the otherwise impossible.
 
 But Illidan, by all appearances, is still himself. He retained his sanity. He's not a slave to the demons, in fact he's still opposed to them. It's Furion who's in the wrong here by pushing away a willing and powerful ally --- and his own brother, to boot. So the message here seems to be "power is just that, power, what matters is the ends for which you use it".
 
@@ -484,7 +484,7 @@ Tyrande says they're not welcome here, but then the Prophet descends, assumes hi
 ![The Last Guardian](/assets/wr/20240527232210_1.jpg)
 {% endfigure %}
 
-This is our "talking to Vigil on Ilos before pursuing Saren" moment: the final calm before the climactic confrontation, where questions are answered and the conflict properly contextualized. The Prophet explains everything. The entire history of the conflict, in a manner easy to understand, bringing up to speed players who didn't play the previous games, and making people who read [*The Last Guardian*](https://lintian.eu/2024/02/25/warcraft-retrospective-16/) say "I knew it!"
+This is our ["talking to Vigil on Ilos before pursuing Saren"](https://www.shamusyoung.com/twentysidedtale/?p=28337) moment: the final calm before the climactic confrontation, where questions are answered and the conflict properly contextualized. The Prophet explains everything. The entire history of the conflict, in a manner easy to understand, bringing up to speed players who didn't play the previous games, and making people who read [*The Last Guardian*](https://lintian.eu/2024/02/25/warcraft-retrospective-16/) say "I knew it!"
 
 {% figure [caption:"And then it shows him being killed by generic footmen in a cave. Reforged corrected it, showing him killed by Lothar and Khadgar in his study."] %}
 ![The Last Guardian](/assets/wr/20240527232220_1.jpg)
@@ -573,7 +573,7 @@ Oh right, I should talk about the new unit!
 
 In this final mission, we unlock the hippogryph rider, the only (to my knowledge) combining unit in Warcraft 3. A hippogryph rider is just that: an archer, a regular old archer, mounted on a hippogryph. By themselves, hippogryphs can only attack air, which is almost useless in this mission (as the enemy builds very few air units, if any). However, you can combine a hippogryph and an archer into one unit, which adds their HP together and makes them efficient and versatile aerial cavalry.
 
-Night elves have another air unit, the [chimaera](https://warcraft.wiki.gg/wiki/Chimaera_(Warcraft_III)) a massive flying beast with a very powerful ground attack, but it's not available in the Reign of Chaos campaign. Reforged does make them available in this mission, however.
+Night elves have another air unit: the [chimaera](https://warcraft.wiki.gg/wiki/Chimaera_(Warcraft_III)), a massive flying beast with a very powerful ground attack, but it's not available in the Reign of Chaos campaign. Reforged does make them available in this mission, however.
 
 It's actually possible to hold Thrall's base until the timer runs out (I did it in my playthrough), or maybe even Jaina's if you're a skilled player. If Thrall's base does fall, another cutscene will play out, like with Jaina. Thrall will injure Archimonde, then teleport away.
 
@@ -581,13 +581,13 @@ It's actually possible to hold Thrall's base until the timer runs out (I did it 
 ![Twilight of the Gods](/assets/wr/wc3_nightelf7_thrall.jpg)
 {% endfigure %}
 
-Again, the waves reset to the weakest ones. Defending your own base shouldn't be too bad now if there's not much time left, as they should start with ghouls and crypt fiends agai-- OH GODDESS IT'S ARCHIMONDE HIMSELF AND HE'S HUGE
+Again, the waves reset to the weakest ones. Defending our own base shouldn't be too bad now if there's not much time left, as they should start with ghouls and crypt fiends agai-- OH GODDESS IT'S ARCHIMONDE HIMSELF AND HE'S HUGE
 
 {% figure [caption:"I have no idea why that brave little archer was there, but I did move her away to join the rest of my troops deeper at the base."] %}
 ![Twilight of the Gods](/assets/wr/20240528235903_1.jpg)
 {% endfigure %}
 
-When there are thirty or so seconds left, Archimonde begins moving towards the World Tree himself from wherever he is, leaving a trail of blight behind and tearing through everything. As long as there are enough buildings left standing, there's not enough time for him to reach his destination. The time expires, and the quest is completed.
+When there are thirty or so seconds left, Archimonde begins moving towards the World Tree himself from wherever he is, leaving a trail of blight behind and tearing through everything. As long as there are enough buildings left standing, there's not enough time for him to reach his destination. The timer expires, and the quest is completed.
 
 {% figure [caption:"This raises the question of why he bothered with minions at all instead of just wrecking everything himself."] %}
 ![Twilight of the Gods](/assets/wr/20240528235923_1.jpg)
