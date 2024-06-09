@@ -11,7 +11,7 @@ This story is not particularly novel or groundbreaking, not even by video game s
 
 <!--more-->
 
-Yes, Heroes IV has six campaigns with a novel-length story *each*, containing good twists and turns. But that storytelling is done through text throughout the missions and is almost completely divorced from the gameplay.
+Yes, Heroes 4 has six campaigns with a novel-length story *each*, containing good twists and turns. But that storytelling is done through text throughout the missions and is almost completely divorced from the gameplay.
 
 {% figure [caption:"Story: a young orphan is looking for a new home for her fellow downtrodden. Gameplay: build a massive army and crush all opposition!"] %}
 ![Heroes IV](/assets/wr/h4_storytelling.jpg)
