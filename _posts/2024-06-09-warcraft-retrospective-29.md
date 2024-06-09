@@ -42,11 +42,11 @@ The first mission begins with a five-minute-long cutscene, the first two minutes
 
 The unit models don't support the story either. [The queen](https://mightandmagic.fandom.com/wiki/Isabel), at this point in the story, is supposed to be a noncombatant who was evacuated to the countryside for her own safety, and who only goes to war herself after learning that her husband is taking losses at the front --- yet in the cutscene, before she's told any of this, she is already mounted, fully armored, and holding a sword.
 
-The best story in the world could be ruined by such clunky presentation. And unfortunately, Heroes 5's story isn't exactly brilliant either, to the point that there's an [abridged script website](https://heroesinanutshell.blogspot.com/p/contents.html) mocking it. It broadly copies Warcraft 3's setup of "the demons are behind everything and everyone unites unites against them after you play each faction in order", but fumbles it. The characters make nonsensical decisions, fall for obvious traps and obviously evil advisors, and use powers that are incredibly convenient at that one moment yet are not used or mentioned again.
+The best story in the world could be ruined by such clunky presentation. And unfortunately, Heroes 5's story isn't exactly brilliant either, to the point that there's an [abridged script website](https://heroesinanutshell.blogspot.com/p/contents.html) mocking it. It broadly copies Warcraft 3's setup of "the demons are behind everything and everyone unites against them after you play each faction in order", but fumbles it. The characters make nonsensical decisions, fall for obvious traps and obviously evil advisors, and use powers that are incredibly convenient at that one moment yet are not used or mentioned again.
 
-The gameplay doesn't support this story either. Because of how the stack mechanics in this game work, the heroes field enormous armies, yet their size is never acknowledged in-story. We spend two missions on pure padding, where the anti-hero protagonist, a former demon cultist on the run, conquers almost the entire elven kindgom because *he needed a freaking ship*, and as soon as he boards that ship, he leaves them alone. In the process he recruits these elves (because that's how the gameplay works) to fight their own brethren with a unit they're not yet supposed to have story-wise. Later in the story, after we switch to playing the elves, we get a whole mission solely dedicated to unlocking that unit. Sigh.
+The gameplay doesn't support this story either. Because of how the stack mechanics in this game work, the heroes field enormous armies, yet their size is never acknowledged in-story. We spend two missions on pure padding, where [the anti-hero protagonist](https://mightandmagic.fandom.com/wiki/Agrael), a former demon cultist on the run, conquers almost the entire elven kindgom because *he needed a freaking ship*, and as soon as he boards that ship, he leaves them alone. In the process he recruits these elves (because that's how the gameplay works) to fight their own brethren with a unit they're not yet supposed to have story-wise. Later in the story, after we switch to playing the elves, we get a whole mission solely dedicated to unlocking that unit. Sigh.
 
-Not only that, but this is a turn-based strategy game where, quiet often, in-game days pass with nothing happening from your perspective, with your actions that day being limited to moving your hero a bit farther through the map and clicking the "end turn" button. This makes fast-paced storytelling impossible and negates any sense of urgency instilled by the cutscenes.
+Not only that, but this is a turn-based strategy game where, quite often, in-game days pass with nothing happening from your perspective, with your actions that day being limited to moving your hero a bit farther through the map and clicking the "end turn" button. This makes fast-paced storytelling impossible and negates any sense of urgency instilled by the cutscenes.
 
 Warcraft 3, in contrast, strikes a very delicate balance.
 
@@ -54,7 +54,7 @@ Warcraft 3, in contrast, strikes a very delicate balance.
 ![The Oracle](/assets/wr/20240425004228_1.jpg)
 {% endfigure %}
 
-On one hand, it [integrates the gameplay and the story](https://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfGameplayAndStoryIntegration) as closely as possible in an RTS game, using a variety of map scripts and cinematography tricks to achieve this. On the other hands, it *almost* never forces silly gameplay tropes that undermine the seriousness of the story, and *almost* never treats gameplay abstractions as literally true.[^abstractions]
+On one hand, it [integrates the gameplay and the story](https://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfGameplayAndStoryIntegration) as closely as possible in an RTS game, using a variety of map scripts and cinematography tricks to achieve this. On the other hand, it *almost* never forces silly gameplay tropes that undermine the seriousness of the story, and *almost* never treats gameplay abstractions as literally true.[^abstractions]
 
 But also, I think one of the things to which Warcraft 3 owes its enduring popularity is one of its most important characters. And I'm not talking about Arthas, Thrall, or Illidan, but rather the world itself.
 
@@ -96,7 +96,7 @@ But of course, mysteries, once established, have to be handled delicately. A bad
 ![The Oracle](/assets/wr/anakin_blood_sample.jpg)
 {% endfigure %}
 
-It's important for fantasy writers to recognize the difference between two types of mysteries: those that are meant to be revealed later for a satisfying payoff, and those that never, ever, should be answered, because any answer would inevitably be less satisfying than no answer. *And not giving answers is fine.*
+It's important for fantasy writers to recognize the difference between two types of mysteries: those that are meant to be revealed later for a satisfying payoff, and those that never, ever, should be answered, because any answer would inevitably be less satisfying than no answer. And in the latter case, *not giving answers is fine*, and almost nobody will ask for them anyway.
 
 In the *Star Wars* original trilogy, the Force was introduced as a mysterious spiritual... *something* that bound all life together and that Jedi could tap into through intense training and discipline. Even the Jedi themselves didn't know what exactly the Force *was*, and they spent their entire lives figuring that out. And that was completely fine! Star Wars was never really *about* figuring out the nature of the Force, and it provided a nice mystical side to an otherwise materialistic setting. I don't think there were many people who were dying to have the Force explained, and those who were probably just had their own headcanon explanations they were happy with.
 
@@ -117,7 +117,25 @@ Underexplaining, overexplaining, and giving unsatisfying explanations are all ev
 
 ## The Mystery is Dead, Long Live the Mystery!
 
+{% figure [caption:"&ldquo;Hear. Feel. Think. Now you probably wonder what this means. Or why I'm a giant crystal.&rdquo;"] %}
+![FFXIV](/assets/wr/mothercrystal.jpg)
+{% endfigure %}
 
+After all these examples of botched mysteries, it's only fitting that I give an example of mystery-driven writing done right.
+
+I will turn, once again, to Final Fantasy XIV. I've talked about it before, but it does so many things right as a story-driven MMO that we'll keep revisiting it, alongside other modern MMOs, once we reach World of Warcraft.
+
+Mysteries and a search for answers are at the core of FFXIV storytelling. From the very beginning of the now-defunct version 1.0, and throughout the expansions of the rebooted game, the player, alongside their character, is assaulted with seemingly unrelated puzzle pieces. A strange voice from heavens that sings a song and chants "Hear. Feel. Think." to you. A pantheon of twelve gods that seem to be more than they appear. Summoned physical gods that you're tasked with fighting before they drain the land of all life. An expansionist empire. An ancient conspiracy of shadowless cultists who seem to be manipulating everything from behind the scenes...
+
+And over the course of the long, *long* storyline that began in 1.0 and ended in 6.0, you, alongside your character, get answers to many of these questions, and many of them turn out to be not what you expected. It's so integrated into the plot that it focuses on an [order of scholars](https://finalfantasy.fandom.com/wiki/Scions_of_the_Seventh_Dawn) that your character works for as a professional monster-slayer. They seek answers, make theories, test them with their magical science, and eventually, bit by bit, understand more of the nature of the world and its history, until the pieces of the puzzle begin to fall together into a picture that involves, among many other things, an ancient fallen empire and an *even more ancient* fallen society that nobody knew even existed.
+
+Your companions stumble, hit roadblocks, and occasionally their existing theories are proven wrong by new discoveries that change everything. By the end of the 6.0 storyline, which finishes the game's first and (as of this writing) only mega-arc, most of the world's cosmology is revealed, and the revelations tie into the epic conclusion of the story. But every *individual* expansion strips away the mystery only a little and raises *new* questions, leaving the player eager to know more.
+
+As an example, here's the [list of open questions](/bits/open-questions-heavensward/) (MASSIVE SPOILERS) that I wrote after finishing the second expansion, Heavensward. Most of those questions were answered by later expansions, and some turned out to be based on invalid assumptions. But now, as the 7.0 expansion, Dawntrail, is about to launch, there is still a lot we don't know about the FFXIV universe, and neither do the characters.
+
+We know that the answers we got were not planned from the start. The authors of the revelations had to work with the clues and themes already given and put them in a new, unexpected context that made it *seem* like it was planned in advance all along. Generally speaking, it's a very *very* risky approach, and FFXIV just barely got away with winging it. In the hands of less skilled writers it would have spelled disaster.
+
+And this, I think, is a healthy approach to mystery-driven storytelling. Give the audience the answers, eventually --- in a way that matters to the story and gives it depth, instead of just giving answers *for the sake of giving answers* --- but introduce new mysteries in the place of revealed ones. After all, the more you know, the more you know you don't know.
 
 
 
