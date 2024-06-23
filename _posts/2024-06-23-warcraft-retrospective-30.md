@@ -51,7 +51,11 @@ Thus begins the...
 ![Rise of the Naga](/assets/wr/20240603221050_1.jpg)
 {% endfigure %}
 
-Illidan has blazed his way across the forest, and I mean literally blazed, leaving flaming tracks in his wake. He's being chased by the night elf Watchers, led by our new hero: [Maiev Shadowsong](https://warcraft.wiki.gg/wiki/Maiev_Shadowsong), the [Warden](https://warcraft.wiki.gg/wiki/Warden). And I'm sorry, I need to gush about her for a minute because everything about her is just so *cool*.
+Kalimdor. A land of mystery, history, and opportunity, newly discovered by daring explorers from across the sea. What dungeons undelved, tomes of lore unread, and peoples unknown does it hide? Ever eager I was to return to it, getting excited to see it featured in the expansion, before learning how many missions of the main storyline take place there.
+
+Turned out it's exactly one.
+
+The story is thus. Illidan has blazed his way across the forest, and I mean literally blazed, leaving flaming tracks in his wake. He's being chased by the night elf Watchers, led by our new hero: [Maiev Shadowsong](https://warcraft.wiki.gg/wiki/Maiev_Shadowsong), the [Warden](https://warcraft.wiki.gg/wiki/Warden). And I'm sorry, I need to gush about her for a minute because everything about her is just so *cool*.
 
 {% figure [caption:"So the *Warden* leads the *Watchers*, who are a separate organization from the *Sentinels*. I get it, Blizzard, the English language has a lot of words for &ldquo;those who guard something&rdquo;, stop giving translators nightmares!"] %}
 ![Rise of the Naga](/assets/wr/20240603221110_1.jpg)
@@ -367,6 +371,8 @@ With the naga defenses destroyed, the runner's ship reaches the exit.
 
 That's it. A short mission. There's a side quest with naga excavators digging artifacts, but with time being of the essence, it might be worth skipping.
 
+One thing to note is that this is the mission where Maiev can learn her ultimate ability: Vengeance. Vengeance summons an Avatar of Vengeance, which turns nearby corpses into Spirits of Vengeance, which attack enemies with vengeance.[^vengeance] This is reflective of the changed nature of Maiev's quest. It's no longer just about jailing an escaped criminal; he killed Naisha and the other Watchers. It's personal now. Like Arthas before her, Maiev has gone from pursuing justice to pursuing vengeance; the distinction between the two, and the moral threshold that separates them, are among the running themes of Warcraft 3.
+
 
 ## Unfinished Business
 
@@ -374,8 +380,29 @@ That's it. A short mission. There's a side quest with naga excavators digging ar
 ![Unfinished Business](/assets/wr/20240616151857_1.jpg)
 {% endfigure %}
 
+Logically speaking, at this point, Maiev is doomed. The most obvious thing for Illidan to do would be to forget about Maiev and implement whatever plan he needed the Eye of Sargeras for. And even if he decides to crush her first out of a sense of petty rivalry, there's no way she can endure a full-scale siege long enough for reinforcements to come.
 
-Next up: the expedition that WoW never acknowledged.
+Consider this. The story has already established that the Broken Isles are a day of sailing away from the Kalimdor coast. The runner will have to sail back, find Shan'do Stormrage (wherever he is), possibly cross a great distance by land, then the reinforcements need to be mustered, rallied, and set sail for the Broken Isles, all the while Illidan's naga are relentlessly assaulting Maiev's remaining Watchers...
+
+And in the process of forgetting all that, the story makes the world feel small --- a recurring flaw of Warcraft storytelling.
+
+At Hyjal Summit, near the roots of the World Tree, we once again see Tyrande and Furion... sorry, *Malfurion*.
+
+{% figure [caption:"This is the first time the World Tree's name is mentioned in-game."] %}
+![Unfinished Business](/assets/wr/20240616151909_1.jpg)
+{% endfigure %}
+
+I was confused by this change of name at release. Not only is it never explained, but its's a retcon, because from this point on, all Warcraft media will proceed as if his name is and has *always* been Malfurion. I can only guess this was another one of those lawyer-advised name changes, made because there was already a [Furion](https://warhammerfantasy.fandom.com/wiki/Furion) in Warhammer Fantasy.
+
+Tyrande thinks that perhaps Yseara or Alexstrasza could help with Felwood's corruption. The conversation is interrupted, however, by the arrival of the runner, who apparently not crossed the sea and half of Kalimdor, but made her way all the way up Mount Hyjal all on her own.
+
+{% figure [caption:"That's the gist of it, at least. I'll tell you the long version over dinner."] %}
+![Unfinished Business](/assets/wr/20240616151952_1.jpg)
+{% endfigure %}
+
+Tyrande and Malfurion argue over whether the Sentinels or the druids should help Maiev, with Tyrande saying it's her responsibility because she was the one who set Illidan free. Eventually, they agree to go together.
+
+Next up: the grand night elf expedition that left absolutely no trace in WoW!
 
 
 [^cinematics]: The game intro, the prologue and human intro cinematics, and each campaign's ending cinematic.
@@ -383,3 +410,5 @@ Next up: the expedition that WoW never acknowledged.
 [^nendis]: Sindarin for "water-woman", though this is likely unintentional. And like many locations from TFT, it's nowhere to be found in WoW.
 
 [^naga]: And in lore, they were foreshadowed all the way back in *Day of the Dragon*.
+
+[^vengeance]: Vengeance.
