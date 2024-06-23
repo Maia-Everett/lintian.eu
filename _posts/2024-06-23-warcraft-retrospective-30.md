@@ -322,9 +322,50 @@ This section is why I leveled Blink to level 3, even though it gimped Maiev's co
 
 ## Wrath of the Betrayer
 
-{% figure [caption:""] %}
+{% figure [caption:"The Wrath trilogy: Wrath of the Betrayer, Wrath of the Lich King, Wrath of the Bolvar."] %}
 ![Wrath of the Betrayer](/assets/wr/20240616145642_1.jpg)
 {% endfigure %}
+
+Maiev escapes the Tomb just before it collapses. The Watchers can't stand against Illidan on their own and need to send for help.
+
+{% figure [caption:"Maybe Maiev could have stopped Illidan in time if she hadn't spent two time-critical missions mucking about with side quests."] %}
+![Wrath of the Betrayer](/assets/wr/20240616145703_1.jpg)
+{% endfigure %}
+
+This is interesting because it establishes a few important points.
+
+1. Night elves have no kind of rapid remote communication that Maiev could use to contact the mainland.
+2. There's nobody in more immediate vicinity whom Maiev could call for help. Nobody whatsoever. No [druids](https://warcraft.wiki.gg/wiki/Dreamweavers). No [tauren](https://warcraft.wiki.gg/wiki/Highmountain_Tribe). No [vrykul](https://warcraft.wiki.gg/wiki/Valarjar). No [ghost elves](https://warcraft.wiki.gg/wiki/Court_of_Farondis). No [Sundering survivors under a dome](https://warcraft.wiki.gg/wiki/Nightborne). All her hopes lie with Kalimdor. Have we established that? Good.
+
+Maiev sent a single unguarded runner, whom the naga immediately intercepted and were about to kill, forcing Maiev herself to step in.
+
+{% figure [caption:"See, Sylvanas? This is why you protect your runners."] %}
+![Wrath of the Betrayer](/assets/wr/20240616145749_1.jpg)
+{% endfigure %}
+
+This is a hybrid mission, half baseless and half baseful. On one hand, you need to defend your base from two naga bases that attack from different sides. On the other hand, you need to put the runner on a ship and sail away to the northwestern corner, and you only have limited troops to protect her, as a cave-in separated them from the base. Only Maiev can move between the two forces, by blinking or via a Staff of Teleportation the player can find early on.
+
+The base has only a single limited gold mine and there are no others available, so it's not worth tarrying. We reach the shipyard early on, but now we have to actually navigate the waterways to the exit.
+
+{% figure [caption:"Though Maiev's base is supposed to be the same one from mission two, the map layout is completely different."] %}
+![Wrath of the Betrayer](/assets/wr/20240616150359_1.jpg)
+{% endfigure %}
+
+We cross the strait by ships, then disembark everyone except the runner and destroy the naga fortifications protecting the channel leading to the open sea, which is only reachable by land. Along the way, we encounter another map secret.
+
+{% figure [caption:"The pandaren have graduated from an April Fools joke to an actual gameplay hero."] %}
+![Wrath of the Betrayer](/assets/wr/20240616150909_1.jpg)
+{% endfigure %}
+
+This [pandaren brewmaster](https://warcraft.wiki.gg/wiki/Pandaren_brewmaster) exits, stage left, as soon as Maiev blinks to him, leaving behind Slippers of Agility +3.
+
+With the naga defenses destroyed, the runner's ship reaches the exit.
+
+{% figure [caption:"I just hope nobody attacks her out in the open sea."] %}
+![Wrath of the Betrayer](/assets/wr/20240616151841_1.jpg)
+{% endfigure %}
+
+That's it. A short mission. There's a side quest with naga excavators digging artifacts, but with time being of the essence, it might be worth skipping.
 
 
 ## Unfinished Business
