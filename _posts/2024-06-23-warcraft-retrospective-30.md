@@ -129,6 +129,8 @@ That something turns out to be Illidan and more naga, who are burning the ships 
 ![Rise of the Naga](/assets/wr/20240603223550_1.jpg)
 {% endfigure %}
 
+It's an easy-to-miss point, but it shows Illidan had a reason, albeit a twisted one, to leave all this destruction in his wake. He wasn't slaughtering random civilians for evil's sake; he was targeting specifically coastal towns, and burning the ships docked there, to ensure he couldn't be followed by sea. Which is still evil, mind you.
+
 We have to save at least two of the remaining ships to pursue him. Once we do, the mission ends.
 
 {% figure [caption:"Let those that cursed my name, curse me still, and whine their way back to the cages of Elune! Let the ships burn!"] %}
@@ -137,7 +139,7 @@ We have to save at least two of the remaining ships to pursue him. Once we do, t
 
 Maiev dodges Naisha's question of whether they can actually defeat Illidan even if they find him, only saying that they must trust time to reveal all things. I like how everyone just [uses](https://tvtropes.org/pmwiki/pmwiki.php/Main/InsistentTerminology) the term "night elf" as if it's a single inseparable word, resulting in some awkward phrasing.
 
-Hoist the anchorage, prime the mainsail, and swab the hoosegow! We're setting sail for...
+Heave away, cast off bow line, and set the mainsail! We're setting a course for...
 
 
 ## The Broken Isles
@@ -146,6 +148,63 @@ Hoist the anchorage, prime the mainsail, and swab the hoosegow! We're setting sa
 ![The Broken Isles](/assets/wr/20240603223836_1.jpg)
 {% endfigure %}
 
+Pursuing Illidan across the sea, the Watchers land on an island that doesn't appear on any of their maps. Maiev deduces that these islands must have formed only recently, even though there's no power left in the world capable of doing that. She concludes this because she recognizes the ruins.
+
+{% figure [caption:"By the way, ignore that magical dome over there that totally exists."] %}
+![The Broken Isles](/assets/wr/20240603223906_1.jpg)
+{% endfigure %}
+
+Regardless, it is a mystery they'll have to solve later. For now, they'll establish a base. Our stated objective here is the same as before: "Find Illidan".
+
+At the base, we have much of the night elf tech tree unlocked right away. This is the expansion; it assumes you've played the base game and know what you're doing. The kid gloves are off.
+
+On the very same island, Maiev encounters... an orc?
+
+{% figure [caption:"They're hiding *exposition* behind side quests now?"] %}
+![The Broken Isles](/assets/wr/20240612003640_1.jpg)
+{% endfigure %}
+
+Next to him is a goblin shipyard, introducing us to the main gimmick of this mission, which is sea exploration. Reign of Chaos had no playable ships at all; here they exist, but only as hirable neutral units, with very limited campaign presence, ensuring they don't overstay their welcome like back in Warcraft 2.
+
+For some reason, the goblin shipyard offers night elf ships. Pondering this riddle for the ages, I level the small naga base to the west. Yes, the naga actually have their own tech tree, with worker units and everything. They were considered as a playable faction for TFT, but were eventually left as an incomplete, campaign-only faction.
+
+{% figure [caption:"Their towers are some kind of serpent heads rising from water, which I think is neat."] %}
+![The Broken Isles](/assets/wr/20240612004153_1.jpg)
+{% endfigure %}
+
+Actually the naga were first designed for World of Warcraft, and as a playable race at that, before TFT even began development.[^naga] However, these plans never materialized because they were an animation nightmare; in particular, the animators couldn't figure out how they would wear armor and ride mounts.
+
+On that same island, Maiev says what I consider the single most elven line in the entire game. It's great.
+
+{% figure [caption:"Woe be our people: our woods despoiled, our immortality lost, and our units unable to be targeted inside a building or transport."] %}
+![The Broken Isles](/assets/wr/20240612004623_1.jpg)
+{% endfigure %}
+
+Maiev finally finds the ghosts Drak'thul spoke about: skeletal orcs locked into forever reliving their last battle. Destroying the three buildings that spawn them puts them to rest, and once we return to Drak'thul, he tells Maiev his story.
+
+He was once a warlock of the Stormreaver clan. Nearly twenty years ago, Gul'dan raised these islands from the sea, looking for the remains of the Dark Titan --- whom Maiev identifies as Sargeras, the Legion's creator. 
+
+{% figure [caption:"For your crimes, I will punish you by not looking at you."] %}
+![The Broken Isles](/assets/wr/20240612005345_1.jpg)
+{% endfigure %}
+
+Ever since Gul'dan's demise, Drak'thul wandered the isles alone, haunted by restless ghosts. Maiev now actually regrets helping him, saying he deserves far worse. Still, a reward is a reward, and we get a Robe of the Magi +6 for our efforts.
+
+Illidan himself is found at the gate of the Tomb of Sargeras, in the northeast, but the way is blocked by a large and powerful naga base.
+
+{% figure [caption:"Uniquely among all factions, the naga can place their buildings in shallow water."] %}
+![The Broken Isles](/assets/wr/20240612005841_1.jpg)
+{% endfigure %}
+
+Once we destroy it and get closer to Illidan, he enters the tomb while ordering his entourage to stand guard.
+
+{% figure [caption:"Weird camera angles and objects blocking the view are a staple of TFT. I assume they ran out of time to polish the cinematography."] %}
+![The Broken Isles](/assets/wr/20240612010233_1.jpg)
+{% endfigure %}
+
+The guards are nowhere near as difficult as the naga base was, though. Now that our own base is no longer under attack, we can sail around the entire map, find the remaining secrets, and then engage the naga guards and complete the mission. I like how on many base-building missions, the game lets the player be in control of when exactly they're ready to proceed with the campaign, letting them discover and collect everything at their leisure once the main threat is gone.
+
+We dive after Illidan into...
 
 
 ## The Tomb of Sargeras
@@ -175,3 +234,5 @@ Next up: the expedition that WoW never acknowledged.
 [^cinematics]: The game intro, the prologue and human intro cinematics, and each campaign's ending cinematic.
 
 [^nendis]: Sindarin for "water-woman", though this is likely unintentional. And like many locations from TFT, it's nowhere to be found in WoW.
+
+[^naga]: And in lore, they were foreshadowed all the way back in *Day of the Dragon*.
