@@ -213,6 +213,112 @@ We dive after Illidan into...
 ![The Tomb of Sargeras](/assets/wr/20240612010720_1.jpg)
 {% endfigure %}
 
+The Watchers have entered the Tomb of Sargeras. Now, suddenly and without any foreshadowing, we learn that Maiev, who had never seen an orc in her life until a few months ago, can somehow read orcish runes.
+
+{% figure [caption:"Apparently, Gul'dan had no better things to do than writing a graffiti diary."] %}
+![The Tomb of Sargeras](/assets/wr/20240612011957_1.jpg)
+{% endfigure %}
+
+Twenty years ago, Gul'dan entered the tomb with his minions, whom he can barely keep in line by shooting one who is overcome by fear and tries to run away. And yes, it's really awkward that he wrote down all this and Maiev can read it. If anything, making these flashbacks magically induced visions would have helped.
+
+{% figure [caption:"Good gosh, those wall textures."] %}
+![The Tomb of Sargeras](/assets/wr/20240612010720_1.jpg)
+{% endfigure %}
+
+Thus begins a long dungeon crawl --- my favorite one in the game. There are many, *many* secrets here designed around Maiev's Blink, including a lengthy sidequest based around assembling a really powerful item.
+
+{% figure [caption:"Just in case we forgot about Blink, the map designers are kind to remind us by placing a tome and a rune in an easily spottable side area."] %}
+![The Tomb of Sargeras](/assets/wr/20240614214138_1.jpg)
+{% endfigure %}
+
+We fight a great variety of enemies: demons, orcs, skeletal orcs, naga, giant turtles, hydras, and more. This place really feels like it was built by night elves at the height of their power before being buried under the sea.
+
+The powerful item in question is Gul'dan's Shadow Orb. It consists of ten pieces to be collected across blinkable areas, and with each collected fragment, it grows in power.
+
+{% figure [caption:"I have no idea how pieces of an orb shattered by accident ended up strewn all over the dungeon on out-of-the-way raised platforms."] %}
+![The Tomb of Sargeras](/assets/wr/20240614214610_1.jpg)
+{% endfigure %}
+
+Along the way, Maiev finds more of Gul'dan's glyphs. Having lost all his minions --- "blasted, feeble-minded weaklings" --- he presses on alone.
+
+{% figure [caption:"Maybe you shouldn't announce your plans to the guy you've come to rob?"] %}
+![The Tomb of Sargeras](/assets/wr/20240614215434_1.jpg)
+{% endfigure %}
+
+"Again, he referenced this mysterious 'eye'," remarks Naisha. Maiev concludes it must be an artifact, powerful enough to lure Gul'dan in.
+
+We reach some water-filled caverns, and... this was where I unintentionally broke the intended sequence of cutscenes by blinking too zealously in search of orb fragments. This scripted scene is supposed to come first, but I saw it second --- after realizing I cleared, by blinking in with Maiev alone, a location that was supposed to be reached with the entire squad.
+
+{% figure [caption:"In hindsight, her unusually harsh name could have been a clue."] %}
+![The Tomb of Sargeras](/assets/wr/20240614220238_1.jpg)
+{% endfigure %}
+
+The Watchers reach a statue of Queen Azshara, who looks more like a naga than a night elf. Hmm, that sure is curious.
+
+This is soon explained by the next scene, which I unintentionally saw first in this playthrough, but which is supposed to come second when exploring "normally". Maiev encounters a [naga archer](https://warcraft.wiki.gg/wiki/Vashj) who explains that her people were once... night elves!
+
+{% figure [caption:"Either the Highborne looked like druids, or these were placeholder models and they ran out of time to make unique ones."] %}
+![The Tomb of Sargeras](/assets/wr/naga_origin.jpg)
+{% endfigure %}
+
+Between satyr, naga, and Illidan, we now have three different types of corrupted former night elves.
+
+Exploring the flooded cavern, we come across an inconspicuous tree.
+
+{% figure [caption:"Either the Highborne looked like druids, or these were placeholder models and they ran out of time to make unique ones."] %}
+![The Tomb of Sargeras](/assets/wr/20240614220649_1.jpg)
+{% endfigure %}
+
+Hmm. We have huntresses in the squad. I wonder what happens if I put a sentinel on it--
+
+...Oh.
+
+{% figure [caption:"If only we had someone capable of reaching that ledge. With some kind of teleportation or something."] %}
+![The Tomb of Sargeras](/assets/wr/20240614220704_1.jpg)
+{% endfigure %}
+
+The sneaky map designers put three orb fragments into places that can only be blinked to after placing sentinels on two trees. This is why it's imperative not to lose Naisha until at least this point: she can cast unlimited sentinels, and while the single regular huntress can place one of them, Naisha is required for at least the second one.
+
+After a heavy fight with naga, we reach another chamber with orcish runes. Gul'dan's story, it turns out, ended *very* anticlimactically. He kept writing even as he barely mustered the strength to come here, ambushed by the guardians and dying.
+
+{% figure [caption:"Sorry, but Warcraft 2 has already established you die here."] %}
+![The Tomb of Sargeras](/assets/wr/20240614221655_1.jpg)
+{% endfigure %}
+
+Poor Gul'dan. This was the first time I saw him on screen, and not only did they give him an unflattering model (actually the same as Drak'thul's), but they painted him as a pathetic loser who lost all his followers, accomplished nothing of importance here, and eventually died to bleeding wounds inflicted by some random demons.
+
+We reach a massive runed gate. The game is, once gain, kind enough to warn us that this is a point of no return.
+
+{% figure [caption:"Or it could be random demons on patrol. It's about fifty-fifty."] %}
+![The Tomb of Sargeras](/assets/wr/20240614222200_1.jpg)
+{% endfigure %}
+
+Before proceeding, I collect all remaining orb fragments. Maiev and the Watchers burst into the next chamber... but they're too late.
+
+{% figure [caption:"Maybe if you bothered to tell others who your enemies were, you wouldn't have to rely on dark beings from beneath the deep!"] %}
+![The Tomb of Sargeras](/assets/wr/20240614223410_1.jpg)
+{% endfigure %}
+
+It turns out that Maiev actually had no plan. Or a bit more charitably, her plan was...
+
+1. Find Illidan.
+2. ??????
+3. Justice!
+
+Illidan made it here to claim this artifact, the Eye of Sargeras, of which he learned when he got Gul'dan's memories through consuming his skull. This just raises further questions. For example: why didn't Ner'zhul's henchmen [back in Beyond the Dark Portal](https://lintian.eu/2024/01/07/warcraft-retrospective-9/) claim it alongside the Scepter of Sargeras? Even if it wasn't strictly needed for Ner'zhul's plan, I imagine neither he nor Teron Gorefiend would pass the opportunity to claim a powerful artifact that happened to be lying in the way.
+
+{% figure [caption:"A gameplay power is not only acknowledged in-story, but proves the very key to Maiev's survival."] %}
+![The Tomb of Sargeras](/assets/wr/20240614223445_1.jpg)
+{% endfigure %}
+
+With the Eye, Illidan causes a cave-in, which Maiev alone escapes by blinking away just as the ceiling collapses on Naisha and the others --- who Maiev swears will be avenged. And just as you thought this was the end, the mission unexpectedly continues.
+
+{% figure [caption:"And now I've reached you, Illidan. Tag! Now you chase me."] %}
+![The Tomb of Sargeras](/assets/wr/20240614223516_1.jpg)
+{% endfigure %}
+
+This section is why I leveled Blink to level 3, even though it gimped Maiev's combat ability. At levels 1 and 2, Blink has a ten-second cooldown, but at level 3 the cooldown is reduced to one second. This let me blink with impunity across the entire dungeon, now refilled with enemies, and I reached the entrance with plenty of time to spare.
+
 
 ## Wrath of the Betrayer
 
