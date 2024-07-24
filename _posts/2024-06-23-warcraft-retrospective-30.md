@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 Before we move on to The Frozen Throne, I should point something out: World of Warcraft was already long in development by the time the original Warcraft 3 shipped. The book *[The World of Warcraft Diary: A Journal of Computer Game Development](https://warcraft.wiki.gg/wiki/World_of_Warcraft_Diary)*, by Johnathan Staats, helped me appreciate just how far into development it was. Warcraft 3 and WoW were developed in parallel, and they piggybacked off each other's worldbuilding. This might explain, somewhat, why there are some inconsistencies between them, both factual and thematic: the Warcraft 3 story went through a number of iterations, which were costly to change by the time WoW shipped.<!--more-->
 
-It might also explain why Warcraft 3 didn't feature the southern Eastern Kingdoms, the territory of the human kingdom of Stormwind. These zones the first ones made in WoW, and perhaps the Warcraft 3 developers wanted leave the WoW developers some breathing room instead of setting things in stone.
+It might also explain why Warcraft 3 didn't feature the southern Eastern Kingdoms, the territory of the human kingdom of Stormwind. These zones were the first ones made in WoW, and perhaps the Warcraft 3 developers wanted to leave the WoW developers some breathing room instead of setting things in stone.
 
 By the time Reign of Chaos went gold, the roster of playable races in WoW was already decided, and preliminary models made. There were in fact more of them planned, but cut for aesthetic or technical reasons. One such race we're about to see: while originally created for WoW, it was introduced in The Frozen Throne first.
 
@@ -57,7 +57,7 @@ Turned out it's exactly one.
 
 The story is thus. Illidan has blazed his way across the forest, and I mean literally blazed, leaving flaming tracks in his wake. He's being chased by the night elf Watchers, led by our new hero: [Maiev Shadowsong](https://warcraft.wiki.gg/wiki/Maiev_Shadowsong), the [Warden](https://warcraft.wiki.gg/wiki/Warden). And I'm sorry, I need to gush about her for a minute because everything about her is just so *cool*.
 
-{% figure [caption:"So the *Warden* leads the *Watchers*, who are a separate organization from the *Sentinels*. I get it, Blizzard, the English language has a lot of words for &ldquo;those who guard something&rdquo;, stop giving translators nightmares!"] %}
+{% figure [caption:"So the *Warden* leads the *Watchers*, who are a separate organization from the *Sentinels*. I get it, Blizzard, the English language has a lot of words for &ldquo;those who stand guard&rdquo;, stop giving translators nightmares!"] %}
 ![Rise of the Naga](/assets/wr/20240603221110_1.jpg)
 {% endfigure %}
 
@@ -99,11 +99,7 @@ Soon we get our first side quest. Maiev meets the survivors of one of her scout 
 ![Rise of the Naga](/assets/wr/20240603222041_1.jpg)
 {% endfigure %}
 
-Between RoC and TFT, a few unit names inexplicably changed, often alongside their models. The night elf ballista was replaced with the glaive thrower, the orc catapult with the demolisher, and the human gyrocopter and steam tank with the flying machine and [~~siege tank~~](https://starcraft.fandom.com/wiki/Siege_tank) siege engine. And owlbears became wildkin. It's speculated that it was done for trademark reasons, and indeed gyrocopters and steam tanks might have been renamed to avoid clashes with Wildhammer Fantasy, but *ballistas and catapults?* These are generic terms!
-
-{% figure [caption:"Ah, the Driven Mad Syndrome, Blizzard's number one supplier of boss encounters."] %}
-![Rise of the Naga](/assets/wr/20240603222548_1.jpg)
-{% endfigure %}
+Between RoC and TFT, a few unit names inexplicably changed, often alongside their models. The night elf ballista was replaced with the glaive thrower, the orc catapult with the demolisher, and the human gyrocopter and steam tank with the flying machine and [~~siege tank~~](https://starcraft.fandom.com/wiki/Siege_tank) siege engine. And owlbears became wildkin. It's speculated that it was done for trademark reasons, and indeed gyrocopters and steam tanks might have been renamed to avoid clashes with Warhammer Fantasy, but *ballistas and catapults?* These are generic terms!
 
 After killing the wildkin, we encounter the serpentine race from the cinematic, busy burning another night elf village and the ships in its harbor.
 
@@ -226,7 +222,7 @@ The Watchers have entered the Tomb of Sargeras. Now, suddenly and without any fo
 Twenty years ago, Gul'dan entered the tomb with his minions, whom he can barely keep in line by shooting one who is overcome by fear and tries to run away. And yes, it's really awkward that he wrote down all this and Maiev can read it. If anything, making these flashbacks magically induced visions would have helped.
 
 {% figure [caption:"Good gosh, those wall textures."] %}
-![The Tomb of Sargeras](/assets/wr/20240612010720_1.jpg)
+![The Tomb of Sargeras](/assets/wr/20240612012021_1.jpg)
 {% endfigure %}
 
 Thus begins a long dungeon crawl --- my favorite one in the game. There are many, *many* secrets here designed around Maiev's Blink, including a lengthy sidequest based around assembling a really powerful item.
@@ -269,7 +265,7 @@ Between satyr, naga, and Illidan, we now have three different types of corrupted
 
 Exploring the flooded cavern, we come across an inconspicuous tree.
 
-{% figure [caption:"Either the Highborne looked like druids, or these were placeholder models and they ran out of time to make unique ones."] %}
+{% figure [caption:"Credit where credit is due: the environment design here is *gorgeous*."] %}
 ![The Tomb of Sargeras](/assets/wr/20240614220649_1.jpg)
 {% endfigure %}
 
@@ -341,7 +337,7 @@ This is interesting because it establishes a few important points.
 1. Night elves have no kind of rapid remote communication that Maiev could use to contact the mainland.
 2. There's nobody in more immediate vicinity whom Maiev could call for help. Nobody whatsoever. No [druids](https://warcraft.wiki.gg/wiki/Dreamweavers). No [tauren](https://warcraft.wiki.gg/wiki/Highmountain_Tribe). No [vrykul](https://warcraft.wiki.gg/wiki/Valarjar). No [ghost elves](https://warcraft.wiki.gg/wiki/Court_of_Farondis). No [Sundering survivors under a dome](https://warcraft.wiki.gg/wiki/Nightborne). All her hopes lie with Kalimdor. Have we established that? Good.
 
-Maiev sent a single unguarded runner, whom the naga immediately intercepted and were about to kill, forcing Maiev herself to step in.
+Maiev sends a single unguarded runner, whom the naga immediately intercept and are about to kill, forcing Maiev herself to step in.
 
 {% figure [caption:"See, Sylvanas? This is why you protect your runners."] %}
 ![Wrath of the Betrayer](/assets/wr/20240616145749_1.jpg)
@@ -355,7 +351,7 @@ The base has only a single limited gold mine and there are no others available, 
 ![Wrath of the Betrayer](/assets/wr/20240616150359_1.jpg)
 {% endfigure %}
 
-We cross the strait by ships, then disembark everyone except the runner and destroy the naga fortifications protecting the channel leading to the open sea, which is only reachable by land. Along the way, we encounter another map secret.
+We cross the strait by ships, then disembark everyone except the runner and destroy the naga fortifications protecting the channel leading to the open sea, which is possible to do by land. Along the way, we encounter another map secret.
 
 {% figure [caption:"The pandaren have graduated from an April Fools joke to an actual gameplay hero."] %}
 ![Wrath of the Betrayer](/assets/wr/20240616150909_1.jpg)
@@ -392,9 +388,9 @@ At Hyjal Summit, near the roots of the World Tree, we once again see Tyrande and
 ![Unfinished Business](/assets/wr/20240616151909_1.jpg)
 {% endfigure %}
 
-I was confused by this change of name at release. Not only is it never explained, but its's a retcon, because from this point on, all Warcraft media will proceed as if his name is and has *always* been Malfurion. I can only guess this was another one of those lawyer-advised name changes, made because there was already a [Furion](https://warhammerfantasy.fandom.com/wiki/Furion) in Warhammer Fantasy.
+I was confused by this change of name at release. Not only is it never explained, but it's a retcon, because from this point on, all Warcraft media will proceed as if his name is and has *always* been Malfurion. I can only guess this was another one of those lawyer-advised name changes, made because there was already a [Furion](https://warhammerfantasy.fandom.com/wiki/Furion) in Warhammer Fantasy.
 
-Tyrande thinks that perhaps Yseara or Alexstrasza could help with Felwood's corruption. The conversation is interrupted, however, by the arrival of the runner, who apparently not crossed the sea and half of Kalimdor, but made her way all the way up Mount Hyjal all on her own.
+Tyrande thinks that perhaps Ysera or Alexstrasza could help with Felwood's corruption. The conversation is interrupted, however, by the arrival of the runner, who apparently not only crossed the sea and half of Kalimdor, but climbed all the way up Mount Hyjal all on her own.
 
 {% figure [caption:"That's the gist of it, at least. I'll tell you the long version over dinner."] %}
 ![Unfinished Business](/assets/wr/20240616151952_1.jpg)
