@@ -105,7 +105,9 @@ He then runs away, or, rather, sails away. Again.
 ![Shards of the Alliance](/assets/wr/20240706165801_1.jpg)
 {% endfigure %}
 
-The night elves follow Illidan to a blight-stricken Lordaeron, which by itself is notable enough, as this is the first time we see them appear in the eastern continent, whose residents don't even know they exist. Malfurion departs the company for now to commune with the grievously disfigured land, and the first people Tyrande and Maiev run into are...
+The night elves follow Illidan to a blight-stricken Lordaeron, which by itself is notable enough, as this is the first time we see them appear in the eastern continent, whose residents don't even know they exist. Malfurion departs the company for now to commune with the grievously disfigured land. Though he's gone for this mission, his items do *not* appear on the ground, so it's a fair bet that we'll be controlling him again later.
+
+The first people Tyrande and Maiev run into are...
 
 {% figure [caption:"So much for the &ldquo;don't even know they exist&rdquo; part."] %}
 ![Shards of the Alliance](/assets/wr/20240706165908_1.jpg)
@@ -208,10 +210,101 @@ Malfurion promises that he won't let this go unpunished. He departs the glade. W
 
 ## The Ruins of Dalaran
 
-{% figure [caption:""] %}
+{% figure [caption:"The stated travel times just keep making the world feel smaller and smaller."] %}
 ![The Ruins of Dalaran](/assets/wr/20240707113426_1.jpg)
 {% endfigure %}
 
+Malfurion comes to the night elf base camp, but finds only Maiev. What happened to Tyrande? Well, in Maiev's own words...
+
+{% figure [caption:"And nobody else at the camp is going to contradict her? None of the other witnesses? Or were they... silenced?"] %}
+![The Ruins of Dalaran](/assets/wr/20240707113452_1.jpg)
+{% endfigure %}
+
+This is big. She outright *lies* to the lover of her missing comrade in arms. She's hunting one called the Betrayer, but who's the real betrayer now? She who fights monsters, indeed.
+
+Malfurion has the most hilarious underreaction to the news of the supposed death of the woman who had been at his side for ten thousand years:
+
+{% figure [caption:"Oh no. Anyway..."] %}
+![The Ruins of Dalaran](/assets/wr/20240707113508_1.jpg)
+{% endfigure %}
+
+Maiev tells him that he can still avenge Tyrande by defeating Illidan, the reason they came here in the first place. Kael, who had conveniently been out of earshot until now, arrives and briefs Malfurion on the mission: Illidan is using some kind of enchanted gem-like artifact --- the Eye of Sargeras, that is --- to perform a ritual among the ruins of Dalaran, and now it's time to stop him.
+
+The mission is on a timer: we have to defeat Illidan in thirty minutes before he finishes his ritual. Immediately, I take my entire starting force and send it northeast, where the naga are holding a human paladin captive. He's level 8 and has Resurrection, which will come very handy in this mission.
+
+(Incidentally, Tyrande's inventory does appear on the ground, which means we won't be controlling her again.)
+
+{% figure [caption:"&ldquo;We?&rdquo; You and what army?"] %}
+![The Ruins of Dalaran](/assets/wr/20240707172731_1.jpg)
+{% endfigure %}
+
+As if apologizing for the original night elf campaign not letting us build chimaeras, here they're actually the key to this mission. We need to kill four naga summoners, who can only be damaged by magic and hero attacks. Chimaeras happen to have the magic attack type, as do faerie dragons, a new unit we unlock in this mission.
+
+The small naga outposts to the south falls easily, and the paladin's Resurrection helps me recover the losses.
+
+{% figure [caption:"By the grace of the Light, live again, faithful servants of... er, Elune!"] %}
+![The Ruins of Dalaran](/assets/wr/20240707174134_1.jpg)
+{% endfigure %}
+
+The main naga base, however, puts up a much harder fight. It's absolutely crawling with naga units and pumps out replacements at an absurd speed, while also being home to a level 10 Illidan and a naga sea witch. I had to restart the mission at this point several times, trying different combinations of units and attacks, even using the Scroll of Animate Dead I had saved from the previous mission, even if necromancy isn't really something night elves should be doing. From a certain point onward I built only chimaeras, and that proved to be a fortunate decision.
+
+{% figure [caption:"In the end I leveled everything and killed the summoners with only a token force left."] %}
+![The Ruins of Dalaran](/assets/wr/20240707180351_1.jpg)
+{% endfigure %}
+
+The ritual is interrupted, and Malfurion decides that enough is enough, and his brother should face execution this time.
+
+{% figure [caption:"Maiev is, of course, eager to oblige."] %}
+![The Ruins of Dalaran](/assets/wr/20240707180516_1.jpg)
+{% endfigure %}
+
+But Illidan, *at last*, once his plan is ruined, reveals what the plan actually was.
+
+{% figure [caption:"Your mission? Given by whom, exactly?"] %}
+![The Ruins of Dalaran](/assets/wr/20240707180538_1.jpg)
+{% endfigure %}
+
+Okay, I have two questions here.
+
+One: *why didn't you just say so?* If your plan was to destroy the Lich King, then you could have worked *with* the night elves towards this goal instead of antagonizing them. Arguably he was denied that option after Malfurion exiled him, but still, he did everything in his power to piss the night elves off, slaughtering whole villagers and burning down their ships while he could have just left quietly.
+
+This part of Illidan's characterization, at least, will stay consistent going forward.
+
+Two: if Maiev was never your goal, why didn't you use the Eye sooner?
+
+Consider that he had assaulted Maiev's base for a whole day or two before Tyrande and Malfurion arrived with reinforcements and he had to flee to Lordaeron. If he had simply used the Eye for his intended purpose right away, Maiev alone wouldn't have been able to stop him, and he'd have completed the ritual and destroyed the Lich King --- likely at a tremendous damage to the world, but who cares if there's a new Sundering if it means destroying the enemy of all life?
+
+Whatever. Malfurion is still malfurious, as because of Illidan, Tyrande is dead. However, at this moment, Kael intercedes.
+
+{% figure [caption:"It's strange that this didn't come up earlier, but I'm willing to let this slide. They only had half an hour to stop Illidan, after all, so there was no time for chit chat."] %}
+![The Ruins of Dalaran](/assets/wr/20240707180551_1.jpg)
+{% endfigure %}
+
+Maiev tries to defend herself, saying that she had to lie to Malfurion because otherwise he'd have immediately sought out Tyrande. Malfurion, however, now calls out Maiev, telling her "Just who is the betrayer now, woman?" Illidan assures him that, despite their differences, he would never lead Tyrande to harm, and offers his help in saving her.
+
+Maiev protests, but Malfurion removes roots from Illidan and entangles her instead.
+
+{% figure [caption:"Wow, Malfurion's roots are strong enough to burst through solid concrete!"] %}
+![The Ruins of Dalaran](/assets/wr/20240707180641_1.jpg)
+{% endfigure %}
+
+And this is the pivotal point here in this campaign.
+
+As a teenager, I was mad at Malfurion. How dare he touch Maiev --- she's the main character (and also really cool)! But now I see that I was blinded by protagonist-centered morality. While she may have been the protagonist until now, empathically, *Maiev is not a good person*.
+
+All the way through, she never displayed empathy for anyone. She jumped to conclusions that the furbolgs and wildkin were driven mad by Illidan, and executed them without mercy. She jumped to conclusions about the satyr working with Illidan. She regretted helping Drek'thar silence the ghosts haunting him. She didn't grieve for Naisha --- instead her demise only marked the point when Maiev's quest became personal. She left Tyrande behind and lied to Malfurion about her fate --- and then clung to the urgency of stopping Illidan, because it gave her an excuse for her inexcusable behavior.
+
+She may not be *evil*, and she's nominally on the side of good, but that doesn't make her a moral person, either.
+
+Roy Greenhilt put it in better words than I can:
+
+{% figure [caption:"That's right, Maiev was the [Miko Miyazaki](https://oots.fandom.com/wiki/Miko_Miyazaki) before there was a Miko Miyazaki."] %}
+<img alt="The Ruins of Dalaran" src="/assets/wr/oots_miko.png" width="600" />
+{% endfigure %}
+
+And that's precisely what, to me, makes Maiev such an interesting character. She's *actually* morally grey, not moustache-twirlingly, World-Tree-burningly morally grey. And unfortunately, later media completely blundered this aspect of her, writing her either as an outright villain (in *Wolfheart*) or as just another night elf commander, interchangeable with the likes of Shandris and Jarod.
+
+What a waste.
 
 
 ## The Brothers Stormrage
@@ -227,6 +320,8 @@ Malfurion promises that he won't let this go unpunished. He departs the glade. W
 Terror of the Tides is an awesome campaign --- in fact, easily my favorite campaign in TFT, and one of my favorites in all of Warcraft 3.
 
 It's full of surprises and twists, characters making decisions that seem unexpected yet are entirely in alignment with their personalities and prior actions. The gameplay is varied, ranging from wilderness exploration to base sieges to dungeon crawls to escort missions. And story-wise, it shows that night elves, despite their reclusiveness, can be effective explorers when it comes to that, help others on their way through foreign lands, and make a meaningful difference.
+
+Illidan and Maiev have more in common than either would admit. They're both antiheroes committing evil for the supposed greater good, cautionary tales of those who fight monsters becoming monsters themselves. They truly deserve each other.
 
 My only complaint is not about this campaign itself; it's about World of Warcraft. What bothers me is that not even a trace of this expedition is left in WoW. It's like the night elves never visited Silverpine Forest.[^nelfposting] It's not shown or even mentioned there. There are no camp remains, no expedition members left behind, not even letters or small keepsakes. Their role in saving Kael and retaking Dalaran is never mentioned either. In fact, and I hope to get to that, Dalaran spent the entirety of vanilla and The Burning Crusade under an impenetrable dome, with nary a mention of what was going on there.
 
