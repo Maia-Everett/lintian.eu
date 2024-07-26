@@ -16,17 +16,45 @@ And of course, both Fëanor and Illidan have massive fandoms insisting they have
 
 ## Balancing the Scales
 
+{% figure [caption:"THE NEXT DAY? Are night elf ships supersonic?"] %}
+![Balancing the Scales](/assets/wr/20240706150203_1.jpg)
+{% endfigure %}
+
+
+
 
 ## Shards of the Alliance
+
+{% figure [caption:"Plaguelands. Capital City Ruins. Boy, Lordaeron isn't looking good since we last saw it."] %}
+![Shards of the Alliance](/assets/wr/20240706165801_1.jpg)
+{% endfigure %}
+
+
 
 
 ## Malfurion's Vision
 
+{% figure [caption:""] %}
+![Malfurion's Vision](/assets/wr/20240707113216_1.jpg)
+{% endfigure %}
+
+
+
 
 ## The Ruins of Dalaran
 
+{% figure [caption:""] %}
+![The Ruins of Dalaran](/assets/wr/20240707113426_1.jpg)
+{% endfigure %}
+
+
 
 ## The Brothers Stormrage
+
+{% figure [caption:""] %}
+![The Brothers Stormrage](/assets/wr/20240726112633_1.jpg)
+{% endfigure %}
+
 
 
 ## Thoughts on the Campaign
