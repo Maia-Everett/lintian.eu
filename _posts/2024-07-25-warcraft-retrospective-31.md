@@ -105,7 +105,71 @@ He then runs away, or, rather, sails away. Again.
 ![Shards of the Alliance](/assets/wr/20240706165801_1.jpg)
 {% endfigure %}
 
+The night elves follow Illidan to a blight-stricken Lordaeron, which by itself is notable enough, as this is the first time we see them appear in the eastern continent, whose residents don't even know they exist. Malfurion departs the company for now to commune with the grievously disfigured land, and the first people Tyrande and Maiev run into are...
 
+{% figure [caption:"So much for the &ldquo;don't even know they exist&rdquo; part."] %}
+![Shards of the Alliance](/assets/wr/20240706165908_1.jpg)
+{% endfigure %}
+
+...also elves. They're refugees, led by [Prince Kael'thas](https://warcraft.wiki.gg/wiki/Kael%27thas_Sunstrider), or Kael for short. He's an interesting character in his own right, and I'll talk about him at length when we reach his campaign. (Spoiler: his campaign is the next one.) What's relevant right now is that he knows what night elves are (which makes sense, as they're his ancestors, and he'd be well-educated in ancient elven history), knows their traditional greeting, and welcomes their help. Turns out something has stirred up the undead in Dalaran, and now they've been hounding Kael's people day and night, so they're going to seek refuge on the other side of the river Arevass.
+
+From the very start, something's not right with the geography here. Kael says that the undead are based in Dalaran, so it would make sense for him to get away from it --- yet, as we'll see in this mission and the next one, we'll actually be marching *towards* Dalaran, in other words, towards the source of the disturbance.
+
+Tyrande, on her part, is willing to offer Kael help in exchange for helping the night elves hunt the demon they seek, though Maiev believes they have no time for this.
+
+{% figure [caption:"Poor enjoyers of scout spells just can't catch a break."] %}
+![Shards of the Alliance](/assets/wr/20240706170017_1.jpg)
+{% endfigure %}
+
+Kael is moving with a caravan consisting of some kind of... magical hovercraft supply wagons, and the goal here is to protect them and save at least two of the four. Yes, this mission is very similar to "The Long March" in [the orc campaign](https://lintian.eu/2024/05/11/warcraft-retrospective-25/), and "Protect the caravan at all costs!" (and, thankfully, variations on this line) is going to be the new "Hold your formations! The kodos must be protected!" as the undead spawn to attack the caravan again. And again. *And again.*
+
+What's even worse is how a computer-controlled Kael uses his abilities. He's a [blood mage](https://warcraft.wiki.gg/wiki/Blood_mage), the fourth Alliance hero introduced in the expansion, and his signature spell, Flame Strike, is an AoE damage over time conflagration that he will cast over and over --- and is perfectly happy to cast it on his own troops if it means getting that one ghoul who'd soon be gone anyway. I had to watch out for it and heal his swordsmen and priests with Rejuvenation.
+
+While our starting force is relatively paltry (just two mountain giants and two druids of the claw), there are three mercenary camps along the way. An additional wrinkle, however, is that to get gold to hire those mercenaries, you have to dig up Kael's supply caches scattered across the map, but it just so *happens* that the undead have built small outposts right over their locations.
+
+{% figure [caption:"As usual, Tyrande's combat contributions are mostly limited to autoattack and casting Starfall."] %}
+![Shards of the Alliance](/assets/wr/20240706170530_1.jpg)
+{% endfigure %}
+
+At the first stop along the way, Kael reveals that his people, once known as high elves, have renamed themselves [blood elves](https://warcraft.wiki.gg/wiki/Blood_elf) after the Scourge invasion that left Quel'Thalas broken. And... I'm sorry, but that's not how ethnic identities work.
+
+{% figure [caption:"Did those of them who live far from Quel'Thalas get the memo?"] %}
+![Shards of the Alliance](/assets/wr/20240706170919_1.jpg)
+{% endfigure %}
+
+In real life, ethnicities generally don't rename themselves after one invasion of their homeland.*<sup>[citation needed]</sup>* This renaming even affected multiplayer, where high elf sorceresses and priests became blood elves, too. Given all the other renames in TFT, even those of generic units like ballistas and catapults, I wonder if it was done to make the term trademarkable, as that seemed to be the period when Blizzard was establishing its own Warcraft trademarks while avoiding those of its possible competitors (hence the renaming of Furion and Grom). "High elf" is a generic fantasy term, but "blood elf" would be potentially trademarkable.
+
+Eventually, we come across a fork in the road.
+
+{% figure [caption:"We can do it the easy way or the hard way. Night elves always choose the hard way: it encourages natural selection."] %}
+![Shards of the Alliance](/assets/wr/20240706171819_1.jpg)
+{% endfigure %}
+
+One route is shorter, but passes through an undead base. The other is longer (and has better loot in blinkable secret areas), but has less formidable defenses along the way. Personally I've never taken the long route in any of my playthroughs.
+
+{% figure [caption:"On normal difficulty, the base is a pushover anyway, especially with Vengeance."] %}
+![Shards of the Alliance](/assets/wr/20240706172718_1.jpg)
+{% endfigure %}
+
+Incidentally, it's worth mentioning that one of the mercenary units available in this mission is the [rogue wizard](https://warcraft.wiki.gg/wiki/Rogue_Wizard_(Warcraft_III))[^rogue_wizard], who is simply a wizard not under the jurisdiction of the Kirin Tor, and therefore outlawed in Alliance lands.
+
+The mission ends with us holding the line in front of the last bridge, in [Pyrewood Village](https://warcraft.wiki.gg/wiki/Pyrewood_Village) just before River Arevass.[^arevass] Despite Tyrande saying "Their numbers are limitless", the undead waves here are actually easily defeated. Finally it's time to cross the bridge itself. Tyrande stays behind to buy Maiev and Kael some time...
+
+{% figure [caption:"Maybe move a bit behind? No?"] %}
+![Shards of the Alliance](/assets/wr/20240706173214_1.jpg)
+{% endfigure %}
+
+Unlike Sylvanas, Tyrande has all the common sense of Inspector Gadget, and so instead of standing safely on the ground and collapsing the bridge, she decides to stand *on* the bridge as undead advance. This ends predictably:
+
+{% figure [caption:"Whoopsie-daisy!"] %}
+![Shards of the Alliance](/assets/wr/20240706173225_1.jpg)
+{% endfigure %}
+
+The bridge collapses, flushing Tyrande downriver. Kael proposes rushing to her aid, but Maiev stops him. Tyrande was a soldier, she says, and knew what she was doing; they have a mission to accomplish, and time grows short.
+
+The narration keeps Maiev's motives ambiguous here, but I think it's fair to say that she was likely driven by petty revenge here, not just pragmatic focus on the mission. We *have* indeed seen Maiev treating all secondary concerns as irrelevant to the mission, not unlike Arthas, but now she has the perfect chance of removing Tyrande from the picture --- perhaps even getting her killed by inaction --- while keeping her own hands clean.
+
+Maiev wasn't the most altruistic person to begin with, and now even the mask of the focused professional is beginning to slip.
 
 
 ## Malfurion's Vision
@@ -152,7 +216,7 @@ Malfurion promises that he won't let this go unpunished. He departs the glade. W
 
 ## The Brothers Stormrage
 
-{% figure [caption:""] %}
+{% figure [caption:"Hooray! The person whose name we know is going to be saved!"] %}
 ![The Brothers Stormrage](/assets/wr/20240726112633_1.jpg)
 {% endfigure %}
 
@@ -179,4 +243,6 @@ Protect the caravan at all costs!
 
 [^ships]: What ships, incidentally? Didn't Illidan's naga destroy most of them while targeting coastal towns?
 
+[^rogue_wizard]: As opposed to a rogue/wizard, which would be a multiclass character.
 
+[^arevass]: Though Pyrewood Village is in WoW, River Arevass is nowhere to be found.
