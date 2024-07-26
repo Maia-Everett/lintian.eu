@@ -7,6 +7,8 @@ excerpt_separator: <!--more-->
 
 Over the past month, there have been a few smaller-scope Chaos Archives updates, mostly regarding images. Here they are.
 
+<!--more-->
+
 1. Everywhere on the site that you can select an image from your gallery (visual editors and banners, mostly), you can select images from any character on your account, not just the current one.
     
     <img src="/assets/screenshots/ca_gallery_update.png"/>
