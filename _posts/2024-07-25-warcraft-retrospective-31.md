@@ -34,10 +34,35 @@ And of course, both Fëanor and Illidan have massive fandoms insisting they have
 
 ## Malfurion's Vision
 
-{% figure [caption:""] %}
+{% figure [caption:"I mean, we already know what Malfurion's vision is. It's to turn his people into anarcho-primitivists and usher in ten thousand years of stagnation."] %}
 ![Malfurion's Vision](/assets/wr/20240707113216_1.jpg)
 {% endfigure %}
 
+Meanwhile, in the depths of Silverpine Forest, Malfurion is conducting a ritual to commune with the land.
+
+{% figure [caption:"Compassion and consideration for the rest of the world. Traits that are often forgotten by night elf roleplayers."] %}
+![Malfurion's Vision](/assets/wr/20240707113231_1.jpg)
+{% endfigure %}
+
+Suddenly, earthquakes shake the land, causing Malfurion excruciating pain. He summons ancient spirits of the forest (which look like wisps), and they show him what is going on:
+
+{% figure [caption:"Whatever is happening, it's so unnatural that it's causing *eight-pointed snowflakes* to fall. Abomination!"] %}
+![Malfurion's Vision](/assets/wr/20240707113319_1.jpg)
+{% endfigure %}
+
+The earthquakes are threatening to split Northrend apart. And what's causing them?
+
+{% figure [caption:"Whom is he saying this to? The naga already know his plan. Actually why is he saying it out loud to begin with?"] %}
+![Malfurion's Vision](/assets/wr/20240707113351_1.jpg)
+{% endfigure %}
+
+It's Illidan, performing a ritual through the Eye of Sargeras. Again he's referencing some kind of "master".
+
+Malfurion promises that he won't let this go unpunished. He departs the glade. Where he walked, the blight has cleared, and stags come in to roam on the sunlit grass.
+
+{% figure [caption:"This land *can* be healed. It will just take time."] %}
+![Malfurion's Vision](/assets/wr/20240707113422_1.jpg)
+{% endfigure %}
 
 
 
@@ -67,7 +92,7 @@ My only complaint is not about this campaign itself; it's about World of Warcraf
 
 I do realize that WoW was developed in parallel with TFT, and TFT likely brought lore that the WoW developers had no time to incorporate. But this just underscores the point I intend to make later, when I get to WoW: I think including all of Kalimdor and all of the Eastern Kingdoms in the vanilla game was a mistake, and northern Eastern Kingdoms should have been their own expansion to give them the justice they deserved.
 
-Next up: racism is bad, mmkay?
+Next up: the so-called "Alliance" campaign. Racism is bad, mmkay?
 
 
 [^nelfposting]: Oh no, I'm engaging in nelfposting in my own blog!
