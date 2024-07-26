@@ -20,7 +20,83 @@ And of course, both Fëanor and Illidan have massive fandoms insisting they have
 ![Balancing the Scales](/assets/wr/20240706150203_1.jpg)
 {% endfigure %}
 
+Okay, so first things first: the writer of this campaign clearly had no sense of logistics.
 
+Somehow, the runner reached the night elf leaders, they mustered their forces, boarded the ships[^ships] and sailed back from Kalimdor all the way to the Broken Isles within the span of *a single day*. Ridiculous as it is, what's even weirder is that Illidan has spent all this time assaulting Maiev's base instead of implementing whatever plan he needed the Eye of Sargeras for. I guess he's not acting entirely rationally and has a beef against her in particular.
+
+Whatever. Tyrande and Malfurion make landfall, though some of the ships have gone astray and landed on surrounding islands. There's a wall of trees separating them from their destination, but Malfurion isn't deterred.
+
+{% figure [caption:"I like how they're all patiently waiting for him knee-deep in water."] %}
+![Balancing the Scales](/assets/wr/20240706150248_1.jpg)
+{% endfigure %}
+
+He animates some of the trees as treants, creating a passage.
+
+As a teenager I loved this scene, as it painted Malfurion as using his powers pragmatically. Now I find it dangerously close to treating gameplay mechanics as literally true. Forests aren't actually impassable walls, nor does it make sense that animating four trees would be enough to create a passage through a forest. If anything, it's rather wasteful, unnecessarily upsetting the environment.
+
+Still, I have a different sort of appreciation for this scene. It serves as a [diegetic](https://www.merriam-webster.com/dictionary/diegetic) reminder of a gameplay mechanic that will be very useful to the player in this mission. The player might have played the original night elf campaign long ago and forgotten Malfurion's abilities, and this scene gently reminds them without interrupting the story flow.
+
+One of the gimmicks of the TFT campaigns is forcing the player to manage multiple forces in parallel. We saw it in the previous mission, when we had to juggle the limited forces escorting the runner alongside base defense. This mission continues the trend.
+
+{% figure [caption:"I assume these gold coins are teleported to Maiev's base, or something. Ah well, it's all highly abstracted anyway."] %}
+![Balancing the Scales](/assets/wr/20240706150539_1.jpg)
+{% endfigure %}
+
+Tyrande and Malfurion have a limited army, though they receive reinforcements from ships they find along the way. They're both level 10 and start with all their abilities, but [without any of the items](https://tvtropes.org/pmwiki/pmwiki.php/Main/BagOfSpilling) acquired in the previous campaign. A shame. I really could use that Necklace of Spell Immunity.
+
+Meanwhile, on the other side of the map, Maiev has a moderately developed base, but no gold mine. She has to rely on whatever gold Tyrande and Malfurion can find to build reinforcements. The good news is that since there's no workers mining gold, upkeep isn't an issue.
+
+Eventually, Tyrande and Malfurion come across a naga base blocking the way to Maiev's base. It's worth attacking it from two sides, with Maiev and her defense force joining the assault from the east.
+
+{% figure [caption:"Starfall, Tranquility and Vengeance make for a potent combination. These naga don't stand a chance."] %}
+![Balancing the Scales](/assets/wr/20240706151808_1.jpg)
+{% endfigure %}
+
+Once this base is down, I move my main tree to the gold mine-- no wait, there's a cutscene to sit through first. Maiev's reaction to Tyrande is... less than cordial.
+
+{% figure [caption:"But where were *you* when that happened?"] %}
+![Balancing the Scales](/assets/wr/20240706151933_1.jpg)
+{% endfigure %}
+
+Maiev is pleased to see Malfurion, but Tyrande, much less so, reminding her of all the deaths she caused to free Illidan. It's never addressed why Maiev herself wasn't guarding Illidan's prison when Tyrande rampaged through it. (The [Doylist](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) reason is that she wasn't invented yet, of course.)
+
+So yes. *Now* I move my trees to the former location of the naga base. The amount of gold in this mine is easily enough to last for the remainder of the mission.
+
+{% figure [caption:"I don't bother building up defenses now. With three heroes together, the best defense is offense."] %}
+![Balancing the Scales](/assets/wr/20240706152241_1.jpg)
+{% endfigure %}
+
+Now it's time to take the fight to Illidan. First I make a detour, collecting one of the reinforcements. It contains a new unit introduced in the expansion: [mountain giants](https://warcraft.wiki.gg/wiki/Mountain_giant).
+
+{% figure [caption:"*For now*, they're a rare sight, but eventually, nothing is special any more."] %}
+![Balancing the Scales](/assets/wr/20240706152339_1.jpg)
+{% endfigure %}
+
+These guys are absolute powerhouses. Just like their model would suggest, they're sturdy and tanky, with 1600 HP. They have a Taunt ability to force enemies to attack them, making them even better tanks, and they can break a tree to make a war club, giving them siege damage and thus making them excellent for attacking buildings. They make base sieges, traditionally costly for night elves, a breeze.
+
+And yes, ironically, they give the most nature-themed faction in the game yet another [way to destroy trees](https://www.youtube.com/watch?v=V2okYGk8ZP8).
+
+We besiege Illidan's base.
+
+{% figure [caption:"~~Hulk~~ Mountain giant smash!"] %}
+![Balancing the Scales](/assets/wr/20240706152844_1.jpg)
+{% endfigure %}
+
+He actually has two bases. Between three heroes and a ton of units, the northern base, containing Illidan himself, goes down easily, but the southern base proves a tougher nut to crack, as I got complacent and stopped building reinforcements. Eventually, thanks to Maiev's Vengeance providing reinforcements for free, I whittle down that base too.
+
+Illidan continues his patented modus operandi of making vague threats without explaining what he's up to.
+
+{% figure [caption:"If she's not going to be captured in this mission, what was even the point of showing her trapped?"] %}
+![Balancing the Scales](/assets/wr/20240706153122_1.jpg)
+{% endfigure %}
+
+Malfurion and Maiev come to Tyrande's rescue. Malfurion says he should have returned Illidan to his cage instead of banishing him. Illidan declares that he now serves a new master and has a task to perform in his service, without revealing who the master is or what the task is.
+
+He then runs away, or, rather, sails away. Again.
+
+{% figure [caption:"Apparently Illidan's naga built a night elf themed pier and then... didn't use it until now?"] %}
+![Balancing the Scales](/assets/wr/20240706153157_1.jpg)
+{% endfigure %}
 
 
 ## Shards of the Alliance
@@ -94,5 +170,13 @@ I do realize that WoW was developed in parallel with TFT, and TFT likely brought
 
 Next up: the so-called "Alliance" campaign. Racism is bad, mmkay?
 
+----
+
+Protect the caravan at all costs!
+
 
 [^nelfposting]: Oh no, I'm engaging in nelfposting in my own blog!
+
+[^ships]: What ships, incidentally? Didn't Illidan's naga destroy most of them while targeting coastal towns?
+
+
