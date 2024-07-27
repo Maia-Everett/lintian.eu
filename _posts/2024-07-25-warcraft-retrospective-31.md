@@ -341,7 +341,53 @@ As the finale of this campaign, this is a "final exam" kind of mission, though c
 
 That said, the parallel processing doesn't have to be all that parallel, at least on normal difficulty. I started with Malfurion, since he's attacked from two fronts. I built up an army, razed the one of his two opponents' bases that is accessible by land (southeast of his position), then moved my trees there, to a more easily defensible position. All the while, Illidan wasn't attacked even once, so I could build up his army again. Once Malfurion's southern opponent was eliminated, the northern one focused on Tyrande instead, so I could largely forget about Malfurion and concentrate on Illidan.
 
+{% figure [caption:"Divide and conquer."] %}
+![The Brothers Stormrage](/assets/wr/20240727113740_1.jpg)
+{% endfigure %}
 
+By the time I switched to Illidan, his workers had gathered so much gold and lumber that I could simply build up an army to the limit and not worry about upkeep. And when I did, I appreciated just how overpowered the naga were. 
+
+{% figure [caption:"Illidan's forces tore through the undead like through tissue paper."] %}
+![The Brothers Stormrage](/assets/wr/20240727123633_1.jpg)
+{% endfigure %}
+
+We're only required to destroy the red base to complete the mission, but I razed the two outlying bases first for a simple reason: there's a spot on the map where the two brothers can meet and exchange items (likely not intended by the map designers). Since Malfurion won't carry over to the next campaign, but (spoiler) Illidan will, I gave him all the best items.
+
+{% figure [caption:"Including Maiev's Shadow Orb. How ironic."] %}
+![The Brothers Stormrage](/assets/wr/20240727124032_1.jpg)
+{% endfigure %}
+
+With the red undead base destroyed, the mission is complete. Illidan opens a portal to let Tyrande escape.
+
+{% figure [caption:"Ugh. Is that *magic?* If my life wasn't in danger, I'd punish you for that."] %}
+![The Brothers Stormrage](/assets/wr/20240727124648_1.jpg)
+{% endfigure %}
+
+They reunite back at Malfurion's camp. As soon as Malfurion himself is in sight, Tyrande immediately forgets Illidan and goes to meet her beloved, who didn't do jack squat to rescue her.
+
+{% figure [caption:"Actually, I kind of counted on you to take the brunt of the attacks with your invulnerability trigger. Sorry."] %}
+![The Brothers Stormrage](/assets/wr/20240727124723_1.jpg)
+{% endfigure %}
+
+Malfurion says Illidan can't be forgiven for all the suffering he's caused[^suffering], but for saving Tyrande, he'll let him go. Illidan, on his part, says that lordship over the world never interested him --- only power, only the magic. However, by aiding the night elves, he has betrayed his new master (whoever that is), and now he should be careful.
+
+{% figure [caption:"If Illidan can open portals this easily, why didn't he just open a portal to Tyrande's location?"] %}
+![The Brothers Stormrage](/assets/wr/20240727124850_1.jpg)
+{% endfigure %}
+
+Well. This seems to be the end. Everything is neatly resolved, and it's time for farewells--
+
+{% figure [caption:"...Oh no."] %}
+![The Brothers Stormrage](/assets/wr/20240727124900_1.jpg)
+{% endfigure %}
+
+Ignoring everyone else, Maiev and her forces follow Illidan through the portal just before it closes. Tyrande tries to reason with Maiev, saying that Illidan has atoned for his crimes, but Malfurion says it's no use. Maiev has become vengeance itself, bound forever to the hunt, and all he can hope for is that she doesn't cause even more havoc than Illidan.
+
+{% figure [caption:"Ominous red sky. Again."] %}
+![The Brothers Stormrage](/assets/wr/20240727124924_1.jpg)
+{% endfigure %}
+
+For now, the kaldorei are going home. As for what happened to Illidan and Maiev beyond that portal... we'll find out soon enough.
 
 
 ## Thoughts on the Campaign
@@ -372,3 +418,5 @@ Protect the caravan at all costs!
 [^arevass]: Though Pyrewood Village is in WoW, River Arevass is nowhere to be found.
 
 [^gameplay]: The gameplay reason is obvious: the map designers wanted you to control two bases at once.
+
+[^suffering]: Illidan did, after all, massacre several villages' worth of night elf civilians. Malfurion hasn't forgotten that, so there's no protagonist-centered morality at work.
