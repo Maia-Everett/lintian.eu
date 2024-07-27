@@ -246,7 +246,7 @@ Kael can handle the defense of his base against the Scourge base to the southeas
 ![The Ruins of Dalaran](/assets/wr/20240707174134_1.jpg)
 {% endfigure %}
 
-The main naga base, however, puts up a much harder fight. It's absolutely crawling with naga units and pumps out replacements at an absurd speed, while also being home to a level 10 Illidan and a naga sea witch. I had to restart the mission at this point several times, trying different combinations of units and attacks, even using the Scroll of Animate Dead I had saved from the previous mission, even if necromancy isn't really something night elves should be doing. From a certain point onward I built only chimaeras, and that proved to be a fortunate decision.
+The main naga base, however, puts up a much harder fight. It's absolutely crawling with naga units and pumps out replacements at an absurd speed, while also being home to a level 10 Illidan and a naga sea witch. I had to reload my save at this point several times, trying different combinations of units and attacks, even using the Scroll of Animate Dead I had saved from the previous mission, even if necromancy isn't really something night elves should be doing. From a certain point onward I built only chimaeras, and that proved to be a fortunate decision.
 
 {% figure [caption:"In the end I leveled everything and killed the summoners with only a token force left."] %}
 ![The Ruins of Dalaran](/assets/wr/20240707180351_1.jpg)
@@ -272,7 +272,7 @@ This part of Illidan's characterization, at least, will stay consistent going fo
 
 Two: if Maiev was never your goal, why didn't you use the Eye sooner?
 
-Consider that he had assaulted Maiev's base for a whole day or two before Tyrande and Malfurion arrived with reinforcements and he had to flee to Lordaeron. If he had simply used the Eye for his intended purpose right away, Maiev alone wouldn't have been able to stop him, and he'd have completed the ritual and destroyed the Lich King --- likely at a tremendous damage to the world, but who cares if there's a new Sundering if it means destroying the enemy of all life?
+Consider that he had assaulted Maiev's base for a whole day or two before Tyrande and Malfurion arrived with reinforcements and he had to flee to Lordaeron. If he had simply used the Eye for his intended purpose right away, Maiev alone wouldn't have been able to stop him, and he'd have completed the ritual and destroyed the Lich King --- likely at the cost of tremendous damage to the world, but who cares if there's a new Sundering if it means destroying the enemy of all life?
 
 Whatever. Malfurion is still malfurious, as because of Illidan, Tyrande is dead. However, at this moment, Kael intercedes.
 
