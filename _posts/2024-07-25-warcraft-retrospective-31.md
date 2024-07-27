@@ -240,7 +240,7 @@ The mission is on a timer: we have to defeat Illidan in thirty minutes before he
 
 As if apologizing for the original night elf campaign not letting us build chimaeras, here they're actually the key to this mission. We need to kill four naga summoners, who can only be damaged by magic and hero attacks. Chimaeras happen to have the magic attack type, as do faerie dragons, a new unit we unlock in this mission.
 
-The small naga outposts to the south falls easily, and the paladin's Resurrection helps me recover the losses.
+Kael can handle the defense of his base against the Scourge base to the southeast, so I just attack Illidan. The small naga outpost to the south falls easily, and the paladin's Resurrection helps me recover the losses.
 
 {% figure [caption:"By the grace of the Light, live again, faithful servants of... er, Elune!"] %}
 ![The Ruins of Dalaran](/assets/wr/20240707174134_1.jpg)
@@ -313,6 +313,35 @@ What a waste.
 ![The Brothers Stormrage](/assets/wr/20240726112633_1.jpg)
 {% endfigure %}
 
+And so Malfurion enlists Illidan's help in saving Tyrande.
+
+{% figure [caption:"And why do they smell so much?"] %}
+![The Brothers Stormrage](/assets/wr/20240726112657_1.jpg)
+{% endfigure %}
+
+It sure is interesting that the moment Tyrande's life is on the stake, Malfurion seems to completely forget about all legitimate grudges he had with Illidan --- a list that could have been shorter if *he* hadn't exiled his brother in the first place.
+
+Meanwhile, Tyrande turns out to be doing... quite fine.
+
+{% figure [caption:"Apparently this small camp has held off the entire Scourge army all by itself."] %}
+![The Brothers Stormrage](/assets/wr/20240726112716_1.jpg)
+{% endfigure %}
+
+This is actually a naga mission disguised as a night elf one. Malfurion and Illidan's forces have completely separate bases and resources. Neither brother is going to use flying units (for flimsy reasons), and so the plan is that Illidan and his naga will travel along the river and rescue Tyrande, while Malfurion will... er... um...
+
+...hold his position?
+
+{% figure [caption:"These are Maiev's items on the ground, so we know we won't be controlling her again."] %}
+![The Brothers Stormrage](/assets/wr/20240727111053_1.jpg)
+{% endfigure %}
+
+Yes, to this date, I don't understand the story reason for including Malfurion here.[^gameplay] He's entirely superfluous. Illidan does all the work while Malfurion has no goal besides defending his base. It *could* have been that the intent was that he defends Tyrande while waiting for Illidan to rescue her, but he cannot actually do that, because his ground-only forces have no access to Tyrande's little outpost. Nor does Tyrande *need* to be defended, since she can't actually die: a trigger automatically heals her whenever her HP drops below 30%.
+
+As the finale of this campaign, this is a "final exam" kind of mission, though coupled with the additional complication of learning a new faction from scratch. There are *five* undead bases on this map, two for Malfurion and three for Illidan, and one of them is inaccessible.
+
+That said, the parallel processing doesn't have to be all that parallel, at least on normal difficulty. I started with Malfurion, since he's attacked from two fronts. I built up an army, razed the one of his two opponents' bases that is accessible by land (southeast of his position), then moved my trees there, to a more easily defensible position. All the while, Illidan wasn't attacked even once, so I could build up his army again. Once Malfurion's southern opponent was eliminated, the northern one focused on Tyrande instead, so I could largely forget about Malfurion and concentrate on Illidan.
+
+
 
 
 ## Thoughts on the Campaign
@@ -341,3 +370,5 @@ Protect the caravan at all costs!
 [^rogue_wizard]: As opposed to a rogue/wizard, which would be a multiclass character.
 
 [^arevass]: Though Pyrewood Village is in WoW, River Arevass is nowhere to be found.
+
+[^gameplay]: The gameplay reason is obvious: the map designers wanted you to control two bases at once.
