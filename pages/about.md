@@ -4,6 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
+<figure class="character-portrait">
+<img src="/assets/art/heraldry.svg" width="300" /><figcaption></figcaption></figure>
+
 I am, simply put, a fantasy roleplayer. I am other things, too, but they don't matter right now.
 
 I enjoy roleplaying in all its forms: text-based in MMO games, tabletop <abbr title="Dungeons & Dragons">D&D</abbr> games, and live action. Over the years I have played many characters, and became known under many names, such as [Lintian](/lintian/) on Azeroth, [Vielle](/vielle/) in Eorzea, Fichraona in Tyria, and Nimrandis in Middle-earth. To Tamriel I go not.
