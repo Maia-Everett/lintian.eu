@@ -292,7 +292,7 @@ And this is the pivotal point here in this campaign.
 
 As a teenager, I was mad at Malfurion. How dare he touch Maiev --- she's the main character (and also really cool)! But now I see that I was blinded by protagonist-centered morality. While she may have been the protagonist until now, empathically, *Maiev is not a good person*.
 
-All the way through, she never displayed empathy for anyone. She jumped to conclusions that the furbolgs and wildkin were driven mad by Illidan, and executed them without mercy. She jumped to conclusions about the satyr working with Illidan. She regretted helping Drek'thar silence the ghosts haunting him. She didn't grieve for Naisha --- instead her demise only marked the point when Maiev's quest became personal. She left Tyrande behind and lied to Malfurion about her fate --- and then clung to the urgency of stopping Illidan, because it gave her an excuse for her inexcusable behavior.
+All the way through, she never displayed empathy for anyone. She jumped to conclusions that the furbolgs and wildkin were driven mad by Illidan, and executed them without mercy. She jumped to conclusions about the satyr working with Illidan. She regretted helping Drak'thul silence the ghosts haunting him. She didn't grieve for Naisha --- instead her demise only marked the point when Maiev's quest became personal. She left Tyrande behind and lied to Malfurion about her fate --- and then clung to the urgency of stopping Illidan, because it gave her an excuse for her inexcusable behavior.
 
 She may not be *evil*, and she's nominally on the side of good, but that doesn't make her a moral person, either.
 
@@ -339,7 +339,7 @@ Yes, to this date, I don't understand the story reason for including Malfurion h
 
 As the finale of this campaign, this is a "final exam" kind of mission, though coupled with the additional complication of learning a new faction from scratch. There are *five* undead bases on this map, two for Malfurion and three for Illidan, and one of them is inaccessible.
 
-That said, the parallel processing doesn't have to be all that parallel, at least on normal difficulty. I started with Malfurion, since he's attacked from two fronts. I built up an army, razed the one of his two opponents' bases that is accessible by land (southeast of his position), then moved my trees there, to a more easily defensible position. All the while, Illidan wasn't attacked even once, so I could build up his army again. Once Malfurion's southern opponent was eliminated, the northern one focused on Tyrande instead, so I could largely forget about Malfurion and concentrate on Illidan.
+That said, the parallel processing doesn't have to be all that parallel, at least on normal difficulty. I started with Malfurion, since he's attacked from two fronts. I built up an army, razed the one of his two opponents' bases that is accessible by land (southeast of his position), then moved my trees there, to a more easily defensible position. All the while, Illidan wasn't attacked even once, so I could build up his army ahead. Once Malfurion's southern opponent was eliminated, the northern one focused on Tyrande instead, so I could largely forget about Malfurion and concentrate on Illidan.
 
 {% figure [caption:"Divide and conquer."] %}
 ![The Brothers Stormrage](/assets/wr/20240727113740_1.jpg)
