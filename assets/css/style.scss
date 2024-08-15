@@ -85,6 +85,10 @@ h1, h2, h3, h4, h5, h6 {
   float: initial;
 }
 
+.site-title-icon {
+  display: flex;
+}
+
 // Custom elements
 
 .post-title, .post-content h1 {
