@@ -198,6 +198,73 @@ Kael tries to defend his men, saying that the decision to ally with the naga is 
 ![The Dungeons of Dalaran](/assets/wr/20240821214840_1.jpg)
 {% endfigure %}
 
+As Kael wastes away in his anti-magic cell, two guards --- who actually have *names* --- are bragging about how the anti-magic cells will keep the elves at bay. Then, they're instantly killed by Vashj, who sneaked in through the canals to save Kael a third time.
+
+{% figure [caption:"Were the guards made of pure blood? Are they Angels from Evangelion?"] %}
+![The Dungeons of Dalaran](/assets/wr/20240821214917_1.jpg)
+{% endfigure %}
+
+Kael recognizes that even if he and his people escape prison, they have nowhere to run. However, Vashj presents a solution.
+
+{% figure [caption:"Yes, I think Kael knows what a portal is."] %}
+![The Dungeons of Dalaran](/assets/wr/20240821214953_1.jpg)
+{% endfigure %}
+
+This portal was opened by Kel'Thuzad to bring Archimonde to this world, and somehow it hasn't been closed in the months since then. It's a bit of a contrivance, but I can let it pass. After all, Dalaran remained in the hands of the Burning Legion until Garithos recently retook it, and presumably his forces don't have a mage of Khadgar's calibre who would have both the knowledge and the power necessary to close a dimensional gateway. On the other way of this portal, Vashj's master, Illidan, is waiting.
+
+It's pretty clear that Vashj isn't telling Kael everything at once. In the first mission, she claimed to be on her own after Illidan's departure, but now she calls him her master --- and knows where he is. I think what's happening here is that by exploiting Kael's increasing desperation and feeding him information piecemeal, Vashj is opening him, bit by bit, to the idea of permanently allying with her and Illidan --- a thought he would initially find reprehensible, especially considering he fought them on the night elves' side not that long ago.
+
+Thus begins another dungeon crawl. "The Tomb of Sargeras" is still my favorite one, but this is a close second.
+
+{% figure [caption:"Explore this enormous prison complex and loot the magical legacy of the Kirin Tor, with no pressure whatsoever!"] %}
+![The Dungeons of Dalaran](/assets/wr/20240821215039_1.jpg)
+{% endfigure %}
+
+The premise here is a bit similar to ["The Fires Down Below"](/2024/03/13/warcraft-retrospective-20/) from *way* back in Thrall's prologue campaign. We're breaking from a prison, so our goal is to free our fellow prisoners, who then fight for us. A nice visual touch here is that other than the four lieutenants, freed blood elf prisoners start with civilian models, then go to the nearest armor stand to arm themselves, turning into spell breakers, priests, or archers.
+
+Like in "The Tomb of Sargeras", there's a *lot* of secrets and puzzles here. They start small, like this item that is lying in water. To loot it, you have to destroy the giant mushrooms with Kael's Flame Strike, then take Vashj into the water.
+
+{% figure [caption:"Explore this enormous prison complex and loot the magical legacy of the Kirin Tor, with no pressure whatsoever!"] %}
+![The Dungeons of Dalaran](/assets/wr/20240821215844_1.jpg)
+{% endfigure %}
+
+Soon, we're introduced to the side quest of this mission, as well as its overall mechanic.
+
+{% figure [caption:"There are tons of books on those shelves, but Kael is more excited about having figured out a puzzle."] %}
+![The Dungeons of Dalaran](/assets/wr/wc3x_bloodelf3.jpg)
+{% endfigure %}
+
+We need to find four ghostly archmagi, give them eternal rest, and take their stuff. Like with Shadow Orb fragments, they drop fragments that empower a combining item, specifically a ring that, at its full power, gives nearby units a Brilliance Aura effect --- enhanced mana regeneration. This normally requires an Archmage hero, and with the fully assembled ring, Kael and Vashj can now cast with impunity.
+
+To unlock the rooms with the archmagi, we must find matching pairs of colored runes. Apparently they ran out of time to record Kael's dialogue explaining this, because he reuses two of his generic unit lines for this cutscene. This made the original Russian dub's version of this cutscene unintentionally hilarious: "I sense something... elusive" was for some reason translated as "Hurry up!", so in the cutscene, Kael says "Hurry up! Excellent!" despite no obvious source of any time pressure.
+
+Not all pairs of runes lead to archmagi. Some reveal powerup items, and one particularly tricky pair, where one rune is far away and initially hidden under giant mushrooms that need to be burned down to reveal it, leads to a treasure trove of items guarded by a powerful arcane golem.
+
+{% figure [caption:"So... *uhhh...* how did the Essence of Aszune end up here? Did the Kirin Tor excavate night elf artifacts from Kalimdor?"] %}
+![The Dungeons of Dalaran](/assets/wr/20240821223746_1.jpg)
+{% endfigure %}
+
+There is also... *this* room.
+
+{% figure [caption:"Of course the Kirin Tor would be experimenting on sheep. They factored sheep into the Polymorph spell, after all."] %}
+![The Dungeons of Dalaran](/assets/wr/20240821222723_1.jpg)
+{% endfigure %}
+
+The three pressure plates in front of the colored sheep need to be activated in the correct sequence so that the sheep say "baa, ram, you". Once activated in this manner, they will open a door to... whatever *this* is.
+
+{% figure [caption:"&ldquo;So Kael, have you considered demons as a source of magic to feast on?&rdquo; --- &ldquo;When sheep fly!&rdquo;"] %}
+![The Dungeons of Dalaran](/assets/wr/20240821222738_1.jpg)
+{% endfigure %}
+
+Taking the "Secret Level Powerup" makes the flying sheep do a little dance and unlocks the eponymous secret level. What secret level? We're about to see.
+
+After an encounter with flesh golems released by guards, we free a whole *lot* of blood elves from prison cells and kill this guy, Jailor Kassan, who has a pretty nice "working class" accent, as well as a lot of Garithos's men.
+
+{% figure [caption:"And then they both teleport offscreen far away from each other after this little conversation."] %}
+![The Dungeons of Dalaran](/assets/wr/20240821224127_1.jpg)
+{% endfigure %}
+
+Jailor Kassan has a ton of HP, but isn't a difficult fight. With his death, the escape from the [dungeons of Dalaran](https://warcraft.wiki.gg/wiki/Violet_Hold) is complete. All that remains is to keep the portal open long enough for everyone to escape through --- which will be difficult, as Garithos's forces will surely try to destroy it.
 
 
 ## The Crossing
@@ -205,6 +272,12 @@ Kael tries to defend his men, saying that the decision to ally with the naga is 
 {% figure [caption:"I hope there aren't cows involved."] %}
 ![The Crossing](/assets/wr/20240821224517_1.jpg)
 {% endfigure %}
+
+This is the secret mission I mentioned earlier. If the sheep secret is not activated, it will simply be skipped.
+
+
+
+
 
 Next up: we find out where the portal actually leads!
 
