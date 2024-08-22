@@ -5,7 +5,7 @@ categories: [ Warcraft Retrospective, Warcraft ]
 excerpt_separator: <!--more-->
 ---
 
-As we saw [last time](/2024/07/27/warcraft-retrospective-31/), much of the expansion night elf campaign, especially the second half, might as well not have existed. Sure, it introduced Maiev, a now-iconic character, and the Broken Isles, which later became the setting of a well-liked expansion (albeit in a *heavily* retconned form), but most of the events of this campaign specifically are never mentioned again in later Warcraft lore.
+As we saw [last time](/2024/07/27/warcraft-retrospective-31/), much of the expansion night elf campaign, especially the second half, might as well not have existed. Sure, it introduced Maiev, a now-iconic character, and the Broken Isles, which later became the setting of a [well-liked expansion](https://warcraft.wiki.gg/wiki/World_of_Warcraft:_Legion) (albeit in a *heavily* retconned form), but most of the events of this campaign specifically are never mentioned again in later Warcraft lore.
 
 The events of the *next* campaign, however, became very important and foundational to Warcraft lore as we know it now.
 
@@ -50,7 +50,7 @@ And the background music perfectly fits the tone of the campaign as well.
 
 {% youtube "https://www.youtube.com/watch?v=_7Z38j7kwtU" %}
 
-It encapsulates the state of the Alliance: it has fallen on hard times, and whole nations lie in ruins, but its spirit endures. It mixes in desperation, dignity, and resolve. And intentional or not, YouTube commenter @nausherwanbabry identifies parts of this theme with going through the Seven Kingdoms in order: Lordaeron, Stromgarde, Stormwind, Alterac, Dalaran, Gilneas, and finally, Kul Tiras.
+It captures the state of the Alliance at this point: it has fallen on hard times, and whole nations lie in ruins, but its spirit endures. It mixes in desperation, dignity, and resolve. And intentional or not, YouTube commenter @nausherwanbabry identifies parts of this theme with going through the Seven Kingdoms in order: Lordaeron, Stromgarde, Stormwind, Alterac, Dalaran, Gilneas, and finally, Kul Tiras.
 
 The mission takes place among the ruins of Dalaran, amid desolation wrought by the Scourge. A lone peasant is repairing the first observatory while we explore the eastern, urban section with our starting troops. Kael is a [blood mage](https://warcraft.wiki.gg/wiki/Blood_mage) starting with Flame Strike, a telegraphed AoE, and Banish, which makes a unit temporarily unable to attack while also making it temporarily immune to physical damage (but taking extra damage from spells). Flame Strike pairs well with the new unit, the [spell breaker](https://warcraft.wiki.gg/wiki/Spellbreaker), which is immune to magic and thus can stand safely in Flame Strike's area of effect.
 
@@ -275,9 +275,48 @@ Jailor Kassan has a ton of HP, but isn't a difficult fight. With his death, the 
 
 This is the secret mission I mentioned earlier. If the sheep secret is not activated, it will simply be skipped.
 
+The blood elves are escaping through the portal, and Garithos is not exactly happy about it. Your job is to construct fortifications and hold the line until everyone is true.
 
+{% figure [caption:"The archery targets are there, of course, to give the engineers something to do on watercooler breaks."] %}
+![The Crossing](/assets/wr/20240821224537_1.jpg)
+{% endfigure %}
 
+Sounds like a perfectly ordinary premise. So why is this mission secret?
 
+Because it's a radical departure from normal Warcraft 3 gameplay. It's a [tower defense](https://en.wikipedia.org/wiki/Tower_defense) mission.
+
+Tower defense is, at its core, a game genre that revolves around constructing fortifications to automatically attack incoming enemies before they reach an exit. There were many successful stand-alone games in this genre, and it was also popular type of custom maps for Warcraft 3, made possible by the formidable capabilities of the World Editor. It was popular enough that Blizzard couldn't resist taking a swing at a tower defense map themselves.
+
+Here's a taste of what the mission map looks like:
+
+{% figure [caption:"Don't question the Kirin Tor's urban planning skills."] %}
+![The Crossing](/assets/wr/20240821224633_1.jpg)
+{% endfigure %}
+
+Garithos's forces are divided into thirty waves. They follow the same winding path, ignoring absolutely everything in their way until they reach the portal, with every enemy unit that reaches it dealing damage to it. If the portal's HP drops to 0 before all thirty waves are exhausted, you lose. You thin out the enemy waves along the way by having your engineers construct towers along the side lanes at a rapid pace, with more and more effective types of towers periodically unlocked. Destroyed enemies drop gold coins, which you loot with your heroes to get gold to build more towers.
+
+I struggle to consider this mission canon, and this might be one of the reasons it was given its secret status. Why would Garithos, a notorious racist, have such a diverse array of creatures under his command, from goblins to trolls to pandaren to *dragons* to *undead* --- the same undead he himself is fighting? How did they all agree to fight for him? How did they *get* here (in particular, how did the centaurs get here from Kalimdor)? Why do they all lack even the most basic sense of self-preservation? Why are the engineers able to build the towers so quickly, and why don't they do it earlier or later? Why... why... why...
+
+You get the idea. I like the concept of this mission, but perhaps it would have been better executed as a standalone scenario, not part of the story campaign.
+
+I like the engineers, though. Their unit lines are downright *hilarious* because of [how long](https://www.youtube.com/watch?v=685wBME1Rds) they are, and the rapid-fire delivery also sells it, and as an engineer who hates being pulled out of the state of flow, I can relate to them.
+
+* "You're interrupting my calculations!"
+* "Yes, yes, I'm already on it."
+* "An elf would have thought of something better!"
+* "No, no, no, not like that! Let *me* do it!"
+
+This mission is very demanding of the player's <acronym title="actions per minute">APM</acronym>, so I only managed to survive a measly 12 waves out of 30 before my portal was wiped out. So what happens if you lose?
+
+<p style="text-align: center"><img src="/assets/wr/task_failed_successfully.png" width="300" /></p>
+
+Turns out you're shown a "YOU LOSE!" screen telling you how many waves you've survived (and keeping track of your high score, in case you'd like to replay), but the main quest is marked as completed anyway, and you still see the victory cutscene.
+
+If you do manage to survive all 30 waves, you'll be given a third hero, a Pandaren Brewmaster, for the next mission. Since the next mission is easy anyway even without the extra help, completing the secret mission is entirely optional.
+
+{% figure [caption:"Wait, is she aiming her bow at a covering engineer?"] %}
+![The Crossing](/assets/wr/20240821225820_1.jpg)
+{% endfigure %}
 
 Next up: we find out where the portal actually leads!
 
