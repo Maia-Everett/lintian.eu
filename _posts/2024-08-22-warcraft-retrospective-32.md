@@ -111,6 +111,85 @@ For now, Garithos leaves Kael with just a warning. For now.
 ![A Dark Covenant](/assets/wr/20240821210446_1.jpg)
 {% endfigure %}
 
+An emissary arrives at Kael's camp. The observatories have detected a large undead force moving this way, and Garithos wants Kael to crush them. This doesn't sound too difficult, but... there's a catch.
+
+{% figure [caption:"So whom *does* this leave out?"] %}
+![A Dark Covenant](/assets/wr/20240821210523_1.jpg)
+{% endfigure %}
+
+The knights, riflemen, and mortar teams heed the emissary's words and move out. "This is preposterous!" exclaims Kael. "Am I to assault the undead with nothing but sticks and harsh language?"
+
+{% figure [caption:"Only now?"] %}
+![A Dark Covenant](/assets/wr/20240821210542_1.jpg)
+{% endfigure %}
+
+In a nice case of visual continuity, this mission takes place on a near-copy of the first mission's map, with the eastern urban portion gone and some new land in the west revealed.
+
+{% figure [caption:"Easier said than done."] %}
+![A Dark Covenant](/assets/wr/20240821210553_1.jpg)
+{% endfigure %}
+
+In the previous mission, you had access to the entire Alliance tech tree. Here, you're left with just the blood elves, so there's a grand total of *six* units you can build: the sorceress, priest and spell breaker, plus the dragonhawk rider (a new flying unit that specializes in anti-air) and the campaign-only blood elf swordsman (a reskinned footman) and archer (a recolored, well, archer). What's worse, the undead are advancing with an overwhelming force. Like in [Grom Hellscream's second mission](/2024/05/18/warcraft-retrospective-26/), at the beginning, all you can do is watch your outlying bases get pulverized into dust.
+
+What's *worse* worse, your remaining base, on the island, has no gold mine.
+
+At this dark hour, the naga once again bring much-needed help.
+
+{% figure [caption:"They're being suspiciously generous."] %}
+![A Dark Covenant](/assets/wr/20240821210921_1.jpg)
+{% endfigure %}
+
+Kael has doubts, as Garithos would disapprove, but Vashj points out that he's not here. Besides, Kael doesn't have much of a choice.
+
+This mission is reportedly *brutally hard* on hard difficulty because you have no siege units, are left against five bases, and the green base is enormous --- and constantly sending attacks your way, putting pressure on you to coordinate attack and defense at the same time. On normal difficulty, however, I found it pretty easy. I immediately besieged the easiest base to take --- the southeastern one --- and erect an expansion in its place.
+
+{% figure [caption:"Naga units continue to be overpowered, especially the Royal Guard. This absolute beast with Chaos damage actually contributes more to the fights than the heroes!"] %}
+![A Dark Covenant](/assets/wr/20240821211220_1.jpg)
+{% endfigure %}
+
+Meanwhile, green is pestering my main base with aerial attacks, so I bring an army of workers to build a line of towers.
+
+{% figure [caption:"When they stand (when they stand), hand in hand (hand in hand)!"] %}
+![A Dark Covenant](/assets/wr/20240821211517_1.jpg)
+{% endfigure %}
+
+In this mission, I built mostly dragonhawks. They do okay damage, can immobilize enemy flyers (which is especially effective against frost wyrms), and can be rapidly redeployed between assaults on outlying bases and defense of the central one. They can also be sent from the island without using ships, which otherwise only the amphibious naga units can do.
+
+I also build a few more priests to heal the naga units, as they're both powerful and irreplaceable.
+
+Once all five outlying undead bases are destroyed, I assault the *huge* green base.
+
+{% figure [caption:"Again, halfway through I lost both my heroes thanks to not paying much attention to micro, but the naga and dragonhawks finished the siege on their own. The myrmidons have nets to immobilize flyers, just like orc raiders."] %}
+![A Dark Covenant](/assets/wr/20240821214305_1.jpg)
+{% endfigure %}
+
+The blood elves and naga celebrate victory... for now. Kael confides something to Vashj that is going to be very, *very* important to the overall franchise.
+
+{% figure [caption:"Bending one's neck at that angle doesn't look very healthy."] %}
+![A Dark Covenant](/assets/wr/20240821214622_1.jpg)
+{% endfigure %}
+
+Vashj knows exactly what Kael is talking about. Like the naga, who are former Highborne, the blood elves are addicted to magic. It flowed through their veins for ten thousand years, and now, with the Sunwell destroyed and Quel'Thalas corrupted, its people are cut off from magic --- and will surely die unless a new source is found.
+
+Magic addiction is familiar to us today and is a well-known element of the Warcraft setting, but back in 2003, it was a brand new development. From Warcraft 1 to Reign of Chaos, there was no evidence that magic was like a drug and being cut off from it could cause withdrawal; the worst you could say was that magic *users*, from Azshara to Antonidas, could sometimes be arrogant and too confident in their power, but that was not universally the case; Khadgar and Jaina were both characterized as decent people.
+
+The introduction of magic addiction made the destruction of the Sunwell that much worse. Not only were the elves of Quel'Thalas cut off from their source of power; they were starving, and now their very survival depended on finding a replacement. On the other hand, it retroactively made the sacrifice of the night elves, who went cold turkey on magic after the Sundering, more justified and more poignant.
+
+Vashj proposes demons as an alternate source of power, but Kael says they will never be that desperate. Before Vashj can retort, a spell breaker arrives.
+
+{% figure [caption:"On top of everything else, Garithos needlessly parades his troops around."] %}
+![A Dark Covenant](/assets/wr/20240821214718_1.jpg)
+{% endfigure %}
+
+The naga try to hide, but it's too late; Garithos's knights notice them retreating. The Grand Marshal himself makes a pronouncement from his high horse.
+
+{% figure [caption:"Kael's pose makes it look like he's making some kind of light show performance."] %}
+![A Dark Covenant](/assets/wr/20240821214759_1.jpg)
+{% endfigure %}
+
+I like the cinematography here, such as it is. Garithos is standing on a hill, and the scene is seen from a low angle with buildings in the distance. I wonder if it's an intentional throwback to Arthas in "The Culling". Like then, we have passed a point of no return; an arrogant, overzealous Alliance commander is accusing his subordinates of treason, and in doing so, sealing both their fate and, as we'll see much later, his own.
+
+Kael tries to defend his men, saying that the decision to ally with the naga is his alone, but Garithos won't listen. The blood elves are arrested, disarmed, and taken away to...
 
 
 ## The Dungeons of Dalaran
