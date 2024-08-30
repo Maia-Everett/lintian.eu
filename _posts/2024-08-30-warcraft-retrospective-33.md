@@ -194,6 +194,52 @@ Now that the dimensional gates are sealed, an assault on Magtheridon's Black Cit
 ![Lord of Outland](/assets/wr/20240826191202_1.jpg)
 {% endfigure %}
 
+Illidan and his forces are moving to assault the Black Citadel.
+
+{% figure [caption:"Your overconfidence is your weakness."] %}
+![Lord of Outland](/assets/wr/20240826191215_1.jpg)
+{% endfigure %}
+
+Genius military commander that he is, Kael just keeps sending his spell breakers to pointlessly die at the fortifications as they keep being torn to shreds atop the corpses of their comrades.
+
+{% figure [caption:"The definition of madness is repeating the same thing and expecting a different result."] %}
+![Lord of Outland](/assets/wr/20240826191304_1.jpg)
+{% endfigure %}
+
+Suddenly, Akama and the draenei appear.
+
+{% figure [caption:"But the orcs didn't even serve the demons for generations! It was a recent development!"] %}
+![Lord of Outland](/assets/wr/20240826191316_1.jpg)
+{% endfigure %}
+
+They destroy the generator powering the gate defenses, allowing the blood elves to cross through.
+
+This is an unusual mission. We have whopping four heroes at our disposal: Illidan, Kael, Vashj, and Akama. They have some of the best items in the game[^illidan] It's a bit of a middle ground between a dungeon crawl and base gameplay: we can't construct buildings, but we can build units at existing buildings, with gold coins looted in the dungeon being our only source of income.
+
+Our enemies are mostly demons, plus three fel orc bases. First, we need to kill two of Magtheridon's demon lieutenants --- the Master of Pain and the Mistress of Torment.
+
+{% figure [caption:"There's a Maim, too."] %}
+![Lord of Outland](/assets/wr/20240826191556_1.jpg)
+{% endfigure %}
+
+The Master of Pain is served by two blademasters called Rend and Maim. Clearly, they're supposed to be the sons of Blackhand, and clearly, they're supposed to die here.
+
+{% figure [caption:"There are also some fun side encounters, like a strong unique abomination called [&ldquo;The Butcher&rdquo;](https://diablo.fandom.com/wiki/The_Butcher_(Diablo_I)), who guards an item called &ldquo;[Wirt](https://diablo.fandom.com/wiki/Wirt)'s Other Leg&rdquo;. Both are a reference to Diablo."] %}
+![Lord of Outland](/assets/wr/20240826193917_1.jpg)
+{% endfigure %}
+
+Illidan, Kael, and the blood elves clear the Black Citadel by land. Meanwhile, Vashj and her naga join the assault by water, fighting... orc juggernauts?
+
+{% figure [caption:"But do their orc crews have pirate accents like in Warcraft 2?"] %}
+![Lord of Outland](/assets/wr/20240826195112_1.jpg)
+{% endfigure %}
+
+Whatever. It's fun. We have overpowered heroes and their overpowered armies pretty much roflstomping all resistance. Halfway through, we can raise two platforms that allow the two armies to join, and we can throw our full upkeep's worth of troops on the pit lord and his cohorts.
+
+{% figure [caption:"Magtheridon is no slouch, but we're stronger, still."] %}
+![Lord of Outland](/assets/wr/20240826202429_1.jpg)
+{% endfigure %}
+
 
 Magtheridon is slain, and Illidan proclaims his rule over Outland...
 
@@ -243,3 +289,5 @@ Next up is the undead campaign, which concludes the main storyline of The Frozen
 [^pandaren]: Plus a third hero, a pandaren brewmaster, if we managed to win the secret mission.
 
 [^draenei]: They look nothing like the draenei the Warcraft Wiki article is about, and there's a reason for this: those draenei were retconned in. We're looking at the pre-retcon version of the race.
+
+[^illidan]: Illidan's inventory carries over from the previous campaign, so it's possible to load him full of top tier items, including the Shadow Orb originally assembled by Maiev.
