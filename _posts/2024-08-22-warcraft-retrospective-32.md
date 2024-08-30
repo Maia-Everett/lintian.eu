@@ -15,7 +15,7 @@ The events of the *next* campaign, however, became very important and foundation
 ![Curse of the Blood Elves](/assets/wr/20240727165138_1.jpg)
 {% endfigure %}
 
-We're embarking on the so-called "Alliance" campaign. I say "so-called" because, as we'll see, we'll only be playing the actual Alliance tech tree in the first mission, and in the rest of them we'll have custom, campaign-only tech trees. It's interesting to note that in Reign of Chaos, the campaigns were named the human, undead, orc, and night elf campaigns, while where, we have the Sentinel, Alliance, and Scourge campaigns. I wonder if this campaign is the reason: calling it a human campaign will be blatant false advertising.
+We're embarking on the so-called "Alliance" campaign. I say "so-called" because, as we'll see, we'll only be playing the actual Alliance tech tree in the first mission, and in the rest of them we'll have custom, campaign-only tech trees. It's interesting to note that in Reign of Chaos, the campaigns were named the human, undead, orc, and night elf campaigns, while here, we have the Sentinel, Alliance, and Scourge campaigns. I wonder if this campaign is the reason: calling it a human campaign would be blatant false advertising.
 
 The end result is that people who were expecting a more traditional Alliance campaign, perhaps focusing on Jaina's Alliance-in-exile in Kalimdor, are going to be disappointed. To learn what *that* group has been up to, we'll have to turn to the *orc* campaign, which is completely disconnected from the main story.
 
@@ -44,7 +44,7 @@ Once the cutscene ends, we gain control of Kael and a few units.
 ![Misconceptions](/assets/wr/20240727165422_1.jpg)
 {% endfigure %}
 
-I like Kael's character design (except for the three green orbs floating around him for some reason). His portrait's facial features show that we're not dealing with a goody-to-shoes hero here, but a desperate man resorting to desperate measures. His voice sells this impression, too. It fits the overall despairing tone of this entire campaign, which takes place among charred ruins and you have to build your future from whatever scraps you find.
+I like Kael's character design (except for the three green orbs floating around him for some reason). His portrait's facial features show that we're not dealing with a goody-two-shoes hero here, but a desperate man resorting to desperate measures. His voice sells this impression, too. It fits the overall despairing tone of this entire campaign, which takes place among charred ruins and you have to build your future from whatever scraps you find.
 
 And the background music perfectly fits the tone of the campaign as well.
 
@@ -141,7 +141,7 @@ At this dark hour, the naga once again bring much-needed help.
 
 Kael has doubts, as Garithos would disapprove, but Vashj points out that he's not here. Besides, Kael doesn't have much of a choice.
 
-This mission is reportedly *brutally hard* on hard difficulty because you have no siege units, are left against five bases, and the green base is enormous --- and constantly sending attacks your way, putting pressure on you to coordinate attack and defense at the same time. On normal difficulty, however, I found it pretty easy. I immediately besieged the easiest base to take --- the southeastern one --- and erect an expansion in its place.
+This mission is reportedly *brutally hard* on hard difficulty because you have no siege units, are left against five bases, and the green base is enormous --- and constantly sending attacks your way, putting pressure on you to coordinate attack and defense at the same time. On normal difficulty, however, I found it pretty easy. I immediately besieged the easiest base to take --- the southeastern one --- and erected an expansion in its place.
 
 {% figure [caption:"Naga units continue to be overpowered, especially the Royal Guard. This absolute beast with Chaos damage actually contributes more to the fights than the heroes!"] %}
 ![A Dark Covenant](/assets/wr/20240821211220_1.jpg)
@@ -224,7 +224,7 @@ The premise here is a bit similar to ["The Fires Down Below"](/2024/03/13/warcra
 
 Like in "The Tomb of Sargeras", there's a *lot* of secrets and puzzles here. They start small, like this item that is lying in water. To loot it, you have to destroy the giant mushrooms with Kael's Flame Strike, then take Vashj into the water.
 
-{% figure [caption:"Explore this enormous prison complex and loot the magical legacy of the Kirin Tor, with no pressure whatsoever!"] %}
+{% figure [caption:"How does a treasure chest shine from water? Is it floating?"] %}
 ![The Dungeons of Dalaran](/assets/wr/20240821215844_1.jpg)
 {% endfigure %}
 
@@ -275,9 +275,9 @@ Jailor Kassan has a ton of HP, but isn't a difficult fight. With his death, the 
 
 This is the secret mission I mentioned earlier. If the sheep secret is not activated, it will simply be skipped.
 
-The blood elves are escaping through the portal, and Garithos is not exactly happy about it. Your job is to construct fortifications and hold the line until everyone is true.
+The blood elves are escaping through the portal, and Garithos is not exactly happy about it. Your job is to construct fortifications and hold the line until everyone is through.
 
-{% figure [caption:"The archery targets are there, of course, to give the engineers something to do on watercooler breaks."] %}
+{% figure [caption:"That's a power, that's a power that must rule in every land..."] %}
 ![The Crossing](/assets/wr/20240821224537_1.jpg)
 {% endfigure %}
 
@@ -289,7 +289,7 @@ Tower defense is, at its core, a game genre that revolves around constructing fo
 
 Here's a taste of what the mission map looks like:
 
-{% figure [caption:"Don't question the Kirin Tor's urban planning skills."] %}
+{% figure [caption:"One industrial union grand!"] %}
 ![The Crossing](/assets/wr/20240821224633_1.jpg)
 {% endfigure %}
 
@@ -314,7 +314,7 @@ Turns out you're shown a "YOU LOSE!" screen telling you how many waves you've su
 
 If you do manage to survive all 30 waves, you'll be given a third hero, a Pandaren Brewmaster, for the next mission. Since the next mission is easy anyway even without the extra help, completing the secret mission is entirely optional.
 
-{% figure [caption:"Wait, is she aiming her bow at a covering engineer?"] %}
+{% figure [caption:"Wait, is she aiming her bow at a cowering engineer?"] %}
 ![The Crossing](/assets/wr/20240821225820_1.jpg)
 {% endfigure %}
 
