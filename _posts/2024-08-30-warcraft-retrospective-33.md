@@ -195,6 +195,35 @@ Now that the dimensional gates are sealed, an assault on Magtheridon's Black Cit
 {% endfigure %}
 
 
+Magtheridon is slain, and Illidan proclaims his rule over Outland...
+
+{% figure [caption:"The Lord of the Glaives."] %}
+![Lord of Outland](/assets/wr/20240826202531_1.jpg)
+{% endfigure %}
+
+...but of course, nothing is ever simple.
+
+An ominous cloud appears, heading towards the rise.
+
+{% figure [caption:"&ldquo;I swear, it's not me! I didn't eat any beans today!&rdquo;"] %}
+![Lord of Outland](/assets/wr/20240826202550_1.jpg)
+{% endfigure %}
+
+It materializes into an absolutely towering figure of Kil'jaeden.
+
+{% figure [caption:"In hindsight, maybe it was obvious that Kil'jaeden would have easier access to a Legion-controlled world than to Azeroth."] %}
+![Lord of Outland](/assets/wr/20240826202558_1.jpg)
+{% endfigure %}
+
+Illidan claims that he was merely set back (thus starting a proud tradition). The guy who was just now boasting about REIGNING SUPREME has suddenly been reduced to groveling and begging. He promises to destroy the Lich King, and Kil'jaeden, thinking that these "servitors" he gathered show some promise, gives Illidan one last chance to destroy the Frozen Throne or to suffer his eternal wrath.
+
+Both Vashj and Kael now, in earnest, pledge themselves to Illidan's service.
+
+{% figure [caption:"But first, they'll have to get from Outland to Northrend, which I'm sure will be a long and arduous task that will definitely be shown on screen."] %}
+![Lord of Outland](/assets/wr/20240826202706_1.jpg)
+{% endfigure %}
+
+
 
 ## Thoughts on the Campaign
 
