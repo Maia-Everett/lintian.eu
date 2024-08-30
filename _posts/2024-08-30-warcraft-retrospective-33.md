@@ -106,6 +106,31 @@ Once the cage reaches our base, Illidan is freed. He asks Vashj who her allies a
 ![Illidan's Task](/assets/wr/20240825233141_1.jpg)
 {% endfigure %}
 
+Kael asks Illidan to cure his people's hunger for magic.
+
+{% figure [caption:"Kael is promised one thing, and has to settle for another. Just hope that this magic doesn't come from icky demons or something."] %}
+![Illidan's Task](/assets/wr/20240825233206_1.jpg)
+{% endfigure %}
+
+Illidan reveals what he came here to Outland to do.
+
+{% figure [caption:"Also, I'm not looking at you. That's how I establish dominance."] %}
+![Illidan's Task](/assets/wr/20240825233308_1.jpg)
+{% endfigure %}
+
+Turns out that after the Battle of Mount Hyjal, he was visited by none other than Kil'jaeden, who offered him a second chance to serve the Legion. Illidan asked what the demon lord would have him do, and...
+
+{% figure [caption:"Those camera angles. Ow."] %}
+![Illidan's Task](/assets/wr/20240825233316_1.jpg)
+{% endfigure %}
+
+I have no idea why Illidan jumped at the chance to serve the Burning Legion after previously opposing it. It's not like Kil'jaeden can actually physically do anything to him; since he's translucent here, I assume he's some kind of projection, and at any rate he was not summoned to Azeroth alongside Archimonde. Physically he's still somewhere out there in the Twisting Nether.
+
+Regardless, as we know from the previous campaign, Illidan tried to use the Eye of Sargeras to melt the polar icecaps surrounding the Icecrown Citadel, but the night elves intervened and ruined his ritual. Illidan fled to Outland to evade Kil'jaeden's wrath, and the trio needs to make sure that this land is cleansed of Kil'jaeden's agents.
+
+Now, I'm not sure why Illidan would be safer from Kil'jaeden's wrath here rather than back on Azeroth. I mean, what can he do back on Azeroth, send Illidan a strongly-worded letter? Meanwhile, Outland is apparently crawling with his agents, and Illidan departed to it completely alone before an army conveniently fell into his lap. What was he going to fight said agents with, his bare hands?
+
+Also, while I'm asking questions... *what happened to Maiev?*
 
 
 ## Gates of the Abyss
