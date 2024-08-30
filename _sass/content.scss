@@ -107,6 +107,10 @@ blockquote {
   color: #9bbed9;
 }
 
+blockquote > h4:first-child {
+  margin-top: 0;
+}
+
 .embed-container {
   margin-bottom: 15px;
 }
