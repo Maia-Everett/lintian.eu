@@ -65,7 +65,7 @@ This is all fine and good, except the premise of this mission makes no sense.
 
 When we last saw Maiev, she barely managed to move herself and a few of her warriors through the portal before it closed. Definitely not the large force we're seeing here, and definitely not one big enough to garrison a base, even if we grant that wisps have been rapidly constructing all these buildings magically. (On Outland's barren soil?)
 
-Even more importantly, this kind of behavior --- putting Illidan in a cage and transporting him to her base --- is extremely out of character for Maiev, given everything she did in the night elf campaign.
+Even more importantly, this kind of behavior --- putting Illidan in a cage and transporting him to her base --- is extremely out of character for Maiev at this point, given everything she did in the night elf campaign.
 
 In the forum thread for this series, reader Jai'are noted a pattern in Maiev's behavior:
 
@@ -77,7 +77,7 @@ In the forum thread for this series, reader Jai'are noted a pattern in Maiev's b
 > 
 > Which is not at all what you’d expect of a huntress or a lawman.
 
-By the time of ["The Ruins of Dalaran"](/2024/07/27/warcraft-retrospective-31/), Maiev was no longer content with simply recapturing Illidan; she wanted to execute him on the spot, and in fact that was what she was about to do before Malfurion stopped her. So now that she has finally captured Illidan and has free reign over him with nobody to tell her what to do, what does she do?
+By the time of ["The Ruins of Dalaran"](/2024/07/27/warcraft-retrospective-31/), this hasty, impulsive Warden was no longer content with simply recapturing Illidan; she wanted to execute him on the spot, and in fact that was what she was about to do before Malfurion stopped her. So now that she has finally captured Illidan and has free reign over him with nobody to tell her what to do, what does she do?
 
 ...She puts him in a cage. When she could have simply killed him on the spot.
 
@@ -139,6 +139,53 @@ Also, while I'm asking questions... *what happened to Maiev?*
 ![Gates of the Abyss](/assets/wr/20240825233417_1.jpg)
 {% endfigure %}
 
+Illidan outlines what we'll need to do. Long ago, a pit lord named Magtheridon rallied the surviving orcs and took control of Outland. While most of the orcs were killed by Draenor's explosion, Magtheridon turned to a different kind of reinforcements: demons.
+
+{% figure [caption:"Ner'zhul apparently took time to decorate them with the same kind of statues that adorned the original Dark Portal."] %}
+![Gates of the Abyss](/assets/wr/20240825233446_1.jpg)
+{% endfigure %}
+
+To cut Magtheridon off from reinforcements, Illidan now intends to seal these gates permanently. We will seek them out, one by one, and protect Illidan as he closes them.
+
+All right. I have *questions*.
+
+Forget Kil'jaeden's nebulous "agents"; Outland is an outright Legion-controlled world. It's ruled by a pit lord of the Burning Legion, whose army consists of demons of the Burning Legion. Out of all places, why did Illidan choose to flee *here*, and why did he think he would be safer here than on Azeroth?
+
+This also means that a portal to a Legion-controlled world stayed open in Dalaran for months, and after Garithos retook the city, he just left it open? And no demons tried to cross through? This is especially puzzling because, if "The Crossing" is to be believed, all it would have taken to cross the portal would be good old explosives. Then again, that mission is dubiously canon.
+
+We start the mission with Illidan already closing the first dimensional gate, so for three minutes, we're going to endure an assault by waves of demons while having nothing but squishy spell breakers and a few even squishier support units!
+
+{% figure [caption:"Next time give us an advance warning!"] %}
+![Gates of the Abyss](/assets/wr/20240825233700_1.jpg)
+{% endfigure %}
+
+Eventually, Illidan closes the gate, and we gain control of him. Now, let's wait and do things methodically.
+
+There are three gates left to close. There are also three fel orc bases on the map. Fel orcs are what Reign of Chaos called chaos orcs; they're bigger, stronger and meaner than normal orcs, and they deal Chaos damage. They're also at war with these guys:
+
+{% figure [caption:"How are you so sure? There are some who believe the enemy of their enemy is still their enemy."] %}
+![Gates of the Abyss](/assets/wr/20240825235338_1.jpg)
+{% endfigure %}
+
+These are the [draenei](https://warcraft.wiki.gg/wiki/Draenei)[^draenei] --- the race that, according to [the Warcraft 2 manual](/2023/12/10/warcraft-retrospective-5/), the orcs subjugated before beginning their conquest of Azeroth. We finally see them, and apparently they're lanky and agile.
+
+{% figure [caption:"Good grief, I think this is the single wordiest dialogue blurb in the game."] %}
+![Gates of the Abyss](/assets/wr/20240825235852_1.jpg)
+{% endfigure %}
+
+There are three fel orc bases on the map. The southern one is attacking the draenei, and once we defeat them, the draenei ally with us. We don't get control of them, but like Grom in Thrall's campaign, they periodically attack enemy bases on their own, allowing us to join them. The second fel orc base also falls easily enough, but the third is guarded by red dragons. No, I have no idea how red dragons got here or why they let fel orcs ride them.
+
+Like some missions in Beyond the Dark Portal, this mission is easy if you know the trick --- and the trick is to mostly ignore the blood elf tech tree and look at the naga one instead. We can now build both blood elf and naga units, and units of similar cost in this campaign are not made equal.
+
+In this mission, I built mostly myrmidons, who are strong, meaty frontliners and yet unreasonably cheap, and couatls, who are an absolutely overpowered flying unit. On normal difficulty, with such a setup, closing the dimensional gates became a complete cakewalk, with demons dying almost as soon as they emerged from the gates.
+
+Poor blood elves. They get overshadowed by naga in their own campaign.
+
+{% figure [caption:"Feel the fearsome fury of the feisty flying fiends!"] %}
+![Gates of the Abyss](/assets/wr/20240826003830_1.jpg)
+{% endfigure %}
+
+Now that the dimensional gates are sealed, an assault on Magtheridon's Black Citadel can begin.
 
 
 ## Lord of Outland
@@ -165,3 +212,5 @@ Next up is the undead campaign, which concludes the main storyline of The Frozen
 
 
 [^pandaren]: Plus a third hero, a pandaren brewmaster, if we managed to win the secret mission.
+
+[^draenei]: They look nothing like the draenei the Warcraft Wiki article is about, and there's a reason for this: those draenei were retconned in. We're looking at the pre-retcon version of the race.
