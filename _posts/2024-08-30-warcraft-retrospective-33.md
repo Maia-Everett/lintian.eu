@@ -28,7 +28,7 @@ Previously, in Tides of Darkness, the Dark Portal was closed. Then in Beyond the
 
 I remember how, when news surfaced that The Frozen Throne would return to Draenor, the community I was in began speculating how it would be possible. Were we going to time travel into the past? Did we find a duplicate of it? Or perhaps it only *mostly* exploded, but a shard survived? It's funny how, in the end, Blizzard used all three of these ideas --- two of them, much later, [in the same WoW expansion](https://warcraft.wiki.gg/wiki/World_of_Warcraft:_Warlords_of_Draenor).
 
-Blizzard just can't let go of Draenor, which brings into the question the point of blowing it up in the first place. Of course, they might have simply regretted it.
+Blizzard just can't let go of Draenor, which brings into question the point of blowing it up in the first place. Of course, they might have simply regretted it.
 
 We're not even going to do anything particularly Draenor-y here. Here in Outland, we're concerned with finding Illidan (Vashj knows that he's here, but not why). We're not dealing with orcs (much) nor with the Alliance Expedition (which [definitely isn't even here](https://warcraft.wiki.gg/wiki/Honor_Hold), right?). This place could just as easily have been any Legion-occupied world, and all the map designers would have to do would be replacing the orc models with demon ones.
 
@@ -51,7 +51,7 @@ Whatever. Let's begin...
 
 After three days of fruitlessly searching for Illidan, Kael and Vashj stumble upon... a night elf base!
 
-{% figure [caption:"It took them three days. Let's remember that."] %}
+{% figure [caption:"It's impressive that they managed to grow all that on what's basically dead rock'."] %}
 ![The Search for Illidan](/assets/wr/20240821230047_1.jpg)
 {% endfigure %}
 
@@ -151,7 +151,7 @@ All right. I have *questions*.
 
 Forget Kil'jaeden's nebulous "agents"; Outland is an outright Legion-controlled world. It's ruled by a pit lord of the Burning Legion, whose army consists of demons of the Burning Legion. Out of all places, why did Illidan choose to flee *here*, and why did he think he would be safer here than on Azeroth?
 
-This also means that a portal to a Legion-controlled world stayed open in Dalaran for months, and after Garithos retook the city, he just left it open? And no demons tried to cross through? This is especially puzzling because, if "The Crossing" is to be believed, all it would have taken to cross the portal would be good old explosives. Then again, that mission is dubiously canon.
+This also means that a portal to a Legion-controlled world stayed open in Dalaran for months, and after Garithos retook the city, he just left it open? And no demons tried to cross through? This is especially puzzling because, if "The Crossing" is to be believed, all it would have taken to close the portal would be good old explosives. Then again, that mission is dubiously canon.
 
 We start the mission with Illidan already closing the first dimensional gate, so for three minutes, we're going to endure an assault by waves of demons while having nothing but squishy spell breakers and a few even squishier support units!
 
@@ -216,7 +216,7 @@ They destroy the generator powering the gate defenses, allowing the blood elves 
 
 This is an unusual mission. We have whopping four heroes at our disposal: Illidan, Kael, Vashj, and Akama. They have some of the best items in the game[^illidan] It's a bit of a middle ground between a dungeon crawl and base gameplay: we can't construct buildings, but we can build units at existing buildings, with gold coins looted in the dungeon being our only source of income.
 
-Our enemies are mostly demons, plus three fel orc bases. First, we need to kill two of Magtheridon's demon lieutenants --- the Master of Pain and the Mistress of Torment.
+Our enemies are mostly demons, plus three fel orc bases. First, we need to kill two of Magtheridon's demon lieutenants --- the Master of Pain and the Mistress of Torment. The path to them is blocked by very strong towers and turrets, but we have our draenei troops, who are permanently stealthed, to destroy the generators powering them.
 
 {% figure [caption:"There's a Maim, too."] %}
 ![Lord of Outland](/assets/wr/20240826191556_1.jpg)
