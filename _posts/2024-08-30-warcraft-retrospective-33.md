@@ -161,7 +161,7 @@ We start the mission with Illidan already closing the first dimensional gate, so
 
 Eventually, Illidan closes the gate, and we gain control of him. Now, let's wait and do things methodically.
 
-There are three gates left to close. There are also three fel orc bases on the map. Fel orcs are what Reign of Chaos called chaos orcs; they're bigger, stronger and meaner than normal orcs, and they deal Chaos damage. They're also at war with these guys:
+There are three gates left to close. There are also three fel orc bases on the map. Fel orcs are what was known as chaos orcs in Reign of Chaos; they're bigger, stronger and meaner than normal orcs, and they deal Chaos damage. They're also at war with these guys:
 
 {% figure [caption:"How are you so sure? There are some who believe the enemy of their enemy is still their enemy."] %}
 ![Gates of the Abyss](/assets/wr/20240825235338_1.jpg)
