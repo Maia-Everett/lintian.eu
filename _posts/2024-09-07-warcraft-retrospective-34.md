@@ -134,6 +134,46 @@ However, Sylvanas rejects the proposed alliance. She will execute her vengeance 
 ![The Flight from Lordaeron](/assets/wr/20240907133949_1.jpg)
 {% endfigure %}
 
+Arthas, accompanied by Kel'Thuzad, walks into Capital City, but... it's a trap!
+
+{% figure [caption:"Someone on the TFT cutscene team really liked these low camera angles."] %}
+![The Flight from Lordaeron](/assets/wr/wc3x_undead2.jpg)
+{% endfigure %}
+
+The door behind Arthas closes, separating him from Kel'Thuzad, and ghouls surround him. And... here's where I have complaints about the design of the cutscene, same ones as the author of the [Campaign Masterpiece or Overrated?](https://www.youtube.com/watch?v=UvS0mArxpyo) video voices.
+
+Usually, Warcraft 3 cutscenes make sense in terms of mission gameplay, and the [integration between gameplay and story](https://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfGameplayAndStoryIntegration) is one of this game's strengths. Here, however, what's happening in the cutscene makes no sense in terms of both the story and the gameplay.
+
+As Arthas is surrounded by ghouls, the dreadlords just watch from their high ground instead of joining the action. Once the cutscene ends, they're nowhere to be found.
+
+{% figure [caption:"The fabled Bond villain tradition of leaving before ascertaining that the death trap actually kills the victim."] %}
+![The Flight from Lordaeron](/assets/wr/20240907134107_1.jpg)
+{% endfigure %}
+
+Furthermore, that gate to Arthas's north --- the first one he's going to break through in the actual mission --- is the one Kel'Thuzad was behind just moments ago, yet once we break it, he's nowhere to be found. How did *he* escape the city?
+
+This mission is not bad, just kind of... bland. It consists of pushing farther and farther north through a very tall and narrow rectangle of a map, gathering forces while killing hostile undead loyal to the dreadlords. Like unseasoned food, it's nourishing but lacks flavor, because it's a dungeon crawl where the designers forgot to put good loot and exciting events in.
+
+{% figure [caption:"On the bright side, we get to loot the Lordaeron throne room."] %}
+![The Flight from Lordaeron](/assets/wr/20240907141405_1.jpg)
+{% endfigure %}
+
+We fight through undead, golems and eventually demons, making an army composed of necromancers, ghouls, crypt fiends, meat wagons, and abominations. One detail I appreciate is that periodically, hostile zombies and ghouls spawn in our rear. While they're a weak nuisance, they provide enough of a distraction that you can't afford to sit idle for long, just in case you had ideas of going away from keyboard while your units replenish HP and mana.
+
+Some of the enemy packs are led by dreadlords, but confusingly, they aren't our main three dreadlords, they're just... some dreadlords. The one at the final gate leads a pack consisting of two regular abominations and an awesome boss abomination.
+
+{% figure [caption:"[Bloodfeast the Extreme-inator](https://oots.fandom.com/wiki/Bloodfeast_the_Extreme-inator)?"] %}
+![The Flight from Lordaeron](/assets/wr/20240907143334_1.jpg)
+{% endfigure %}
+
+Arthas has fought his way out of the city... but he finds the way blocked by four abominations. Suddenly, however, banshees appear and possess two of the abominations, making them fight their comrades.
+
+{% figure [caption:"Compared to everything else we've already faced, four regular abominations are just a speed bump."] %}
+![The Flight from Lordaeron](/assets/wr/20240907143659_1.jpg)
+{% endfigure %}
+
+One of the banshees explains that they were sent by Sylvanas to escort Arthas across the river. After that, they'll take refuge in the wilderness. An unsuspecting Arthas follows them.
+
 
 ## Sylvanas' Farewell
 
