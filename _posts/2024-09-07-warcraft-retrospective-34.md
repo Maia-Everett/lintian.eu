@@ -177,14 +177,48 @@ One of the banshees explains that they were sent by Sylvanas to escort Arthas ac
 
 ## Sylvanas' Farewell
 
-{% figure [caption:""] %}
+{% figure [caption:"*Moments* later? The map marker is way away from Capital City!"] %}
 ![Sylvanas' Farewell](/assets/wr/20240907143729_1.jpg)
 {% endfigure %}
+
+The banshees are leading Arthas through the wilderness. Suddenly, however, he has another fit of pain.
+
+{% figure [caption:"At this point I'm suspecting that the Lich King can only communicate with Arthas during these fits of pain."] %}
+![Sylvanas' Farewell](/assets/wr/wc3x_undead2interlude.jpg)
+{% endfigure %}
+
+Once his mind clears, he finds the banshees attacking his own forces. Suddenly, he is struck by a black arrow and immobilized, and Sylvanas appears.
+
+{% figure [caption:"One of the few cases where explaining your plan to the victim actually makes sense."] %}
+![Sylvanas' Farewell](/assets/wr/20240907143823_1.jpg)
+{% endfigure %}
+
+Arthas tells Sylvanas to finish him, but she refuses. (Oh, she should have!) She'd rather deny Arthas a quick death, like he denied her, so he's going to suffer as Sylvanas herself did.
+
+At this point, however, Kel'Thuzad arrives and chases Sylvanas away.
+
+{% figure [caption:"Mindless ones? I'm pretty sure they've *just* displayed that they have their free will back."] %}
+![Sylvanas' Farewell](/assets/wr/20240907143852_1.jpg)
+{% endfigure %}
+
+And... that's it. Sylvanas runs away, and Arthas is well in good in the immediate next scene, where he's preparing to set sail for Northrend.
+
+{% figure [caption:"I shall, King Arthas. I shall. (The fool! Little does he know I'm actually secretly working for Zovaal the Jailer, and so are the dreadlords!)"] %}
+![Sylvanas' Farewell](/assets/wr/20240907143921_1.jpg)
+{% endfigure %}
+
+To this day, I find this interlude bizarre.
+
+Remember when Frodo was struck by a Morgul blade at Weathertop Hill and was fully healed five minutes later? I don't either, because it would make for a bad story. His wound became a source of pain and anguish that didn't go away even after Sauron was defeated, forcing him to leave Middle-earth before he could spend the rest of his days in peace.
+
+The poisoned arrow that Sylvanas struck Arthas with is immediately dealt with and completely forgotten after this cutscene. It simply never comes up, either here or later in the campaign. I wonder what the point of it was, and whether it's a remnant of an earlier draft of the story. This entire interlude is superfluous. It serves to establish Sylvanas's defiance of Arthas, which we already know about. The final scene with the ships showcases Kel'Thuzad's loyalty to Arthas, with the two bonding in a twisted sort of friendship, but it could have just as easily been moved to the end of the previous mission, and the interlude cut entirely.
+
+At this point, the campaign branches into two storylines: Arthas's and Sylvanas's. It will be a while before we return to Arthas and his voyage to Northrend. For now, we'll be following...
 
 
 ## The Dark Lady
 
-{% figure [caption:""] %}
+{% figure [caption:"When I think of anguished soul searching, I think of three names: Hamlet; Eugene Onegin; Sylvanas."] %}
 ![The Dark Lady](/assets/wr/20240907143942_1.jpg)
 {% endfigure %}
 
