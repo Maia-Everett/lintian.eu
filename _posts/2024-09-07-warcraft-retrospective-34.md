@@ -111,12 +111,21 @@ Humanity has been eradicated in Lordaeron, but Arthas has another episode of cri
 The king will not be staying in his kingdom for long, after all. He asks Kel'Thuzad to take him back to the capital, as he has a long journey ahead of him.
 
 
-
 ## A Kingdom Divided
 
-{% figure [caption:""] %}
+{% figure [caption:"But how did the dreadlords pass her the invitation? By teleporting in and out?"] %}
 ![A Kingdom Divided](/assets/wr/20240907133724_1.jpg)
 {% endfigure %}
+
+The next evening, Sylvanas arrives at the dreadlords' hideout, and they're pleased that she came.
+
+{% figure [caption:"Wait, these are Kaldorei Empire ruin assets. But they presumably stand in for Lordaeronian architecture."] %}
+![A Kingdom Divided](/assets/wr/20240907133751_1.jpg)
+{% endfigure %}
+
+She believes the dreadlords know why, and indeed they do. They've discovered that the Lich King is losing his power, and with it, his ability to command undead. Arthas's powers will thus also fade over time, which is convenient for the dreadlords' plans to overthrow him. While Kel'Thuzad is too loyal to betray his master, they believe Sylvanas, whose people Arthas murdered and whom he raised into undeath by force, will be more easily turned against him.
+
+However, Sylvanas rejects the proposed alliance. She will execute her vengeance in her own way. With that, she leaves. While Balnazzar doesn't trust her, believing her heart is still elven, Varimathras and Detheroc think she might still prove useful to the dreadlords' cause.
 
 
 ## The Flight from Lordaeron
