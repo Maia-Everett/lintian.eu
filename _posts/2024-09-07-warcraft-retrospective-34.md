@@ -158,6 +158,8 @@ This mission is not bad, just kind of... bland. It consists of pushing farther a
 ![The Flight from Lordaeron](/assets/wr/20240907141405_1.jpg)
 {% endfigure %}
 
+Adding to the annoyance, most of the enemy units are undead, so Death Coil doesn't work on them. It can only be used to heal allied undead units.
+
 We fight through undead, golems and eventually demons, making an army composed of necromancers, ghouls, crypt fiends, meat wagons, and abominations. One detail I appreciate is that periodically, hostile zombies and ghouls spawn in our rear. While they're a weak nuisance, they provide enough of a distraction that you can't afford to sit idle for long, just in case you had ideas of going away from keyboard while your units replenish HP and mana.
 
 Some of the enemy packs are led by dreadlords, but confusingly, they aren't our main three dreadlords, they're just... some dreadlords. The one at the final gate leads a pack consisting of two regular abominations and an awesome boss abomination.
@@ -222,7 +224,81 @@ At this point, the campaign branches into two storylines: Arthas's and Sylvanas'
 ![The Dark Lady](/assets/wr/20240907143942_1.jpg)
 {% endfigure %}
 
+At her base, Sylvanas is brooding. "You seem troubled, mistress," remarks a banshee.
 
+{% figure [caption:"This land has been poisoned enough that even the fog is sickly green."] %}
+![The Dark Lady](/assets/wr/20240907143954_1.jpg)
+{% endfigure %}
+
+To Sylvanas, they're still undead, still monstrosities, and there's no joy to be had while they're slaves to this torment.
+
+Suddenly, a portal opens, and Varimathras steps out.
+
+{% figure [caption:"In order to ensure the security and continuing stability, Lordaeron will be reorganized into the first Continental Empire! For a safe and secure society!"] %}
+![The Dark Lady](/assets/wr/20240907144029_1.jpg)
+{% endfigure %}
+
+Sylvanas refuses to join the dreadlords. Her only interest was only in seeing Arthas dead, and she has no time for petty politics or power mongering. More importantly, she lived as a slave long enough and isn't going to shackle herself to new masters.
+
+Varimathras leaves, promising the dreadlords' reply will come soon. Thus begins a really fun twist on base-sieging missions.
+
+{% figure [caption:"Technically, not *just* that, but nobody cares about technicalities."] %}
+![The Dark Lady](/assets/wr/20240908120045_1.jpg)
+{% endfigure %}
+
+Sylvanas's base has a very gimped undead tech tree. We can only build ghouls, meat wagons, obsidian statues (a new support unit that restores mana to nearby allies), and banshees. Thankfully, the latter start with Possession already unlocked, and Possession will give us everything else. This entire mission is built around this one mechanic, and in a very satisfying way.
+
+Varimathras's first attack comes soon in the form of two abominations[^abominations], which we steal.
+
+{% figure [caption:"Now we have meat shields."] %}
+![The Dark Lady](/assets/wr/20240908120129_1.jpg)
+{% endfigure %}
+
+As we start exploring our surroundings, we run into some ogres. We possess them too. Our squad of frontliners is growing.
+
+{% figure [caption:"Curs? Have you looked at their sweet HP?"] %}
+![The Dark Lady](/assets/wr/20240908120233_1.jpg)
+{% endfigure %}
+
+Possessing them reveals a whole ogre camp on the map. Ignoring the ogre minions, we push all the way through without fighting until we reach their leader, and possess him, which causes *the entire ogre camp* to fall under our control.
+
+{% figure [caption:"Best of all, the ogres cost no supply."] %}
+![The Dark Lady](/assets/wr/20240908120821_1.jpg)
+{% endfigure %}
+
+Actually, here's something I don't understand. If we're going to let gameplay mechanics intrude the story, it might be good to establish how they actually work in-universe. I always interpreted Possession as the banshee's soul taking over the victim's body by ejecting the original one, and that's how it's described in the manual, so what am I actually looking at here? Is this an elf woman in an ogre's body doing her best impression of [the "lesser race" dialect](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouNoTakeCandle)?
+
+We now have an army of ogres, and the fun's only starting. Back at the base, I build up towers and keep a few banshees on standby to possess Varimathras's attacking forces, while Sylvanas marches towards a camp of gnolls.
+
+{% figure [caption:"Ogres of all colors will be equal in my new society. Equal in eternal servitude!"] %}
+![The Dark Lady](/assets/wr/20240908121028_1.jpg)
+{% endfigure %}
+
+The gnolls take some time to possess individually, but they bolster our forces with an aura and provide some support troops.
+
+Next is a bandit camp. Again, we ignore all the minions and rush straight towards the leader, and once he's possessed, all his forces flip to our side, too.
+
+{% figure [caption:"Actually, why are there bandits in this land at all? Didn't Arthas eliminate all humans? While we're at it, who do these bandits prey on?"] %}
+![The Dark Lady](/assets/wr/20240908121828_1.jpg)
+{% endfigure %}
+
+By now, we have amassed a truly ludicrous force consisting of ogres, gnolls, bandits, and Varimathras's abominations and crypt fiends. Like the ogres, the bandits cost no supply. Cut dialogue lines indicate that there were supposed to be similar "possess the leader" side quests for gnolls, murlocs, and trolls too, which would have left us even more overpowered.
+
+Varimathras's base doesn't stand a chance.
+
+{% figure [caption:"There is a degree of overwhelming force against which no tactics can succeed."] %}
+![The Dark Lady](/assets/wr/20240908122531_1.jpg)
+{% endfigure %}
+
+And there we go. Another fairly short and sweet mission, reportedly difficult on hard, but a breeze on normal --- built around a single mechanic that lets the player turn pretty much *the entire map* against the opposition. Like the mission where [Arthas relies on mercenaries to sink his ships](https://lintian.eu/2024/03/24/warcraft-retrospective-22/), it lets us have fun with the many, *many* types of neutral creatures in Warcraft 3 by putting them under our control --- while showing just what a terrifying snowball ability mind control is in-universe.
+
+Once his base falls, the dreadlord begs for his life, pleading that he can be of service to Sylvanas. "Just like a demon," remarks Sylvanas. "You'd sell your brethren out just to save your own skin. I'm listening."
+
+{% figure [caption:"But where's the guarantee he won't betray *her* in turn?"] %}
+![The Dark Lady](/assets/wr/20240908122738_1.jpg)
+{% endfigure %}
+
+Sylvanas accepts the offer. She'll let Varimathras prove his loyalty to her --- but she'll be keeping him on a leash.
 
 Next up: Arthas receives a cold welcome in Northrend, and Sylvanas faces the remaining two dreadlords. But where is Kel'Thuzad?
 
@@ -234,3 +310,5 @@ Next up: Arthas receives a cold welcome in Northrend, and Sylvanas faces the rem
 [^paladins]: Incidentally, one of the three paladins is [Magroth the Defender](https://warcraft.wiki.gg/wiki/Magroth_the_Defender), the same one we rescued from naga captivity in the night elf campaign. Continuity!
 
 [^orc]: Specifically, they were made from Ner'zhul's orc followers.
+
+[^abominations]: On hard, it's four abominations plus Varimathras himself.
