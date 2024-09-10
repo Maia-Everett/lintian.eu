@@ -58,7 +58,7 @@ The dialogue subtitles address him as "King Arthas" now, and indeed, that's how 
 
 With the dreadlords gone for now, Arthas addresses Kel'Thuzad and Sylvanas. To solidify his rule as the new, undead king of Lordaeron, he wants the scour the kingdom of the last remnants of humanity, but there's a problem: the humans have begun abandoning their villages.
 
-{% figure [caption:"For a king, he's remarkably nonchalant about collateral damage to his infrastructure."] %}
+{% figure [caption:"I mean, why is that even a problem? Just wait for them to starve."] %}
 ![King Arthas](/assets/wr/20240907124329_1.jpg)
 {% endfigure %}
 
@@ -140,7 +140,7 @@ Arthas, accompanied by Kel'Thuzad, walks into Capital City, but... it's a trap!
 ![The Flight from Lordaeron](/assets/wr/wc3x_undead2.jpg)
 {% endfigure %}
 
-The door behind Arthas closes, separating him from Kel'Thuzad, and ghouls surround him. And... here's where I have complaints about the design of the cutscene, same ones as the author of the [Campaign Masterpiece or Overrated?](https://www.youtube.com/watch?v=UvS0mArxpyo) video voices.
+The door behind Arthas closes, separating him from Kel'Thuzad, and ghouls surround him. And... here's where I have complaints about the design of the cutscene, the same ones as voiced by the author of the [Campaign Masterpiece or Overrated?](https://www.youtube.com/watch?v=UvS0mArxpyo) video.
 
 Usually, Warcraft 3 cutscenes make sense in terms of mission gameplay, and the [integration between gameplay and story](https://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfGameplayAndStoryIntegration) is one of this game's strengths. Here, however, what's happening in the cutscene makes no sense in terms of both the story and the gameplay.
 
@@ -238,7 +238,7 @@ Suddenly, a portal opens, and Varimathras steps out.
 ![The Dark Lady](/assets/wr/20240907144029_1.jpg)
 {% endfigure %}
 
-Sylvanas refuses to join the dreadlords. Her only interest was only in seeing Arthas dead, and she has no time for petty politics or power mongering. More importantly, she lived as a slave long enough and isn't going to shackle herself to new masters.
+Sylvanas refuses to join the dreadlords. Her only interest was in seeing Arthas dead, and she has no time for petty politics or power mongering. More importantly, she lived as a slave long enough and isn't going to shackle herself to new masters.
 
 Varimathras leaves, promising the dreadlords' reply will come soon. Thus begins a really fun twist on base-sieging missions.
 
@@ -260,13 +260,13 @@ As we start exploring our surroundings, we run into some ogres. We possess them 
 ![The Dark Lady](/assets/wr/20240908120233_1.jpg)
 {% endfigure %}
 
-Possessing them reveals a whole ogre camp on the map. Ignoring the ogre minions, we push all the way through without fighting until we reach their leader, and possess him, which causes *the entire ogre camp* to fall under our control.
+Possessing them reveals a whole ogre camp on the map. Ignoring the ogre minions, we push all the way through without fighting until we reach their leader, and possess him, which causes *the entire ogre camp* to fall under our control. Best of all, the ogres cost no supply.
 
-{% figure [caption:"Best of all, the ogres cost no supply."] %}
+{% figure [caption:"I'm pretty sure Sylvanas isn't a ghost anymore. Did her model change during development?"] %}
 ![The Dark Lady](/assets/wr/20240908120821_1.jpg)
 {% endfigure %}
 
-Actually, here's something I don't understand. If we're going to let gameplay mechanics intrude the story, it might be good to establish how they actually work in-universe. I always interpreted Possession as the banshee's soul taking over the victim's body by ejecting the original one, and that's how it's described in the manual, so what am I actually looking at here? Is this an elf woman in an ogre's body doing her best impression of [the "lesser race" dialect](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouNoTakeCandle)?
+Actually, here's something I don't understand. If we're going to let gameplay mechanics intrude into the story, it might be good to establish how they actually work in-universe. I always interpreted Possession as the banshee's soul taking over the victim's body by ejecting the original one, and that's how it's described in the manual, so what am I actually looking at here? Is this an elf woman in an ogre's body doing her best impression of [the "lesser race" dialect](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouNoTakeCandle)?
 
 We now have an army of ogres, and the fun's only starting. Back at the base, I build up towers and keep a few banshees on standby to possess Varimathras's attacking forces, while Sylvanas marches towards a camp of gnolls.
 
@@ -284,7 +284,7 @@ Next is a bandit camp. Again, we ignore all the minions and rush straight toward
 
 By now, we have amassed a truly ludicrous force consisting of ogres, gnolls, bandits, and Varimathras's abominations and crypt fiends. Like the ogres, the bandits cost no supply. Cut dialogue lines indicate that there were supposed to be similar "possess the leader" side quests for gnolls, murlocs, and trolls too, which would have left us even more overpowered.
 
-Varimathras's base doesn't stand a chance.
+Varimathras's base doesn't stand a chance. Whatever defenders it can muster, I simply steal with my remaining banshees.
 
 {% figure [caption:"There is a degree of overwhelming force against which no tactics can succeed."] %}
 ![The Dark Lady](/assets/wr/20240908122531_1.jpg)
