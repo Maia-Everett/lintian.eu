@@ -214,7 +214,7 @@ Suddenly, Akama and the draenei appear.
 
 They destroy the generator powering the gate defenses, allowing the blood elves to cross through.
 
-This is an unusual mission. We have whopping four heroes at our disposal: Illidan, Kael, Vashj, and Akama. They have some of the best items in the game[^illidan] It's a bit of a middle ground between a dungeon crawl and base gameplay: we can't construct buildings, but we can build units at existing buildings, with gold coins looted in the dungeon being our only source of income.
+This is an unusual mission. We have whopping four heroes at our disposal: Illidan, Kael, Vashj, and Akama. They have some of the best items in the game.[^illidan] It's a bit of a middle ground between a dungeon crawl and base gameplay: we can't construct buildings, but we can build units at existing buildings, with gold coins looted in the dungeon being our only source of income.
 
 Our enemies are mostly demons, plus three fel orc bases. First, we need to kill two of Magtheridon's demon lieutenants --- the Master of Pain and the Mistress of Torment. The path to them is blocked by very strong towers and turrets, but we have our draenei troops, who are permanently stealthed, to destroy the generators powering them.
 

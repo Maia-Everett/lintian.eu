@@ -363,7 +363,7 @@ Hold your formations! The kodos must be protected!
 
 [^reforged]: While also making them noticeably harder all across the board, out of the developer's unsolicited belief that the players wanted more challenge or something.
 
-[^shredders]: Notice how Warcraft 3 has towned down the crazy tech compared to Warcraft 2, but a bit of it is still there, courtesy of gnomes and goblins. Shredders are humanoid mechs with chainsaws, piloted by goblins.
+[^shredders]: Notice how Warcraft 3 has toned down the crazy tech compared to Warcraft 2, but a bit of it is still there, courtesy of gnomes and goblins. Shredders are humanoid mechs with chainsaws, piloted by goblins.
 
 [^hp]: Technically, trees are destructible doodads, like gates and bridges. "Doodad" is the Warcraft 3 engine term for all map objects that are not units or buildings, and destructible doodads are special because, while they cannot be selected, they have HP and can be destroyed. That a tree's lumber yield is dependent on its remaining HP means that if you damage trees with AoE attacks, they will yield less lumber before falling.
 
