@@ -143,7 +143,7 @@ Sylvanas is surprised to see humans at Detheroc's stronghold, and asks Varimathr
 
 Said "Garabon or Gilithos or something" is, of course, none other than Grand Marshal Garithos. Not only did our [General Failure](https://tvtropes.org/pmwiki/pmwiki.php/Main/GeneralFailure) needlessly alienate some of his best troops with his racism, but now he has been outright ensorcelled by a dreadlord and is fighting on the undead's side.
 
-Instead of attacking either base head on, Sylvanas hatches a plan. Her banshees ambush two footmen returning from a patrol, and possess them.
+For some reason, our army of overpowered minions from the previous mission have evaporated, and Varimathras now calls Sylvanas's forces "paltry". Instead of attacking either base head on, Sylvanas hatches a plan. Her banshees ambush two footmen returning from a patrol, and possess them.
 
 {% figure [caption:"We serve anyone! Anyone you say! Just please don't eject our souls out of our bodies-- AAAAAA!"] %}![Dreadlord's Fall](/assets/wr/wc3x_undead5.jpg)
 {% endfigure %}
@@ -203,13 +203,84 @@ Of course, as she immediately confides to Varimathras once Garithos leaves, she 
 ![A New Power in Lordaeron](/assets/wr/20240914134525_1.jpg)
 {% endfigure %}
 
+Sylvanas and her motley crew are ready to attack Capital City. As could be expected, Varimathras and Garithos don't exactly get along, and only Sylvanas's intervention is keeping them from exploding at each other.
+
+{% figure [caption:"Also, could someone put out the fire? Seriously?"] %}
+![A New Power in Lordaeron](/assets/wr/20240914134548_1.jpg)
+{% endfigure %}
+
+Sylvanas's plan is to attack on two fronts, so that her forces and Garithos's will assault Balnazzar from two opposite directions. That is, indeed, how we start on the map: in two opposite corners. Balnazzar's *humongous* base is in the center of the map, between our two bases.
+
+Sylvanas has the entire undead tech tree at her disposal, but Garithos --- fittingly --- can only build human units at start because he had a [teeny tiny bit of a quarrel](/2024/08/22/warcraft-retrospective-32/) with elves under his command.
+
+{% figure [caption:"He became a dark knight from his frustration with the ungrateful people of Eorzea."] %}
+![A New Power in Lordaeron](/assets/wr/20240914203845_1.jpg)
+{% endfigure %}
+
+Garithos's in-game class is called "dark knight". Mechanically, he's an odd hybrid, having the paladin's Holy Light and Devotion Aura, the tauren chieftain's Shockwave, and the mountain king's Avatar. It seems weird that such a selfish and offputting person wields a paladin's healing power, but I assume it was given to him for balance reasons.
+
+Though Garithos starts with human troops only (that is, just footmen and knights), a footman soon reports that their scouts have found the missing band of dwarves. Garithos's reaction is predictable:
+
+{% figure [caption:"At least he's not trying to get rid of them by sending them on suicide missions."] %}
+![A New Power in Lordaeron](/assets/wr/20240914203901_1.jpg)
+{% endfigure %}
+
+Honestly, in a story filled by relatively complex (by Warcraft standards) anti-heroes and anti-villains, he's a disappointingly boring, one-note character. This makes his fandom all the stranger. Over the years, Garithos has accumulated a vocal fanbase putting his xenophobia on a pedestal and trying to recast Warcraft as a battle between humanity and inhuman monsters. Obviously, this was not the author intent, and whenever he opens his mouth, the narrative makes it clear that he's wrong about pretty much everything.[^garithos]
+
+The dwarves are in the northeastern corner of the map, and to get to them, we fight through kobolds guarding a gold mine. Once Garithos reaches them, he acts like, well, his usual self.
+
+{% figure [caption:"Why does anyone follow his orders, again?"] %}
+![A New Power in Lordaeron](/assets/wr/20240914204642_1.jpg)
+{% endfigure %}
+
+We get it, he's an prickish racist doofus. Can we move on?
+
+(One of the riflemen remarks that they aren't paying them enough to put up with that asshole[^asshole], implying they're mercenaries. This would at least explain why they put up with him at all.)
+
+The mission itself is remarkably plain. In a campaign laden to the brim with gimmicks, it's just a straightforward base siege mission, with the only twist being that you're coordinating two independent forces for a joint strike.[^two_forces] Balnazzar's base is protected by a lot of undead and demons, and he himself is a powerful level 10 dreadlord, but we wield the combined might of two players --- and while the game expects us to attack from two fronts, it's actually more beneficial to teleport one base's force to the other before beginning the attack. Eventually, Balnazzar falls.
+
+Sylvanas orders Varimathras to kill his brother.
+
+{% figure [caption:"Varimathras isn't looking at Sylvanas and Sylvanas isn't looking at him. The joys of random head motions during cutscenes."] %}
+![A New Power in Lordaeron](/assets/wr/20240914205311_1.jpg)
+{% endfigure %}
+
+He refuses at first, but eventually caves in. There are two possibilities: either he's become genuinely obedient to Sylvanas, or he's just complying to save his own skin and is just waiting for a chance to betray her. Take your pick.
+
+Garithos is next.
+
+{% figure [caption:"If you had two brain cells to rub together, you would have seen how you were just a tool to Sylvanas from the start."] %}
+![A New Power in Lordaeron](/assets/wr/20240914205331_1.jpg)
+{% endfigure %}
+
+"Kill him, too," says Sylvanas. And Varimathras gladly does so --- and leaves his body for the ghouls to feast on.
+
+And so, a new order rises in Lordaeron. Through lies, damn lies, treachery, and lots and lots of mind control, Sylvanas has come victorious. Her followers are no longer part of the Scourge, and she announces that from now on, they will be known as the [Forsaken](https://warcraft.wiki.gg/wiki/Forsaken).
+
+We will not see the full consequences of this development until World of Warcraft.
+
+{% figure [caption:"Someone really, *really* liked these low camera angles."] %}
+![A New Power in Lordaeron](/assets/wr/20240914205359_1.jpg)
+{% endfigure %}
+
+This new Sylvanas is... scary. Her will is now indisputably her own, but it's clear that *something* changed in her compared to the Sylvanas we saw in Quel'Thalas, even if we know basically nothing about her past life. Was she always an amoral manipulator? Is it the consequence of the mental trauma suffered when Arthas raised her as a banshee? Is undeath itself just inherently corruptive, twisting even noble souls into mockeries of themselves.
+
+I really hope that when the time comes, the story will pick one answer and stick with it.
 
 
-...But where is Kel'Thuzad? What has *he* been doing throughout all this?
+## Next Up
+
+Here's something else that bugs me. Where is Kel'Thuzad? What has *he* been doing throughout all this?
 
 We won't get the answer, which is very puzzling, because Kel'Thuzad's plotline ended abruptly in the second mission, which makes me wonder why they bothered to put him in this campaign to begin with, only to forget about him. As far as Warcraft 3 is concerned, we're done with power squabbles in Lordaeron, and we'll be returning to Arthas in the next and final third of this campaign.
 
-Next up: dwarves and nerubians and faceless, oh my!
+Next up: dwarves and nerubians and faceless, oh my! Followed by a climactic confrontation between Arthas and Illidan.
 
 
 [^orc]: Patience. We'll get to the orcs.
+
+[^garithos]: Also, his existence and the authority he wields will only get odder and odder as retcons surrounding Lordaeron, Quel'Thalas, and Dalaran pile up. I'll revisit Garithos later when we get to these retcons, but for now, I'll note that the plot holes the retcons introduced are the problem with the works that introduced them, not with Warcraft 3. Garithos's story holds together *for now*.
+
+[^asshole]: Wow! A swear word! In a Warcraft game!
+
+[^two_forces]: As opposed to the final night elf mission, where Malfurion and Illidan's forces each acted in its own part of the map, and you didn't have to manage them both at once.
