@@ -135,8 +135,66 @@ In Starcraft's expansion, Brood War, there was [a mission](https://starcraft.fan
 
 That mission concept was so nice, Blizzard did it twice. We'll be doing the same thing here.
 
+Sylvanas is surprised to see humans at Detheroc's stronghold, and asks Varimathras who they are.
 
+{% figure [caption:"As you say, Dethematras. Or was it Varizar?"] %}
+![Dreadlord's Fall](/assets/wr/20240914170042_1.jpg)
+{% endfigure %}
 
+Said "Garabon or Gilithos or something" is, of course, none other than Grand Marshal Garithos. Not only did our [General Failure](https://tvtropes.org/pmwiki/pmwiki.php/Main/GeneralFailure) needlessly alienate some of his best troops with his racism, but now he has been outright ensorcelled by a dreadlord and is fighting on the undead's side.
+
+Instead of attacking either base head on, Sylvanas hatches a plan. Her banshees ambush two footmen returning from a patrol, and possess them.
+
+{% figure [caption:"We serve anyone! Anyone you say! Just please don't eject our souls out of our bodies-- AAAAAA!"] %}![Dreadlord's Fall](/assets/wr/wc3x_undead5.jpg)
+{% endfigure %}
+
+The returning footmen raise the gates and are in turn attacked by their alerted comrades. Now we have eight minutes to cause as much mayhem as possible before the enemy forces awaken.
+
+There are four enemy bases on the map: two of Garithos's and two of Detheroc's. I chose to take out Garithos first: he's a tougher hero than Detheroc, human bases are more annoying to siege at full strength, and there are two mortar teams just outside his bases that we can possess to quickly damage buildings.
+
+{% figure [caption:"I definitely have no problem service a demon!"] %}
+![Dreadlord's Fall](/assets/wr/20240914131302_1.jpg)
+{% endfigure %}
+
+There's not enough time to level the bases entirely, but I don't need to. It's enough to destroy the town halls and kill all peasants, so they have no resource income and can't rebuild. After that, they can upgrade the towers for all I care and sit ducks for the remainder of the mission.
+
+I'm kind of conflicted about the premise of this mission, though.
+
+The premise of the previous Sylvanas mission was enough of a stretch. It's nice to have the enemy use the same tactic as us for a chance --- mind control the leader of a large force and have their underlings fall in line --- but it already stretched belief that the ogres and the bandits would follow an undead abomination, and now we have an entire human army serve a dreadlord --- and *acknowledge* it in dialogue --- just because said dreadlord mind-controlled Garithos, whom nobody liked anyway? This sounds like perfect pretext to mutiny against Garithos and appoint a new leader.
+
+<figure class="character-portrait">
+<a title="Geass" href="https://codegeass.fandom.com/wiki/Geass"><img src="/assets/wr/lelouch_geass.jpg" width="300" /></a><figcaption>Sort of like this. Even the icon is a magical eye!</figcaption></figure>
+Sylvanas is now level 6, and she unlocks her ultimate ability: Charm. It mind controls any enemy organic unit, ground or flying --- whereas banshees can only possess ground units --- and has only a 40-second cooldown, so Sylvanas can use it over and over again. Between Charm and banshees, we can now outright turn whole enemy armies against their masters. This mission is *fuuun*.
+
+Once Garithos's two bases are crippled --- and the man himself goes down after putting up one hell of a fight --- I retreat very *very* quickly to my base before the timer expires.
+
+{% figure [caption:"Those three abominations started as Detheroc's."] %}
+![Dreadlord's Fall](/assets/wr/20240914132000_1.jpg)
+{% endfigure %}
+
+When enemy forces awaken, Detheroc counterattacks --- and throws *everything he has* against me. Seriously, he must have collected every single unit across his two bases. Once Sylvanas and her banshees return, they're in for a tough fight --- or so it seems at first, but then we turn the heaviest hitters of Detheroc's army against him and mop up the rest.
+
+The best time to counter-counterattack is right after an enemy's failed counterattack, so that's what I do. Detheroc's first base falls easily, having almost no units to defend it. The second one puts up more of a challenge, but eventually caves in too.
+
+{% figure [caption:"Varimathras is not a normal dreadlord. His Rain of Fire and Doom abilities actually come from a neutral hero, the pit lord. We never get to play a normal dreadlord in any campaign."] %}
+![Dreadlord's Fall](/assets/wr/20240914133033_1.jpg)
+{% endfigure %}
+
+After that, there's the awkward mop-up phase where we have to destroy the remains of Garithos's bases, which pose no challenge: they did upgrade their towers, but all they could produce was a few measly footmen. With both Detheroc and Garithos's bases destroyed, the mission is over.
+
+An animation shows some kind of spell effect fading from Garithos and his men. So it seems Detheroc actually had ensorcelled *the entire human army* and not just their leader?
+
+{% figure [caption:"I feel far from good!"] %}
+![Dreadlord's Fall](/assets/wr/20240914134410_1.jpg)
+{% endfigure %}
+
+Sylvanas proposes an alliance to the Alliance.
+
+{% figure [caption:"I see absolutely no way this can backfire."] %}
+![Dreadlord's Fall](/assets/wr/20240914134427_1.jpg)
+{% endfigure %}
+
+Of course, as she immediately confides to Varimathras once Garithos leaves, she has no intention of giving the humans their lands back. She's merely using them. Varimathras remarks that she sounds more like a dreadlord with each passing day --- to her displeasure.
 
 
 ## A New Power in Lordaeron
