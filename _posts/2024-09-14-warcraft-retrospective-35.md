@@ -137,13 +137,13 @@ That mission concept was so nice, Blizzard did it twice. We'll be doing the same
 
 Sylvanas is surprised to see humans at Detheroc's stronghold, and asks Varimathras who they are.
 
-{% figure [caption:"As you say, Dethematras. Or was it Varizar?"] %}
+{% figure [caption:"As you say, Dethemathras. Or was it Varizar?"] %}
 ![Dreadlord's Fall](/assets/wr/20240914170042_1.jpg)
 {% endfigure %}
 
 Said "Garabon or Gilithos or something" is, of course, none other than Grand Marshal Garithos. Not only did our [General Failure](https://tvtropes.org/pmwiki/pmwiki.php/Main/GeneralFailure) needlessly alienate some of his best troops with his racism, but now he has been outright ensorcelled by a dreadlord and is fighting on the undead's side.
 
-For some reason, our army of overpowered minions from the previous mission have evaporated, and Varimathras now calls Sylvanas's forces "paltry". Instead of attacking either base head on, Sylvanas hatches a plan. Her banshees ambush two footmen returning from a patrol, and possess them.
+For some reason, our army of overpowered minions from the previous mission has evaporated, and Varimathras now calls Sylvanas's forces "paltry". Instead of attacking either base head on, Sylvanas hatches a plan. Her banshees ambush two footmen returning from a patrol, and possess them.
 
 {% figure [caption:"We serve anyone! Anyone you say! Just please don't eject our souls out of our bodies-- AAAAAA!"] %}![Dreadlord's Fall](/assets/wr/wc3x_undead5.jpg)
 {% endfigure %}
@@ -152,7 +152,7 @@ The returning footmen raise the gates and are in turn attacked by their alerted 
 
 There are four enemy bases on the map: two of Garithos's and two of Detheroc's. I chose to take out Garithos first: he's a tougher hero than Detheroc, human bases are more annoying to siege at full strength, and there are two mortar teams just outside his bases that we can possess to quickly damage buildings.
 
-{% figure [caption:"I definitely have no problem service a demon!"] %}
+{% figure [caption:"I definitely have no problem serving a demon!"] %}
 ![Dreadlord's Fall](/assets/wr/20240914131302_1.jpg)
 {% endfigure %}
 
@@ -160,7 +160,7 @@ There's not enough time to level the bases entirely, but I don't need to. It's e
 
 I'm kind of conflicted about the premise of this mission, though.
 
-The premise of the previous Sylvanas mission was enough of a stretch. It's nice to have the enemy use the same tactic as us for a chance --- mind control the leader of a large force and have their underlings fall in line --- but it already stretched belief that the ogres and the bandits would follow an undead abomination, and now we have an entire human army serve a dreadlord --- and *acknowledge* it in dialogue --- just because said dreadlord mind-controlled Garithos, whom nobody liked anyway? This sounds like perfect pretext to mutiny against Garithos and appoint a new leader.
+The premise of the previous Sylvanas mission was enough of a stretch. It's nice to have the enemy use the same tactic as us for a change --- mind control the leader of a large force and have their underlings fall in line --- but it already stretched belief that the ogres and the bandits would follow an undead abomination, and now we have an entire human army serve a dreadlord --- and *acknowledge* it in dialogue --- just because said dreadlord mind-controlled Garithos, whom nobody liked anyway? This sounds like perfect pretext to mutiny against Garithos and appoint a new leader.
 
 <figure class="character-portrait">
 <a title="Geass" href="https://codegeass.fandom.com/wiki/Geass"><img src="/assets/wr/lelouch_geass.jpg" width="300" /></a><figcaption>Sort of like this. Even the icon is a magical eye!</figcaption></figure>
@@ -213,7 +213,7 @@ Sylvanas's plan is to attack on two fronts, so that her forces and Garithos's wi
 
 Sylvanas has the entire undead tech tree at her disposal, but Garithos --- fittingly --- can only build human units at start because he had a [teeny tiny bit of a quarrel](/2024/08/22/warcraft-retrospective-32/) with elves under his command.
 
-{% figure [caption:"He became a dark knight from his frustration with the ungrateful people of Eorzea."] %}
+{% figure [caption:"He became a dark knight out of frustration with the ungrateful people of Eorzea."] %}
 ![A New Power in Lordaeron](/assets/wr/20240914203845_1.jpg)
 {% endfigure %}
 
@@ -263,7 +263,7 @@ We will not see the full consequences of this development until World of Warcraf
 ![A New Power in Lordaeron](/assets/wr/20240914205359_1.jpg)
 {% endfigure %}
 
-This new Sylvanas is... scary. Her will is now indisputably her own, but it's clear that *something* changed in her compared to the Sylvanas we saw in Quel'Thalas, even if we know basically nothing about her past life. Was she always an amoral manipulator? Is it the consequence of the mental trauma suffered when Arthas raised her as a banshee? Is undeath itself just inherently corruptive, twisting even noble souls into mockeries of themselves.
+This new Sylvanas is... scary. Her will is now indisputably her own, but it's clear that *something* changed in her compared to the Sylvanas we saw in Quel'Thalas, even if we know basically nothing about her past life. Was she always an amoral manipulator? Is it the consequence of the mental trauma suffered when Arthas raised her as a banshee? Is undeath itself just inherently corruptive, twisting even noble souls into mockeries of themselves?
 
 I really hope that when the time comes, the story will pick one answer and stick with it.
 
