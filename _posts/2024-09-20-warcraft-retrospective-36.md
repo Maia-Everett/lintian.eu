@@ -119,6 +119,22 @@ Still, he goes down and drops the Blood Key, with which we open the door. We're 
 ![Boiling Point](/assets/wr/20240916201544_1.jpg)
 {% endfigure %}
 
+Arthas and Anub'arak emerge from the caverns and are immediately greeted by a Scourge army. Which was... apparently here all along, just waiting for someone to take leadership?
+
+{% figure [caption:"He knows that they're naga and blood elves. For... some reason."] %}
+![Boiling Point](/assets/wr/20240916201620_1.jpg)
+{% endfigure %}
+
+Just at this point, the Lich King chooses another moment to invade Arthas's mind. For some reason, Arthas is surprised by this, despite having received telepathic messages from him before.
+
+{% figure [caption:"Exposition time!"] %}
+![Boiling Point](/assets/wr/20240916201649_1.jpg)
+{% endfigure %}
+
+Everything has been engineered by the Lich King to bring Arthas here, but now they're both in grave danger, as Kil'jaeden, the Lich King's creator, sent his agents her to destroy him. He will now spare all the power he can on Arthas --- which doesn't mean that Arthas will immediately regain lost levels, but now he'll be able to return from level 2 to level 10 the normal way, by gaining XP.
+
+"It's time to end the game... once and for all," concludes Arthas, getting surprisingly meta.
+
 
 ## A Symphony of Frost and Flame
 
