@@ -22,6 +22,82 @@ For now we're returning to Arthas and Anub'arak. Leaving the shores of Northrend
 ![Into the Shadow Web Caverns](/assets/wr/20240916190441_1.jpg)
 {% endfigure %}
 
+Arthas, Anub'arak, and their undead minions have trekked along the roads of Northrend for hours and have finally reached the gate of Azjol-Nerub. Arthas wonders where all the nerubians are, undead or otherwise. Anub'arak is puzzled by their absence and believes something must have driven them off.
+
+That "something" turns out to be a bunch of Muradin's dwarves!
+
+{% figure [caption:"I like how the dwarf is just captioned as &ldquo;Dwarf&rdquo;. Maybe that's his name? I also like how he takes time to deliver exposition to people who are about to kill him."] %}
+![Into the Shadow Web Caverns](/assets/wr/20240916190534_1.jpg)
+{% endfigure %}
+
+Having "no time for these games", Arthas sics Sapphiron on them. The dwarves try to close the gate (painted in elven style for some reason), but the frost wyrm shatters it. However, that's as far as we'll be able to take him.
+
+{% figure [caption:"He almost seems... caring for the unholy effigy of a dragon he reanimated with necromancy?"] %}
+![Into the Shadow Web Caverns](/assets/wr/20240916190602_1.jpg)
+{% endfigure %}
+
+No overpowered unit for us, then. We'll have to proceed into Azjol-Nerub with some ghouls, crypt fiends, and a single meat wagon.
+
+The mission begins with an antepiece. We reach a chasm filled with water and cannot cross through. There's a lever on the other side next to some explosive barrels, and to cross, we have to order our meat wagon to attack the lever --- which will also ignite the barrels. This teaches you, in one swoop, that these levers can manipulate raised and lowered platforms, and that explosive barrels can be destroyed.
+
+{% figure [caption:"That's a lot of objectives. It's actually less complicated than it looks."] %}
+![Into the Shadow Web Caverns](/assets/wr/20240916190602_1.jpg)
+{% endfigure %}
+
+Next we reach a bridge loaded *to the brim* with explosive barrels. To prevent Arthas and company from crossing through, the dwarves in front of the bridge blow the barrels up --- which destroys the bridge and blows *them* up, too.
+
+{% figure [caption:"No kill like overkill, I suppose."] %}
+![Into the Shadow Web Caverns](/assets/wr/20240916190758_1.jpg)
+{% endfigure %}
+
+Okay, I have questions.
+
+I'm not asking why these dwarves put so many explosive barrels on this one bridge, presumably just in case unforeseen undead visitors would attempt to cross over.
+
+I'm not asking why this entire cavern is filled to the brim with explosive barrels in such big numbers. Maybe [some fool ordered 100,000 of them](http://www.screencuisine.net/hlcomic/index.php?date=2005-06-24).
+
+{% figure [caption:"And the dwarves were ordered to cluster around them."] %}
+![Into the Shadow Web Caverns](/assets/wr/concerned22.jpg)
+{% endfigure %}
+
+No, what I'm interested in is how they made all these barrels in the first place. And for that matter, [*what do they eat?*](https://www.shamusyoung.com/twentysidedtale/?p=27089) Tolkienesque fantasy overall tends to sidestep the question of where dwarves get their food in their subterranean caverns[^waste], but these dwarves are in a particularly unenviable situation where they have been sitting here for months, in caverns built by spider people for spider people, with no existing infrastructure they could rely on, with little in terms of agriculture or hunting, and with nobody to trade with. Yet somehow not only haven't they starved yet, but they seem to have a functional enough military-industrial complex that they could make all these barrels?
+
+Whatever. We navigate the underground halls, blowing up all explosive barrels that stand in the way and letting them kill the dwarves for us. Along the way, we find a cache of gold, and Arthas takes note of it.
+
+{% figure [caption:"I assume he's saying this to Anub'arak? Then again, there will be cases when he has nobody at all to talk to."] %}
+![Into the Shadow Web Caverns](/assets/wr/20240916190915_1.jpg)
+{% endfigure %}
+
+Apparently Arthas has suddenly become afflicted by dragon-sickness, because every time we come across some gold, he comments on it. Oh look, gold! Here's more gold! We should take it with us! Since we don't have any means to spend it yet, it feels like greed for greed's sake.
+
+Eventually we leave the halls behind and enter some caves filled with hostile nerubians and their webs and eggs. Arthas asks a rather strange question.
+
+{% figure [caption:"Presumably for the player's benefit?"] %}
+![Into the Shadow Web Caverns](/assets/wr/20240916191109_1.jpg)
+{% endfigure %}
+
+Since at least the Quel'Thalas missions, when he first deployed crypt fiends, Arthas knows that the Lich King subjugated Azjol-Nerub and raised its denizens into undeath against their will. It seems obvious, then, that any still-living nerubians --- like the ones we meet here --- will be opposed to the Scourge.
+
+Next we loot a storage silo, disarming a spike trap, and keep navigating dwarf-filled corridors, blowing up all explosive barrels in sight.
+
+{% figure [caption:"Seriously, *why* are there so many?"] %}
+![Into the Shadow Web Caverns](/assets/wr/20240916192026_1.jpg)
+{% endfigure %}
+
+Eventually we reach Baelgun himself. He remembers Arthas, calling him "traitor". He explains that the latest quake awakened some "ancient, horrid things" under the ice, and the dwarves vowed to keep them locked --- and so they will.
+
+{% figure [caption:"That's why we brought minions: so Arthas can Death Pact them to heal himself."] %}
+![Into the Shadow Web Caverns](/assets/wr/20240916192026_1.jpg)
+{% endfigure %}
+
+As a level 10 mountain king, Baelgun is a tough challenge for Arthas and Anub'arak, both level 5! He can deal massive damage with Storm Bolt, stun enemies with Thunder Clap, and assume a supercharged form with Avatar. It was challenging even with an item to summon a felstalker at my side.
+
+{% figure [caption:"FER KHAZ MODAAAN-- *(urk)*"] %}
+![Into the Shadow Web Caverns](/assets/wr/20240916193050_1.jpg)
+{% endfigure %}
+
+Still, he goes down and drops the Blood Key, with which we open the door. We're now ready to descend deeper into Azjol-Nerub, where unseen horrors await.
+
 
 ## The Forgotten Ones
 
@@ -69,3 +145,6 @@ This is it for the main storyline of the Frozen Throne, consisting of the night 
 However, the expansion still has one story left to tell. The Horde has a side campaign of its own, completely unrelated to the main plot and instead focusing on the orcs settling in Kalimdor, and the challenges they face as they carve a piece of land for themselves.
 
 Prepare for The Founding of Durotar, a campaign unlike any other --- one that plays less like an RTS and more like a mini-RPG!
+
+
+[^waste]: Or, for that matter, what they do with all the waste.
