@@ -193,7 +193,7 @@ Just at this point, the Lich King chooses another moment to invade Arthas's mind
 ![Boiling Point](/assets/wr/20240916201649_1.jpg)
 {% endfigure %}
 
-Everything has been engineered by the Lich King to bring Arthas here, but now they're both in grave danger, as Kil'jaeden, the Lich King's creator, sent his agents her to destroy him. He will now spare all the power he can on Arthas --- which doesn't mean that Arthas will immediately regain lost levels, but now he'll be able to return from level 2 to level 10 the normal way, by gaining XP.
+Everything has been engineered by the Lich King to bring Arthas here, but now they're both in grave danger, as Kil'jaeden, the Lich King's creator, sent his agents her to destroy him. He will now spare all the power he can on Arthas --- which doesn't mean that Arthas will immediately regain lost levels, but at least now his level drain will stop and he'll be able to return from level 2 to level 10 the normal way, by gaining XP.
 
 "It's time to end the game... once and for all," concludes Arthas, getting surprisingly meta. You can practically imagine him winking at the camera.
 
@@ -203,6 +203,72 @@ Everything has been engineered by the Lich King to bring Arthas here, but now th
 {% figure [caption:"I see someone on the team was a fan of *[A Song of Ice and Fire](https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire)*. Which doesn't actually seem to have inspired anything in Warcraft 3, but it's fun trivia regardless."] %}
 ![A Symphony of Frost and Flame](/assets/wr/20240916201752_1.jpg)
 {% endfigure %}
+
+And so it comes to this. A climactic confrontation between Arthas's Scourge and Illidan's blood elves and naga.
+
+Anub'arak explains our objective. It is to activate four obelisks around the hill containing the Frozen Throne, and to do it before Illidan does.
+
+{% figure [caption:"But the cinematics depict the Frozen Throne standing on top of this hill. I assume nobody can just scale it. That's crazy talk."] %}
+![A Symphony of Frost and Flame](/assets/wr/20240916201823_1.jpg)
+{% endfigure %}
+
+The cutscenes here don't feature any suddenly teleporting heroes, but instead we're back to them taunting each other across the entire map.
+
+{% figure [caption:"Is he even sure Arthas is there to hear him? For all he knows, he's yelling at clouds."] %}
+![A Symphony of Frost and Flame](/assets/wr/20240916201855_1.jpg)
+{% endfigure %}
+
+This map is fairly small, smaller than the map for the final mission of Reign of Chaos, reflecting the more personal goals. We're no longer saving the world, we're "only" deciding the fate of the Frozen Throne and the Scourge. And we have to build everything from scratch this time, starting with our heroes, some troops, and acolytes. Even the site for our base needs to be cleared first, as it's occupied by a small naga base.
+
+{% figure [caption:"Wet amphibious creatures must be feeling really cold amid all this snow."] %}
+![A Symphony of Frost and Flame](/assets/wr/20240921144651_1.jpg)
+{% endfigure %}
+
+Then, and only then, can we move in our acolytes. We get a couple of sacrificial skulls to spread blight and let us construct our essential buildings without waiting for the necropolis and haunted gold mine to spread blight first, but that's all the help we're going to get. Now at least we have use for all that gold Arthas was obsessing over throughout the Azjol-Nerub missions: it carries into this mission, giving us a head start.
+
+This mission, even on normal mode, really plays more like a multiplayer map than a campaign mission. Usually the pacing of campaign missions is fairly relaxed, but here we're under constant time pressure from the very start, as Illidan isn't even going to wait until we're finished constructing our base, and immediately assaults the first obelisk.
+
+{% figure [caption:"The obelisks are protected by revenants, and there are gold mines near them to help set up expansions."] %}
+![A Symphony of Frost and Flame](/assets/wr/20240918204106_1.jpg)
+{% endfigure %}
+
+Assaulting an obelisk incapacitates the hero (Arthas or Illidan) for half a minute until he finishes activating it, and when he does, the ground shakes. It was originally supposed to deal damage to enemy structures, but that was not implemented in classic Warcraft 3. It does, however, work that way in Reforged.
+
+It really is a final exam mission, as we're facing three heroes (Illidan, Kael and Vashj) with fully developed blood elf and naga bases.
+
+Once, through blood and sweat and tears, we activate all four obelisks, the final cutscene plays. The path to the Frozen Throne is clear, but Illidan is blocking Arthas's way.
+
+{% figure [caption:"But if we lose, Arthas can't similarly block Illidan's way."] %}
+![A Symphony of Frost and Flame](/assets/wr/20240918204605_1.jpg)
+{% endfigure %}
+
+It's time for them to fight --- mano o mano.
+
+{% youtube "https://www.youtube.com/watch?v=eB82pF_64mw" %}
+
+By modern standards, this cutscene looks rather goofy. It occupies an awkward middle ground between in-mission cutscenes, which don't even attempt any kind of realism, and photorealistic cinematics. The reason is that the fight between Arthas and Illidan was originally supposed to be a cinematic, but they ran out of time and settled for using *the main menu engine* instead.
+
+Arthas leaves Illidan lying in the snow. The path to the Lich King is open.
+
+{% figure [caption:"&ldquo;Wait, did Illidan just die?&rdquo; --- &ldquo;You know, it was really unclear.&rdquo;"] %}
+![A Symphony of Frost and Flame](/assets/wr/20240918204717_1.jpg)
+{% endfigure %}
+
+Arthas begins ascending the spiral stairs leading to the Frozen Throne. Along the way, he hears the whispers of his victims, but seemingly pays them no mind.
+
+{% youtube "https://www.youtube.com/watch?v=J2C_7QLwsnc" %}
+
+Reaching the Frozen Throne, he strikes, smashing the icy prison with Frostmourne. The Lich King's helm clatters on the ground, and Arthas puts it on. As he opens his eyes, they acquire an icy glow.
+
+**"Now, we are one."**
+
+{% figure [caption:"The ending shot of The Frozen Throne."] %}
+![A Symphony of Frost and Flame](/assets/wr/new_lich_king.jpg)
+{% endfigure %}
+
+Now the Lich King is freed from his prison and has a powerful body. Is he Arthas? Is he Ner'zhul? A fusion of both? We're welcome to speculate before World of Warcraft tells us for sure!
+
+The end. For now.
 
 
 ## Overall Thoughts
