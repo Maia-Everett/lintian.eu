@@ -105,12 +105,62 @@ Still, he goes down and drops the Blood Key, with which we open the door. We're 
 ![The Forgotten Ones](/assets/wr/20240916193701_1.jpg)
 {% endfigure %}
 
+Arthas and Anub'arak's dynamics throughout these missions are resembling an hourglass. With every mission, Arthas drops a level; last mission he was level 5, now he's level 4. Anub'arak, meanwhile, is gaining levels, and it's getting more and more imperative to put him on the frontlines while a progressively squishier Arthas stays at the back during the most intense fights.
+
+If the last mission's theme was dwarves and explosive barrels, the theme of the first part of this mission is traps. It begins with a long hallway with a line of towers on each side.
+
+{% figure [caption:"Unlike Kael'thas, Arthas doesn't have waves of disposable spell breakers to try to rush through."] %}
+![The Forgotten Ones](/assets/wr/20240916193829_1.jpg)
+{% endfigure %}
+
+One of the levers is just hidden under some rock chunks, so it's likely the player will find it before Anub'arak finishes explaining the design of the trap. The lever on the other side, however, is guarded by some nerubians.
+
+In the next room, there's an amusing exchange as the nerubians mention "the traitor king" and Arthas believes they're referring to him, when they actually mean Anub'arak.
+
+{% figure [caption:"Tsk Arthas, you believe it's all about you."] %}
+![The Forgotten Ones](/assets/wr/20240916194140_1.jpg)
+{% endfigure %}
+
+The living nerubians are holding a crypt fiend captive, and once freed, he mentions that more of his comrades are captured in the rooms ahead. I don't really know why the living nerubians bothered to imprison them instead of just slaying them like the undead mockeries of life they are, but it works in our favor.
+
+Next is a raised platform that, when stood on, falls into water full of crabs.[^crabs] Then a pedestal holding a Belt of Giant Strength +6 that, when collected, releases a swarm of scorpions. Finally, there's a room that continuously spawns hatchlings until the doors to the rooms they spawn in are closed. We find where the other crypt fiends are imprisoned and free them. Now we have a sizable force.
+
+{% figure [caption:"Also, in one room, there's a throne fit for a humanoid, which looks odd in halls that are supposed to have been built by spider people."] %}
+![The Forgotten Ones](/assets/wr/20240921132211_1.jpg)
+{% endfigure %}
+
+Eventually we reach a hall filled with tentacles and... tentacled humanoid monsters? Arthas asks what they are.
+
+{% figure [caption:"[Cthulhumanoids](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cthulhumanoid)?"] %}
+![The Forgotten Ones](/assets/wr/20240916195912_1.jpg)
+{% endfigure %}
+
+So on top of everything else, Warcraft now has some Lovecraft, or more precisely [Lovecraft-lite](https://tvtropes.org/pmwiki/pmwiki.php/Main/LovecraftLite) since they're just monsters to be fought, not signs of total cosmic nihilism and despair. They are [faceless ones](https://warcraft.wiki.gg/wiki/Faceless_one), and their inclusion in TFT is just momentary indulgence in worldbuilding and setting up threads for World of Warcraft to follow; we're going to wait until WoW to find out exactly *what* they are or [whom](https://warcraft.wiki.gg/wiki/Old_Gods) they serve.
+
+Having fought through the faceless ones, we reach the chamber of the final boss of this mission --- *whatever* this is.
+
+{% figure [caption:"But what does it eat-- You know what, forget it. I'm willing to believe that it doesn't need to."] %}
+![The Forgotten Ones](/assets/wr/20240916200200_1.jpg)
+{% endfigure %}
+
+This is the [Forgotten One](https://warcraft.wiki.gg/wiki/Forgotten_one), and to my knowledge, it's the only known creature of its kind in all of Warcraft. It even has a short introductory cutscene to highlight what a menace it is, but honestly, compared to Baelgun, it's a pushover. Though it has a massive HP pool, we have like twelve crypt fiends at this point, and we defeat it before it (somehow) spawns too many tentacles through the stone floor.
+
+{% figure [caption:"The battle with Baelgun left both my heroes near death, but here the boss is almost dead and they aren't even scratched."] %}
+![The Forgotten Ones](/assets/wr/20240916200232_1.jpg)
+{% endfigure %}
+
+However, with the Forgotten One's death, more faceless ones emerge through a newly opened door. We can't take them all, so Anub'arak calls for Arthas to go up the stairwell, beginning their...
+
 
 ## Ascent to the Upper Kingdom
 
 {% figure [caption:""] %}
 ![Ascent to the Upper Kingdom](/assets/wr/20240916200309_1.jpg)
 {% endfigure %}
+
+
+
+
 
 
 ## Boiling Point
@@ -164,3 +214,5 @@ Prepare for The Founding of Durotar, a campaign unlike any other --- one that pl
 
 
 [^waste]: Or, for that matter, what they do with all the waste.
+
+[^crabs]: Actual crabs, not placeholders for spiders from an arachnophobia switch.
