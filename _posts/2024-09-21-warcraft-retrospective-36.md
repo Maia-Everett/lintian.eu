@@ -154,13 +154,25 @@ However, with the Forgotten One's death, more faceless ones emerge through a new
 
 ## Ascent to the Upper Kingdom
 
-{% figure [caption:""] %}
+{% figure [caption:"If there's an Upper Kingdom, shouldn't there be a Lower Kingdom? Or if that's the Inner Kingdom, should the Upper Kingdom be the Outer Kingdom?"] %}
 ![Ascent to the Upper Kingdom](/assets/wr/20240916200309_1.jpg)
 {% endfigure %}
 
+As we reach the Upper Kingdom, a sudden cave-in separates Arthas from Anub'arak and their minions.[^cave-in] Now we're left controlling a level 3 Arthas and have only ten minutes to complete this entire mission, our goal being to escape the cavern before it collapses. Along the way, Arthas faces a variety of traps. First there's a relatively easy timing trap with flames bursting out of the sides of a narrow passage, then there's a harder one where there are a few islands of safety strewn across a floor where flames periodically appear and disappear.
 
+{% figure [caption:"The floor is lava!"] %}
+![Ascent to the Upper Kingdom](/assets/wr/20240921142433_1.jpg)
+{% endfigure %}
 
+Thankfully, there's a Fountain of Health right after this one, and it's hypercharged, healing Arthas much faster than a normal Fountain of Health would. Then there's a trap consisting of a series of barriers we need to destroy while a faceless one casts Blizzard at us, and then another trap consisting of platforms periodically rising and lowering themselves over water.
 
+{% figure [caption:"Why did the nerubians build all these traps, and how did they navigate their own kingdom?"] %}
+![Ascent to the Upper Kingdom](/assets/wr/20240921142729_1.jpg)
+{% endfigure %}
+
+Finally, Arthas meets Anub'arak and the minions, and together they fight their way through another room full of faceless ones before the timer expires. The end.
+
+I'll give credit to the three Azjol-Nerub missions: though short, back at release they enticed my imagination and made me want to see and know more of the great spider kingdom beneath Northrend. I hoped that if we ever returned to Northrend in a Warcraft game, we'd get to roam Azjol-Nerub as well. Imagine my disappointment when what we got was not even a single zone but rather just two dungeons, and when we finally got a nerubian kingdom as a zone, it was not Azjol-Nerub in Northrend, but [a different and unrelated kingdom on the other side of the world](https://warcraft.wiki.gg/wiki/Azj-Kahet) that the writers just suddenly made up.
 
 
 ## Boiling Point
@@ -183,7 +195,7 @@ Just at this point, the Lich King chooses another moment to invade Arthas's mind
 
 Everything has been engineered by the Lich King to bring Arthas here, but now they're both in grave danger, as Kil'jaeden, the Lich King's creator, sent his agents her to destroy him. He will now spare all the power he can on Arthas --- which doesn't mean that Arthas will immediately regain lost levels, but now he'll be able to return from level 2 to level 10 the normal way, by gaining XP.
 
-"It's time to end the game... once and for all," concludes Arthas, getting surprisingly meta.
+"It's time to end the game... once and for all," concludes Arthas, getting surprisingly meta. You can practically imagine him winking at the camera.
 
 
 ## A Symphony of Frost and Flame
@@ -216,3 +228,5 @@ Prepare for The Founding of Durotar, a campaign unlike any other --- one that pl
 [^waste]: Or, for that matter, what they do with all the waste.
 
 [^crabs]: Actual crabs, not placeholders for spiders from an arachnophobia switch.
+
+[^cave-in]: Maybe the Forgotten One was a [load-bearing boss](https://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss)?
