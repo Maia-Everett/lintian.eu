@@ -41,7 +41,7 @@ No overpowered unit for us, then. We'll have to proceed into Azjol-Nerub with so
 The mission begins with an antepiece. We reach a chasm filled with water and cannot cross through. There's a lever on the other side next to some explosive barrels, and to cross, we have to order our meat wagon to attack the lever --- which will also ignite the barrels. This teaches you, in one swoop, that these levers can manipulate raised and lowered platforms, and that explosive barrels can be destroyed.
 
 {% figure [caption:"That's a lot of objectives. It's actually less complicated than it looks."] %}
-![Into the Shadow Web Caverns](/assets/wr/20240916190602_1.jpg)
+![Into the Shadow Web Caverns](/assets/wr/20240916190639_1.jpg)
 {% endfigure %}
 
 Next we reach a bridge loaded *to the brim* with explosive barrels. To prevent Arthas and company from crossing through, the dwarves in front of the bridge blow the barrels up --- which destroys the bridge and blows *them* up, too.
@@ -85,10 +85,6 @@ Next we loot a storage silo, disarming a spike trap, and keep navigating dwarf-f
 {% endfigure %}
 
 Eventually we reach Baelgun himself. He remembers Arthas, calling him "traitor". He explains that the latest quake awakened some "ancient, horrid things" under the ice, and the dwarves vowed to keep them locked --- and so they will.
-
-{% figure [caption:"That's why we brought minions: so Arthas can Death Pact them to heal himself."] %}
-![Into the Shadow Web Caverns](/assets/wr/20240916192026_1.jpg)
-{% endfigure %}
 
 As a level 10 mountain king, Baelgun is a tough challenge for Arthas and Anub'arak, both level 5! He can deal massive damage with Storm Bolt, stun enemies with Thunder Clap, and assume a supercharged form with Avatar. It was challenging even with an item to summon a felstalker at my side.
 
@@ -189,7 +185,7 @@ Arthas and Anub'arak emerge from the caverns and are immediately greeted by a Sc
 
 Just at this point, the Lich King chooses another moment to invade Arthas's mind. For some reason, Arthas is surprised by this, despite having received telepathic messages from him before.
 
-{% figure [caption:"Exposition time!"] %}
+{% figure [caption:"And now, we finally learn about Frostmourne's origins."] %}
 ![Boiling Point](/assets/wr/20240916201649_1.jpg)
 {% endfigure %}
 
@@ -266,14 +262,14 @@ Reaching the Frozen Throne, he strikes, smashing the icy prison with Frostmourne
 ![A Symphony of Frost and Flame](/assets/wr/new_lich_king.jpg)
 {% endfigure %}
 
-Now the Lich King is freed from his prison and has a powerful body. Is he Arthas? Is he Ner'zhul? A fusion of both? We're welcome to speculate before World of Warcraft tells us for sure!
+Now the Lich King is freed from his prison and has a powerful body. Is he Arthas? Is he Ner'zhul? A fusion of both? We're welcome to speculate before World of Warcraft tells us for sure.
 
-The end. For now.
+For now, this is the end.
 
 
 ## Overall Thoughts
 
-Legacy of the Damned is a campaign about evil versus evil (and versus evil). It focuses on two villain protagonists who both achieve their goal and do a lot of harm in the process. Whereas the original Warcraft 3 had a [bittersweet ending](https://tvtropes.org/pmwiki/pmwiki.php/Main/BittersweetEnding) (the Legion invasion was stopped, but at a great cost), The Frozen Throne has an outright [downer ending](https://tvtropes.org/pmwiki/pmwiki.php/Main/DownerEnding) Bad things happen to good people, the Lich King's opposition is soundly beaten, and the Lich King himself, in Arthas's body, is now stronger than ever. Whether his Arthas or Ner'zhul, his renewed reign is going to bide ill for Azeroth.
+Legacy of the Damned is a campaign about evil versus evil (and versus evil). It focuses on two villain protagonists who both achieve their goal and do a lot of harm in the process. Whereas the original Warcraft 3 had a [bittersweet ending](https://tvtropes.org/pmwiki/pmwiki.php/Main/BittersweetEnding) (the Legion invasion was stopped, but at a great cost), The Frozen Throne has an outright [downer ending](https://tvtropes.org/pmwiki/pmwiki.php/Main/DownerEnding) Bad things happen to good people, the Lich King's opposition is soundly beaten, and the Lich King himself, in Arthas's body, is now stronger than ever. Whether he's Arthas or Ner'zhul, his renewed reign is going to bide ill for Azeroth.
 
 Narratively, The Frozen Throne is set up as a conflict between Illidan and Arthas. Both of them were very popular characters when Warcraft 3 was released, and their popularity hasn't faded even now, twenty-two years later --- which means that the Blizzard of old did something right when setting them up. I think it helps that they're both villains with cool designs, expressive personalities, and proactivity, taking matters into their hands and paving the way for their victories instead of [sitting on their thrones](https://tvtropes.org/pmwiki/pmwiki.php/Main/OrcusOnHisThrone) waiting to be defeated.
 
@@ -284,11 +280,15 @@ Both characters enjoyed breakout popularity, but of course, they didn't start wi
 
 ## Next Up
 
-This is it for the main storyline of the Frozen Throne, consisting of the night elf, blood elf, and undead campaigns and concerning the race between Arthas and Illidan for the titular Frozen Throne.
+This is it for the main storyline of The Frozen Throne, consisting of the night elf, blood elf, and undead campaigns and concerning the race between Arthas and Illidan for the titular Frozen Throne.
 
 However, the expansion still has one story left to tell. The Horde has a side campaign of its own, completely unrelated to the main plot and instead focusing on the orcs settling in Kalimdor, and the challenges they face as they carve a piece of land for themselves.
 
 Prepare for The Founding of Durotar, a campaign unlike any other --- one that plays less like an RTS and more like a mini-RPG!
+
+----
+
+Screenshot from the webcomic *[Concerned: The Half-Life and Death of Gordon Frohman](http://www.screencuisine.net/hlcomic/index.php?date=2005-05-01)* by Christopher C. Livingston.
 
 
 [^waste]: Or, for that matter, what they do with all the waste.
