@@ -4,7 +4,7 @@ title: "Warcraft Retrospective 14: Day of the Dragon"
 categories: [ Warcraft Retrospective, Warcraft ]
 ---
 
-This week we're looking at the novel *[Day of the Dragon](https://warcraft.wiki.gg/wiki/Day_of_the_Dragon)* by... *(sigh)* [Richard A. Knaak](https://warcraft.wiki.gg/wiki/Richard_A._Knaak). Now, I could have cheated with this one, since Ramses already did a [chapter-by-chapter review](http://ramses-reviews.blogspot.com/2012/08/warcraft-day-of-dragon.html) years ago, but I have some things to say about this book that he didn't. And at any rate, I cannot ignore this novel, as it introduces one of the foundational concepts of the Warcraft setting as we know it now: the five [Dragon Aspects](https://warcraft.wiki.gg/wiki/Dragon_Aspects).
+This week we're looking at the novel *[Day of the Dragon](https://warcraft.wiki.gg/wiki/Day_of_the_Dragon)* by... *(sigh)* [Richard A. Knaak](https://warcraft.wiki.gg/wiki/Richard_A._Knaak). Now, I could have cheated with this one, since Ramses already did a [chapter-by-chapter review](https://ramses-reviews.blogspot.com/2012/08/warcraft-day-of-dragon.html) years ago, but I have some things to say about this book that he didn't. And at any rate, I cannot ignore this novel, as it introduces one of the foundational concepts of the Warcraft setting as we know it now: the five [Dragon Aspects](https://warcraft.wiki.gg/wiki/Dragon_Aspects).
 
 It's the reason why Warcraft no longer depicts its dragons like this:
 
@@ -90,7 +90,7 @@ Now that I've got this rant off my chest, let's look at...
 
 ## The Plot
 
-Like I said before, Ramses did an excellent [chapter by chapter summary](http://ramses-reviews.blogspot.com/2012/08/warcraft-day-of-dragon.html) of the book. I won't go into as much detail.
+Like I said before, Ramses did an excellent [chapter by chapter summary](https://ramses-reviews.blogspot.com/2012/08/warcraft-day-of-dragon.html) of the book. I won't go into as much detail.
 
 
 ### The Exposition
