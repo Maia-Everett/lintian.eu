@@ -20,7 +20,7 @@ The orcs actually almost didn't feature in The Frozen Throne. The writers couldn
 
 Now, I'm wary of using the term "RPG" because it's so ambiguous these days. So what do I mean when I say that The Founding of Durotar is an RPG campaign rather than an RTS one?
 
-Fr my purposes, in the context of video games specifically, an RPG is a video game where:
+For my purposes, in the context of video games specifically, an RPG is a video game where:
 
 * the player controls a small, limited number of characters with distinct identities;
 * who have numerical stats that can be improved;
@@ -59,7 +59,7 @@ So begins our mission --- and from the very start we can see that it's going to 
 ![To Tame a Land](/assets/wr/20240918205500_1.jpg)
 {% endfigure %}
 
-The map is *huge*, and we start in a small corner of it. We're controlling just Rexxar and Misha, who is infinitely resummonable and doesn't expire like a typical summoned creature. Because of this, Misha is an excellent tank; if he dies, we can always just resummon him.
+The map is *huge*, and we start in a small corner of it. We're controlling just Rexxar and Misha, who is infinitely resummonable and doesn't expire like a typical summoned creature. Because of this, Misha is an excellent tank; if she[^her] dies, we can always just resummon her.
 
 Not that losing Rexxar is the end of the world either. This is a campaign where the player literally cannot lose: if a hero dies, they just [revive at a Resurrection Stone](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeathIsASlapOnTheWrist). We can thus endlessly retry quests and encounters. All this results in a fun and relaxed experience with no time pressure whatsoever.
 
@@ -322,6 +322,8 @@ Next up, we'll visit Dustwallow Marsh and Theramore Isle, and we'll find out who
 
 
 [^world_editor]: Seriously, people have made so many different minigames on the Warcraft 3 engine using World Editor scripts. It even popularized [an entire genre](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) of video games: [Defense of the Ancients](https://en.wikipedia.org/wiki/Defense_of_the_Ancients), or DotA, was originally not a standalone game, but a Warcraft 3 map.
+
+[^her]: Misha is stated to be female in post-Warcraft 3 materials, which is odd because in Russian, it's a masculine name.
 
 [^settler_horde]: The four terms are [courtesy of Ramses](https://ramses-reviews.blogspot.com/2014/01/a-special-look-at-alliance-part-two.html).
 
