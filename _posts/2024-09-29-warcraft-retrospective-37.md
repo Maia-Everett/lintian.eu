@@ -5,7 +5,7 @@ categories: [ Warcraft Retrospective, Warcraft ]
 excerpt_separator: <!--more-->
 ---
 
-We have just one campaign left. Like I said, the Horde campaign in The Frozen Throne is disconnected from the three-campaign main plot. That's why it's called the "bonus campaign" in the main menu.<!--more-->
+We have just one campaign left. Like I said, the Horde campaign in The Frozen Throne is disconnected from the three-campaign main plot. That's why it's called the "bonus campaign" in the main menu. It's also *very* different from every other campaign we've played so far, being heavily custom-scripted in a way that's a testament to the insane capabilities of Warcraft 3's World Editor.<!--more-->[^world_editor]
 
 
 ## The Founding of Durotar
@@ -256,10 +256,40 @@ There seems to be a bit of a disconnect here between the narration and the gamep
 
 ## Ambushing the Ambushers
 
+We return from the Echo Isles and report our progress to Thrall, whose scouts have already informed him that the trolls have landed safely. Now, he has another task for us. The humans have sent an emissary to parley with him, and are supposed to meet him at Razor Hill around midnight.
 
-At release, the campaign actually ended here, as Blizzard ran out of time to finish the Founding of Durotar campaign before the game went gold. Only in patch 1.13, five and a half months after release, did the remaining two missions arrive: Act 2 "Old Hatreds" and the very short Act 3 "A Blaze of Glory".
+Rexxar, of course, suspects a trap and offers to go in Thrall's stead. After all, if it's not a trap, he'll lose nothing.
+
+We go to the indicated spot and meet the emissary...
+
+{% figure [caption:"So the emissary model has human eyes under the blue glow. If he's an elf, why aren't his eyes fully glowing? If he's a human, what are the blue effects for?"] %}
+![To Tame a Land](/assets/wr/20240922190203_1.jpg)
+{% endfigure %}
+
+"And you are not Jaina Proudmoore," remarks Rexxar. The emissary is surprised that he thinks Jaina is involved with this at all, and signals his men to attack. This *is* a trap after all; a lot of human units jump out from seemingly nowhere, and we defeat them. The dying emissary refuses to say who sent him, telling Rexxar that this is only a beginning.
+
+When we return to Thrall, he's had enough and decides to take matters to Jaina. He writes her a letter and asks Rexxar to infiltrate her base at Theramore Isle and deliver the letter to her personally.
+
+{% figure [caption:"Yes, pandaren can turn their heads 90 degrees, that's totally in the lore."] %}
+![To Tame a Land](/assets/wr/20240922190400_1.jpg)
+{% endfigure %}
+
+"Good luck, Rexxar. The future of Durotar is in your hands," says Thrall as he watches the zeppelin fly into the distance, slowly fading from view.
+
+...Wait, what's this?
+
+{% figure [caption:"A free DLC? What is this sorcery?"] %}
+![To Tame a Land](/assets/wr/20240922190437_1.jpg)
+{% endfigure %}
+
+This is a leftover message from TFT release.
+
+You see, at release, the campaign actually ended here, as Blizzard ran out of time to finish The Founding of Durotar before the game went gold. Only in patch 1.13, five and a half months after release, did the remaining two missions arrive: Act 2 "Old Hatreds" and the very short Act 3 "A Blaze of Glory". I don't know why they didn't remove the message when the campaign was completed. Maybe it would have broken compatibility with old saves?
 
 Next up, we'll visit Dustwallow Marsh and Theramore Isle, and we'll find out who's behind the human attacks --- and stop them.
+
+
+[^world_editor]: Seriously, people have made so many different minigames on the Warcraft 3 engine using World Editor scripts. It even popularized [an entire genre](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) of video games: [Defense of the Ancients](https://en.wikipedia.org/wiki/Defense_of_the_Ancients), or DotA, was originally not a standalone game, but a Warcraft 3 map.
 
 [^gold]: Gold can be spent on items in many shops around the map.
 
