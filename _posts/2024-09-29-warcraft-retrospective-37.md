@@ -244,7 +244,7 @@ Back in Orgrimmar, where Thrall promises to look into the matter with the humans
 
 All that we can do is avenge our fallen brethren by destroying the human landing site.
 
-{% figure [caption:"Hmm. We're wearing green. Which of the Seven Kingdoms had green as its national color, again?"] %}
+{% figure [caption:"Hmm. They're wearing green. Which of the Seven Kingdoms had green as its national color, again?"] %}
 ![To Tame a Land](/assets/wr/20240922145907_1.jpg)
 {% endfigure %}
 
