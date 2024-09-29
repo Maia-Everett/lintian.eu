@@ -96,7 +96,7 @@ I love frontier settings. The border between wilderness and civilization is prim
 
 In hindsight, I would say that The Founding of Durotar was the turning point when Warcraft finished its transformation [from a primarily warfare setting into a primarily adventure setting](/2024/01/20/warcraft-retrospective-11/).
 
-As the authorities in question, the Horde, too, undergoes a metamorphosis. We've had the Monster Horde of Warcraft 1, the War Machine Horde of Warcraft 2, and the Rebel Horde of *Lord of the Clans* and early Warcraft 3; with this campaign, we're moving into a fourth identity, the **Settler Horde**.
+As the authorities in question, the Horde, too, undergoes a metamorphosis. We've had the Monster Horde of Warcraft 1, the War Machine Horde of Warcraft 2, and the Rebel Horde of *Lord of the Clans* and early Warcraft 3; with this campaign, we're moving into a fourth identity, the **Settler Horde**.[^settler_horde]
 
 The Settler Horde doesn't dream of conquering the other civilized peoples and has no quarrel with them. Its goal is, instead, to tame the wild, [to shape this rugged land of theirs and build a home for all](https://www.youtube.com/watch?v=Ts64p1eFqaw). This is reflected in the first three quests we pick up by running around Orgrimmar:
 
@@ -322,6 +322,8 @@ Next up, we'll visit Dustwallow Marsh and Theramore Isle, and we'll find out who
 
 
 [^world_editor]: Seriously, people have made so many different minigames on the Warcraft 3 engine using World Editor scripts. It even popularized [an entire genre](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) of video games: [Defense of the Ancients](https://en.wikipedia.org/wiki/Defense_of_the_Ancients), or DotA, was originally not a standalone game, but a Warcraft 3 map.
+
+[^settler_horde]: The four terms are [courtesy of Ramses](https://ramses-reviews.blogspot.com/2014/01/a-special-look-at-alliance-part-two.html).
 
 [^gold]: Gold can be spent on items in many shops around the map.
 
