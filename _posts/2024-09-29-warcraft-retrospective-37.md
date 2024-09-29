@@ -61,9 +61,7 @@ So begins our mission --- and from the very start we can see that it's going to 
 
 The map is *huge*, and we start in a small corner of it. We're controlling just Rexxar and Misha, who is infinitely resummonable and doesn't expire like a typical summoned creature. Because of this, Misha is an excellent tank; if he dies, we can always just resummon him.
 
-Not that losing Rexxar is the end of the world either. This is a campaign where the player literally cannot lose: if a hero dies, they just [revive at a Resurrection Stone](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeathIsASlapOnTheWrist). You can thus retry quests and encounters forever.
-
-All this results in a fun and relaxed experience with no time pressure whatsoever.
+Not that losing Rexxar is the end of the world either. This is a campaign where the player literally cannot lose: if a hero dies, they just [revive at a Resurrection Stone](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeathIsASlapOnTheWrist). We can thus endlessly retry quests and encounters. All this results in a fun and relaxed experience with no time pressure whatsoever.
 
 We move across the map, fighting through quillboars, until we reach Orgrimmar --- the new capital city of the Horde.
 
@@ -77,7 +75,7 @@ Rexxar heads to Thrall, who is overseeing the construction in progress.
 ![To Tame a Land](/assets/wr/20240918205716_1.jpg)
 {% endfigure %}
 
-Rexxar introduces himself as the last son of the Mok'Nathal. Thrall heard of them a people who have both orc and ogre blood in their veins (thus explaining Rexxar's unusual look). He offers Rexxar his city's hospitality, prompting him to offer to earn his keep by helping with local problems.
+Rexxar introduces himself as the last son of the [Mok'Nathal](https://warcraft.wiki.gg/wiki/Mok%27nathal). Thrall heard of them a people who have both orc and ogre blood in their veins (thus explaining Rexxar's unusual look). He offers Rexxar his city's hospitality, prompting him to offer to earn his keep by helping with local problems.
 
 Thrall, in turn, introduces Rexxar to [Rokhan](https://warcraft.wiki.gg/wiki/Rokhan) of the Darkspear tribe, one of his finest scouts.
 
@@ -85,7 +83,7 @@ Thrall, in turn, introduces Rexxar to [Rokhan](https://warcraft.wiki.gg/wiki/Rok
 ![To Tame a Land](/assets/wr/20240918205831_1.jpg)
 {% endfigure %}
 
-Unfortunately, Rokhan gets neither characterization nor plot relevance. Rexxar is introduced as a loner who has wandered the wilds for years and has now grown tired of solitude, so he welcomes being among civilization for a change. Rokhan is... a troll, and that's basically it. He never speaks in cutscenes, letting Rexxar do all the talking, and even when the trolls come into relevance later in this mission, he still ends up being irrelevant.
+Unfortunately, Rokhan gets neither characterization nor plot relevance. Rexxar is introduced as a loner who has wandered the wilds for years and has now grown tired of solitude, so he welcomes being among civilization for a change. Rokhan is... a troll, and that's basically it. He almost never speaks in cutscenes, letting Rexxar do all the talking, and even when the trolls come into relevance later in this mission, he still ends up being irrelevant.
 
 In some cases it's fine if an RPG's player character is the least interesting person in the story; it might be an intentional choice on the game designers' part if the player character is customizable and they want the player to be able to project any personality they want onto their protagonist. Here, however, both Rexxar and Rokhan are specific characters with specific identities, so it's odd that the cutscene conversations only involve one of them.
 
@@ -252,6 +250,40 @@ There seems to be a bit of a disconnect here between the narration and the gamep
 
 
 ## Evacuating the Echo Isles
+
+When we next return to Thrall, he notes that the anchor sigil (which we as players still haven't *seen*, only heard *described*) does look familiar, but he cannot place it. Suddenly, Rokhan reminds everyone that he's still there, by suggesting that the human fleet may be a danger to his people, the Darkspear trolls, on the Echo Isles. Thrall agrees and tells our heroes to take a zeppelin there to convince the trolls to evacuate.
+
+The Echo Isles are tropical, just like the Broken Isles, and in fact use the same tileset. We fight our way through local monsters (crabs, skeletal orcs, and a powerful revenant called the Deathlord) and meet the troll leader.
+
+{% figure [caption:"Alas, almost nobody in this campaign has a unique model. No, not even Rexxar."] %}
+![Echo Isles](/assets/wr/20240922183831_1.jpg)
+{% endfigure %}
+
+Vol'jin gives the heroes an infinitely respawning (as usual) supply of troll batriders to blow up the human ships, but Rexxar rightly notes that with no flying mounts, they themselves will be useless on land. Vol'jin, however, has a way for them to help: he transforms them.
+
+{% figure [caption:"Are these some kind of... spirit wyverns?"] %}
+![Echo Isles](/assets/wr/echoisles.jpg)
+{% endfigure %}
+
+The transformed heroes can't use their items and most of their abilities, but gain new ones instead. A transformed Rokhan has Aerial Shackles, which is useful against enemy gryphon riders, and Rexxar has what is effectively Bloodlust. Misha doesn't despawn, but is useless for now.
+
+{% figure [caption:"Apparently Rexxar is now a level 7 Rexxar. Thank you, Captain Obvious!"] %}
+![Echo Isles](/assets/wr/20240922184003_1.jpg)
+{% endfigure %}
+
+With this aerial force, we take out the five battleships.
+
+{% figure [caption:"Given the proximity of the coast, this water doesn't even look deep enough for a battleship to sink in."] %}
+![Echo Isles](/assets/wr/20240922184445_1.jpg)
+{% endfigure %}
+
+Once we're done, Vol'jin gives us our second task here: to light five signal pyres in the southern potion of the map. They're being squatted by sea giants, but by now our heroes are so powerful that the giants barely make a dent in their HP.
+
+{% figure [caption:"That yellow + represents a permanent bonus to all three stats. When a hero in this gains a level, we can choose to level one of the four abilities or just gain a passive stat bonus."] %}
+![Echo Isles](/assets/wr/20240922185119_1.jpg)
+{% endfigure %}
+
+For our efforts, having defeated the level 11 Sea King, we loot an artifact-quality axe called Killmaim. You'd think you first maim and *then* kill, not the other way round --- unless the name is a suggestion to kill Maim Blackhand.
 
 
 ## Ambushing the Ambushers
