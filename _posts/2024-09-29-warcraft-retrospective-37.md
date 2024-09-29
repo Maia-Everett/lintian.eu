@@ -122,13 +122,133 @@ I'm afraid this story does have colonialist undertones. The orcs have arrived he
 
 Gameplay mechanics are an abstraction. Yes, when you approach the kobolds and centaurs, they attack you on sight, but is it because the orcs aren't even trying to negotiate, or because the natives are not interested in negotiations at all?
 
-We don't know.
+We don't know. But either way, the orcs are taking someone else's land, and the morality of it is never questioned in-story.
 
 
 ## The Early Quests
 
+The three quests can be completed in any order.
+
+As we head for the kobold quest, we cross areas filled with low-level centaurs. The mobs on the main map actually endlessly respawn, providing the player with an unlimited source of gold[^gold] and XP, but they only respawn when the area is hidden by the fog of war, so players using the map reveal cheat are screwed.
+
+The entrance to the Orgrimmar tunnels is marked by mine carts, campfires, and... a shimmering line.
+
+{% figure [caption:"Clearly, it's an Aperture Science Material Emancipation Grid."] %}
+![Orgrimmar Tunnels](/assets/wr/20240922123245_1.jpg)
+{% endfigure %}
+
+This is another new mechanic seen only in this campaign. Unlike all other campaigns, where each mission takes place on one map, here, the first mega-mission consists of several connected maps, which all remember their state between loads. Crossing a zone boundary loads the map it leads to:
+
+{% figure [caption:"Central Kalimdor has changed somewhat since we last saw it in Reign of Chaos."] %}
+![Orgrimmar Tunnels](/assets/wr/20240922123252_1.jpg)
+{% endfigure %}
+
+It is not yet the seamless world of World of Warcraft, but it is nonetheless a *persistent* world. The heroes travel between zones with all their gear and experience intact, though, annoyingly, Misha doesn't travel with them and has to be resummoned every time upon crossing zone boundaries.
+
+In the tunnels, we meet some of Gazlowe's goblins:
+
+{% figure [caption:"Are they doing paperwork in a tunnel?"] %}
+![Orgrimmar Tunnels](/assets/wr/20240922123314_1.jpg)
+{% endfigure %}
+
+They have a plan. If we fight our way through kobolds and send goblin sappers to blow up the tunnel's support beams, it will collapse on top of the kobolds. We're provided with an endlessly respawning supply of sappers, so like everything else in this campaign, we can retry this indefinitely.
+
+This fits with goblin culture as it's been shown so far: that they're neutral traders selling to the highest bidder, and that they're obsessed with explosions.
+
+The harpy quest is just a gauntlet of progressively stronger harpies ending with their leader, Bloodfeather.
+
+{% figure [caption:"Even *harpies* accuse orcs of taking their lands."] %}
+![To Tame a Land](/assets/wr/20240922125841_1.jpg)
+{% endfigure %}
+
+Finally, for Drek'thar's quest, we enter Thunder Ridge, kill whatever thunder lizards we meet on the way, and collect six shimmerweed herbs.
+
+{% figure [caption:"We kill, and we collect. This, of course, foreshadows World of Warcraft."] %}
+![To Tame a Land](/assets/wr/20240922130726_1.jpg)
+{% endfigure %}
+
+When we return, Drek'Thar notes that something must have riled up the thunder lizards and that he'll head to investigate this.
+
 
 ## Suddenly, Humans
+
+When we return to Thrall, Nazgrel tasks us with investigating the humans encroaching on orc lands, whom he doesn't trust. We should head to an outlying watch post and meet with his lieutenant, Gar'thok.
+
+And we'll do that. But first, we'll go meet this guy:
+
+{% figure [caption:"In the Russian dub, for some unfathomable reason, they called him Raivo. Raivo of Pandaria."] %}
+![To Tame a Land](/assets/wr/20240922131855_1.jpg)
+{% endfigure %}
+
+This is [Chen Stormstout](https://warcraft.wiki.gg/wiki/Chen_Stormstout), a [pandaren brewmaster](https://warcraft.wiki.gg/wiki/Pandaren_Brewmaster_(Warcraft_III)) who left Pandaria in search for exotic ingredients for his brews. That's right: no matter what [later lore](https://warcraft.wiki.gg/wiki/World_of_Warcraft:_Mists_of_Pandaria) says, here in TFT, Chen is clearly stated to come from Pandaria. But what *is* Pandaria? *Where* is it?
+
+We don't know yet. We certainly won't find any answer in the game or its manual. The only things we know are in the description of the pandaren brewmaster hero:
+
+> Hailing from the secretive Pandaren Empire, the mighty brewmasters travel the world in search of exotic ales and the finest brewed spirits. These affable warriors rarely seek out danger or trouble, preferring instead to spend their time concocting new and tasty beverages for any brave enough to imbibe them. However, if attacked, the laughing brewmasters bring all of their pandaren agility and ferocity to bear! They even bring their beer to war! They are peerless warriors and world class drinkers all in one!
+> 
+> A warrior Hero, the brewmasters of Pandaria have emerged from the bamboo forests of their ancestors to bring their unique fighting style (and robust ales) to the highest bidder.
+
+Which doesn't really tell us much beyond Chen's introduction here. In fact, when the pandaren brewmaster class was announced as the first neutral hero class for multiplayer, ahead of any particular character's introduction, people wondered if it was a belated April Fools joke --- a confusion that persisted until a new beta build rolled out with the class fully functional.
+
+Anyway, Chen tasks us with finding three exotic ingredients. One is just sold in a marketplace, one is protected by murlocs[^murlocs], and one by phoenixes. Once we return to Chen, he makes his brew --- which apparently tastes so horrible that Rexxar asks if Chen is trying to kill him --- and, now that the brew is complete, he desires to see more of this strange rugged land, and joins our party!
+
+It's notable that he is entirely optional. There are no quests that lead to him, he just waits in his corner of the map until we stumble into him. Because of this, he's [permanently missable](https://tvtropes.org/pmwiki/pmwiki.php/Main/PermanentlyMissableContent).
+
+Also along the way, we meet a dying shaman who gives us a side quest to eradicate a warlock coven:
+
+{% figure [caption:"Seeing how he wears wolf skin, &ldquo;Wolfsong&rdquo; is a bit on the nose."] %}
+![To Tame a Land](/assets/wr/20240922133845_1.jpg)
+{% endfigure %}
+
+At the watch post, Gar'thok hasn't heard of any humans, but the local quillboars have been getting bolder. There's an observatory nearby to scout for potential threats, but the quillboars are roaming the area, so naturally, Gar'thok tells us to exterminate them all.
+
+{% figure [caption:"This, too, is foreshadowing of [some lore](https://warcraft.wiki.gg/wiki/Agamaggan) that won't yet be revealed in this game."] %}
+![To Tame a Land](/assets/wr/20240922141503_1.jpg)
+{% endfigure %}
+
+Seriously. Down to the last one. There's a counter and all. That's called genocide, what the heck? Thankfully, it's a side quest and is not required to complete the mission. For good measure, while we're in this area, we kill some satyrs and destroy their corrupted night elf structures. I wonder if it means night elves once used to live here too.
+
+We reach the observatory, and Rexxar "activates" the telescope (which he knows how to do... somehow). Through it, he sees humans landing on the shore!
+
+{% figure [caption:"That Lordaeron banner kind of makes no sense given later revelations. I assume it's just a reused asset."] %}
+![To Tame a Land](/assets/wr/20240922142627_1.jpg)
+{% endfigure %}
+
+When we return to Thrall and report this to him, he's surprised. He can't imagine Jaina would pull something like this. For now, he commands Rexxar and Nazgrel to go to the watch post and keep an eye on these humans. Thrall would prefer them unharmed, but if they prove hostile, he gives his permission to slaughter them.
+
+And we'll go to the watch post --- eventually. First, though, we'll look for Drek'Thar, who Thrall mentions went to investigate the lizards near Thunder Ridge. And indeed, when we cross over to Thunder Ridge again, we find him there:
+
+{% figure [caption:"He would make a living running a TV show about the habits of animals."] %}
+![Thunder Ridge](/assets/wr/20240922143958_1.jpg)
+{% endfigure %}
+
+So we scout Thunder Ridge, collecting thunder lizard eggs for Drek'thar to study, and in a corner of the map, we discover the cause of their unexpected migration:
+
+{% figure [caption:"It must have researched that +5 lumber upgrade."] %}
+![Thunder Ridge](/assets/wr/20240922144353_1.jpg)
+{% endfigure %}
+
+Since Thrall has signed a non-aggression pact with the humans, we aren't allowed to destroy the lumber mill, as that would lead the orcs to open war. To avoid this outcome, we must put the rampaging lizards down --- again, down to the last one. Hooray for ruining the environment for political reasons!
+
+{% figure [caption:"Some patch throughout the years must have broken something, so the quest header now says (null). At least they didn't rename Rexxar to (undefined)."] %}
+![Thunder Ridge](/assets/wr/20240922144427_1.jpg)
+{% endfigure %}
+
+For collecting the eggs, Drek'Thar gives us his spellbook, which not only gives the carrying hero bonuses, but also allows unlimited teleportation back to Orgrimmar, like a reusable Scroll of Town Portal. Nice.
+
+Back in Orgrimmar, where Thrall promises to look into the matter with the humans, we pick up Nazgrel and head back to the watch post. Only...
+
+{% figure [caption:"Maybe we could have made it in time if we weren't busy doing side quests for Drek'thar. But actually no."] %}
+![To Tame a Land](/assets/wr/20240922145630_1.jpg)
+{% endfigure %}
+
+All that we can do is avenge our fallen brethren by destroying the human landing site.
+
+{% figure [caption:"Hmm. We're wearing green. Which of the Seven Kingdoms had green as its national color, again?"] %}
+![To Tame a Land](/assets/wr/20240922145907_1.jpg)
+{% endfigure %}
+
+There seems to be a bit of a disconnect here between the narration and the gameplay. Rexxar mentions anchor emblems on their shields, but in-game, the footmen of this outpost use the same unlabeled shields as all other footmen in the game. I wonder if they were supposed to use a customized model, but (like with many other things) the developers ran out of time to design it.
 
 
 ## Evacuating the Echo Isles
@@ -140,3 +260,7 @@ We don't know.
 At release, the campaign actually ended here, as Blizzard ran out of time to finish the Founding of Durotar campaign before the game went gold. Only in patch 1.13, five and a half months after release, did the remaining two missions arrive: Act 2 "Old Hatreds" and the very short Act 3 "A Blaze of Glory".
 
 Next up, we'll visit Dustwallow Marsh and Theramore Isle, and we'll find out who's behind the human attacks --- and stop them.
+
+[^gold]: Gold can be spent on items in many shops around the map.
+
+[^murlocs]: Further muddling the murloc/mur'gul matter, this mission has murlocs, but they use mur'gul models.
