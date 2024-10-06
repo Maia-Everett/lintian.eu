@@ -129,7 +129,7 @@ The basic structure of the narrative that Starcraft pioneered was later reused i
 Now, TFT is less overtly derivative of Starcraft's expansion Brood War, but there are some parallels there too:
 
 * In the first campaign, we play as the same side as the final campaign of the original game (protoss/night elves), dealing with the fallout from the events of the original game.
-* A new human army emerges and is initially successful in turning the tides (the UED/Garithos's forces).
+* A new human army emerges and is initially successful in turning the tide (the UED/Garithos's forces).
 * In the last campaign, we once again play as the swarm, as its corrupted leader (Kerrigan/Arthas) cements their power, setting them up as an antagonist for the next game.
 
 And while the expansion orc campaign is separate from everything else, Admiral Proudmoore reminds me of [DuGalle](https://starcraft.fandom.com/wiki/Gerard_DuGalle), as the leader of a new human armada that suddenly shows up and disrupts the status quo; they even both die at the ends of their stories.
