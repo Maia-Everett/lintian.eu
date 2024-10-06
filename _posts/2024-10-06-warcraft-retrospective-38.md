@@ -16,6 +16,114 @@ Back at release, it took five and a half months and thirteen patches to get ther
 ![Old Hatreds](/assets/wr/20240922190451_1.jpg)
 {% endfigure %}
 
+Our heroes have arrived in the new troll camp in Dustwallow Marsh, which, unfortunately, is represented by the Barrens tileset, just like Durotar.
+
+{% figure [caption:"I like how everyone in cutscenes just ignores Rexxar's companions and talks to him only."] %}
+![Old Hatreds](/assets/wr/20240922190535_1.jpg)
+{% endfigure %}
+
+We're supposed to sneak into Theramore Isle, but there's a large human base in the way. To let us get past it, Vol'jin sends us to an expert in stealth, blademaster Samuro.
+
+{% figure [caption:"Blademasters in Warcraft have pseudo-Japanese names, which is odd, since they don't have any other elements of Japanese culture."] %}
+![Old Hatreds](/assets/wr/20241005120725_1.jpg)
+{% endfigure %}
+
+For this quest, we switch heroes. Rexxar, Rokhan and Chen stay at the zone border while we control Samuro only. He has a side quest to kill a wildkin boss, but his main purpose is to place five unstable concoctions throughout the human base, so that the resulting explosion will serve as a distraction.
+
+This is easy. We activate Wind Walk, which makes Samuro invisible, and just run from one designated demolition site to another, sometimes stopping at towers to blow up conveniently placed explosive barrels around them.
+
+{% figure [caption:"Where does he get all these explosive barrels from? His hyperspace inventory?"] %}
+![Old Hatreds](/assets/wr/20241005121649_1.jpg)
+{% endfigure %}
+
+As the base is rocked by explosions, our heroes take a transport ship[^transport] to Theramore, where they find Jaina, and nobody tries to stop them.
+
+{% figure [caption:"Where are all the guards?"] %}
+![Old Hatreds](/assets/wr/20241005121744_1.jpg)
+{% endfigure %}
+
+Jaina denies having anything to do with the attacks on Durotar. She doesn't seek Thrall's death, nor does she have any intention of betraying their pact. She asks Rexxar to lead her to these hostile troops so she can see for herself.
+
+However, when we get back to the camp, we find that it's been destroyed by naga!
+
+{% figure [caption:"Since Chen is the only hero without an innate ranged attack, it's best to give him an orb so he can attack flying creatures."] %}
+![Old Hatreds](/assets/wr/20241005122128_1.jpg)
+{% endfigure %}
+
+We get Jaina as a temporary party member, as if an apology for only letting us control her for two missions back in the human campaign. She's level 10 and thus has her ultimate ability, Mass Teleport, only it's useless here because there are no friendly buildings on this map, nor friendly units other than the heroes. Sigh.
+
+Since there's nobody left at the ruined camp, our only option now is to fight our way through the naga to their camp and hope we'll find some survivors there. And that's what we do, fighting through waves upon waves of naga through the entire southern portion of the map. Some of these fights, especially those with royal guards, are pretty hard.
+
+At the camp, we find that most of the human captives are already dead, except for a single mortally wounded footman --- who recognizes Jaina.
+
+{% figure [caption:"It's a shame he died, but at least he dropped some loot!"] %}
+![Old Hatreds](/assets/wr/wc3x_orc3_1.jpg)
+{% endfigure %}
+
+Rexxar asks what this is all about, and Jaina says she'll explain when they return.
+
+
+## Escape from Theramore
+
+Back at Theramore, a fleet of warships sails through the canals. Its leader disembarks and turns out to be none other than...
+
+{% figure [caption:"That's right, he uses a retextured Arthas model. In a hat."] %}
+![Old Hatreds](/assets/wr/20241005123705_1.jpg)
+{% endfigure %}
+
+...That guy from the Warcraft 2 manual! Daelin Proudmoore, Lord Admiral of Kul Tiras, and coincidentally, Jaina's father. He immediately takes issue at Rexxar being present, and though Jaina tries to plead with him that the Horde is no longer their enemy, he's not having any of it. After the orcs and their kin ravaged their homeland, he believes that they must all be exterminated like the mongrels they are.
+
+He leaves, telling his soldiers to seize everyone present. Jaina, instead of joining us, simply... teleports away. Well, drat, thanks for nothing. You couldn't have taken us with you? You're a level 10 archmage with Mass Teleport, hello?
+
+Now that Theramore has fallen under Daelin's control, we have to escape. Thus begins... what I personally consider the most boring quest in this entire act.
+
+As an island, Theramore can only be entered and left by sea. We find a transport ship easily enough, but now we have to navigate it through the canals.
+
+{% figure [caption:"Actually, who's crewing this ship? Humans? Our three heroes by themselves? Ships don't just magically propel themselves, you know!"] %}
+![Old Hatreds](/assets/wr/20241005124301_1.jpg)
+{% endfigure %}
+
+The canal winds around the entire map in an arc and is blocked by five[^gates] gates that need to be opened from land. This means that we constantly have to disembark the ship, kill whatever units are protecting the next pressure plate that opens the next gate, and climb aboard again. And the closer to the exit, the tougher the fights get. Though the Kul Tiran troops reuse the models of regular human units, they're actually tough elites. How about six elite priests who constantly chain-heal each other, plus a paladin who resurrects them all unless he's killed first? The final fight consists of these guys, who are all elite:
+
+{% figure [caption:"At least they never fire at your transport ship. Somehow, when riding it, you're considered disguised."] %}
+![Old Hatreds](/assets/wr/20241005130553_1.jpg)
+{% endfigure %}
+
+That alone would have been bad enough, but when you attack them, they're joined by a level 12 archmage, mountain king, *and* paladin, whereas our own heroes are only level 8 by now. It took me multiple tries and blowing all cooldowns to get past this point.
+
+Still, we leave Theramore behind. Back at the troll camp, Vol'jin charges us with gathering whatever allies of the Horde we can find, starting with the tauren of Mulgore.
+
+
+## Enlisting the Tauren
+
+Mulgore is a separate map, which uses... you guessed it, the Barrens tileset. We find Cairne easily, but he's not going to offer his help: he's grieving and asks us to tell the warchief that "I am dead... just as my heart is dead".
+
+Thankfully, another tauren steps in and explains what the problem is:
+
+{% figure [caption:"Technically, cannibalism is the consumption of one's own species, but in fantasy context it's now taken to mean consumption of sapient beings, and we might as well accept this shift in meaning."] %}
+![Old Hatreds](/assets/wr/20241005133324_1.jpg)
+{% endfigure %}
+
+There's also yet *another* genocide side quest, as local harpies have been preying on the tauren's kodos and the quest giver wants them all dead, down to the last one. What is it with Horde nations and genocide? The main quest, meanwhile, takes us to a spirit walker[^spirit_walker] called Bovan Windtotem, who tracks Baine down to a cage in the centaur camp and joins our party alongside his fellow spirit walkers.
+
+We fight our way through and rescue Baine, who looks like a miniature Cairne.
+
+{% figure [caption:"Or rather, both Baine and Cairne use the generic tauren chieftain model with different sizes."] %}
+![Old Hatreds](/assets/wr/20241005134556_1.jpg)
+{% endfigure %}
+
+Now that we killed all the centaurs to get here, it's only logical that the return path shouldn't be difficult, right? Wrong! Somehow, while we were freeing Baine, all the centaurs in the valley we had marched through have respawned, and we have to kill them again on the way back.
+
+Cairne is overjoyed to have his son back, and Baine leaves our party... to be replaced by Cairne himself! He will send his warriors to the warchief, but he himself will adventure with us as a very welcome fourth hero, a level 10 tauren chieftain.
+
+
+## Enlisting the Ogres
+
+
+
+## First Blood
+
+
 
 ## A Blaze of Glory
 
@@ -38,7 +146,7 @@ The Horde army is assembled and ready to besiege Theramore, but first, we'll hav
 Jaina won't intervene herself, and asks Thrall to spare her men as much as possible, but she does tell us of a way to break the blockade.
 
 {% figure [caption:"I like how they transition from heartfelt reminiscing straight to exposition dumping."] %}
-![A Blaze of Glory](/assets/wr/wc3x_orc3.jpg)
+![A Blaze of Glory](/assets/wr/wc3x_orc3_2.jpg)
 {% endfigure %}
 
 Mind you, this skirts dangerously close to treating gameplay abstractions as literally true. Ships are supposed to take an *awful lot* of time to build, but somehow this lone goblin shipyard can just churn them out non-stop? And match the naval might of Kul Tiras?
@@ -153,6 +261,14 @@ We'll tackle this question next time.
 
 They came from... behind!
 
+[^transport]: An orc transport ship that was conveniently placed near two human battleships. Somehow.
+
+[^gates]: I think it's five. I've lost count.
+
+[^spirit_walker]: Spirit walkers are a new tauren support unit added in the expansion.
+
 [^orgrimmar]: Orgrim too. To Thrall, he was a mentor, and he named his capital city, Orgrimmar, in Doomhammer's honor. To the people of the Alliance, he was a ruthless conqueror who nearly brought the whole continent to its knees.
 
 [^bother]: [Or will they?](https://warcraft.wiki.gg/wiki/Tiragarde_Keep) Dun dun duuun!
+
+
