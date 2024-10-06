@@ -71,7 +71,7 @@ Back at Theramore, a fleet of warships sails through the canals. Its leader dise
 ![Old Hatreds](/assets/wr/20241005123705_1.jpg)
 {% endfigure %}
 
-...That guy from the Warcraft 2 manual! Daelin Proudmoore, Lord Admiral of Kul Tiras, and coincidentally, Jaina's father. He immediately takes issue at Rexxar being present, and though Jaina tries to plead with him that the Horde is no longer their enemy, he's not having any of it. After the orcs and their kin ravaged their homeland, he believes that they must all be exterminated like the mongrels they are.
+...That guy from the Warcraft 2 manual! [Daelin Proudmoore](https://warcraft.wiki.gg/wiki/Daelin_Proudmoore), Lord Admiral of Kul Tiras, and coincidentally, Jaina's father. He immediately takes issue at Rexxar being present, and though Jaina tries to plead with him that the Horde is no longer their enemy, he's not having any of it. After the orcs and their kin ravaged their homeland, he believes that they must all be exterminated like the mongrels they are.
 
 He leaves, telling his soldiers to seize everyone present. Jaina, instead of joining us, simply... teleports away. Well, drat, thanks for nothing. You couldn't have taken us with you? You're a level 10 archmage with Mass Teleport, hello?
 
@@ -101,7 +101,7 @@ Mulgore is a separate map, which uses... you guessed it, the Barrens tileset. We
 Thankfully, another tauren steps in and explains what the problem is:
 
 {% figure [caption:"Technically, cannibalism is the consumption of one's own species, but in fantasy context it's now taken to mean consumption of sapient beings, and we might as well accept this shift in meaning."] %}
-![Old Hatreds](/assets/wr/20241005133324_1.jpg)
+![Mulgore](/assets/wr/20241005133324_1.jpg)
 {% endfigure %}
 
 There's also yet *another* genocide side quest, as local harpies have been preying on the tauren's kodos and the quest giver wants them all dead, down to the last one. What is it with Horde nations and genocide? The main quest, meanwhile, takes us to a spirit walker[^spirit_walker] called Bovan Windtotem, who tracks Baine down to a cage in the centaur camp and joins our party alongside his fellow spirit walkers.
@@ -109,7 +109,7 @@ There's also yet *another* genocide side quest, as local harpies have been preyi
 We fight our way through and rescue Baine, who looks like a miniature Cairne.
 
 {% figure [caption:"Or rather, both Baine and Cairne use the generic tauren chieftain model with different sizes."] %}
-![Old Hatreds](/assets/wr/20241005134556_1.jpg)
+![Mulgore](/assets/wr/20241005134556_1.jpg)
 {% endfigure %}
 
 Now that we killed all the centaurs to get here, it's only logical that the return path shouldn't be difficult, right? Wrong! Somehow, while we were freeing Baine, all the centaurs in the valley we had marched through have respawned, and we have to kill them again on the way back.
@@ -119,10 +119,66 @@ Cairne is overjoyed to have his son back, and Baine leaves our party... to be re
 
 ## Enlisting the Ogres
 
+When we get back to Vol'jin, he has some company in the form of a wounded ogre:
+
+{% figure [caption:"I'm still peeved that Warcraft signifies &ldquo;primitive&rdquo; races by making them [talk like that](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouNoTakeCandle)."] %}
+![Dustwallow Marsh](/assets/wr/20241005140437_1.jpg)
+{% endfigure %}
+
+Rexxar decides to pay a visit to the ogre clan and meet this new warlord for himself.
+
+Once we reach the ogre village, we have to fight through some cocky guards who won't let us past. The chief approves of Rexxar's fighting skills and asks the "halfbreed" why he came here. His response?
+
+{% figure [caption:"The system is best subverted from within, I suppose."] %}
+![Dustwallow Marsh](/assets/wr/20241005143225_1.jpg)
+{% endfigure %}
+
+As he has some ogre blood, the chief, Kor'gall, says he has the right to join, but first he will have to prove his worth. And the way to do it is by entering the nearby valley, ominously named "the Gauntlet", and killing each and every creature within it. We get yet *another* "creatures left" counter, and wow, this valley is kind of overcrowded:
+
+{% figure [caption:"BUT WHAT DO THEY ALL EAT?"] %}
+![Dustwallow Marsh](/assets/wr/20241005143602_1.jpg)
+{% endfigure %}
+
+We fight our way through quillboars, wildkin, and finally, thunder lizards. When the counter reaches 0, we return to Kor'gall, who inducts Rexxar into the Stonemaul clan and asks what he wants from them. Rexxar, earnestly, says he wants them to help the Horde in battle against humans, but Kor'gall laughs it off.
+
+{% figure [caption:"Seeing how easy ogres are to kill in Warcraft 3, it's an open question who's weaker and softer."] %}
+![Dustwallow Marsh](/assets/wr/20241005144320_1.jpg)
+{% endfigure %}
+
+In response, as a member of the Stonemaul clan, challenges Kor'gall for leadership. See, fantasy tribal chieftains? This is why you don't allow adventurers with an agenda join your tribes!
+
+Rexxar is teleported to the arena, which takes the entire middle portion of this map. Kor'gall says that no magic tricks are allowed, so all of Rexxar's items are taken away.
+
+{% figure [caption:"Summoning beasts, on the other hand, apparently doesn't count as magic tricks."] %}
+![Dustwallow Marsh](/assets/wr/20241005144752_1.jpg)
+{% endfigure %}
+
+This is a tough fight, probably the second toughest in the campaign after the three Kul Tiran heroes and their plethora of troops. Kor'gall has 4000 HP and hits hard, so it's best to have Misha tank him. There are runes of healing and mana scattered throughout the arena, which Kor'gall doesn't use (leaving Rexxar free to use them), but Kor'gall constantly drops serpent wards and, more annoyingly, healing wards, which must be destroyed immediately to prevent him from healing the damage we deal. Eventually, he falls, and Rexxar is proclaimed the new clan leader.
+
+{% figure [caption:"They never liked him anyway."] %}
+![Dustwallow Marsh](/assets/wr/20241005145332_1.jpg)
+{% endfigure %}
+
+And as the leader, the first thing he does is call the ogres to war, commanding them to arm themselves and meet the orc warchief upon the plains.
 
 
-## First Blood
+## Tidefury Cove
 
+Everything is ready to begin the assault. Vol'jin tells us to check with Thrall at the forward base, and Thrall entrusts us with one last side quest before the act finale: to assemble three rare ingredients for the new banner bearing the symbol of the Horde. This is easy enough, but annoyingly, when we return to the base, Thrall isn't there. Instead we have to turn in this quest at another map entirely, at the *forward* forward base.
+
+{% figure [caption:"The Horde sure likes its spikes."] %}
+![Tidefury Cove](/assets/wr/20241005151223_1.jpg)
+{% endfigure %}
+
+Before we can assault Theramore itself, we first need to destroy the large human base here, in Tidefury Cove. And wow, this turns out to be harder than I expected. I don't know if it's a scripting bug introduced in one of the patches, because I remember this quest being easier at release, but the moment we reach the guard towers, the humans throw *absolutely everything* at us:
+
+{% figure [caption:"Seriously, they must have collected troops from the entire base."] %}
+![Tidefury Cove](/assets/wr/20241005152616_1.jpg)
+{% endfigure %}
+
+Footmen, riflemen, knights, hydromancers, gryphon riders, and Admiral Proudmoore himself, a *level 15* hero --- it's all there. Trying to storm the base with just our heroes, no matter how powerful, is suicidal. Thankfully, for this quest alone, we also have access to a wide assortment of regular units --- orcs, trolls, tauren, and ogres. They cost no gold to build, but they count towards the 40 supply limit. Building by building, the human base falls.
+
+Though the Horde is victorious here, Admiral Proudmoore ~~is in another castle~~ has pulled back to the safety of Theramore Isle. That's where our path lies.
 
 
 ## A Blaze of Glory
@@ -133,9 +189,9 @@ Cairne is overjoyed to have his son back, and Baine leaves our party... to be re
 
 Compared to Acts 1 and 2, Act 3 is very, very short. I wonder if it's because they ran out of budget or ideas, or it was planned like this all along. And frankly, I'm not sure Act 3 was even needed.
 
-In the traditional [three-act structure](https://en.wikipedia.org/wiki/Three-act_structure), the protagonists usually suffer a setback at the climax of Act 2, which they must then work to overcome in Act 3. It is difficult, however, to translate into video game format, where it is assumed that the player characters always win every encounter the game throws at them; after all, if they lost, it would be game over. A game where the protagonists never suffer setbacks is narratively unsatisfying; a game where the player wins an encounter only to have that victory [undone in a cutscene](https://tvtropes.org/pmwiki/pmwiki.php/Main/StoryOverwrite) is unsatisfying gameplay-wise. Knowing how to achieve the delicate balance between gameplay needs and story needs is part of the skill involved in writing a truly great video game.
+In the traditional [three-act structure](https://en.wikipedia.org/wiki/Three-act_structure), the protagonists usually suffer a setback at the climax of Act 2, which they must then work to overcome in Act 3. This is difficult, however, to translate into video game format, where it is assumed that the player characters always win every encounter the game throws at them; after all, if they lost, it would be game over. A game where the protagonists never suffer setbacks is narratively unsatisfying; a game where the player wins an encounter only to have that victory [undone in a cutscene](https://tvtropes.org/pmwiki/pmwiki.php/Main/StoryOverwrite) is unsatisfying gameplay-wise. Knowing how to achieve the delicate balance between gameplay needs and story needs is part of the skill involved in writing a truly great video game.
 
-Narratively speaking, we have already answered the question of "Are we stronger than Admiral Proudmoore?"" at the climax of Act 2 by wrecking his base at Tidefury Cove, where he himself was present. Act 3 is thus entirely dedicated to defeating a guy we've already defeated, only for good this time. Maybe it would have been better to cut the Tidefury Cove quest entirely and instead transition from rallying allies straight to the siege of Theramore --- which then could just be folded into Act 2 instead of making a separate, short Act 3.
+Narratively speaking, we have already answered the question of "Are we stronger than Admiral Proudmoore?" at the climax of Act 2 by wrecking his base at Tidefury Cove, where he himself was present. Act 3 is thus entirely dedicated to defeating a guy we've already defeated, only for good this time. Maybe it would have been better to cut the Tidefury Cove quest entirely and instead transition from rallying allies straight to the siege of Theramore --- which then could have been simply folded into Act 2 instead of making a separate, short Act 3.
 
 {% figure [caption:"DEATH! --- from the [power of the Horde](https://warcraft.wiki.gg/wiki/Power_of_the_Horde)!"] %}
 ![A Blaze of Glory](/assets/wr/20241005154923_1.jpg)
@@ -237,7 +293,7 @@ The basic structure of the narrative that Starcraft pioneered was later reused i
 Now, TFT is less overtly derivative of Starcraft's expansion Brood War, but there are some parallels there too:
 
 * In the first campaign, we play as the same side as the final campaign of the original game (protoss/night elves), dealing with the fallout from the events of the original game.
-* A new human army emerges and is initially successful in turning the tide (the UED/Garithos's forces).
+* A new human force emerges and is initially successful in turning the tide (the UED/Garithos's forces).
 * In the last campaign, we once again play as the swarm, as its corrupted leader (Kerrigan/Arthas) cements their power, setting them up as an antagonist for the next game.
 
 And while the expansion orc campaign is separate from everything else, Admiral Proudmoore reminds me of [DuGalle](https://starcraft.fandom.com/wiki/Gerard_DuGalle), as the leader of a new human armada that suddenly shows up and disrupts the status quo; they even both die at the ends of their stories.
