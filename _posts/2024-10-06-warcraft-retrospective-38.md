@@ -24,7 +24,7 @@ Our heroes have arrived in the new troll camp in Dustwallow Marsh, which, unfort
 
 We're supposed to sneak into Theramore Isle, but there's a large human base in the way. To let us get past it, Vol'jin sends us to an expert in stealth, blademaster Samuro.
 
-{% figure [caption:"Blademasters in Warcraft have pseudo-Japanese names, which is odd, since they don't have any other elements of Japanese culture."] %}
+{% figure [caption:"Blademasters in Warcraft are, oddly for orcs, pseudo-Japanese."] %}
 ![Old Hatreds](/assets/wr/20241005120725_1.jpg)
 {% endfigure %}
 
@@ -145,7 +145,7 @@ We fight our way through quillboars, wildkin, and finally, thunder lizards. When
 ![Dustwallow Marsh](/assets/wr/20241005144320_1.jpg)
 {% endfigure %}
 
-In response, as a member of the Stonemaul clan, challenges Kor'gall for leadership. See, fantasy tribal chieftains? This is why you don't allow adventurers with an agenda join your tribes!
+In response, as a member of the Stonemaul clan, Rexxar challenges Kor'gall for leadership. See, fantasy tribal chieftains? This is why you don't allow adventurers with an agenda to join your tribes!
 
 Rexxar is teleported to the arena, which takes the entire middle portion of this map. Kor'gall says that no magic tricks are allowed, so all of Rexxar's items are taken away.
 
@@ -298,7 +298,7 @@ Now, TFT is less overtly derivative of Starcraft's expansion Brood War, but ther
 
 And while the expansion orc campaign is separate from everything else, Admiral Proudmoore reminds me of [DuGalle](https://starcraft.fandom.com/wiki/Gerard_DuGalle), as the leader of a new human armada that suddenly shows up and disrupts the status quo; they even both die at the ends of their stories.
 
-It's not a perfect much, especially for the expansion. The orcs don't fit neatly into this basic story framework. In Reign of Chaos, they were largely doing their own thing, not fighting the Scourge; in The Frozen Throne, their campaign is separate from the rest. Arthas took every step of his journey willingly, but Kerrigan's infestation was forced on her, and a closer parallel to her story role would be Sylvanas, who was similarly raised into undead against her will and remained evil (and treacherous) even after getting her free will back.
+It's not a perfect match, especially for the expansion. The orcs don't fit neatly into this basic story framework. In Reign of Chaos, they were largely doing their own thing, not fighting the Scourge; in The Frozen Throne, their campaign is separate from the rest. Arthas took every step of his journey willingly, but Kerrigan's infestation was forced on her, and a closer parallel to her story role would be Sylvanas, who was similarly raised into undead against her will and remained evil (and treacherous) even after getting her free will back.
 
 And you know what? I don't really mind.
 
