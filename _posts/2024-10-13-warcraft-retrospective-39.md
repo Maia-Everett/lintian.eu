@@ -43,9 +43,39 @@ This isn't really an argument about the *quality* of these two expansions, but r
 
 ## A Kaleidoscope of Races
 
+{% figure [caption:"And that's not even counting allied races."] %}
+![A Kaleidoscope of Races](/assets/wr/core_races.jpg)
+{% endfigure %}
+
+
 
 ## Hopeful But Not Sanitized
 
+{% figure [caption:"Yes, you *can* save the world. No, it won't come easy."] %}
+![The Three Pillars of Warcraft](/assets/wr/Archimonde_assaults_Nordrassil.jpg)
+{% endfigure %}
+
+The [Forgotten Realms style guide](https://adventurersleague.wordpress.com/wp-content/uploads/2018/10/1765690-forgotten_realms_style_guide.pdf) is a guide written by Wizards of the Coast for prospective writers creating stories and adventures for the Forgotten Realms. It is a very interesting document given that it even exists and is public, highlighting how much importance WotC places in having the most popular D&D setting feel consistent in tone. What's of interest to us now is this tidbit:
+
+> The Forgotten Realms is a **hopeful** setting. The good guys will eventually win. This hopeful tone sets the Forgotten Realms apart from settings like Greyhawk (which is cynical) and Dragonlance (which is a setting of romance and tragedy). While not every moment of a story or image in art should be hopeful (the villains need their time in the spotlight, and bad things do happen), keep this tone in mind.
+
+I think this is equally applicable to Warcraft.
+
+Warcraft is a hopeful setting. Even when things look bleak, the armies of the world are in tatters, kingdoms are burning and civilization is reduced to refugees fleeing across the sea, we know that this won't last. The good guys will *eventually* win. Fortresses of evil will fall, dark lords will be overthrown, and the sun will shine bright again. The heroes of Warcraft, like Thrall, Jaina Proudmoore and Uther, embody idealism that is continuously tested by circumstances, but is eventually proven right. Traitors and violent maniacs get their due, and friendship and compassion is what ends up saving the day.
+
+Warcraft can be dark, but it's never *mean*, never cynical. This isn't Game of Thrones. So far, only Shadowlands was dumb enough to mess with this unwritten rule[^rule] by presenting an afterlife so bleak and so soul-crushing (literally and figuratively) that many people considered it horrible in its very conceit as a whole, even leaving aside the villain's machinations. Shadowlands was also, coincidentally, the worst-received expansion in WoW's history.
+
+Even when major characters die, it typically happens as a result of their own choices. Muradin died because he kept enabling Arthas despite clear signs of his slide into insanity. Uther died because he stayed to protect a doomed Lordaeron instead of fleeing west. Grom Hellscream died in repentance for helping the Burning Legion enslave his people. Maiev died (maybe) as she lived, a hasty monomaniac focused on recapturing Illidan with no long-term plan. Garithos died because he was stupid enough to believe Sylvanas's promises. And Admiral Proudmoore died because he couldn't let old hatreds go.
+
+At the same time, however, Warcraft isn't a children's cartoon.
+
+In a sanitized story, everything is neatly resolved by the end. The bad guys are killed, captured, or abandon their evil ways. They're stopped before they do too much damage, and what damage they manage to do is repaired. The good guys survive their ordeals, overcome hardships and heal completely from their scars, physical and mental, just in time for everyone to hold hands and sing kumbaya.
+
+Warcraft is not that.
+
+Bad things happen to good people. Sometimes undeservedly bad things happen to the best people. Thrones are toppled, ruined kingdoms stay ruined, and defiled lands stay defiled instead of being instantly restored by magic. It's possible to bounce back, but it takes immense effort and many years of labor. Even on a personal scale, even the most worthy people are not pure paragons of virtue, but are mere people, afflicted by flaws like pride, ignorance, and prejudice. We can see this in how *[Of Blood and Honor](/2024/02/04/warcraft-retrospective-13/)* doesn't end with Uther seeing the error of his ways and acquitting Tirion; no, it ends with Tirion convicted and losing everything, and only his subsequent rescue of Eitrigg --- which still leaves him a hermit and an exile --- prevents the story from going *too* bleak, instead giving us a bittersweet ending.
+
+So when a Warcraft story starts going *too* sugary, and everything is *too* neatly resolved with everyone becoming friends and having no lasting negative consequences, for some people it's a welcome respite from constant death and destruction, and for others, it's not Warcraft at all.
 
 
 ## Conclusion
@@ -70,3 +100,5 @@ But that would be a story for another time.
 [^brann]: We haven't met Brann in-game yet, but he's the younger brother of Magni, the king of Ironforge, and Muradin of human campaign fame.
 
 [^personally]: Personally, I'm a fan of the exploration pillar, which explains why I liked Rexxar's campaign and was excited for Mists of Pandaria and Dragonflight.
+
+[^rule]: By all appearances, unintentionally. The Shadowlands are horrific by writer ineptude, not by design.
