@@ -38,15 +38,34 @@ I strongly suspect that different players have their own favorite pillars, which
 This isn't really an argument about the *quality* of these two expansions, but rather about personal preferences for the types of stories Alice and Bob like being told in the Warcraft setting. For some people, Battle for Azeroth and Dragonflight were *their* Warcraft, and for others, they weren't Warcraft at all. It might be no coincidence, then, that the most well-received and nostalgic installments --- Warcraft 3, Wrath of the Lich King, Mists of Pandaria, and Legion --- catered to all three pillars.
 
 
-## Comic Book Fantasy
+## Comic Book Heroic Fantasy
+
+{% figure [caption:"A quintessential Warcraft character: colorful, larger than life, full of detail, and instantly recognizable by silhouette."] %}
+<img width="500" src="/assets/wr/Thrall_Wei.jpg" />
+{% endfigure %}
 
 
-## A Kaleidoscope of Races
+
+
+
+
+## A Kaleidoscope of Races and Cultures
 
 {% figure [caption:"And that's not even counting allied races."] %}
 ![A Kaleidoscope of Races](/assets/wr/core_races.jpg)
 {% endfigure %}
 
+If I had to do an elevator pitch for Warcraft, it would go something like: "It's a more colorful D&D where the so-called 'monster' races are protagonists too. And there are *many* of them."
+
+Old-style fantasy was human-centric. Humans were the default, the race with which the authors thought the readers identified themselves[^rda], and everything in the story was seen through their eyes. Even when this wasn't the case, fantasy protagonists tended to be obvious variations on the human form, like immortal pointy-eared humans, short stocky humans, or even shorter hairfooted humans. Antagonist races, on the other hand, were all what real-life humans would call monstrous or bestial.
+
+Warcraft broke the mold from the very start, with Warcraft 1, even when the orcs were still evil. Both sides --- the humans and the orcs --- were given equal screen time, and both sides had their recent history fleshed out. The orcs weren't just a generic monster horde for the humans to fight. We knew where they came from, who led them, and we had the personal opinions of [their side's writer](https://warcraft.wiki.gg/wiki/Garona) that set her apart from the others as an individual.
+
+And then came Warcraft 3. The orcs became heroes in their own right. They joined their forces with equally noble-savage-y tauren and trolls. We got not one, but two villainous human leaders acting hostile towards non-humans, and defeating Admiral Proudmoore with minimal casualties among Jaina's allied humans became a defining moment for Thrall's reformed Horde.
+
+Since then, the number of races in the Warcraft snowballed beyond belief. The thirteen[^thirteen] races shown on the image above are just the ones that are playable in World of Warcraft from the very start, as of this writing. More races are unlockable. Still more races are not playable, but are nonetheless depicted as cultures in their own right rather than universally evil monsters --- and the longer the franchise exists, the more races previously depicted as monstrous get this expanded treatment.
+
+Azeroth is not the Middle Ages or the Renaissance. It might have once been, all the way back in Warcraft 1. Today's Azeroth is a diverse world filled with just about every fantasy concept imaginable, from tribal warriors and mystics to steampunk inventors to [feline centaurs](https://warcraft.wiki.gg/wiki/Tol'vir) and [dragon people](https://warcraft.wiki.gg/wiki/Dracthyr) to [space traders made of living energy](https://warcraft.wiki.gg/wiki/Ethereal). This means that practically everyone can find a favorite race somewhere in the vast lore of Warcraft --- and yet, at the same time, newly introduced races are integrated into the existing lore framework, preventing Azeroth from becoming a chaotic and flavorless "anything goes" setting.
 
 
 ## Hopeful But Not Sanitized
@@ -80,7 +99,11 @@ So when a Warcraft story starts going *too* sugary, and everything is *too* neat
 
 ## Conclusion
 
-We have journeyed through the origins of the Warcraft setting, through Blizzard's Experimental Era (Warcraft 1, 2, and Warcraft Adventures) and part of the Classic Era (Warcraft 3 and The Frozen Throne). We have seen the setting evolve through the games, and we have seen novels give it much-needed depth.
+I could go on and on about what "feels like Warcraft" to me. Like weird single-biome environments that put a temperate forest right next to a savanna or a snow plain, or the wildly uneven technology levels with knights and castles right next to steampunk tanks and airplanes, or the sheer dedication to catering to casual and hardcore players alike, or largely modern social mores despite the historical dressing, or... or... or...
+
+I think, however, that I've at least covered the major points. And with that, our exploration of the origins of Warcraft as we know it draws to an end.
+
+We have journeyed through Blizzard's Experimental Era (Warcraft 1, 2, and Warcraft Adventures) and part of the Classic Era (Warcraft 3 and The Frozen Throne). We have seen the setting evolve through the games, and we have seen novels give it much-needed depth.
 
 Warcraft 3, with its greatly expanded world, formed the skeleton of the setting. It jumped widely from location to location and from character to character, using broad, sweeping characterization. After it, installments that built deep rather than wild fleshed out the world of Azeroth, putting some much-needed meat on these bones. I'm talking, of course, about the tie-in series of D&D supplements, [Warcraft: The Roleplaying Game](https://warcraft.wiki.gg/wiki/Warcraft:_The_Roleplaying_Game).
 
@@ -102,3 +125,7 @@ But that would be a story for another time.
 [^personally]: Personally, I'm a fan of the exploration pillar, which explains why I liked Rexxar's campaign and was excited for Mists of Pandaria and Dragonflight.
 
 [^rule]: By all appearances, unintentionally. The Shadowlands are horrific by writer ineptude, not by design.
+
+[^rda]: And considering the amount of apologism for obviously villainous human factions like the RDA Corporation in James Cameron's *Avatar*, "humanity, right or wrong" is indeed, unfortunately, the worldview of at least some science fiction and fantasy fans.
+
+[^thirteen]: There are fourteen images, but two of them depict the same race, highlighting that it's available to both the Alliance and the Horde.
