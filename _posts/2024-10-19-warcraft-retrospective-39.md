@@ -44,9 +44,25 @@ This isn't really an argument about the *quality* of these two expansions, but r
 <img width="500" src="/assets/wr/Thrall_Wei.jpg" />
 {% endfigure %}
 
+Warcraft has a very distinct visual style. It is instantly recognizable, setting the franchise apart from both "gritty" generic fantasy and cacophony-of-color mobile games. Somehow, when playing Warcraft 3, we regard the low-polygon in-game models and the highly detailed and realistic cinematics as sharing the same DNA.
 
+Some call Warcraft's graphics cartoony. I beg to differ. The Mario games have cartoony graphics. So does Animal Crossing and to a lesser extent Team Fortress 2. Warcraft 1 and 2 had cartoony visuals, evoking illustrations for a children's fairy tale book, but from Warcraft 3 onwards, the art direction has been and remains consistent.
 
+To once again [quote](https://arstechnica.com/features/2020/01/how-warcraft-iii-birthed-a-genre-changed-a-franchise-and-earned-a-reforge-ing/) art director Samwise Didier:
 
+> The art we created completely separated us from other companies' art styles. Where most companies were pushing realism and realistic characters, we opted for a comic book version of fantasy. We didn't want to be *Lord of the Rings* or standard D&D fantasy. We wanted our characters to be the superhero versions of fantasy characters, rock stars with battle axes, with each one of our heroes and units looking like they could take on a whole army by themselves.
+
+The visual style of Warcraft 3 was inspired by *comic books*. While comic books come in many genres and have historically had many different visual styles, the most iconic comic books --- the things we think of when we say "comic books" --- are Marvel and DC superhero comics, with their vivid colors, exaggerated physical features like muscles and costumes, and absurdly on-the-nose character names.
+
+...Okay, that last one is not a visual feature. Still, it accurately describes Warcraft as well. Warcraft 3 was a collaborative effort, an effort that led to essentially the creation of a comic book in video game form when Samwise Didier's understanding of how comic books are *drawn* was married to Chris Metzen's understanding of how comic books are *written*.
+
+Comic books are a serialized medium. A reader can see a comic book on the stand, get attracted to the bright evocative cover, and read the issue without necessarily having the preceding ones. A comic book issue needs to stand on its own well enough that people who don't have previous issues can still quickly get up to speed and understand the gist (even if the subtleties might be lost to them), and an issue has to not only tell a solid story on its own, but, if it's part of an ongoing story arc, it has to also advance the overarching plot.[^comics]
+
+Individual Warcraft games not only are evocative of comic books in their visual style, but they're similarly structured narratively. To understand the plot of a Final Fantasy XIV expansion, you need to play through all previous ones, from the very beginning, because they continue lots of references to prior events and characterization; because of this, playing through FFXIV feels like reading a series of novels with an overarching plot and a single core cast. In World of Warcraft, on the other hand, each expansion is largely self-contained, built around a central theme like "undead in the frozen north" or "martial arts in fantasy China". The stories are also mostly self-contained and easy to understand, and plot links between expansions can be explained in one or two sentences each ("the deposed warchief escaped to an alternate universe Draenor and convinced its orcs to invade Azeroth").
+
+Like archetypal comic books, the Warcraft setting is *accessible*. Though modern Warcraft lore is expansive and contains dozens of distinct cultures, the core build-around of the setting is still the same as it was back in Warcraft 3: sword and sorcery fantasy in an aesthetically-Renaissance-at-its-core world populated by multiple humanoid races. This kind of world is immediately understandable to wide swathes of people (through [pop cultural osmosis](https://tvtropes.org/pmwiki/pmwiki.php/Main/PopculturalOsmosis) and *The Lord of the Rings* movies if nothing else) and the game writers are freed from the burden of explaining what elves, dwarves and orcs are, or what common fantasy tropes are associated with each race. In contrast, if I had to explain the FFXIV setting to new people, we'd be there all day.
+
+Not only is the concept of the setting accessible, but so are the storytelling and the lore. There's a lot of lore to absorb, but it's mostly extensive rather than intensive. To get people up to speed on what the heck the in-game cultures are up to, a five-minute recap is sufficient. And like archetypal comic books focus on easily understood stories with broad appeal, so is classic Warcraft storytelling simple, but not *simplistic*; it involves broad archetypes and tried and true tropes, but it's not patronizing or insulting to the players' intelligence.
 
 
 ## A Kaleidoscope of Races and Cultures
@@ -66,6 +82,22 @@ And then came Warcraft 3. The orcs became heroes in their own right. They joined
 Since then, the number of races in the Warcraft snowballed beyond belief. The thirteen[^thirteen] races shown on the image above are just the ones that are playable in World of Warcraft from the very start, as of this writing. More races are unlockable. Still more races are not playable, but are nonetheless depicted as cultures in their own right rather than universally evil monsters --- and the longer the franchise exists, the more races previously depicted as monstrous get this expanded treatment.
 
 Azeroth is not the Middle Ages or the Renaissance. It might have once been, all the way back in Warcraft 1. Today's Azeroth is a diverse world filled with just about every fantasy concept imaginable, from tribal warriors and mystics to steampunk inventors to [feline centaurs](https://warcraft.wiki.gg/wiki/Tol'vir) and [dragon people](https://warcraft.wiki.gg/wiki/Dracthyr) to [space traders made of living energy](https://warcraft.wiki.gg/wiki/Ethereal). This means that practically everyone can find a favorite race somewhere in the vast lore of Warcraft --- and yet, at the same time, newly introduced races are integrated into the existing lore framework, preventing Azeroth from becoming a chaotic and flavorless "anything goes" setting.
+
+
+## A Flavorful, Dynamic World
+
+{% figure [caption:"Left: an elven city in D&D 5th Edition. Right: a night elven city in Warcraft, with less blatant *Lord of the Rings* influence and more of a previously-unseen blend of Greek and Japanese influences."] %}
+![A Flavorful, Dynamic World](/assets/wr/elven_cities.jpg)
+{% endfigure %}
+
+At the same time, when creating all those races and cultures, the creators of Warcraft didn't just copy what came before them.
+
+Azeroth isn't Yet Another Fantasy World. Warcraft 3 borrowed its creatures liberally from D&D, but always put its own unique spin on them. The minotaur-like tauren aren't despicable monsters living in labyriths, but noble plains hunters with Native American aesthetics. Satyrs are not merry partying fey creatures, but servants of the Burning Legion, demonically corrupted elves. Gargoyles are not stone creatures adorning gothic castles, but vampiric bat-like creatures allied with the undead. Night elves are not typical fantasy wood elves, but rather a blend of wood elves and dark elves that ended up being recognizably distinct from both. As for Warcraft's unique take on orcs, [I talked about it before](/2024/01/28/warcraft-retrospective-12/).
+
+In fact, Warcraft has put its own flavor on familiar fantasy tropes so consistently that it became notable when it *stopped* doing this. When Shadowlands introduced its cosmic order regarding the planes of the afterlife, the inspiration from D&D's Planescape setting was immediately recognizable, and it was telling that they introduced more "classic", D&D-like [satyrs](https://warcraft.wiki.gg/wiki/Sylvar) and [gargoyles](https://warcraft.wiki.gg/wiki/Stoneborn), they had to give them different names because these names were taken by Warcraft's more original concepts.
+
+Finally, unlike D&D settings, the Warcraft setting is allowed to change. Forgotten Realms adventures written for 5th Edition are supposed to leave the world [in the same state](https://tvtropes.org/pmwiki/pmwiki.php/Main/StatusQuoIsGod) that they found it; any would-be evil plots and political upheavals are undone by the end. In contrast, the world of Warcraft can and does change over time. Azeroth during The War Within is a very different place compared to Azeroth in Mists of Pandaria, which, in turn, was politically very different from Azeroth as seen in Warcraft 3. This evolution of the world keeps things fresh, leaves you guessing for what might come next, and keeps the roleplaying scene vibrant.
+
 
 
 ## Hopeful But Not Sanitized
@@ -101,7 +133,9 @@ So when a Warcraft story starts going *too* sugary, and everything is *too* neat
 
 I could go on and on about what "feels like Warcraft" to me. Like weird single-biome environments that put a temperate forest right next to a savanna or a snow plain, or the wildly uneven technology levels with knights and castles right next to steampunk tanks and airplanes, or the sheer dedication to catering to casual and hardcore players alike, or largely modern social mores despite the historical dressing, or... or... or...
 
-I think, however, that I've at least covered the major points. And with that, our exploration of the origins of Warcraft as we know it draws to an end.
+I hope, at least, that I've at least covered the major points --- and I'm interested to hear what *you* consider part of the feel of Warcraft.
+
+And with that, our exploration of the origins of Warcraft as we know it draws to an end.
 
 We have journeyed through Blizzard's Experimental Era (Warcraft 1, 2, and Warcraft Adventures) and part of the Classic Era (Warcraft 3 and The Frozen Throne). We have seen the setting evolve through the games, and we have seen novels give it much-needed depth.
 
@@ -124,8 +158,10 @@ But that would be a story for another time.
 
 [^personally]: Personally, I'm a fan of the exploration pillar, which explains why I liked Rexxar's campaign and was excited for Mists of Pandaria and Dragonflight.
 
+[^comics]: I haven't read many comic books, so take this with a grain of salt.
+
 [^rule]: By all appearances, unintentionally. The Shadowlands are horrific by writer ineptude, not by design.
 
-[^rda]: And considering the amount of apologism for obviously villainous human factions like the RDA Corporation in James Cameron's *Avatar*, "humanity, right or wrong" is indeed, unfortunately, the worldview of at least some science fiction and fantasy fans.
+[^rda]: And considering the amount of apologism for obviously villainous human factions like the RDA Corporation in James Cameron's *Avatar*, "humanity, right or wrong" is indeed, unfortunately, the worldview of at least some sci-fi and fantasy fans.
 
 [^thirteen]: There are fourteen images, but two of them depict the same race, highlighting that it's available to both the Alliance and the Horde.
