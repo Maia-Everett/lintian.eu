@@ -92,7 +92,7 @@ Azeroth is not the Middle Ages or the Renaissance. It might have once been, all 
 
 At the same time, when creating all those races and cultures, the creators of Warcraft didn't just copy what came before them.
 
-Azeroth isn't Yet Another Fantasy World. Warcraft 3 borrowed its creatures liberally from D&D, but always put its own unique spin on them. The minotaur-like tauren aren't despicable monsters living in labyriths, but noble plains hunters with Native American aesthetics. Satyrs are not merry partying fey creatures, but servants of the Burning Legion, demonically corrupted elves. Gargoyles are not stone creatures adorning gothic castles, but vampiric bat-like creatures allied with the undead. Night elves are not typical fantasy wood elves, but rather a blend of wood elves and dark elves that ended up being recognizably distinct from both. As for Warcraft's unique take on orcs, [I talked about it before](/2024/01/28/warcraft-retrospective-12/).
+Azeroth isn't Yet Another Fantasy World. Warcraft 3 borrowed its creatures liberally from D&D, but always put its own unique spin on them. The minotaur-like tauren aren't despicable monsters living in labyrinths, but noble plains hunters with Native American aesthetics. Satyrs are not merry partying fey creatures, but servants of the Burning Legion, demonically corrupted elves. Gargoyles are not stone creatures adorning gothic castles, but vampiric bat-like creatures allied with the undead. Night elves are not typical fantasy wood elves, but rather a blend of wood elves and dark elves that ended up being recognizably distinct from both. As for Warcraft's unique take on orcs, [I talked about it before](/2024/01/28/warcraft-retrospective-12/).
 
 In fact, Warcraft has put its own flavor on familiar fantasy tropes so consistently that it became notable when it *stopped* doing this. When Shadowlands introduced its cosmic order regarding the planes of the afterlife, the inspiration from D&D's Planescape setting was immediately recognizable, and it was telling that they introduced more "classic", D&D-like [satyrs](https://warcraft.wiki.gg/wiki/Sylvar) and [gargoyles](https://warcraft.wiki.gg/wiki/Stoneborn), they had to give them different names because these names were taken by Warcraft's more original concepts.
 
@@ -116,7 +116,7 @@ Warcraft is a hopeful setting. Even when things look bleak, the armies of the wo
 
 Warcraft can be dark, but it's never *mean*, never cynical. This isn't Game of Thrones. So far, only Shadowlands was dumb enough to mess with this unwritten rule[^rule] by presenting an afterlife so bleak and so soul-crushing (literally and figuratively) that many people considered it horrible in its very conceit as a whole, even leaving aside the villain's machinations. Shadowlands was also, coincidentally, the worst-received expansion in WoW's history.
 
-Even when major characters die, it typically happens as a result of their own choices. Muradin died because he kept enabling Arthas despite clear signs of his slide into insanity. Uther died because he stayed to protect a doomed Lordaeron instead of fleeing west. Grom Hellscream died in repentance for helping the Burning Legion enslave his people. Maiev died (maybe) as she lived, a hasty monomaniac focused on recapturing Illidan with no long-term plan. Garithos died because he was stupid enough to believe Sylvanas's promises. And Admiral Proudmoore died because he couldn't let old hatreds go.
+Even when major characters die, it typically happens as a result of their own choices. Muradin died because he kept enabling Arthas despite clear signs of his slide into insanity. Uther died because he stayed to protect a doomed Lordaeron. Grom Hellscream died in repentance for helping the Burning Legion enslave his people. Maiev died (maybe) as she lived, a hasty monomaniac focused on recapturing Illidan with no long-term plan. Garithos died because he was stupid enough to believe Sylvanas's promises. And Admiral Proudmoore died because he couldn't let old hatreds go.
 
 At the same time, however, Warcraft isn't a children's cartoon.
 
@@ -143,7 +143,7 @@ Warcraft 3, with its greatly expanded world, formed the skeleton of the setting.
 
 ...Oh, and World of Warcraft too.
 
-Where Warcraft 3 built wide, giving us new lands, new races and new factions, the RPG and WoW built deep, mostyl focusing on fleshing out the material we had in broad strokes. In doing so, they turned Warcraft into a setting with enough detail that roleplayers, myself included, could create and play out our own stories in the world that Blizzard built.
+Where Warcraft 3 built wide, giving us new lands, new races and new factions, the RPG and WoW built deep, mostly focusing on fleshing out the material we had in broad strokes. In doing so, they turned Warcraft into a setting with enough detail that roleplayers, myself included, could create and play out our own stories in the world that Blizzard built.
 
 But that would be a story for another time.
 
@@ -160,7 +160,7 @@ But that would be a story for another time.
 
 [^comics]: I haven't read many comic books, so take this with a grain of salt.
 
-[^rule]: By all appearances, unintentionally. The Shadowlands are horrific by writer ineptude, not by design.
+[^rule]: By all appearances, unintentionally. The Shadowlands are horrific by writer ineptitude, not by design.
 
 [^rda]: And considering the amount of apologism for obviously villainous human factions like the RDA Corporation in James Cameron's *Avatar*, "humanity, right or wrong" is indeed, unfortunately, the worldview of at least some sci-fi and fantasy fans.
 
