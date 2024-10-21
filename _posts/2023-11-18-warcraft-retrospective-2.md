@@ -16,7 +16,7 @@ TV Tropes calls this [Early-Installment Weirdness](https://tvtropes.org/pmwiki/p
 <img src="/assets/wr/luke_lightsaber.jpg" alt="Luke with his lightsaber" />
 {% endfigure %}
 
-*Warcraft: Orcs & Humans*, or, as I'll call it in this series, Warcraft 1, is even more unrecognizable in the light of modern lore. Let's forget everything we know about the Warcraft setting as it exists today, turn back the clock to 1994, and unbox this freshly released game.
+Warcraft: Orcs & Humans, or, as I'll call it in this series, Warcraft 1, is even more unrecognizable in the light of modern lore. Let's forget everything we know about the Warcraft setting as it exists today, turn back the clock to 1994, and unbox this freshly released game.
 
 
 ## Wherefore "Warcraft"?
@@ -24,7 +24,7 @@ TV Tropes calls this [Early-Installment Weirdness](https://tvtropes.org/pmwiki/p
 <figure class="character-portrait">
 <img src="/assets/wr/wc1cover.jpg" width="300" /><figcaption></figcaption></figure>
 
-Warcraft 1 was largely a gamble. Then-upstart game company Blizzard saw a niche --- a lack of real-time strategy game releases in 1993 and 1994 since the release of highly successful Dune II --- and rushed to fill it. [The initial idea](https://kotaku.com/how-warcraft-got-its-name-1838669881), as envisioned by Blizzard co-founder [Allen Adham](https://warcraft.wiki.gg/wiki/Allen_Adham), was to make a series of games about warfare in different settings, some fictional and some historical, such as *Warcraft: Vietnam*. The name "Warcraft" was suggested by [Samwise Didier](https://warcraft.wiki.gg/wiki/Samwise_Didier), the artist who would go on to later create what we now know as Warcraft's distinctive aesthetic, and by his own admission wasn't intended to mean anything.[^name] So not only wasn't there a single "Warcraft setting" at the time the game was developed, there was no intention to have one.
+Warcraft 1 was largely a gamble. Then-upstart game company Blizzard saw a niche --- a lack of real-time strategy game releases in 1993 and 1994 since the release of highly successful Dune II --- and rushed to fill it. [The initial idea](https://kotaku.com/how-warcraft-got-its-name-1838669881), as envisioned by Blizzard co-founder [Allen Adham](https://warcraft.wiki.gg/wiki/Allen_Adham), was to make a series of games about warfare in different settings, some fictional and some historical, such as Warcraft: Vietnam. The name "Warcraft" was suggested by [Samwise Didier](https://warcraft.wiki.gg/wiki/Samwise_Didier), the artist who would go on to later create what we now know as Warcraft's distinctive aesthetic, and by his own admission wasn't intended to mean anything.[^name] So not only wasn't there a single "Warcraft setting" at the time the game was developed, there was no intention to have one.
 
 Of course, these plans never materialized. Players came to love this fantasy world and wanted more games set there. Blizzard later started a separate series of real-time stategy games in a space setting, named [Starcraft](https://en.wikipedia.org/wiki/StarCraft) as an homage to Warcraft. The Warcraft series itself stayed in the fantasy world seeded by the first game, though greatly expanded, retconned in just about every aspect, and very tonally different.
 
