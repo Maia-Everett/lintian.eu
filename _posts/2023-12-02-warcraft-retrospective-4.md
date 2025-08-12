@@ -6,7 +6,7 @@ categories: [ Warcraft Retrospective, Warcraft ]
 
 Now that we're done with the Warcraft 1 orc campaign, let's look at the other side of the conflict. 
 
-Like I said last time, the two campaigns have directly contradictory plots. They're alternate histories, not parts of a single large narrative. I've also noted that despite the storylines of both campaigns being really basic, the human campaign has more awkward writing than the orc one.I'm not sure if it's a result of having different writers or a single writer who paid less attention to these particular missions.
+Like I said last time, the two campaigns have directly contradictory plots. They're alternate histories, not parts of a single large narrative. I've also noted that despite the storylines of both campaigns being really basic, the human campaign has more awkward writing than the orc one. I'm not sure if it's a result of having different writers or a single writer who paid less attention to these particular missions.
 
 ## The Gameplay
 
