@@ -12,7 +12,7 @@ permalink: /vielle/
 </header>
 
 *Lominsan Elezen adventurer and reporter*<br />
-*Age: 29 (as of Dawntrail launch)*
+*Age: 30 (as of patch 7.3)*
 
 
 ## Personality
