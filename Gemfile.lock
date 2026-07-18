@@ -1,6 +1,7 @@
 GIT
   remote: https://github.com/jekyll/minima.git
-  revision: d7122a0c3e8a61c0e13de37a72c7d8c7b5f3886f
+  revision: 10124515953527c8990a2de99ae4ddb2a81ffee3
+  ref: 101245159535
   specs:
     minima (3.0.0.dev)
       jekyll (>= 3.5, < 5.0)
@@ -52,7 +53,7 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
-    jekyll-seo-tag (2.8.0)
+    jekyll-seo-tag (2.9.0)
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
