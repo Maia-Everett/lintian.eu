@@ -17,7 +17,7 @@ Over the past month, there have been a few smaller-scope Chaos Archives updates,
     
     <img src="/assets/screenshots/ca_icons.png"/>
     
-3. Last but not least, to celebrate the release of Dawntrail, the three Archives (Chaos, Crystal, and Central) have been updated with new backgrounds and logos by Diane Riondel, aka Acrona (Eepox)!
+3. Last but not least, to celebrate the release of Dawntrail, the three Archives (Chaos, Crystal, and Central) have been updated with new backgrounds and logos by Diane Riondel!
 
     <img src="/assets/screenshots/ca_dt_refresh.jpg"/>
     
